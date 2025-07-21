@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+kafka-python
+textblob
+psycopg2-binary
+sqlalchemy
+praw
