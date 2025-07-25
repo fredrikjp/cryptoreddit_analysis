@@ -1,6 +1,7 @@
 import numpy as np
 import json
 import typing
+from datetime import datetime
 
 # Assert right language model reposnse format
 def assert_response_format(response:str, value_constraints:typing.Union[typing.List, None] = None) -> None:
@@ -18,3 +19,16 @@ def assert_response_format(response:str, value_constraints:typing.Union[typing.L
 
             if value_constraints is not None:
                 assert value_constraints[j,0] <= value <= value_constraints[j,1], f"Element {j} in row {i} should be between {value_constraints[j,0]} and {value_constraints[j,1]}."
+
+
+# Write Json data to file
+def dump_data(data: typing.Dict[str, typing.List], file_path: str) -> None:
+    json_ready = {}
+
+    for key, value in data.items():
+        json_ready[key] =[
+            [datetime.now().isoformat(), score] for _, score in value
+        ]
+
+    with open(file_path, 'a') as f:
+        json.dump(json_ready, f)

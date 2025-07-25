@@ -4,15 +4,31 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import json
 from openai import OpenAI
 import numpy as np
-from utils import assert_response_format
 from collections import deque
+import os
 
+from utils import assert_response_format
+from utils import dump_data
 
+vader_json = "consumer/vader_sentiment_data.json"
+gpt_json = "consumer/gpt_sentiment_data.json"
+
+# Que length
 MAX_LEN = 100
-score_queues = {}          # subreddit → deque of (time_idx, score)
-score_queues_gpt = {}
-time_counter = 0
-time_counter_gpt = 0
+if not os.path.exists(vader_json) or os.path.getsize(vader_json) == 0:
+    score_queues_vader = {}          # subreddit → deque of (time_idx, score)
+else:
+    with open(vader_json, 'r') as f:
+        score_queues_vader = json.load(f)
+
+if not os.path.exists(gpt_json) or os.path.getsize(gpt_json) == 0:
+    score_queues_gpt = {}            # subreddit → deque of (time_idx, score)
+else:
+    with open(gpt_json, 'r') as f:
+        score_queues_gpt = json.load(f)
+
+step_count_vader = 0
+step_count_gpt = 0
 
 #API key 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
 # Initialize Kafka consumer
@@ -84,20 +100,24 @@ for message in consumer:
         for idx, comment in enumerate(Comment_batch[-batch_size:]):
             sb = comment["subreddit"]
             val = gpt_score[idx]
+            # Convert to dictionary 
+            val_dict = dict(zip(["neg", "neu", "pos", "compound"], val))
             if sb not in score_queues_gpt:
                 score_queues_gpt[sb] = deque(maxlen=MAX_LEN)
-            score_queues_gpt[sb].append((time_counter_gpt, val))
-            time_counter_gpt += 1
-
-        # Send TextBlob data
-        val = sentiment
-        sb = comment["subreddit"]
-        if sb not in score_queues:
-            score_queues[sb] = deque(maxlen=MAX_LEN)
-        score_queues[sb].append((time_counter, val))
-        time_counter += 1
-
+            score_queues_gpt[sb].append((step_count_gpt, val_dict))
+            step_count_gpt += 1
+            dump_data(score_queues_gpt, gpt_json) 
         breakpoint()
+
+    # Send TextBlob data
+    val_dict = sentiment
+    sb = comment["subreddit"]
+    if sb not in score_queues_vader:
+        score_queues_vader[sb] = deque(maxlen=MAX_LEN)
+    score_queues_vader[sb].append((step_count_vader, val_dict))
+    step_count_vader += 1
+    dump_data(score_queues_vader, vader_json)
+
 
     print(f"📝 Comment: {comment}")
     print(f"📈 Sentiment score: {sentiment}")
