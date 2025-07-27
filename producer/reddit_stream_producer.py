@@ -1,6 +1,7 @@
 from kafka import KafkaProducer
 import json
 import praw
+from datetime import datetime
 
 # === Reddit API credentials ===
 reddit = praw.Reddit(
@@ -21,8 +22,9 @@ print("🚀 Listening to new comments on Reddit...")
 
 for comment in subreddits.stream.comments(skip_existing=True):
     if True:#comment.distinguished == "moderator" or comment.distinguished == "admin" or comment.distinguished == "special":
+        time = datetime.utcfromtimestamp(comment.created_utc).isoformat()
         sub = str(comment.subreddit)
         text = comment.body
-        data = {"subreddit": sub, "text": text}
+        data = {"time": time, "subreddit": sub, "text": text}
         producer.send("reddit_comments", value=data)
         print(f"Comment from {sub}: {text[:80]}...")

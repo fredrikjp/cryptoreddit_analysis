@@ -10,25 +10,27 @@ import os
 from utils import assert_response_format
 from utils import dump_data
 
-vader_json = "consumer/vader_sentiment_data.json"
-gpt_json = "consumer/gpt_sentiment_data.json"
+vader_json = "vader_sentiment_data.json"
+gpt_json = "gpt_sentiment_data.json"
 
 # Que length
-MAX_LEN = 100
+MAX_LEN = 1000
 if not os.path.exists(vader_json) or os.path.getsize(vader_json) == 0:
-    score_queues_vader = {}          # subreddit → deque of (time_idx, score)
+    score_queues_vader = {}
 else:
     with open(vader_json, 'r') as f:
-        score_queues_vader = json.load(f)
+        score_queues_vader = {
+            key: deque(value, maxlen=MAX_LEN) for key, value in json.load(f).items()
+        }
 
 if not os.path.exists(gpt_json) or os.path.getsize(gpt_json) == 0:
-    score_queues_gpt = {}            # subreddit → deque of (time_idx, score)
+    score_queues_gpt = {}
 else:
     with open(gpt_json, 'r') as f:
-        score_queues_gpt = json.load(f)
+        score_queues_gpt = {
+            key: deque(value, maxlen=MAX_LEN) for key, value in json.load(f).items()
+        }
 
-step_count_vader = 0
-step_count_gpt = 0
 
 #API key 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
 # Initialize Kafka consumer
@@ -64,6 +66,7 @@ for message in consumer:
     # Extract subreddit and comment text from the message
     subreddit = message.value.get("subreddit")
     text = message.value.get("text")
+    time = message.value.get("time")
     
     # Dict holding "subreddit" and "text" keys
     comment = message.value
@@ -76,7 +79,7 @@ for message in consumer:
     sentiment = analyzer.polarity_scores(text)
 
     Comment_batch.append(comment)
-
+ 
     i += 1
     if i % batch_size == 0 and i > 4:
         response_batch = client.responses.create(
@@ -99,23 +102,22 @@ for message in consumer:
         # Send gpt data in a thread-safe decoupled manner
         for idx, comment in enumerate(Comment_batch[-batch_size:]):
             sb = comment["subreddit"]
+            time = comment["time"]
             val = gpt_score[idx]
             # Convert to dictionary 
             val_dict = dict(zip(["neg", "neu", "pos", "compound"], val))
             if sb not in score_queues_gpt:
                 score_queues_gpt[sb] = deque(maxlen=MAX_LEN)
-            score_queues_gpt[sb].append((step_count_gpt, val_dict))
-            step_count_gpt += 1
-            dump_data(score_queues_gpt, gpt_json) 
-        breakpoint()
+            score_queues_gpt[sb].append([time, val_dict])
+        dump_data(score_queues_gpt, gpt_json) 
 
     # Send TextBlob data
     val_dict = sentiment
     sb = comment["subreddit"]
+    time = comment["time"]
     if sb not in score_queues_vader:
         score_queues_vader[sb] = deque(maxlen=MAX_LEN)
-    score_queues_vader[sb].append((step_count_vader, val_dict))
-    step_count_vader += 1
+    score_queues_vader[sb].append([time, val_dict])
     dump_data(score_queues_vader, vader_json)
 
 

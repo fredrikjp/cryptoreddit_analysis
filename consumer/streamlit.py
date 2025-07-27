@@ -35,13 +35,22 @@ candle_interval = st.selectbox("Time bucket size:", ["15s", "30s", "1Min", "5Min
 
 # --- Plotting helper ---
 def make_candlestick(data, label):
+
+    # Map for resampling intervals
+    interval_map = {
+        "15s": "15S",
+        "30s": "30S",
+        "1Min": "1T",
+        "5Min": "5T"
+    }
+
     df = pd.DataFrame(
         [(datetime.fromisoformat(t), s) for t, s in data],
         columns=["timestamp", "sentiment"]
     )
     df.set_index("timestamp", inplace=True)
     df["value"] = df["sentiment"].apply(lambda x: float(x["compound"]))
-    ohlc = df["value"].resample(candle_interval).ohlc().dropna()
+    ohlc = df["value"].resample(interval_map[candle_interval]).ohlc().dropna()
 
     trace = go.Candlestick(
         x=ohlc.index,
@@ -73,7 +82,7 @@ fig.update_layout(
 )
 
 st.plotly_chart(fig, use_container_width=True)
-
+st.write(df)
 # Refresh button
 if st.button("🔄 Refresh Now"):
     st.rerun()
