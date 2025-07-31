@@ -25,6 +25,7 @@ for comment in subreddits.stream.comments(skip_existing=True):
         time = datetime.utcfromtimestamp(comment.created_utc).isoformat()
         sub = str(comment.subreddit)
         text = comment.body
-        data = {"time": time, "subreddit": sub, "text": text}
+        id = comment.id
+        data = {"time": time, "subreddit": sub, "text": text, "id": id}
         producer.send("reddit_comments", value=data)
         print(f"Comment from {sub}: {text[:80]}...")

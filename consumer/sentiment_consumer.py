@@ -12,6 +12,8 @@ from utils import dump_data
 
 vader_json = "vader_sentiment_data.json"
 gpt_json = "gpt_sentiment_data.json"
+comments_json = "comments_data.json"
+
 
 # Que length
 MAX_LEN = 1000
@@ -31,6 +33,14 @@ else:
             key: deque(value, maxlen=MAX_LEN) for key, value in json.load(f).items()
         }
 
+if not os.path.exists(comments_json) or os.path.getsize(comments_json) == 0:
+    comments_queues = {}
+else:
+    with open(comments_json, 'r') as f:
+        comments_queues = {
+            key: deque(value, maxlen=MAX_LEN) for key, value in json.load(f).items()
+        }
+
 
 #API key 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
 # Initialize Kafka consumer
@@ -39,8 +49,10 @@ consumer = KafkaConsumer(
     bootstrap_servers='localhost:9092',
     value_deserializer=lambda m: json.loads(m.decode('utf-8')),
     auto_offset_reset='earliest',
-    enable_auto_commit=True,
-    group_id='sentiment-consumer-group'
+    enable_auto_commit=False,
+    group_id='sentiment-consumer-group',
+    session_timeout_ms=120000,        # default is 10000 ms (10s)
+    heartbeat_interval_ms=20000,     # default is 3000 ms
 )
 
 
@@ -55,7 +67,7 @@ client = OpenAI(api_key = "sk-proj-usODR73HSfEBvZIyMOPTA4-aTI55PZsge-oQATTTStDwf
 
 # We want to batch comments to save API costs
 Comment_batch = []
-Comment_list = []
+Sentiment_batch = []
 batch_size = 5
 i = 0
 
@@ -68,7 +80,7 @@ for message in consumer:
     text = message.value.get("text")
     time = message.value.get("time")
     
-    # Dict holding "subreddit" and "text" keys
+    # Dict holding "time", "subreddit" and "text" keys
     comment = message.value
     
     # Skip if the comment is empty or whitespace 
@@ -77,6 +89,7 @@ for message in consumer:
 
     # Free sentiment analysis using TextBlob, bad performance on understanding context such as irony and general knowledge
     sentiment = analyzer.polarity_scores(text)
+    Sentiment_batch.append(sentiment)
 
     Comment_batch.append(comment)
  
@@ -102,27 +115,34 @@ for message in consumer:
         # Send gpt data in a thread-safe decoupled manner
         for idx, comment in enumerate(Comment_batch[-batch_size:]):
             sb = comment["subreddit"]
-            time = comment["time"]
+            id = comment["id"]
             val = gpt_score[idx]
             # Convert to dictionary 
             val_dict = dict(zip(["neg", "neu", "pos", "compound"], val))
             if sb not in score_queues_gpt:
                 score_queues_gpt[sb] = deque(maxlen=MAX_LEN)
-            score_queues_gpt[sb].append([time, val_dict])
+            score_queues_gpt[sb].append([id, val_dict])
+
+            # Send VADER data
+            val_dict_vader = Sentiment_batch[idx]
+            if sb not in score_queues_vader:
+                score_queues_vader[sb] = deque(maxlen=MAX_LEN)
+            score_queues_vader[sb].append([id, val_dict])
+
+            if sb not in comments_queues:
+                comments_queues[sb] = deque(maxlen=MAX_LEN)
+            comments_queues[sb].append([id, time, comment["text"]])
         dump_data(score_queues_gpt, gpt_json) 
-
-    # Send TextBlob data
-    val_dict = sentiment
-    sb = comment["subreddit"]
-    time = comment["time"]
-    if sb not in score_queues_vader:
-        score_queues_vader[sb] = deque(maxlen=MAX_LEN)
-    score_queues_vader[sb].append([time, val_dict])
-    dump_data(score_queues_vader, vader_json)
+        dump_data(score_queues_vader, vader_json)
+        dump_data(comments_queues, comments_json)
+        # Clear the batch
+        Comment_batch.clear()
+        Sentiment_batch.clear()
 
 
-    print(f"📝 Comment: {comment}")
+    # Print the response
+    print(f"📝 Comment: {comment['text']}")
     print(f"📈 Sentiment score: {sentiment}")
     print("-" * 50)
 
-    # Print the response
+    consumer.commit() # Commit the offset after processing the message. Let's the consumer know that the message has been processed such that it won't be reprocessed.
