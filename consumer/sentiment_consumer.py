@@ -6,6 +6,7 @@ from openai import OpenAI
 import numpy as np
 from collections import deque
 import os
+import time
 
 from utils import assert_response_format
 from utils import dump_data
@@ -17,6 +18,9 @@ comments_json = "comments_data.json"
 
 # Que length
 MAX_LEN = 1000
+
+sleep_interval = 360  # 6 minutes in seconds
+
 if not os.path.exists(vader_json) or os.path.getsize(vader_json) == 0:
     score_queues_vader = {}
 else:
@@ -42,7 +46,6 @@ else:
         }
 
 
-#API key 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
 # Initialize Kafka consumer
 consumer = KafkaConsumer(
     'reddit_comments',
@@ -61,9 +64,9 @@ print("🟢 Listening for messages...")
 # Process incoming messages
 analyzer = SentimentIntensityAnalyzer()
 
+api_key = os.environ['OPENAI_API_KEY']
 # Initialize the OpenAI client
-client = OpenAI(api_key = "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"
-)
+client = OpenAI(api_key = api_key)
 
 # We want to batch comments to save API costs
 Comment_batch = []
@@ -78,7 +81,7 @@ for message in consumer:
     # Extract subreddit and comment text from the message
     subreddit = message.value.get("subreddit")
     text = message.value.get("text")
-    time = message.value.get("time")
+    time_stamp = message.value.get("time")
     
     # Dict holding "time", "subreddit" and "text" keys
     comment = message.value
@@ -131,7 +134,7 @@ for message in consumer:
 
             if sb not in comments_queues:
                 comments_queues[sb] = deque(maxlen=MAX_LEN)
-            comments_queues[sb].append([id, time, comment["text"]])
+            comments_queues[sb].append([id, time_stamp, comment["text"]])
         dump_data(score_queues_gpt, gpt_json) 
         dump_data(score_queues_vader, vader_json)
         dump_data(comments_queues, comments_json)
@@ -145,4 +148,8 @@ for message in consumer:
     print(f"📈 Sentiment score: {sentiment}")
     print("-" * 50)
 
-    consumer.commit() # Commit the offset after processing the message. Let's the consumer know that the message has been processed such that it won't be reprocessed.
+    if consumer.poll(timeout_ms=1000) is None: # If no messages are available
+        consumer.commit() # Commit the offset after processing the message. Let's the consumer know that the message has been processed such that it won't be reprocessed.
+        consumer.pause(*consumer.assignment())  # Pause the consumer to avoid getting kicked out during sleep
+        time.sleep(sleep_interval)  # Sleep to avoid hitting rate limits
+        consumer.resume(*consumer.assignment())  # Resume the consumer after sleep

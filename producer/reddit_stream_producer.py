@@ -2,6 +2,7 @@ from kafka import KafkaProducer
 import json
 import praw
 from datetime import datetime
+import time
 
 # === Reddit API credentials ===
 reddit = praw.Reddit(
@@ -20,12 +21,15 @@ producer = KafkaProducer(
 subreddits = reddit.subreddit("CryptoCurrency+Bitcoin+btc+Ethereum+eth+Dogecoin+doge+Solana+solana")
 print("🚀 Listening to new comments on Reddit...")
 
-for comment in subreddits.stream.comments(skip_existing=True):
+sleep_interval = 360  # 6 minutes in seconds
+
+for idx, comment in enumerate(subreddits.stream.comments(skip_existing=True)):
     if True:#comment.distinguished == "moderator" or comment.distinguished == "admin" or comment.distinguished == "special":
-        time = datetime.utcfromtimestamp(comment.created_utc).isoformat()
+        timestamp = datetime.utcfromtimestamp(comment.created_utc).isoformat()
         sub = str(comment.subreddit)
         text = comment.body
         id = comment.id
-        data = {"time": time, "subreddit": sub, "text": text, "id": id}
+        data = {"time": timestamp, "subreddit": sub, "text": text, "id": id}
         producer.send("reddit_comments", value=data)
         print(f"Comment from {sub}: {text[:80]}...")
+        time.sleep(sleep_interval)  # Sleep to avoid hitting rate limits

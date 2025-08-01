@@ -1,7 +1,11 @@
-fastapi
-uvicorn
 kafka-python
 textblob
-psycopg2-binary
-sqlalchemy
+vaderSentiment
+openai
+numpy
 praw
+streamlit
+pandas
+plotly
+wordcloud
+python-dotenv
