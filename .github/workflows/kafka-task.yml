@@ -1,43 +1,29 @@
-name: Test Kafka Workflow
-
-on:
-  workflow_dispatch:
-
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "✅ GitHub Actions is working!"
-
-
-"""
 name: Run Kafka Producer & Consumer
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Runs every hour on the hour (UTC)
-  workflow_dispatch:       # Allows manual run from GitHub UI
+    - cron: '0 * * * *'   # every hour, on the hour (UTC)
+  workflow_dispatch:       # allows manual triggering
 
 jobs:
   kafka-job:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v3
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
 
-    - name: Build Docker image
-      run: docker build -t kafka-job .
+      - name: Build Docker image
+        run: docker build -t kafka-job .
 
-    - name: Run producer.py
-      run: docker run --rm kafka-job python producer.py &
+      - name: Run producer.py
+        run: docker run --rm kafka-job python producer.py &
 
-    - name: Run consumer.py
-      run: docker run --rm kafka-job python consumer.py
+      - name: Run consumer.py
+        run: docker run --rm kafka-job python consumer.py
 
-    - name: Sleep to keep jobs alive (max 2 min total)
-      run: sleep 120
-"""
+      - name: Keep alive for 2 minutes
+        run: sleep 120
