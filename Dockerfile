@@ -10,6 +10,5 @@ COPY . .
 # Install required Python packages
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Choose script to run
-CMD ["echo", "Specify script via CMD"]
-
+# Default to no-op; overridden in GitHub Actions
+CMD ["sleep", "120"]
