@@ -148,8 +148,4 @@ for message in consumer:
     print(f"📈 Sentiment score: {sentiment}")
     print("-" * 50)
 
-    if consumer.poll(timeout_ms=1000) is None: # If no messages are available
-        consumer.commit() # Commit the offset after processing the message. Let's the consumer know that the message has been processed such that it won't be reprocessed.
-        consumer.pause(*consumer.assignment())  # Pause the consumer to avoid getting kicked out during sleep
-        time.sleep(sleep_interval)  # Sleep to avoid hitting rate limits
-        consumer.resume(*consumer.assignment())  # Resume the consumer after sleep
+    consumer.commit() # Commit the offset after processing the message. Let's the consumer know that the message has been processed such that it won't be reprocessed.
