@@ -2,8 +2,11 @@ name: Run Kafka Producer and Consumer
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every hour
+    - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:  # Allows manual triggering of the workflow from GitHub UI
+  push:
+    branches:
+      - main  # Runs on pushes to the main branch
 
 jobs:
   kafka-job:
