@@ -26,10 +26,17 @@ jobs:
       - name: Run producer.py
         run: |
           docker run --rm kafka-job python producer/reddit_stream_producer.py &
+        env:
+          KAFKA_BOOTSTRAP_SERVERS: localhost:9092
+          KAFKA_TOPIC: reddit_comments
 
       - name: Run consumer.py
         run: |
           docker run --rm kafka-job python consumer/sentiment_consumer.py
+        env:
+          KAFKA_BOOTSTRAP_SERVERS: localhost:9092
+          KAFKA_TOPIC: reddit_comments
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Keep alive for 2 minutes
         run: sleep 120
