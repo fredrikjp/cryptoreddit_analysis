@@ -25,11 +25,11 @@ jobs:
 
       - name: Run producer.py
         run: |
-          docker run --rm kafka-job python producer.py &
+          docker run --rm kafka-job python producer/reddit_stream_producer.py &
 
       - name: Run consumer.py
         run: |
-          docker run --rm kafka-job python consumer.py
+          docker run --rm kafka-job python consumer/sentiment_consumer.py
 
       - name: Keep alive for 2 minutes
         run: sleep 120
