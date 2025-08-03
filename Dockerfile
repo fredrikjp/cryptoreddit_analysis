@@ -2,7 +2,7 @@
 FROM python:3.11-slim
 
 # Set the working directory inside the container
-WORKDIR /real_time_reddit_sentiment
+WORKDIR /realtime_reddit_sentiment
 
 # Copy all project files into the container
 COPY . .
