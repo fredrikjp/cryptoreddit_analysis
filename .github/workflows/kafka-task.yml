@@ -1,3 +1,11 @@
+
+name: Run Kafka Producer and Consumer
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual triggering of the workflow from GitHub UI
+
 jobs:
   kafka-job:
     runs-on: ubuntu-latest
