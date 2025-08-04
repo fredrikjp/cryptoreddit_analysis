@@ -24,13 +24,14 @@ jobs:
           export KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9092
           docker compose up -d
           sleep 60  # Wait for Kafka and Zookeeper to start
-      - name: Check Kafka port
-        run: |
-          docker exec $(docker ps -qf "name=kafka") bash -c "netstat -tlnp | grep 9092"
 
       - name: Build Docker image for Kafka job
         run: |
             docker build -t kafka-job .
+
+      - name: Check Kafka port
+        run: |
+          docker exec $(docker ps -qf "name=kafka") bash -c "netstat -tlnp | grep 9092"
 
       - name: Run producer.py
         run: |
