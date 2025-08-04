@@ -23,7 +23,7 @@ jobs:
         run: |
           export KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9092
           docker compose up -d
-          sleep 15  # Wait for Kafka and Zookeeper to start
+          sleep 60  # Wait for Kafka and Zookeeper to start
 
       - name: Build Docker image for Kafka job
         run: |
