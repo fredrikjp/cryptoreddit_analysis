@@ -1,51 +1,46 @@
 name: Run Kafka Producer and Consumer
-
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:  # Allows manual triggering of the workflow from GitHub UI
+  workflow_dispatch:  # Allows manual triggering
   push:
     branches:
-      - master  # Runs on pushes to the main branch
-
+      - master  # Matches your specified branch
 jobs:
   kafka-job:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
-
+        uses: actions/checkout@v4  # Updated to v4
       - name: Set up Docker
         uses: docker/setup-buildx-action@v3
-
+      - name: Build Docker image for Kafka job
+        run: docker build -t kafka-job .
       - name: Start Kafka with Docker Compose
         run: |
-          export KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9092
-          docker compose up -d
-          sleep 60  # Wait for Kafka and Zookeeper to start
-
-      - name: Build Docker image for Kafka job
-        run: |
-            docker build -t kafka-job .
-
+          docker-compose up -d
+          sleep 90  # Increased wait time for Kafka and Zookeeper
       - name: Check Kafka port
         run: |
-          docker compose exec kafka bash -c "kafka-topics --bootstrap-server kafka:9092 --list" 
-      - name: Run producer.py
-        run: |
-          docker run kafka-job python producer/reddit_stream_producer.py &
+          docker-compose exec kafka kafka-topics --bootstrap-server kafka:9092 --list
+      - name: Run producer
+        run: docker run --rm --network reddit-sentiment_default kafka-job python producer/reddit_stream_producer.py
         env:
           KAFKA_BOOTSTRAP_SERVERS: kafka:9092
           KAFKA_TOPIC: reddit_comments
-
-      - name: Run consumer.py
-        run: |
-          docker run kafka-job python consumer/sentiment_consumer.py
+      - name: Run consumer
+        run: docker run --rm --network reddit-sentiment_default kafka-job python consumer/sentiment_consumer.py
         env:
           KAFKA_BOOTSTRAP_SERVERS: kafka:9092
           KAFKA_TOPIC: reddit_comments
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-
-      - name: Keep alive for 2 minutes
-        run: sleep 120
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: kafka-outputs
+          path: |
+            messages.txt
+            sentiments.json
+      - name: Stop Kafka
+        run: docker-compose down
+```
