@@ -43,4 +43,3 @@ jobs:
             sentiments.json
       - name: Stop Kafka
         run: docker-compose down
-```
