@@ -32,14 +32,14 @@ jobs:
         run: |
           docker run --rm kafka-job python producer/reddit_stream_producer.py &
         env:
-          KAFKA_BOOTSTRAP_SERVERS: localhost:9092
+          KAFKA_BOOTSTRAP_SERVERS: kafka:9092
           KAFKA_TOPIC: kafka-job
 
       - name: Run consumer.py
         run: |
           docker run --rm kafka-job python consumer/sentiment_consumer.py
         env:
-          KAFKA_BOOTSTRAP_SERVERS: localhost:9092
+          KAFKA_BOOTSTRAP_SERVERS: kafka:9092
           KAFKA_TOPIC: kafka-job
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
