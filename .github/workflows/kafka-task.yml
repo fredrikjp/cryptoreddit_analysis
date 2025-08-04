@@ -21,6 +21,7 @@ jobs:
 
       - name: Start Kafka with Docker Compose
         run: |
+          export KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:9092
           docker compose up -d
           sleep 15  # Wait for Kafka and Zookeeper to start
 
@@ -30,14 +31,14 @@ jobs:
 
       - name: Run producer.py
         run: |
-          docker run --rm kafka-job python producer/reddit_stream_producer.py &
+          docker run kafka-job python producer/reddit_stream_producer.py &
         env:
           KAFKA_BOOTSTRAP_SERVERS: kafka:9092
           KAFKA_TOPIC: reddit_comments
 
       - name: Run consumer.py
         run: |
-          docker run --rm kafka-job python consumer/sentiment_consumer.py
+          docker run kafka-job python consumer/sentiment_consumer.py
         env:
           KAFKA_BOOTSTRAP_SERVERS: kafka:9092
           KAFKA_TOPIC: reddit_comments

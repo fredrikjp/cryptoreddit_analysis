@@ -15,6 +15,7 @@ vader_json = "vader_sentiment_data.json"
 gpt_json = "gpt_sentiment_data.json"
 comments_json = "comments_data.json"
 
+KAFKA_BOOTSTRAP_SERVERS = os.getenv('KAFKA_BOOTSTRAP_SERVERS', 'localhost:9092')
 
 # Que length
 MAX_LEN = 1000
@@ -49,7 +50,7 @@ else:
 # Initialize Kafka consumer
 consumer = KafkaConsumer(
     'reddit_comments',
-    bootstrap_servers='localhost:9092',
+    bootstrap_servers=KAFKA_BOOTSTRAP_SERVERS,
     value_deserializer=lambda m: json.loads(m.decode('utf-8')),
     auto_offset_reset='earliest',
     enable_auto_commit=False,
