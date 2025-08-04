@@ -3,6 +3,7 @@ import json
 import praw
 from datetime import datetime
 import time
+import os
 
 # === Reddit API credentials ===
 reddit = praw.Reddit(
@@ -12,8 +13,9 @@ reddit = praw.Reddit(
 )
 
 # === Kafka setup ===
+KAFKA_BOOTSTRAP_SERVERS = os.getenv('KAFKA_BOOTSTRAP_SERVERS', 'localhost:9092')
 producer = KafkaProducer(
-    bootstrap_servers="kafka:9092",
+    bootstrap_servers=KAFKA_BOOTSTRAP_SERVERS,
     value_serializer=lambda v: json.dumps(v).encode("utf-8")
 )
 
