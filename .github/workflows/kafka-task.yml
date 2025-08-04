@@ -24,6 +24,10 @@ jobs:
           docker compose up -d
           sleep 15  # Wait for Kafka and Zookeeper to start
 
+      - name: Build Docker image for Kafka job
+        run: |
+          docker build -t kafka-job .
+
       - name: Run producer.py
         run: |
           docker run --rm kafka-job python producer/reddit_stream_producer.py &
