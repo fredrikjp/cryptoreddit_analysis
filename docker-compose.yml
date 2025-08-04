@@ -20,5 +20,8 @@ services:
       KAFKA_CREATE_TOPICS: "reddit_comments:1:1:retention.ms=600000,retention.bytes=10485760"
     networks:
       - reddit-sentiment
+networks:
+  reddit-sentiment:
+    driver: bridge
 
 

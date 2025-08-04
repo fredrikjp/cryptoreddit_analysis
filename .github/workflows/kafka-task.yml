@@ -11,7 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4  # Updated to v4
+        uses: actions/checkout@v4
+      - name: Install docker-compose
+        run: |
+          sudo curl -L "https://github.com/docker/compose/releases/download/v2.20.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+          sudo chmod +x /usr/local/bin/docker-compose
+          docker-compose --version
       - name: Set up Docker
         uses: docker/setup-buildx-action@v3
       - name: Build Docker image for Kafka job
@@ -19,17 +24,17 @@ jobs:
       - name: Start Kafka with Docker Compose
         run: |
           docker-compose up -d
-          sleep 90  # Increased wait time for Kafka and Zookeeper
+          sleep 90  # Wait for Kafka and Zookeeper
       - name: Check Kafka port
         run: |
           docker-compose exec kafka kafka-topics --bootstrap-server kafka:9092 --list
       - name: Run producer
-        run: docker run --rm --network reddit-sentiment_default kafka-job python producer/reddit_stream_producer.py
+        run: docker run --rm --network reddit-sentiment kafka-job python producer/reddit_stream_producer.py
         env:
           KAFKA_BOOTSTRAP_SERVERS: kafka:9092
           KAFKA_TOPIC: reddit_comments
       - name: Run consumer
-        run: docker run --rm --network reddit-sentiment_default kafka-job python consumer/sentiment_consumer.py
+        run: docker run --rm --network reddit-sentiment kafka-job python consumer/sentiment_consumer.py
         env:
           KAFKA_BOOTSTRAP_SERVERS: kafka:9092
           KAFKA_TOPIC: reddit_comments
