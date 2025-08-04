@@ -31,7 +31,7 @@ jobs:
 
       - name: Check Kafka port
         run: |
-          docker compose exec kafka bash -c "kafka-topics --bootstrap-server localhost:9092 --list" 
+          docker compose exec kafka bash -c "kafka-topics --bootstrap-server kafka:9092 --list" 
       - name: Run producer.py
         run: |
           docker run kafka-job python producer/reddit_stream_producer.py &
