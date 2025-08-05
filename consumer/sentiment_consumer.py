@@ -11,16 +11,14 @@ import time
 from utils import assert_response_format
 from utils import dump_data
 
-vader_json = "vader_sentiment_data.json"
-gpt_json = "gpt_sentiment_data.json"
-comments_json = "comments_data.json"
+vader_json = ".data/vader_sentiment_data.json"
+gpt_json = ".data/gpt_sentiment_data.json"
+comments_json = ".data/comments_data.json"
 
 KAFKA_BOOTSTRAP_SERVERS = os.getenv('KAFKA_BOOTSTRAP_SERVERS', 'localhost:9092')
 
 # Que length
 MAX_LEN = 1000
-
-sleep_interval = 360  # 6 minutes in seconds
 
 if not os.path.exists(vader_json) or os.path.getsize(vader_json) == 0:
     score_queues_vader = {}
