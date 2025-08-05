@@ -1,0 +1,29 @@
+name: Run Kafka Producer and Consumer
+
+on: 
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allows manual triggering
+  push:
+    branches:
+      - master  # Matches your specified branch
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run Kafka KRaft Broker
+      uses: spicyparrot/kafka-kraft-action@v1.1.0
+      with:
+        kafka-version: "3.7.0"
+        kafka-topics: "example,1"
+
+    # kafka_runner_address env var created by the above step
+    - name: 🧪 Run Unit Tests
+      uses: ./.github/actions/test
+      env:
+        KAFKA_BOOTSTRAP_SERVERS: ${{ env.kafka_runner_address }}:9093
