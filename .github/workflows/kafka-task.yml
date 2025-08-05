@@ -29,7 +29,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: run-data
-          path: consumer/.data/
+          path: consumer/.data
         continue-on-error: true  # In case it's the first run
 
       - name: Set up Docker Compose
@@ -60,4 +60,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: run-data
-          path: consumer/.data/
+          path: consumer/.data
