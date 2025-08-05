@@ -46,16 +46,19 @@ jobs:
           timeout 120 python consumer/sentiment_consumer.py
         continue-on-error: true
 
+      - name: Set up Git config
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push data
+        run: |
+          git add consumer/data/*.json
+          git commit -m "Data from GitHub Actions cron job" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push
+
       - name: Shut down Docker Compose
         run: docker compose down
 
-      - name: Push generated data to GitHub
-        run: |
-          echo "Pushing data to GitHub..."
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          git add consumer/data
-          git commit -m "Data from github actions cron job"
-          git push
+      
