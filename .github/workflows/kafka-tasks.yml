@@ -34,6 +34,7 @@ jobs:
         run: |
           echo "Starting producer..."
           timeout 120 python producer/reddit_stream_producer.py
+        continue-on-error: true
 
       - name: Run Consumer (Sentiment Consumer)
         run: |
