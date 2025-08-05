@@ -11,9 +11,11 @@ import time
 from utils import assert_response_format
 from utils import dump_data
 
-vader_json = "data/vader_sentiment_data.json"
-gpt_json = "data/gpt_sentiment_data.json"
-comments_json = "data/comments_data.json"
+# Get the directory of the current script
+base_dir = os.path.dirname(__file__)
+gpt_json = os.path.join(base_dir, '..', 'data', 'gpt_sentiment_data.json')
+vader_json = os.path.join(base_dir, '..', 'data', 'vader_sentiment_data.json')
+comments_json = os.path.join(base_dir, '..', 'data', 'comments_data.json')
 
 KAFKA_BOOTSTRAP_SERVERS = os.getenv('KAFKA_BOOTSTRAP_SERVERS', 'localhost:9092')
 
