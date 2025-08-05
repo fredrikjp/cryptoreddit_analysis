@@ -1,29 +1,34 @@
-name: Run Kafka Producer and Consumer
+name: Run Kafka Stream Every Hour
 
-on: 
+on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:  # Allows manual triggering
-  push:
-    branches:
-      - master  # Matches your specified branch
+    - cron: '0 * * * *'  # Every hour at minute 0
+  workflow_dispatch:     # Allow manual triggering
+  push:               # Trigger on push events
 
 jobs:
-  test:
+  run-kafka-stream:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Run Kafka KRaft Broker
-      uses: spicyparrot/kafka-kraft-action@v1.1.0
-      with:
-        kafka-version: "3.7.0"
-        kafka-topics: "example,1"
+      - name: Set up Docker Compose
+        run: |
+          docker-compose up -d
+          echo "Kafka + Zookeeper starting up..."
+          sleep 30  # Give services time to initialize
 
-    # kafka_runner_address env var created by the above step
-    - name: 🧪 
-      uses: python producer/reddit_stream_producer.py
-      env:
-        KAFKA_BOOTSTRAP_SERVERS: ${{ env.kafka_runner_address }}:9093
+      - name: Run Producer (Reddit Stream)
+        run: |
+          echo "Starting producer..."
+          timeout 120s python3 producer/reddit_stream_producer.py
+
+      - name: Run Consumer (Sentiment Consumer)
+        run: |
+          echo "Starting consumer..."
+          timeout 120s python3 consumer/sentiment_consumer.py
+
+      - name: Shut down Docker Compose
+        run: docker-compose down
