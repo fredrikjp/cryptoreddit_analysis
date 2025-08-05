@@ -145,6 +145,7 @@ for message in consumer:
 
 
     # Print the response
+    print(f"🔔 Timestamp: {time_stamp}")
     print(f"📝 Comment: {comment['text']}")
     print(f"📈 Sentiment score: {sentiment}")
     print("-" * 50)
