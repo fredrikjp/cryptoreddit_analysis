@@ -5,6 +5,8 @@ on:
     - cron: '0 * * * *'  # Every hour at minute 0
   workflow_dispatch:     # Allow manual triggering
   push:               # Trigger on push events
+    - ignore:
+        - 'consumer/data/**'  # Avoid infinete loops when pushing consumer/data and triggering the workflow again
 
 jobs:
   run-kafka-stream:
@@ -23,14 +25,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      
-        # 🔄 Restore previous run data
-      - name: Download previous run data
-        uses: actions/download-artifact@v4
-        with:
-          name: run-data
-          path: consumer/data/
-        continue-on-error: true  # In case it's the first run
 
       - name: Set up Docker Compose
         run: |
@@ -55,9 +49,9 @@ jobs:
       - name: Shut down Docker Compose
         run: docker compose down
 
-        # 💾 Upload current run data
-      - name: Upload run data for next job
-        uses: actions/upload-artifact@v4
-        with:
-          name: run-data
-          path: consumer/data/
+      - name: Push generated data to GitHub
+        run: |
+          echo "Pushing data to GitHub..."
+          git add consumer/data
+          git commit -m "Data from github actions cron job"
+          git push
