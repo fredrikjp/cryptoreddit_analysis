@@ -1,7 +1,7 @@
 kafka-python
 textblob
 vaderSentiment
-openai>=1.11.0
+openai
 numpy
 praw
 streamlit
