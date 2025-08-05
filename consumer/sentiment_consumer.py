@@ -99,7 +99,6 @@ for message in consumer:
  
     i += 1
     if i % batch_size == 0 and i > 4:
-        print(f"🔔 Processing batch of {Comment_batch[-batch_size:]} comments...")
         response_batch = client.responses.create(
             model="gpt-4.1-mini",
             input = input + f" {Comment_batch[-batch_size:]}"
