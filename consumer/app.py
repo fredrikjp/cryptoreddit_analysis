@@ -5,6 +5,7 @@ import plotly.express as px
 from datetime import datetime
 import plotly.graph_objects as go
 import wordcloud
+import os
 
 # Set page configuration
 st.set_page_config(page_title="Reddit Comment Analysis", layout="wide")
@@ -23,9 +24,15 @@ def load_json(file_path):
         return {}
 
 # Load data
-comments_data = load_json('comments_data.json')
-gpt_sentiment_data = load_json('gpt_sentiment_data.json')
-vader_sentiment_data = load_json('vader_sentiment_data.json')
+base_dir = os.path.dirname(__file__)
+gpt_json = os.path.join(base_dir, 'data', 'gpt_sentiment_data.json')
+vader_json = os.path.join(base_dir, 'data', 'vader_sentiment_data.json')
+comments_json = os.path.join(base_dir, 'data', 'comments_data.json')
+
+gpt_sentiment_data = load_json(gpt_json)
+vader_sentiment_data = load_json(vader_json)
+comments_data = load_json(comments_json)
+
 
 # Convert timestamp strings to datetime
 def parse_timestamp(timestamp):
@@ -122,7 +129,7 @@ comment_and_sentiment_df = filtered_comments_df.merge(
 )
 # Sort by compound sentiment score and select top 10
 
-st.dataframe(comment_and_sentiment_df[["Compound", "Positive", "Negative", "Subreddit", "Comment"]].sort_values(by="Compound", ascending=False) , use_container_width=True)
+st.dataframe(comment_and_sentiment_df[["Timestamp", "Compound", "Positive", "Negative", "Subreddit", "Comment"]].sort_values(by="Compound", ascending=False) , use_container_width=True)
 
 # Sentiment analysis overview
 st.header("Sentiment Analysis")
