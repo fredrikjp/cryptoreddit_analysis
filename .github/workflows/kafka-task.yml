@@ -60,4 +60,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: run-data
-          path: consumer/.data/
+          path: .data/
