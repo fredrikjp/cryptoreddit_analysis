@@ -45,4 +45,4 @@ jobs:
         continue-on-error: true
 
       - name: Shut down Docker Compose
-        run: docker-compose down
+        run: docker compose down
