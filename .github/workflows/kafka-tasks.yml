@@ -33,7 +33,7 @@ jobs:
       - name: Run Producer (Reddit Stream)
         run: |
           echo "Starting producer..."
-          run python producer/reddit_stream_producer.py
+          python producer/reddit_stream_producer.py
 
       - name: Run Consumer (Sentiment Consumer)
         run: |
