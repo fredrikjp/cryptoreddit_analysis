@@ -33,7 +33,7 @@ jobs:
       - name: Run Producer (Reddit Stream)
         run: |
           echo "Starting producer..."
-          timeout 120s python3 producer/reddit_stream_producer.py
+          run python producer/reddit_stream_producer.py
 
       - name: Run Consumer (Sentiment Consumer)
         run: |
