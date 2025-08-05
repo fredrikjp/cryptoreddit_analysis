@@ -13,14 +13,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Set up Docker
-        uses: docker/setup-buildx-action@v3
-      - name: Build Docker image for Kafka job
-        run: docker build -t kafka-job .
-      - name: Start Kafka with Docker Compose
+
+      - name: Set up Docker Compose
         run: |
-          export KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092
-          docker-compose up -d
+          docker compose up -d
           echo "Kafka + Zookeeper starting up..."
           sleep 30  # Give services time to initialize
 
