@@ -23,7 +23,7 @@ jobs:
         kafka-topics: "example,1"
 
     # kafka_runner_address env var created by the above step
-    - name: 🧪 Run Unit Tests
-      uses: ./.github/actions/test
+    - name: 🧪 
+      uses: python producer/reddit_stream_producer.py
       env:
         KAFKA_BOOTSTRAP_SERVERS: ${{ env.kafka_runner_address }}:9093
