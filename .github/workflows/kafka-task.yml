@@ -7,6 +7,8 @@ on:
   push:               # Trigger on push events
     paths-ignore:
         - 'consumer/data/**'  # Avoid infinete loops when pushing consumer/data and triggering the workflow again
+permissions:
+  contents: write  # Required to push changes back to the repository
 
 jobs:
   run-kafka-stream:
