@@ -1,52 +1,48 @@
-name: Run Kafka Producer and Consumer
+name: Run Kafka Stream Every Hour
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:  # Allows manual triggering of the workflow from GitHub UI
-  push:
-    branches:
-      - master  # Runs on pushes to the main branch
+    - cron: '0 * * * *'  # Every hour at minute 0
+  workflow_dispatch:     # Allow manual triggering
+  push:               # Trigger on push events
 
 jobs:
-  kafka-job:
+  run-kafka-stream:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Docker
-        uses: docker/setup-buildx-action@v3
+      - name: Set up Python and install dependencies
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'  # or whatever version you use
 
-      - name: Start Kafka with Docker Compose
+      - name: Install Python requirements
         run: |
-          export KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Set up Docker Compose
+        run: |
           docker compose up -d
-          sleep 60  # Wait for Kafka and Zookeeper to start
+          echo "Kafka + Zookeeper starting up..."
+          sleep 30  # Give services time to initialize
 
-      - name: Build Docker image for Kafka job
+      - name: Run Producer (Reddit Stream)
         run: |
-            docker build -t kafka-job .
+          echo "Starting producer..."
+          timeout 120 python producer/reddit_stream_producer.py
+        continue-on-error: true
 
-      - name: Check Kafka port
-        run: |
-          docker compose exec kafka bash -c "kafka-topics --bootstrap-server localhost:9092 --list" 
-      - name: Run producer.py
-        run: |
-          docker run kafka-job python producer/reddit_stream_producer.py &
+      - name: Run Consumer (Sentiment Consumer)
         env:
-          KAFKA_BOOTSTRAP_SERVERS: localhost:9092
-          KAFKA_TOPIC: reddit_comments
-
-      - name: Run consumer.py
-        run: |
-          docker run kafka-job python consumer/sentiment_consumer.py
-        env:
-          KAFKA_BOOTSTRAP_SERVERS: localhost:9092
-          KAFKA_TOPIC: reddit_comments
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          echo "Starting consumer..."
+          timeout 120 python consumer/sentiment_consumer.py
+        continue-on-error: true
 
-      - name: Keep alive for 2 minutes
-        run: sleep 120
-
+      - name: Shut down Docker Compose
+        run: docker-compose down
