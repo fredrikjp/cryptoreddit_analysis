@@ -757,6 +757,15 @@
         "pos": 0.2,
         "compound": 0.0
       }
+    ],
+    [
+      "n7bjw8b",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
     ]
   ],
   "solana": [
@@ -893,6 +902,42 @@
         "neu": 0.5,
         "pos": 0.2,
         "compound": -0.1
+      }
+    ],
+    [
+      "n7bjtdi",
+      {
+        "neg": 0.0,
+        "neu": 0.45,
+        "pos": 0.55,
+        "compound": 0.4
+      }
+    ],
+    [
+      "n7bjwh0",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7bjy5s",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "n7bk2l5",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
@@ -1123,6 +1168,15 @@
         "pos": 0.1,
         "compound": -0.1
       }
+    ],
+    [
+      "n7bk2na",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -1349,6 +1403,42 @@
         "neu": 0.4,
         "pos": 0.5,
         "compound": 0.3
+      }
+    ],
+    [
+      "n7bjx89",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.75
+      }
+    ],
+    [
+      "n7bk09n",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7bk1od",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.15
+      }
+    ],
+    [
+      "n7bk3jh",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
