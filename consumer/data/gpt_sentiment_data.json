@@ -739,6 +739,24 @@
         "pos": 0.3,
         "compound": 0.4
       }
+    ],
+    [
+      "n7akksj",
+      {
+        "neg": 0.05,
+        "neu": 0.75,
+        "pos": 0.2,
+        "compound": 0.4
+      }
+    ],
+    [
+      "n7akmag",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.0
+      }
     ]
   ],
   "solana": [
@@ -932,6 +950,15 @@
         "pos": 0.85,
         "compound": 0.7
       }
+    ],
+    [
+      "n7akaxm",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.15
+      }
     ]
   ],
   "dogecoin": [
@@ -1077,6 +1104,24 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": 0.0
+      }
+    ],
+    [
+      "n7akaly",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
+      }
+    ],
+    [
+      "n7aklkt",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": -0.1
       }
     ]
   ],
