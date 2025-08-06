@@ -503,6 +503,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n78shd8",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
+    ],
+    [
+      "n78si3q",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n78snf9",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "btc": [
@@ -772,6 +799,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n78spul",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -899,6 +935,15 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": 0.0
+      }
+    ],
+    [
+      "n78spz9",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
       }
     ]
   ],
