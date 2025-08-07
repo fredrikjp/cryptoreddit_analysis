@@ -120,14 +120,12 @@ filtered_sentiment_df = sentiment_df[
 # Display top 10 comments judged by gpt sentiment
 st.header("Top 10 Comments by GPT Sentiment")
 gpt_sentiment_df = filtered_sentiment_df[filtered_sentiment_df['Source'] == 'GPT']
-
 # Add sentiment scores to the comments DataFrame
 comment_and_sentiment_df = filtered_comments_df.merge(
     gpt_sentiment_df[['ID', 'Compound', 'Positive', 'Negative']],
     on=['ID'],
     how='left'
 )
-# Sort by compound sentiment score and select top 10
 
 st.dataframe(comment_and_sentiment_df[["Timestamp", "Compound", "Positive", "Negative", "Subreddit", "Comment"]].sort_values(by="Compound", ascending=False) , use_container_width=True)
 
