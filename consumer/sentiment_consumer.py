@@ -131,7 +131,7 @@ for message in consumer:
             val_dict_vader = Sentiment_batch[idx]
             if sb not in score_queues_vader:
                 score_queues_vader[sb] = deque(maxlen=MAX_LEN)
-            score_queues_vader[sb].append([id, val_dict])
+            score_queues_vader[sb].append([id, val_dict_vader])
 
             if sb not in comments_queues:
                 comments_queues[sb] = deque(maxlen=MAX_LEN)
