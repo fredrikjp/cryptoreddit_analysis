@@ -100,6 +100,7 @@ subreddits = st.sidebar.multiselect(
     options=sentiment_df['Subreddit'].unique(),
     default=sentiment_df['Subreddit'].unique()
 )
+breakpoint()
 date_range = st.sidebar.date_input(
     "Select Date Range",
     value=(sentiment_df['Timestamp'].min(), sentiment_df['Timestamp'].max())
