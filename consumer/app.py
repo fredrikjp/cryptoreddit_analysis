@@ -94,14 +94,25 @@ sentiment_df = sentiment_df.merge(
 
 
 # Sidebar for filtering
+st.sidebar.header("Filter Subreddits")
+all_subreddits = sorted(sentiment_df['Subreddit'].unique(), key=lambda s: s.lower())
+select_all = st.sidebar.checkbox("Select All Subreddits", value=True)
 
-st.sidebar.header("Filters")
-subreddits = st.sidebar.multiselect(
-    "Select Subreddits",
-    options=sentiment_df['Subreddit'].unique(),
-    default=["Bitcoin", "ethereum", "XRP", "dogecoin", "sui", "Chainlink", "cardano", "solana", "Pepecryptocurrency"]
-)
+if select_all:
+    subreddits = st.sidebar.multiselect(
+        "Select Subreddits",
+        options=all_subreddits,
+        default=list(all_subreddits)
+    )
+else:
+    subreddits = st.sidebar.multiselect(
+        "Select Subreddits",
+        options=all_subreddits,
+        default=[]
+    )
 
+
+# Date range filter
 date_range = st.sidebar.date_input(
     "Select Date Range",
     value=(sentiment_df['Timestamp'].min(), sentiment_df['Timestamp'].max())
@@ -120,7 +131,7 @@ filtered_sentiment_df = sentiment_df[
 ]
 
 # Display top 10 comments judged by gpt sentiment
-st.header("Top 10 Comments by GPT Sentiment")
+st.header("Comment GPT Scores")
 gpt_sentiment_df = filtered_sentiment_df[filtered_sentiment_df['Source'] == 'GPT']
 # Add sentiment scores to the comments DataFrame
 comment_and_sentiment_df = filtered_comments_df.merge(
