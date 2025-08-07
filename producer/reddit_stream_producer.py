@@ -20,7 +20,7 @@ producer = KafkaProducer(
 )
 
 # === Subreddits to monitor ===
-subreddits = reddit.subreddit("CryptoCurrency+CryptoMarkets+Bitcoin+Btc+BitcoinMarkets+Ethereum+Ethtrader+Dogecoin+Sui+Chainlink+Cardano+Solana+SolanaMemeCoins+Memecoins+Pepecryptocurrency+CryptoMarkets")
+subreddits = reddit.subreddit("CryptoCurrency+CryptoMarkets+Bitcoin+Btc+BitcoinMarkets+Ethereum+Ethtrader+XRP+Dogecoin+Sui+Chainlink+Cardano+Solana+SolanaMemeCoins+Memecoins+Pepecryptocurrency+CryptoMarkets")
 print("🚀 Listening to new comments on Reddit...")
 
 

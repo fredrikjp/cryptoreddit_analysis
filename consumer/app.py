@@ -94,13 +94,14 @@ sentiment_df = sentiment_df.merge(
 
 
 # Sidebar for filtering
+
 st.sidebar.header("Filters")
 subreddits = st.sidebar.multiselect(
     "Select Subreddits",
     options=sentiment_df['Subreddit'].unique(),
-    default=sentiment_df['Subreddit'].unique()
+    default=["Bitcoin", "Ethereum", "XRP", "Dogecoin", "Sui", "Chainlink", "Cardano", "Solana", "Pepecryptocurrency"]
 )
-breakpoint()
+
 date_range = st.sidebar.date_input(
     "Select Date Range",
     value=(sentiment_df['Timestamp'].min(), sentiment_df['Timestamp'].max())
