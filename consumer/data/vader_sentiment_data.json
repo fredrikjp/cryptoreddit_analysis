@@ -1142,6 +1142,60 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "n7g4nx1",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "n7g4nyx",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
+      }
+    ],
+    [
+      "n7g4pcv",
+      {
+        "neg": 0.0,
+        "neu": 0.55,
+        "pos": 0.45,
+        "compound": 0.4
+      }
+    ],
+    [
+      "n7g4ulv",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "n7g4wt6",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "n7g4xff",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -1634,6 +1688,33 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "n7g4qsd",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "n7g4xoc",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7g4zk6",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "dogecoin": [
@@ -1876,6 +1957,15 @@
       {
         "neg": 0.0,
         "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7g4owx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -2403,6 +2493,24 @@
         "pos": 0.06,
         "compound": 0.0
       }
+    ],
+    [
+      "n7g4oe5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7g4po7",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "eth": [
@@ -2439,6 +2547,39 @@
     ],
     [
       "n7fuysp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ]
+  ],
+  "BitcoinMarkets": [
+    [
+      "n7g4mf6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ]
+  ],
+  "Pepecryptocurrency": [
+    [
+      "n7g4sck",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ]
+  ],
+  "ethtrader": [
+    [
+      "n7g4vgh",
       {
         "neg": 0.0,
         "neu": 1.0,
