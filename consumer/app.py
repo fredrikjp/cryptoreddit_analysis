@@ -99,7 +99,7 @@ st.sidebar.header("Filters")
 subreddits = st.sidebar.multiselect(
     "Select Subreddits",
     options=sentiment_df['Subreddit'].unique(),
-    default=["Bitcoin", "Ethereum", "XRP", "Dogecoin", "Sui", "Chainlink", "Cardano", "Solana", "Pepecryptocurrency"]
+    default=["Bitcoin", "ethereum", "XRP", "dogecoin", "sui", "Chainlink", "cardano", "solana", "Pepecryptocurrency"]
 )
 
 date_range = st.sidebar.date_input(
