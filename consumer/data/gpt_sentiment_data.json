@@ -1304,6 +1304,24 @@
         "pos": 0.1,
         "compound": -0.1
       }
+    ],
+    [
+      "n7hx9kr",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7hx9re",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "btc": [
@@ -1903,6 +1921,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.2
+      }
+    ],
+    [
+      "n7hx7dt",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
@@ -2826,6 +2853,60 @@
         "pos": 0.05,
         "compound": -0.65
       }
+    ],
+    [
+      "n7hx286",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "n7hx2zm",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "n7hx3ir",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "n7hx49k",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "n7hx68r",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "n7hxa00",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.9
+      }
     ]
   ],
   "eth": [
@@ -3076,6 +3157,51 @@
         "pos": 0.1,
         "compound": -0.5
       }
+    ],
+    [
+      "n7hx1d7",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "n7hx4sz",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "n7hx5k4",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "n7hx6rb",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "n7hx76t",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -3131,6 +3257,15 @@
         "neu": 0.85,
         "pos": 0.0,
         "compound": -0.05
+      }
+    ],
+    [
+      "n7hx6mh",
+      {
+        "neg": 0.1,
+        "neu": 0.5,
+        "pos": 0.4,
+        "compound": 0.3
       }
     ]
   ],
