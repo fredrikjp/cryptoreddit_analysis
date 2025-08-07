@@ -92,7 +92,6 @@ sentiment_df = sentiment_df.merge(
     )
 
 
-
 # Sidebar for filtering
 st.sidebar.header("Filter Subreddits")
 all_subreddits = sorted(sentiment_df['Subreddit'].unique(), key=lambda s: s.lower())
