@@ -4041,6 +4041,15 @@
         "pos": 0.457,
         "compound": 0.9601
       }
+    ],
+    [
+      "n7mfahe",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -4458,6 +4467,15 @@
         "pos": 0.166,
         "compound": 0.6914
       }
+    ],
+    [
+      "n7mfcfi",
+      {
+        "neg": 0.0,
+        "neu": 0.649,
+        "pos": 0.351,
+        "compound": 0.4019
+      }
     ]
   ],
   "XRP": [
@@ -4730,6 +4748,15 @@
         "pos": 0.328,
         "compound": 0.8516
       }
+    ],
+    [
+      "n7mfbwx",
+      {
+        "neg": 0.0,
+        "neu": 0.263,
+        "pos": 0.737,
+        "compound": 0.6801
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -4904,6 +4931,24 @@
         "neu": 0.815,
         "pos": 0.085,
         "compound": -0.1032
+      }
+    ],
+    [
+      "n7mfckn",
+      {
+        "neg": 0.022,
+        "neu": 0.907,
+        "pos": 0.071,
+        "compound": 0.7959
+      }
+    ],
+    [
+      "n7mfcm1",
+      {
+        "neg": 0.0,
+        "neu": 0.902,
+        "pos": 0.098,
+        "compound": 0.9377
       }
     ]
   ],
