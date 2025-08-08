@@ -130,7 +130,7 @@ filtered_sentiment_df = sentiment_df[
 ]
 
 # Display top 10 comments judged by gpt sentiment
-st.header("Comment GPT Scores")
+st.header("Comments with GPT Scores")
 gpt_sentiment_df = filtered_sentiment_df[filtered_sentiment_df['Source'] == 'GPT']
 # Add sentiment scores to the comments DataFrame
 comment_and_sentiment_df = filtered_comments_df.merge(
@@ -141,10 +141,30 @@ comment_and_sentiment_df = filtered_comments_df.merge(
 
 st.dataframe(comment_and_sentiment_df[["Timestamp", "Compound", "Positive", "Negative", "Subreddit", "Comment"]].sort_values(by="Compound", ascending=False) , use_container_width=True)
 
+##############################################################
+
 # Sentiment analysis overview
 st.header("Sentiment Analysis")
 st.subheader("Average Sentiment Scores by Subreddit")
-avg_sentiment = filtered_sentiment_df.groupby(['Subreddit', 'Source'])[['Negative', 'Neutral', 'Positive', 'Compound']].mean().reset_index()
+
+# Bar chart time range slider
+min_data_bar = filtered_sentiment_df['Timestamp'].min().date()
+max_data_bar = filtered_sentiment_df['Timestamp'].max().date()
+
+bar_date_range = st.slider(
+    "Select Date Range for Bar Chart",
+    min_value=min_data_bar,
+    max_value=max_data_bar,
+    value=(min_data_bar, max_data_bar),
+    format="YYYY-MM-DD"
+)
+
+filtered_bar_df = filtered_sentiment_df[
+    (filtered_sentiment_df['Timestamp'].dt.date >= bar_date_range[0]) &
+    (filtered_sentiment_df['Timestamp'].dt.date <= bar_date_range[1])
+]
+
+avg_sentiment = filtered_bar_df.groupby(['Subreddit', 'Source'])[['Negative', 'Neutral', 'Positive', 'Compound']].mean().reset_index()
 
 # Bar chart for average sentiment
 fig_bar = px.bar(
