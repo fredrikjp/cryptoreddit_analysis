@@ -3366,6 +3366,24 @@
         "pos": 0.143,
         "compound": 0.7685
       }
+    ],
+    [
+      "n7kcte3",
+      {
+        "neg": 0.0,
+        "neu": 0.348,
+        "pos": 0.652,
+        "compound": 0.8168
+      }
+    ],
+    [
+      "n7kctsj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "eth": [
@@ -3913,6 +3931,15 @@
         "pos": 0.611,
         "compound": 0.7414
       }
+    ],
+    [
+      "n7kcw03",
+      {
+        "neg": 0.0,
+        "neu": 0.937,
+        "pos": 0.063,
+        "compound": 0.1901
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -3986,6 +4013,24 @@
         "neu": 0.87,
         "pos": 0.0,
         "compound": -0.4019
+      }
+    ],
+    [
+      "n7kcudl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7kcufu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
