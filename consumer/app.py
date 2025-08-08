@@ -165,6 +165,7 @@ filtered_bar_df = filtered_sentiment_df[
 
 avg_sentiment = filtered_bar_df.groupby(['Subreddit', 'Source'])[['Negative', 'Neutral', 'Positive', 'Compound']].mean().reset_index()
 
+
 # Bar chart for average sentiment
 fig_bar = px.bar(
     avg_sentiment,
