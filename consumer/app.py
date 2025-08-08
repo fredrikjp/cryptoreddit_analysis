@@ -178,6 +178,18 @@ fig_bar = px.bar(
 )
 st.plotly_chart(fig_bar, use_container_width=True)
 
+# --- CSS to remove top space before slider ---
+st.markdown(
+    """
+    <style>
+    div[data-testid="stSlider"] {
+        margin-top: -20px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # Place data range slider below the bar chart
 bar_date_range = st.slider(
     "",
