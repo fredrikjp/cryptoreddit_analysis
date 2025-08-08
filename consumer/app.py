@@ -180,6 +180,7 @@ st.plotly_chart(fig_bar, use_container_width=True)
 
 # Place data range slider below the bar chart
 bar_date_range = st.slider(
+    "",
     min_value=min_date_bar,
     max_value=max_date_bar,
     value=(min_date_bar, max_date_bar),
