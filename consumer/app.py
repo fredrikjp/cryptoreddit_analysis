@@ -6,6 +6,7 @@ from datetime import datetime
 import plotly.graph_objects as go
 import wordcloud
 import os
+from datetime import timedelta
 
 # Set page configuration
 st.set_page_config(page_title="Reddit Comment Analysis", layout="wide")
@@ -148,20 +149,18 @@ st.header("Sentiment Analysis")
 st.subheader("Average Sentiment Scores by Subreddit")
 
 # Bar chart time range slider
-min_data_bar = filtered_sentiment_df['Timestamp'].min().date()
-max_data_bar = filtered_sentiment_df['Timestamp'].max().date()
+min_date_bar = filtered_sentiment_df['Timestamp'].min().to_pydatetime()
+max_date_bar = filtered_sentiment_df['Timestamp'].max().to_pydatetime()
 
-bar_date_range = st.slider(
-    "Select Date Range for Bar Chart",
-    min_value=min_data_bar,
-    max_value=max_data_bar,
-    value=(min_data_bar, max_data_bar),
-    format="YYYY-MM-DD"
-)
+# Initialize session state for bar chart date range
+if 'bar_date_range' not in st.session_state:
+    st.session_state.bar_date_range = (min_date_bar, max_date_bar)
+
+start, end = st.session_state.bar_date_range
 
 filtered_bar_df = filtered_sentiment_df[
-    (filtered_sentiment_df['Timestamp'].dt.date >= bar_date_range[0]) &
-    (filtered_sentiment_df['Timestamp'].dt.date <= bar_date_range[1])
+    (filtered_sentiment_df['Timestamp'] >= start) &
+    (filtered_sentiment_df['Timestamp'] <= end)
 ]
 
 avg_sentiment = filtered_bar_df.groupby(['Subreddit', 'Source'])[['Negative', 'Neutral', 'Positive', 'Compound']].mean().reset_index()
@@ -177,6 +176,20 @@ fig_bar = px.bar(
     facet_col='Source'
 )
 st.plotly_chart(fig_bar, use_container_width=True)
+
+# Place data range slider below the bar chart
+bar_date_range = st.slider(
+    "Select Date Range for Bar Chart",
+    min_value=min_date_bar,
+    max_value=max_date_bar,
+    value=(min_date_bar, max_date_bar),
+    step=timedelta(hours=1),
+    format="YYYY-MM-DD HH:mm"
+)
+
+st.session_state.bar_date_range = bar_date_range
+
+##############################################################################
 
 # Line chart for sentiment over time
 st.subheader("Sentiment Over Time")
