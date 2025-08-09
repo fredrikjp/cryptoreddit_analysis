@@ -1189,6 +1189,11 @@
       "n7qzk3e",
       "2025-08-09T09:07:02",
       "No i mean anyone with the seed phrase can also use a bot to snipe the funds. So It doesn't make sense since the first person who makes the wallet will have to waste money then yk."
+    ],
+    [
+      "n7r592j",
+      "2025-08-09T10:06:22",
+      "I have an Excel file for this, which I update manually.\n\n\nCan you guess my age?\u00a0\n\n\nHahaha"
     ]
   ],
   "btc": [
@@ -1533,6 +1538,11 @@
       "n7qtr2o",
       "2025-08-09T08:07:38",
       "your comment is completely stupid, you're like those who say it makes no sense to buy btc at $100k \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23"
+    ],
+    [
+      "n7r5ay6",
+      "2025-08-09T10:07:15",
+      "You stop trading them. Use some financial responsibility. Don't put more than 1% of your net worth in memecoins.\n\n  \nThat way you can join a real community and grow with them for the long term without financial stress.\n\n  \nThe only memecoin I know that isn't an insider coin (whales) or pumpdump is Turbo Toad Token. Went to 1b mcap a little while ago. Great story and great community.\n\n  \nIf you're looking for a smaller trusted community, Catapult Corgi just opened their 6th LP with plans to launch more to generate consistent arb volume, get verified and hit some cexs eventually\n\n  \n[linktr.ee/catapultcorgicoin](http://linktr.ee/catapultcorgicoin)"
     ]
   ],
   "ethereum": [
@@ -1765,6 +1775,11 @@
       "n7qzjms",
       "2025-08-09T09:07:02",
       "> If you increase the gas limit 100x, then even if gas prices per unit are lower, total fees burned can still be very high because so much more data can be included.\n\nYes, in theory. But only if demand still meets the capacity.\n\nIf you have 1000 tx lined up and the network has a capacity of 100 tx, you get a fee market for these 100 tx and the highest paying 100 tx from the pool of 1000 make the cut. \n\nIf you have 8000 tx lined up and the network has a capacity of 10000 tx, **everyone** pays **nothing**. 8000 x 0 = 0. And that's bad design in my opinion, because it means the possible 5000 of the 8000 tx which are uneconomical pointless spam are included too. It also leads to any capacity always eventually filling up with spam. \n\n>I think it's more likely that we'll see novel uses once there is much higher capacity.\n\nYeah, I dunno, that's the \"overestimate growth based on faith and hopium\" part I mentioned. Sure you can hope for new use cases, but that's betting on black swans. The network shouldn't work like that, it should not keep lowering fees while scaling blindly, assuming future usecases popping up to save the day."
+    ],
+    [
+      "n7r5ag4",
+      "2025-08-09T10:07:15",
+      "Oooo - We\u2019re so close to hitting \u00a33k\nGBP IS 13% off it\u2019s ATH compared to USD being 10.6% \nI can\u2019t see any sig resistance at \u00a33k. \nExciting regardless!"
     ]
   ],
   "dogecoin": [
@@ -2844,6 +2859,21 @@
       "n7qzirc",
       "2025-08-09T09:07:02",
       "he would probably do it when eth was 1.3k last month"
+    ],
+    [
+      "n7r57ws",
+      "2025-08-09T10:06:22",
+      "China invading Taiwan is always looming though and that's the big one."
+    ],
+    [
+      "n7r58hy",
+      "2025-08-09T10:06:22",
+      "I can\u2019t imagine. Imagining is painful"
+    ],
+    [
+      "n7r5c6m",
+      "2025-08-09T10:07:15",
+      "Coffeezilla can't have enough time for this bullshit AGAIN."
     ]
   ],
   "SolanaMemeCoins": [
@@ -2923,6 +2953,11 @@
       "n7or5e0",
       "2025-08-08T23:06:47",
       "Sendu"
+    ],
+    [
+      "n7r57ml",
+      "2025-08-09T10:06:22",
+      "$monkey the picasso a dog that paints\n\nhttps://preview.redd.it/3ktqb2jywyhf1.jpeg?width=1024&format=pjpg&auto=webp&s=2037fb27777db5b1618464cc46a4fc077f1d50ba"
     ]
   ],
   "BitcoinMarkets": [
@@ -3393,6 +3428,11 @@
       "n7qhetc",
       "2025-08-09T06:08:33",
       "42069 XRP"
+    ],
+    [
+      "n7r59u5",
+      "2025-08-09T10:07:15",
+      "Bro is writing COD monologues on an xrp sub"
     ]
   ],
   "CryptoMarkets": [
@@ -3580,6 +3620,11 @@
       "n7qzj41",
       "2025-08-09T09:07:02",
       "ETH"
+    ],
+    [
+      "n7r573a",
+      "2025-08-09T10:06:22",
+      "Then you miss when xrp rockets. Hold."
     ]
   ],
   "cardano": [
@@ -3627,6 +3672,11 @@
       "n7n4x26",
       "2025-08-08T18:06:47",
       "Cardano and Midnight tech is next level in cryptoverse. Carypto is doing great!"
+    ],
+    [
+      "n7r5b3c",
+      "2025-08-09T10:07:15",
+      "Babble fees are like swiping your credit card when traveling abroad. \n\nYou have dollars the country's currency is peso's, swiping your card takes dollars, and then converts it into the peso's, creating demand for the peso against the dollar.\n\nSame for your Eth Dapp, people will pay all with Eth, but underneath they will be buying Ada / creating demand for that network as the transaction gets processed.\n\nIt's outputs can also be in the native token (you get yield back for example not in ADA but the actual Eth)"
     ]
   ],
   "Chainlink": [
