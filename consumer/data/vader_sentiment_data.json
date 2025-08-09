@@ -2231,6 +2231,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n7smutn",
+      {
+        "neg": 0.0,
+        "neu": 0.625,
+        "pos": 0.375,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "n7smwba",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7smyio",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -2886,6 +2913,15 @@
     ],
     [
       "n7sbotv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7smyz4",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -3889,6 +3925,24 @@
     ],
     [
       "n7s14l5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7smvt9",
+      {
+        "neg": 0.25,
+        "neu": 0.75,
+        "pos": 0.0,
+        "compound": -0.3252
+      }
+    ],
+    [
+      "n7smyz6",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -5472,6 +5526,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n7smq9o",
+      {
+        "neg": 0.0,
+        "neu": 0.878,
+        "pos": 0.122,
+        "compound": 0.2023
+      }
+    ],
+    [
+      "n7sms6a",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7smwo1",
+      {
+        "neg": 0.023,
+        "neu": 0.822,
+        "pos": 0.155,
+        "compound": 0.979
+      }
+    ],
+    [
+      "n7smwpz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7smzdl",
+      {
+        "neg": 0.175,
+        "neu": 0.657,
+        "pos": 0.168,
+        "compound": -0.0902
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -6955,6 +7054,33 @@
         "pos": 0.061,
         "compound": 0.0772
       }
+    ],
+    [
+      "n7smx1k",
+      {
+        "neg": 0.301,
+        "neu": 0.699,
+        "pos": 0.0,
+        "compound": -0.891
+      }
+    ],
+    [
+      "n7smzf5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n7smzsl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "cardano": [
@@ -7046,6 +7172,15 @@
         "neu": 0.872,
         "pos": 0.084,
         "compound": 0.5789
+      }
+    ],
+    [
+      "n7smqt8",
+      {
+        "neg": 0.018,
+        "neu": 0.915,
+        "pos": 0.067,
+        "compound": 0.7964
       }
     ]
   ],
