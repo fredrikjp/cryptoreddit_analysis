@@ -1179,6 +1179,16 @@
       "n7qnnck",
       "2025-08-09T07:07:07",
       "Oh boy, we have ourselves a bonafide Infowarrior here"
+    ],
+    [
+      "n7qziy0",
+      "2025-08-09T09:07:02",
+      "Having a large emergency fund makes perfect sense.\n\nThat way you have a bigger runway to be patient with your investments and are less likely to make knee jerk decisions."
+    ],
+    [
+      "n7qzk3e",
+      "2025-08-09T09:07:02",
+      "No i mean anyone with the seed phrase can also use a bot to snipe the funds. So It doesn't make sense since the first person who makes the wallet will have to waste money then yk."
     ]
   ],
   "btc": [
@@ -1750,6 +1760,11 @@
       "n7qnn2p",
       "2025-08-09T07:07:07",
       "Wait for the final pullback"
+    ],
+    [
+      "n7qzjms",
+      "2025-08-09T09:07:02",
+      "> If you increase the gas limit 100x, then even if gas prices per unit are lower, total fees burned can still be very high because so much more data can be included.\n\nYes, in theory. But only if demand still meets the capacity.\n\nIf you have 1000 tx lined up and the network has a capacity of 100 tx, you get a fee market for these 100 tx and the highest paying 100 tx from the pool of 1000 make the cut. \n\nIf you have 8000 tx lined up and the network has a capacity of 10000 tx, **everyone** pays **nothing**. 8000 x 0 = 0. And that's bad design in my opinion, because it means the possible 5000 of the 8000 tx which are uneconomical pointless spam are included too. It also leads to any capacity always eventually filling up with spam. \n\n>I think it's more likely that we'll see novel uses once there is much higher capacity.\n\nYeah, I dunno, that's the \"overestimate growth based on faith and hopium\" part I mentioned. Sure you can hope for new use cases, but that's betting on black swans. The network shouldn't work like that, it should not keep lowering fees while scaling blindly, assuming future usecases popping up to save the day."
     ]
   ],
   "dogecoin": [
@@ -2824,6 +2839,11 @@
       "n7qttiw",
       "2025-08-09T08:07:38",
       " Can AERO chill???"
+    ],
+    [
+      "n7qzirc",
+      "2025-08-09T09:07:02",
+      "he would probably do it when eth was 1.3k last month"
     ]
   ],
   "SolanaMemeCoins": [
@@ -3555,6 +3575,11 @@
       "n7q3pfd",
       "2025-08-09T04:12:31",
       "As they should be fr. What I\u2019ve been thinking about tho, is a new token (or hey, maybe even an entirely new blockchain network) that sets up a system of anti-inflationary measures and promotes steady growth (through automated burning and minting based on price movement), therefore building a strong cryptocurrency that doesn\u2019t rely on legacy fiat structures and doesn\u2019t require regulation."
+    ],
+    [
+      "n7qzj41",
+      "2025-08-09T09:07:02",
+      "ETH"
     ]
   ],
   "cardano": [
