@@ -2975,6 +2975,15 @@
         "pos": 0.5,
         "compound": 0.6
       }
+    ],
+    [
+      "n7q3mbc",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.7,
+        "compound": 0.5
+      }
     ]
   ],
   "dogecoin": [
@@ -5711,6 +5720,24 @@
         "pos": 0.0,
         "compound": 0.5
       }
+    ],
+    [
+      "n7q3nbk",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "n7q3o3y",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -6028,6 +6055,15 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "n7q3pfd",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "cardano": [
@@ -6139,6 +6175,15 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.55
+      }
+    ],
+    [
+      "n7q3p0t",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.5,
+        "compound": 0.4
       }
     ]
   ]
