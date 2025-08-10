@@ -2663,6 +2663,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n7xoubc",
+      {
+        "neg": 0.2,
+        "neu": 0.75,
+        "pos": 0.05,
+        "compound": -0.3
+      }
+    ],
+    [
+      "n7xozk5",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "n7xp3ov",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "n7xp3rs",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
     ]
   ],
   "btc": [
@@ -3477,6 +3513,15 @@
         "pos": 0.0,
         "compound": -0.8
       }
+    ],
+    [
+      "n7xox2c",
+      {
+        "neg": 0.1,
+        "neu": 0.85,
+        "pos": 0.05,
+        "compound": -0.1
+      }
     ]
   ],
   "ethereum": [
@@ -4081,6 +4126,24 @@
         "neu": 0.2,
         "pos": 0.15,
         "compound": -0.55
+      }
+    ],
+    [
+      "n7xozgy",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "n7xp4ax",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -6970,6 +7033,15 @@
         "pos": 0.45,
         "compound": 0.4
       }
+    ],
+    [
+      "n7xp0cj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -7616,6 +7688,15 @@
         "neu": 0.15,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "n7xowyg",
+      {
+        "neg": 0.45,
+        "neu": 0.5,
+        "pos": 0.05,
+        "compound": -0.4
       }
     ]
   ],
@@ -8808,6 +8889,15 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "n7xox1u",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
