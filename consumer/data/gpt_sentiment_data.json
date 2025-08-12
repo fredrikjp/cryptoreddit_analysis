@@ -4463,6 +4463,51 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "n89onnq",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
+    ],
+    [
+      "n89onyq",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "n89opm9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n89opqd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n89oqw6",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -11200,6 +11245,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n89on2k",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "n89oo8h",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.8
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -12177,6 +12240,24 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.3
+      }
+    ],
+    [
+      "n89ool1",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "n89otau",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
       }
     ]
   ],
@@ -13180,6 +13261,15 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.4
+      }
+    ],
+    [
+      "n89oshk",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
       }
     ]
   ],
