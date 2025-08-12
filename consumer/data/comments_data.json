@@ -2419,6 +2419,16 @@
       "n88t331",
       "2025-08-12T06:09:04",
       "Bitcorn! Nacho cheese, nacho corn!"
+    ],
+    [
+      "n88zc5i",
+      "2025-08-12T07:07:17",
+      "Bitcoin spikea every other day. Don't see the point in these posts either. If we had to explain every single spike...."
+    ],
+    [
+      "n88zcgx",
+      "2025-08-12T07:07:17",
+      "Fire his ass."
     ]
   ],
   "btc": [
@@ -5764,6 +5774,11 @@
       "n88t2y1",
       "2025-08-12T06:08:28",
       "True but do they have to show the gold to revalue it? Couldnt they say \"You know we have this much now its worth that much\" - kicking the can down the road?"
+    ],
+    [
+      "n88zc5h",
+      "2025-08-12T07:07:17",
+      "DAAAAAAAAAAAAAAAA"
     ]
   ],
   "SolanaMemeCoins": [
@@ -7760,6 +7775,11 @@
       "n88t4q3",
       "2025-08-12T06:09:04",
       "I think KTA might fit that bill. Disclaimer: I hold Keeta, so dyor.\n\nHere is my shill:\n\nKeeta\u2019s protocol stack is designed as a compliance-native, high-throughput, Byzantine Fault Tolerant (BFT) Layer 1 optimized for regulated asset issuance and settlement.\n\n\u2022\tConsensus Layer: Implements a deterministic quorum-based BFT model requiring \u2265 2/3+1 validator voting power for block finality. This design preserves safety under validator churn and partial network faults while maintaining sub-second deterministic finality in optimal network conditions.\n\n\u2022\tScalability Architecture: Employs parallelized transaction execution with ordered commit protocols, allowing disjoint transaction sets to be processed concurrently while retaining a unified global state root. Avoids traditional sharding pitfalls such as cross-shard messaging complexity or security dilution.\n\n\u2022\tAnchor Subsystem: Anchors are protocol-level primitives that perform asset custody, off-chain verification, and on-chain token issuance/redemption. Asset state is cryptographically bound to custody attestations, enabling provable 1:1 backing for RWAs and fiat representations.\n\n\u2022\tCompliance Integration: Identity attestations and rule sets for KYC, AML, and FATF Travel Rule compliance are enforced at the transaction layer, ensuring that all protocol interactions can meet jurisdictional regulatory requirements without third-party middleware.\n\n\u2022\tInteroperability Layer: Native cross-chain messaging and settlement pathways allow anchors and participants to bridge assets between Keeta and external L1/L2 ecosystems, providing interoperability without external bridge contracts as single points of failure.\n\n\u2022\tTokenomics & Supply Mechanics: $KTA features deterministic emission schedules with programmed supply compression events, creating periodic liquidity constraints (\u201csupply shocks\u201d) that can amplify demand pressures in adoption phases."
+    ],
+    [
+      "n88zb32",
+      "2025-08-12T07:07:17",
+      "You can use the BTC heatmap on glassnodes. \nThis will show you (aggregated from major exchanges) where the buy and sell orders are spread."
     ]
   ],
   "cardano": [
@@ -7867,6 +7887,11 @@
       "n88f4k0",
       "2025-08-12T04:12:18",
       "I won\u2019t stop till I make it happen. I can see my coins and I want em! Tomorrow I\u2019ll try Ledger to Yori and I hope I finally figure out the signature part out also. Because Ledger looked as if the wanted $10 or a free trial for the sign out info"
+    ],
+    [
+      "n88zbgq",
+      "2025-08-12T07:07:17",
+      "Wait so he gave the bank his seedphrase ? Why would anyone do that ?!? That\u2019s like number one rule is to never give out your seedphrase to ANYONE."
     ]
   ],
   "Chainlink": [
