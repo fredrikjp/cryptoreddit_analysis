@@ -2404,6 +2404,21 @@
       "n88m2sx",
       "2025-08-12T05:07:06",
       "Phone number spoofing has been around for a long time."
+    ],
+    [
+      "n88szs8",
+      "2025-08-12T06:08:28",
+      "Time to sell the financial advisor"
+    ],
+    [
+      "n88t1ag",
+      "2025-08-12T06:08:28",
+      "If he knew how to invest profitably, he wouldn't be a financial advisor"
+    ],
+    [
+      "n88t331",
+      "2025-08-12T06:09:04",
+      "Bitcorn! Nacho cheese, nacho corn!"
     ]
   ],
   "btc": [
@@ -3088,6 +3103,11 @@
       "n88m7bn",
       "2025-08-12T05:07:49",
       "Bonk.fun is more community oriented and invests back into the ecosystem. It\u2019s also been outperforming Pump Fun lately."
+    ],
+    [
+      "n88t4oy",
+      "2025-08-12T06:09:04",
+      "The standard procecure of that is saving private keys with encryption, so they are transformed to non human readable texts. There are thirth party companies for only this purpose, axiom uses one of them, I forgot the name. And also I used same technique for tokariapp bundler."
     ]
   ],
   "ethereum": [
@@ -5739,6 +5759,11 @@
       "n88m6hc",
       "2025-08-12T05:07:49",
       "By which you mean the other three, which were all very different from each other."
+    ],
+    [
+      "n88t2y1",
+      "2025-08-12T06:08:28",
+      "True but do they have to show the gold to revalue it? Couldnt they say \"You know we have this much now its worth that much\" - kicking the can down the road?"
     ]
   ],
   "SolanaMemeCoins": [
@@ -6260,6 +6285,11 @@
       "n88ez4j",
       "2025-08-12T04:11:17",
       "I still have a buy limit close to 100 that I'll keep open. \u00a0 \u00a0"
+    ],
+    [
+      "n88t5e9",
+      "2025-08-12T06:09:04",
+      "my mum is dead >40 years"
     ]
   ],
   "Pepecryptocurrency": [
@@ -7188,6 +7218,11 @@
       "n88m395",
       "2025-08-12T05:07:06",
       "It\u2019s happening whether you like it or not. The rails have been set for XRP (Ripple). I\u2019m loving all these responses trying to figure out what\u2019s going on. There\u2019s nothing to figure out because it\u2019s already set. Cheers everyone."
+    ],
+    [
+      "n88t0k1",
+      "2025-08-12T06:08:28",
+      "XRP + pretty women + buttholes = $"
     ]
   ],
   "CryptoMarkets": [
@@ -7710,6 +7745,21 @@
       "n88m0ll",
       "2025-08-12T05:06:15",
       "In terms of long time development it's probably eth.. In terms of innovation it's probably Kaspa\u00a0"
+    ],
+    [
+      "n88t0wv",
+      "2025-08-12T06:08:28",
+      "HDX"
+    ],
+    [
+      "n88t4df",
+      "2025-08-12T06:09:04",
+      "ENA"
+    ],
+    [
+      "n88t4q3",
+      "2025-08-12T06:09:04",
+      "I think KTA might fit that bill. Disclaimer: I hold Keeta, so dyor.\n\nHere is my shill:\n\nKeeta\u2019s protocol stack is designed as a compliance-native, high-throughput, Byzantine Fault Tolerant (BFT) Layer 1 optimized for regulated asset issuance and settlement.\n\n\u2022\tConsensus Layer: Implements a deterministic quorum-based BFT model requiring \u2265 2/3+1 validator voting power for block finality. This design preserves safety under validator churn and partial network faults while maintaining sub-second deterministic finality in optimal network conditions.\n\n\u2022\tScalability Architecture: Employs parallelized transaction execution with ordered commit protocols, allowing disjoint transaction sets to be processed concurrently while retaining a unified global state root. Avoids traditional sharding pitfalls such as cross-shard messaging complexity or security dilution.\n\n\u2022\tAnchor Subsystem: Anchors are protocol-level primitives that perform asset custody, off-chain verification, and on-chain token issuance/redemption. Asset state is cryptographically bound to custody attestations, enabling provable 1:1 backing for RWAs and fiat representations.\n\n\u2022\tCompliance Integration: Identity attestations and rule sets for KYC, AML, and FATF Travel Rule compliance are enforced at the transaction layer, ensuring that all protocol interactions can meet jurisdictional regulatory requirements without third-party middleware.\n\n\u2022\tInteroperability Layer: Native cross-chain messaging and settlement pathways allow anchors and participants to bridge assets between Keeta and external L1/L2 ecosystems, providing interoperability without external bridge contracts as single points of failure.\n\n\u2022\tTokenomics & Supply Mechanics: $KTA features deterministic emission schedules with programmed supply compression events, creating periodic liquidity constraints (\u201csupply shocks\u201d) that can amplify demand pressures in adoption phases."
     ]
   ],
   "cardano": [
