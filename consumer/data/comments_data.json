@@ -2504,6 +2504,41 @@
       "n89oqw6",
       "2025-08-12T11:06:58",
       "Run.  Don\u2019t walk.  Keep your BTC.   Buy more.   To what ? To Diversify into more fiat is not an option."
+    ],
+    [
+      "n89xfdv",
+      "2025-08-12T12:08:56",
+      "They can\u2019t have us reach financial independence. They need us working till we\u2019re dead. They\u2019re scrambling to control Bitcoin and hang it over our heads just off reach. \u201cInvest and you\u2019ll be free\u2026 wait no not like that!\u201d"
+    ],
+    [
+      "n89xgnz",
+      "2025-08-12T12:08:56",
+      "i understand but who\u2019s to say it couldn\u2019t by some crazy possibility happen?, Monero appears to be in the midst of a successful 51% attack with The Qubic mining pool, With its current dominance, Qubic can rewrite the blockchain, enable double-spending, and censor any transaction. \n\ni know XMR & BTC are two different cryptos but hearing about successful 51% attacks in the space is something that sorta been sitting in the back of my head for a couple days."
+    ],
+    [
+      "n89xi3u",
+      "2025-08-12T12:09:28",
+      "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd2b\ud83e\udd2b"
+    ],
+    [
+      "n89xjhu",
+      "2025-08-12T12:09:28",
+      "Are you a millionaire? Why do you even have a financial advisor? If you ask me, I wouldn\u2019t diversify that much and definitely throw more into BTC"
+    ],
+    [
+      "n89xkad",
+      "2025-08-12T12:09:52",
+      "Lump sum if you can. DCA is only for if you don't have the money."
+    ],
+    [
+      "n89xkqr",
+      "2025-08-12T12:09:52",
+      "Who is flipping coins? Don\u2019t be mad.  Keep grinding. See you at 62"
+    ],
+    [
+      "n89xkvp",
+      "2025-08-12T12:09:52",
+      "But people on Twitter said they are whales...\n\n/s"
     ]
   ],
   "btc": [
@@ -2781,6 +2816,11 @@
       "n89bd47",
       "2025-08-12T09:08:05",
       "> I'm sure that in 20 years there will either be very large transaction volume or no volume.\n\nSince BTC cannot achieve very large volumes, thanks to the crippeling, you know where it will go."
+    ],
+    [
+      "n89xfwu",
+      "2025-08-12T12:08:56",
+      "> Bitcoin Cash has not presented any plan for handling hundreds of millions of transactions per day\n\nThat is actually misinformation.\n\nHere is an old worked example based on scaling L1.\n\nhttps://blog.vermorel.com/journal/2017/12/17/terabyte-blocks-for-bitcoin-cash.html\n\n> A terabyte block represents a block of 1e12 bytes, which can contain about 4 billion Bitcoin transactions.\n\n> Assuming a worldwide population of 10 billion humans, terabyte blocks offer about 50 transactions per human per day\n\nIf you only need 10 transactions per day, you can scale down the required blocksize by a factor of 5.\n\nLest someone wonder, at such adoption, not everyone will be downloading the whole blockchain.\n\nMost users won't run nodes, they just use SPV.\n\nMost nodes will be fully-validating, but not validate the whole chain from scratch. They will download UTXO snapshots and verify them against commitments, and only download a small part of recent history.\n\nMostly, nodes that are running steadily will not need to download full blocks.\nThey will verify transactions as they come, and assemble blocks based on pre-validated transactions and compressed block info, which will be a very small fraction of the actual block size.\n\nEven if Bitcoin Cash isn't scaled to such a size, it still scales L1 much better than BTC, and thus would support any second layers much better."
     ]
   ],
   "solana": [
@@ -3680,6 +3720,11 @@
       "n895j9j",
       "2025-08-12T08:08:50",
       "12.9%"
+    ],
+    [
+      "n89xfir",
+      "2025-08-12T12:08:56",
+      "1) i doubt they plan to move all USDC to this, it's just another option for them.\n\n2) we can't embrace open source on one hand then decry its usage on the other.\n\n3) how long will it take them to get a zero downtime record?\n\n4) other stablecoins are already proliferating on ethereum\n\n5) it's the highest form of flattery\n\n6) despite the above comments, i will start switching from usdc starting today, it's a free market and i'll supoort ethereum"
     ]
   ],
   "dogecoin": [
@@ -4162,6 +4207,11 @@
       "n895evz",
       "2025-08-12T08:08:07",
       "Still up 243$"
+    ],
+    [
+      "n89xjlo",
+      "2025-08-12T12:09:28",
+      "There are thousands of POS \"DogeExpress\" machines across the globe.  College campus', bars, restaurants and dispensaries.  It's just a matter of time before they are in every city and town."
     ]
   ],
   "CryptoCurrency": [
@@ -5884,6 +5934,21 @@
       "n89hkap",
       "2025-08-12T10:07:27",
       "Market cap would be ridiculous"
+    ],
+    [
+      "n89xilf",
+      "2025-08-12T12:09:28",
+      "Poor me and my massive ETH bags\u2026."
+    ],
+    [
+      "n89xjdh",
+      "2025-08-12T12:09:28",
+      "I can't believe privacy is gone!"
+    ],
+    [
+      "n89xker",
+      "2025-08-12T12:09:52",
+      "They're making money while you are crying on Reddit lol."
     ]
   ],
   "SolanaMemeCoins": [
@@ -6036,6 +6101,11 @@
       "n895j3h",
       "2025-08-12T08:08:50",
       "Launch day is gonna be market breaking"
+    ],
+    [
+      "n89xltg",
+      "2025-08-12T12:09:52",
+      "r/snoofi is turning 1 year old this month. Community keeps on growing. Billions for the reddit dog."
     ]
   ],
   "memecoins": [
@@ -6819,6 +6889,11 @@
       "n89otau",
       "2025-08-12T11:06:58",
       "Id be pretty surprised if we are anywhere near a top of this cycle."
+    ],
+    [
+      "n89xfjj",
+      "2025-08-12T12:08:56",
+      "u/SigiNwanne has tipped u/MasterpieceLoud4931 1.0 donut (weight: 1.0)\n\n[LINK](https://reddit.com/comments/1mo6alf/_/n89xdu9)\n\n[ARCHIVE](https://raw.githubusercontent.com/ethtrader/ethtrader-tip-archive/main/2025/08/12/t1_n89xdu9.txt)\n\n^(note: archived content can take up to 10 minutes before it is available for viewing)\n\n^(donut-bot v0.1.20240111-tip | Learn more about [Earn2Tip](https://www.reddit.com/r/ethtrader/comments/17q24e7/introducing_donutbot_register_and_tip_commands/))"
     ]
   ],
   "sui": [
