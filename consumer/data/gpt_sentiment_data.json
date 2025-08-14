@@ -6272,6 +6272,15 @@
         "pos": 0.4,
         "compound": 0.3
       }
+    ],
+    [
+      "n8m6atf",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "btc": [
@@ -7959,6 +7968,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n8m69pr",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "n8m6cg6",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
     ]
   ],
   "ethereum": [
@@ -9536,6 +9563,15 @@
         "pos": 0.0,
         "compound": -0.1
       }
+    ],
+    [
+      "n8m6ckj",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.4
+      }
     ]
   ],
   "dogecoin": [
@@ -10779,6 +10815,15 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": -0.1
+      }
+    ],
+    [
+      "n8m6coc",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.75
       }
     ]
   ],
@@ -15174,6 +15219,15 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "n8m6da7",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -16186,6 +16240,15 @@
         "pos": 0.1,
         "compound": -0.2
       }
+    ],
+    [
+      "n8m6axr",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -16628,6 +16691,15 @@
         "neu": 0.1,
         "pos": 0.2,
         "compound": -0.5
+      }
+    ],
+    [
+      "n8m6ank",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
@@ -17910,6 +17982,24 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.55
+      }
+    ],
+    [
+      "n8m6a9w",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "n8m6aqv",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
