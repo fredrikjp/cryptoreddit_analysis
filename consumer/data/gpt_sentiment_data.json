@@ -6362,6 +6362,42 @@
         "pos": 0.9,
         "compound": 0.75
       }
+    ],
+    [
+      "n8mz4ss",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n8mz5hk",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.7,
+        "compound": 0.55
+      }
+    ],
+    [
+      "n8mz5mx",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "n8mz6ns",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -11023,6 +11059,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n8myz8n",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -15488,6 +15533,69 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.15
+      }
+    ],
+    [
+      "n8myzbq",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.8,
+        "compound": 0.6
+      }
+    ],
+    [
+      "n8myzha",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n8mz01j",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "n8mz05l",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "n8mz42a",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "n8mz4if",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.75
+      }
+    ],
+    [
+      "n8mz4y7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -21193,6 +21301,24 @@
         "pos": 0.5,
         "compound": 0.3
       }
+    ],
+    [
+      "n8mz32r",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "n8mz8h6",
+      {
+        "neg": 0.2,
+        "neu": 0.3,
+        "pos": 0.5,
+        "compound": 0.1
+      }
     ]
   ],
   "cardano": [
@@ -21484,6 +21610,15 @@
         "neu": 0.4,
         "pos": 0.0,
         "compound": -0.5
+      }
+    ],
+    [
+      "n8mz53m",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ]
