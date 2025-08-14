@@ -6677,6 +6677,78 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "n8pa0d1",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "n8pa1tn",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.5
+      }
+    ],
+    [
+      "n8pa4ff",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "n8pa4rk",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "n8pa4z8",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "n8pa8m6",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n8pa8zr",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "n8paaa9",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -8508,6 +8580,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n8p9z9l",
+      {
+        "neg": 0.8,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "ethereum": [
@@ -10139,6 +10220,15 @@
         "pos": 0.0,
         "compound": -0.15
       }
+    ],
+    [
+      "n8p9yxr",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.5
+      }
     ]
   ],
   "dogecoin": [
@@ -11508,6 +11598,24 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "n8pa4f8",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "n8pa4wd",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
@@ -16263,6 +16371,69 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "n8p9yxy",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n8pa11t",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "n8pa16a",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "n8pa5b7",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "n8pa8ru",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 1.0,
+        "compound": 0.9
+      }
+    ],
+    [
+      "n8pa96r",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "n8pacen",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -17418,6 +17589,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.5
+      }
+    ],
+    [
+      "n8p9z1n",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -19294,6 +19474,33 @@
       {
         "neg": 0.0,
         "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n8p9z2e",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "n8pa9w8",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "n8pabn9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -22290,6 +22497,24 @@
         "neu": 0.7,
         "pos": 0.2,
         "compound": 0.2
+      }
+    ],
+    [
+      "n8pa971",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "n8paalk",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
       }
     ]
   ],
