@@ -260,10 +260,11 @@ median_volume = pd.Series(volumes).median()
 
 rolling_results = []
 for sub, scores in gpt_sentiment_df.groupby('Subreddit'):
-    N_scaled = max(1, round(base_N * (volumes[sub] / median_volume)))
+    N_scaled = max(5, round(base_N * (volumes[sub] / median_volume)))
     scores = scores.copy()
+    scores['Rolling_N'] = N_scaled
     scores['Rolling_Compound'] = (
-    scores['Compound'].rolling(window=N_scaled, min_periods=1).mean()
+    scores['Compound'].rolling(window=N_scaled, min_periods=N_scaled).mean()
     )
     rolling_results.append(scores)
 
@@ -275,7 +276,7 @@ fig_line = px.line(
     y='Rolling_Compound',
     color='Subreddit',
     title="Compound Sentiment Score Over Time",
-    hover_data=['Source']
+    hover_data=['Subreddit', 'Timestamp', 'Rolling_Compound', 'Rolling_N', 'Source'],
 )
 st.plotly_chart(fig_line, use_container_width=True)
 
