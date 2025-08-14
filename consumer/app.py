@@ -7,6 +7,8 @@ import plotly.graph_objects as go
 import wordcloud
 import os
 from datetime import timedelta
+import time
+
 
 # Set page configuration
 st.set_page_config(page_title="Reddit Comment Analysis", layout="wide")
@@ -156,11 +158,11 @@ max_date_bar = filtered_sentiment_df['Timestamp'].max().to_pydatetime()
 if 'bar_date_range' not in st.session_state:
     st.session_state.bar_date_range = (min_date_bar, max_date_bar)
 
-start, end = st.session_state.bar_date_range
+start_dt, end_dt = st.session_state.bar_date_range
 
 filtered_bar_df = filtered_sentiment_df[
-    (filtered_sentiment_df['Timestamp'] >= start) &
-    (filtered_sentiment_df['Timestamp'] <= end)
+    (filtered_sentiment_df['Timestamp'] >= start_dt) &
+    (filtered_sentiment_df['Timestamp'] <= end_dt)
 ]
 
 avg_sentiment = filtered_bar_df.groupby(['Subreddit', 'Source'])[['Negative', 'Neutral', 'Positive', 'Compound']].mean().reset_index()
@@ -190,6 +192,50 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+# --- Button Symbols ---
+BACKWARD = "\u23F4"  # ⏴
+PLAY = "\u25B6"      # ▶
+PAUSE = "\u23F8"     # ⏸
+FORWARD = "\u23F5"   # ⏵
+
+if 'is_playing' not in st.session_state:
+    st.session_state.is_playing = False
+
+start_dt, end_dt = st.session_state.bar_date_range
+window_size = end_dt - start_dt
+
+# --- Buttons Row ---
+control_cols = st.columns([10, 1, 0.9, 1, 10])
+with control_cols[1]:
+    if st.button(BACKWARD):
+        new_start = start_dt - window_size
+        new_end = end_dt - window_size
+        if new_start >= min_date_bar:
+            st.session_state.bar_date_range = (new_start, new_end)
+
+with control_cols[2]:
+    if st.button(PAUSE if st.session_state.is_playing else PLAY):
+        st.session_state.is_playing = not st.session_state.is_playing
+
+with control_cols[3]:
+    if st.button(FORWARD):
+        new_start = start_dt + window_size
+        new_end = end_dt + window_size
+        if new_end <= max_date_bar:
+            st.session_state.bar_date_range = (new_start, new_end)
+
+# --- Auto-play logic ---
+if st.session_state.is_playing:
+    new_start = start_dt + window_size
+    new_end = end_dt + window_size
+    if new_end <= max_date_bar:
+        st.session_state.bar_date_range = (new_start, new_end)
+    else:
+        st.session_state.is_playing = False  # stop at end of data
+    time.sleep(1)  # delay between steps
+    st.rerun()  # rerun the script to update the slider and chart
+
+
 # Place data range slider below the bar chart
 bar_date_range = st.slider(
     "",
@@ -204,18 +250,35 @@ st.session_state.bar_date_range = bar_date_range
 
 ##############################################################################
 
-# Line chart for sentiment over time
+# Line chart for compound sentiment over time usin rolling average
 st.subheader("Sentiment Over Time")
+
+# We want the number of points N in the rolling window for each subreddit to be proportional to the subreddit volume.
+base_N = 20  # Base number of points for rolling average
+volumes = filtered_sentiment_df['Subreddit'].value_counts().to_dict()
+median_volume = pd.Series(volumes).median()
+
+rolling_results = []
+for sub, scores in gpt_sentiment_df.groupby('Subreddit'):
+    N_scaled = max(1, round(base_N * (volumes[sub] / median_volume)))
+    scores = scores.copy()
+    scores['Rolling_Compound'] = (
+    scores['Compound'].rolling(window=N_scaled, min_periods=1).mean()
+    )
+    rolling_results.append(scores)
+
+rolling_df = pd.concat(rolling_results).sort_values(['Subreddit', 'Timestamp'])
+
 fig_line = px.line(
-    filtered_sentiment_df,
+    rolling_df,
     x='Timestamp',
-    y='Compound',
+    y='Rolling_Compound',
     color='Subreddit',
-    line_group='Source',
     title="Compound Sentiment Score Over Time",
     hover_data=['Source']
 )
 st.plotly_chart(fig_line, use_container_width=True)
+
 
 # Sentiment distribution
 st.subheader("Sentiment Distribution")
