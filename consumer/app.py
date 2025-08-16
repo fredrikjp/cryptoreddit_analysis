@@ -168,6 +168,66 @@ filtered_bar_df = filtered_sentiment_df[
 avg_sentiment = filtered_bar_df.groupby(['Subreddit', 'Source'])[['Negative', 'Neutral', 'Positive', 'Compound']].mean().reset_index()
 
 
+# Animated bar chart
+# Add timestamp column to sentiment_df by message ID
+gpt_sentiment_df.merge(
+    comments_df[['ID', 'Timestamp']],
+    on=['ID'],
+    how='left'
+    )
+
+# --- Aggregation period menu ---
+freq_map = {
+    "1 Hour": "1H",
+    "1 Day": "1D",
+    "1 Week": "1W"
+}
+selected_freq_label = st.selectbox("Aggregation period", list(freq_map.keys()), index=0)
+selected_freq = freq_map[selected_freq_label]
+
+# --- Aggregate raw data ---
+df_grouped = (
+    gpt_sentiment_df
+    .groupby([
+        pd.Grouper(key='Timestamp', freq=selected_freq),
+        'Subreddit',
+        'Source'
+    ])
+    [['Negative', 'Neutral', 'Positive', 'Compound']]
+    .mean()
+    .reset_index()
+)
+
+bar_sentiment_melted = df_grouped.melt(
+    id_vars=['Timestamp', 'Subreddit', 'Source'],
+    value_vars=['Negative', 'Neutral', 'Positive', 'Compound'],
+    var_name='SentimentType',
+    value_name='Score'
+)
+
+fig_bar = px.bar(
+    bar_sentiment_melted,
+    x='Subreddit',
+    y='Score',  # melted version of Negative/Neutral/Positive
+    color='SentimentType',
+    animation_frame='Timestamp',  # this is the time axis for animation
+    barmode='group',
+    color_discrete_map={
+        'Negative': 'red',
+        'Neutral': 'gray',
+        'Positive': 'green',
+        'Compound': 'blue'
+    },
+    title="Average Sentiment Scores by Subreddit Over Time",
+    facet_col='Source'
+)
+
+# Optional: adjust animation speed
+fig_bar.layout.updatemenus[0].buttons[0].args[1]['frame']['duration'] = 800  # ms per frame
+fig_bar.layout.updatemenus[0].buttons[0].args[1]['transition']['duration'] = 500
+
+st.plotly_chart(fig_bar, use_container_width=True)
+
 # Bar chart for average sentiment
 fig_bar = px.bar(
     avg_sentiment,
