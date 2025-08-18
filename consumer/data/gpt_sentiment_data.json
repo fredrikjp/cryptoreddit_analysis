@@ -8855,6 +8855,60 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "n9dnxg0",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "n9dnxo0",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "n9dnzm5",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 1.0,
+        "compound": 0.9
+      }
+    ],
+    [
+      "n9do4ik",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "n9do4kn",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.5
+      }
+    ],
+    [
+      "n9do7bt",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -15063,6 +15117,15 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "n9do4ow",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -21437,6 +21500,60 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.1
+      }
+    ],
+    [
+      "n9dnwcg",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.05
+      }
+    ],
+    [
+      "n9do2ut",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.05
+      }
+    ],
+    [
+      "n9do3rg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n9do4e2",
+      {
+        "neg": 0.4,
+        "neu": 0.4,
+        "pos": 0.2,
+        "compound": -0.3
+      }
+    ],
+    [
+      "n9do556",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n9do585",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -30168,6 +30285,15 @@
         "pos": 0.05,
         "compound": -0.4
       }
+    ],
+    [
+      "n9dny9f",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "Chainlink": [
@@ -30304,6 +30430,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.7
+      }
+    ],
+    [
+      "n9do0a9",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
       }
     ]
   ]
