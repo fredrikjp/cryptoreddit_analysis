@@ -8747,6 +8747,60 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "n9cz7xh",
+      {
+        "neg": 0.1,
+        "neu": 0.85,
+        "pos": 0.05,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n9cz7y9",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.4,
+        "compound": 0.4
+      }
+    ],
+    [
+      "n9cz921",
+      {
+        "neg": 0.05,
+        "neu": 0.3,
+        "pos": 0.65,
+        "compound": 0.5
+      }
+    ],
+    [
+      "n9czddu",
+      {
+        "neg": 0.95,
+        "neu": 0.05,
+        "pos": 0.0,
+        "compound": -0.85
+      }
+    ],
+    [
+      "n9czdfr",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "n9czg8x",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "btc": [
@@ -22783,6 +22837,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n9cz8ob",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -27320,6 +27383,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n9czg09",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.65
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -29680,6 +29752,15 @@
         "pos": 0.6,
         "compound": 0.4
       }
+    ],
+    [
+      "n9czata",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.75
+      }
     ]
   ],
   "cardano": [
@@ -29996,6 +30077,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "n9cz70q",
+      {
+        "neg": 0.65,
+        "neu": 0.3,
+        "pos": 0.05,
+        "compound": -0.4
       }
     ]
   ],
