@@ -1,4 +1,11 @@
 import streamlit as st
+from streamlit_webrtc import webrtc_streamer, WebRtcMode
+import numpy as np
+import av
+import threading
+import queue
+from streamlit_live import start_fake_stream
+from streamlit_live import start_reddit_listener 
 import pandas as pd
 import json
 import plotly.express as px
@@ -8,14 +15,28 @@ import wordcloud
 import os
 from datetime import timedelta
 import time
+import sys, os
 
+sys.path.append(os.path.dirname(__file__))  # add current dir to sys.path
+
+
+
+st.title("📈 Live Reddit Sentiment with VADER")
 
 # Set page configuration
 st.set_page_config(page_title="Reddit Comment Analysis", layout="wide")
 
+
+st.set_page_config(page_title="Live Sentiment Demo", layout="wide")
+st.title("📈 Live Sentiment Demo (no scroll jump)")
+
 # Title and description
 st.title("Reddit Comment Analysis Dashboard")
 st.write("This dashboard displays sentiment analysis of Reddit comments from various subreddits.")
+
+
+
+
 
 # Load JSON data
 def load_json(file_path):
@@ -178,7 +199,7 @@ gpt_sentiment_df.merge(
 
 # --- Aggregation period menu ---
 freq_map = {
-    "1 Hour": "1H",
+    "1 Hour": "1h",
     "1 Day": "1D",
     "1 Week": "1W"
 }
