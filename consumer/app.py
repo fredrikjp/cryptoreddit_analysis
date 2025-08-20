@@ -1,15 +1,7 @@
 import streamlit as st
-from streamlit_webrtc import webrtc_streamer, WebRtcMode
-import numpy as np
-import av
-import threading
-import queue
-from streamlit_live import start_fake_stream
-from streamlit_live import start_reddit_listener 
 import pandas as pd
 import json
 import plotly.express as px
-from datetime import datetime
 import plotly.graph_objects as go
 import wordcloud
 import os
@@ -21,14 +13,9 @@ sys.path.append(os.path.dirname(__file__))  # add current dir to sys.path
 
 
 
-st.title("📈 Live Reddit Sentiment with VADER")
-
 # Set page configuration
 st.set_page_config(page_title="Reddit Comment Analysis", layout="wide")
 
-
-st.set_page_config(page_title="Live Sentiment Demo", layout="wide")
-st.title("📈 Live Sentiment Demo (no scroll jump)")
 
 # Title and description
 st.title("Reddit Comment Analysis Dashboard")
@@ -99,6 +86,8 @@ def process_sentiment_data(data, source):
             rows.append(row)
     return pd.DataFrame(rows)
 
+##########################################################################
+
 # Create DataFrames
 comments_df = process_comments_data(comments_data)
 gpt_sentiment_df = process_sentiment_data(gpt_sentiment_data, 'GPT')
@@ -152,6 +141,8 @@ filtered_sentiment_df = sentiment_df[
     (sentiment_df['Timestamp'].dt.date >= date_range[0]) &
     (sentiment_df['Timestamp'].dt.date <= date_range[1])
 ]
+
+####################################################################
 
 # Display top 10 comments judged by gpt sentiment
 st.header("Comments with GPT Scores")
@@ -253,86 +244,21 @@ st.plotly_chart(fig_bar, use_container_width=True)
 fig_bar = px.bar(
     avg_sentiment,
     x='Subreddit',
-    y=['Negative', 'Neutral', 'Positive'],
+    y=['Negative', 'Neutral', 'Positive', 'Compound'],
     barmode='group',
-    color_discrete_map={'Negative': 'red', 'Neutral': 'gray', 'Positive': 'green'},
+    color_discrete_map={'Negative': 'red', 'Neutral': 'gray', 'Positive': 'green', 'Compound': 'blue'},
     title="Average Sentiment Scores by Subreddit",
     facet_col='Source'
 )
 st.plotly_chart(fig_bar, use_container_width=True)
 
-# --- CSS to remove top space before slider ---
-st.markdown(
-    """
-    <style>
-    div[data-testid="stSlider"] {
-        margin-top: -20px;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
 
-# --- Button Symbols ---
-BACKWARD = "\u23F4"  # ⏴
-PLAY = "\u25B6"      # ▶
-PAUSE = "\u23F8"     # ⏸
-FORWARD = "\u23F5"   # ⏵
+#################################################################################
 
-if 'is_playing' not in st.session_state:
-    st.session_state.is_playing = False
-
-start_dt, end_dt = st.session_state.bar_date_range
-window_size = end_dt - start_dt
-
-# --- Buttons Row ---
-control_cols = st.columns([10, 1, 0.9, 1, 10])
-with control_cols[1]:
-    if st.button(BACKWARD):
-        new_start = start_dt - window_size
-        new_end = end_dt - window_size
-        if new_start >= min_date_bar:
-            st.session_state.bar_date_range = (new_start, new_end)
-
-with control_cols[2]:
-    if st.button(PAUSE if st.session_state.is_playing else PLAY):
-        st.session_state.is_playing = not st.session_state.is_playing
-
-with control_cols[3]:
-    if st.button(FORWARD):
-        new_start = start_dt + window_size
-        new_end = end_dt + window_size
-        if new_end <= max_date_bar:
-            st.session_state.bar_date_range = (new_start, new_end)
-
-# --- Auto-play logic ---
-if st.session_state.is_playing:
-    new_start = start_dt + window_size
-    new_end = end_dt + window_size
-    if new_end <= max_date_bar:
-        st.session_state.bar_date_range = (new_start, new_end)
-    else:
-        st.session_state.is_playing = False  # stop at end of data
-    time.sleep(1)  # delay between steps
-    st.rerun()  # rerun the script to update the slider and chart
-
-
-# Place data range slider below the bar chart
-bar_date_range = st.slider(
-    "",
-    min_value=min_date_bar,
-    max_value=max_date_bar,
-    value=(min_date_bar, max_date_bar),
-    step=timedelta(hours=1),
-    format="YYYY-MM-DD HH:mm"
-)
-
-st.session_state.bar_date_range = bar_date_range
-
-##############################################################################
 
 # Line chart for compound sentiment over time usin rolling average
 st.subheader("Sentiment Over Time")
+
 
 # We want the number of points N in the rolling window for each subreddit to be proportional to the subreddit volume.
 base_N = 20  # Base number of points for rolling average
