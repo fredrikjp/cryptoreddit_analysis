@@ -1,33 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7fi9ks",
-      {
-        "neg": 0.05,
-        "neu": 0.2,
-        "pos": 0.75,
-        "compound": 0.7
-      }
-    ],
-    [
-      "n7fibvn",
-      {
-        "neg": 0.0,
-        "neu": 1.0,
-        "pos": 0.0,
-        "compound": 0.0
-      }
-    ],
-    [
-      "n7fichb",
-      {
-        "neg": 0.8,
-        "neu": 0.2,
-        "pos": 0.0,
-        "compound": -0.6
-      }
-    ],
-    [
       "n7fids8",
       {
         "neg": 0.7,
@@ -8999,6 +8972,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n9p5ez3",
+      {
+        "neg": 0.3,
+        "neu": 0.1,
+        "pos": 0.6,
+        "compound": 0.55
+      }
+    ],
+    [
+      "n9p5ixo",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n9p5kqn",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.3
+      }
     ]
   ],
   "btc": [
@@ -10116,6 +10116,15 @@
         "neu": 0.3,
         "pos": 0.4,
         "compound": 0.2
+      }
+    ],
+    [
+      "n9p5fgi",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
@@ -11904,6 +11913,15 @@
     ],
     [
       "n9od1n5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n9p5mfq",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -15954,6 +15972,15 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.3
+      }
+    ],
+    [
+      "n9p5dvg",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.65
       }
     ]
   ],
@@ -23076,6 +23103,33 @@
         "pos": 0.5,
         "compound": 0.6
       }
+    ],
+    [
+      "n9p5kr9",
+      {
+        "neg": 0.03,
+        "neu": 0.27,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n9p5kz2",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "n9p5mr8",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.8
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -25511,6 +25565,15 @@
         "neu": 0.5,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "n9p5jz6",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.1
       }
     ]
   ],
