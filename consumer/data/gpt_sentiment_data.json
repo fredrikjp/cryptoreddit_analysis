@@ -1,24 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7fids8",
-      {
-        "neg": 0.7,
-        "neu": 0.3,
-        "pos": 0.0,
-        "compound": -0.7
-      }
-    ],
-    [
-      "n7fuu6s",
-      {
-        "neg": 0.9,
-        "neu": 0.1,
-        "pos": 0.0,
-        "compound": -0.7
-      }
-    ],
-    [
       "n7fuude",
       {
         "neg": 0.8,
@@ -8998,6 +8980,24 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": 0.3
+      }
+    ],
+    [
+      "n9pgnoq",
+      {
+        "neg": 0.0,
+        "neu": 0.18,
+        "pos": 0.09,
+        "compound": 0.09
+      }
+    ],
+    [
+      "n9pgro4",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.7
       }
     ]
   ],
@@ -23130,6 +23130,33 @@
         "pos": 0.7,
         "compound": 0.8
       }
+    ],
+    [
+      "n9pgk5s",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.6
+      }
+    ],
+    [
+      "n9pglfp",
+      {
+        "neg": 0.8,
+        "neu": 0.15,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "n9pgquf",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -23761,6 +23788,15 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.8
+      }
+    ],
+    [
+      "n9pgvud",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
@@ -25946,6 +25982,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n9pgu9a",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "ethtrader": [
@@ -28071,6 +28116,15 @@
         "neu": 0.4,
         "pos": 0.5,
         "compound": 0.35
+      }
+    ],
+    [
+      "n9pgn06",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.3
       }
     ]
   ],
@@ -32631,6 +32685,24 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.3
+      }
+    ],
+    [
+      "n9pgso3",
+      {
+        "neg": 0.2,
+        "neu": 0.5,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "n9pguzu",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
       }
     ]
   ],
