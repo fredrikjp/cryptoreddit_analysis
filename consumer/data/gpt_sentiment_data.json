@@ -1,15 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7lqgna",
-      {
-        "neg": 0.0,
-        "neu": 0.3,
-        "pos": 0.3,
-        "compound": 0.18
-      }
-    ],
-    [
       "n7lqkah",
       {
         "neg": 0.3,
@@ -8999,6 +8990,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "n9wycn4",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "btc": [
@@ -12179,6 +12179,15 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "n9wyb74",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.1
       }
     ]
   ],
@@ -16413,6 +16422,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "n9wy8e2",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -23886,6 +23904,51 @@
         "pos": 0.0,
         "compound": -0.5
       }
+    ],
+    [
+      "n9wy8os",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "n9wyb1r",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "n9wyctt",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "n9wyd7z",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "n9wyhcs",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -31028,6 +31091,15 @@
         "pos": 0.7,
         "compound": 0.8
       }
+    ],
+    [
+      "n9wydvn",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -33936,6 +34008,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "n9wyeam",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.5
       }
     ]
   ],
