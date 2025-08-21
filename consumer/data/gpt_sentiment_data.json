@@ -1,51 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7jt8dc",
-      {
-        "neg": 0.0,
-        "neu": 0.5,
-        "pos": 0.3,
-        "compound": 0.1
-      }
-    ],
-    [
-      "n7jt8ok",
-      {
-        "neg": 0.0,
-        "neu": 0.3,
-        "pos": 0.7,
-        "compound": 0.6
-      }
-    ],
-    [
-      "n7jtbj5",
-      {
-        "neg": 0.0,
-        "neu": 0.95,
-        "pos": 0.05,
-        "compound": 0.05
-      }
-    ],
-    [
-      "n7jtbmg",
-      {
-        "neg": 0.3,
-        "neu": 0.6,
-        "pos": 0.1,
-        "compound": -0.15
-      }
-    ],
-    [
-      "n7jtcdb",
-      {
-        "neg": 0.0,
-        "neu": 0.2,
-        "pos": 0.8,
-        "compound": 0.75
-      }
-    ],
-    [
       "n7jzt0z",
       {
         "neg": 0.0,
@@ -8999,6 +8954,51 @@
         "pos": 0.8,
         "compound": 0.6
       }
+    ],
+    [
+      "n9tyy60",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.2
+      }
+    ],
+    [
+      "n9tz2e0",
+      {
+        "neg": 0.9,
+        "neu": 0.0,
+        "pos": 0.1,
+        "compound": -0.8
+      }
+    ],
+    [
+      "n9tz2uw",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "n9tz2v4",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "n9tz4gc",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "btc": [
@@ -12081,6 +12081,15 @@
         "pos": 0.2,
         "compound": -0.1
       }
+    ],
+    [
+      "n9tywf4",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "ethereum": [
@@ -14350,6 +14359,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "n9tz0kv",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.3
       }
     ]
   ],
@@ -23552,6 +23570,33 @@
         "neu": 0.1,
         "pos": 0.0,
         "compound": 0.7
+      }
+    ],
+    [
+      "n9tyx2f",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "n9tz20b",
+      {
+        "neg": 0.1,
+        "neu": 0.5,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "n9tz27b",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.6
       }
     ]
   ],
