@@ -194,7 +194,7 @@ freq_map = {
     "1 Day": "1D",
     "1 Week": "1W"
 }
-selected_freq_label = st.selectbox("Aggregation period", list(freq_map.keys()), index=0)
+selected_freq_label = st.selectbox("Aggregation period", list(freq_map.keys()), index=1)
 selected_freq = freq_map[selected_freq_label]
 
 # --- Aggregate raw data ---
@@ -209,6 +209,16 @@ df_grouped = (
     .mean()
     .reset_index()
 )
+
+# Get all combinations of time x subreddit x source
+full_index = pd.MultiIndex.from_product(
+    [df_grouped['Timestamp'].unique(),
+     df_grouped['Subreddit'].unique(),
+     df_grouped['Source'].unique()],
+    names=['Timestamp','Subreddit','Source']
+)
+
+df_grouped = df_grouped.set_index(['Timestamp','Subreddit','Source']).reindex(full_index, fill_value=0).reset_index()
 
 bar_sentiment_melted = df_grouped.melt(
     id_vars=['Timestamp', 'Subreddit', 'Source'],
