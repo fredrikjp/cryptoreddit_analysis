@@ -1,11 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7p3xol",
-      "2025-08-09T00:20:37",
-      "aw hell naw"
-    ],
-    [
       "n7p41yc",
       "2025-08-09T00:21:30",
       "School prices sucks \ud83d\ude44"
@@ -4999,6 +4994,11 @@
       "na0grq1",
       "2025-08-22T03:23:36",
       "If you do this make sure you don't mess up any of the serial numbers. If you do it is a crime to present it as money after that."
+    ],
+    [
+      "na0mxqy",
+      "2025-08-22T04:06:43",
+      "If it dropped 99.99% against fiat to that level then that would mean something broke and bitcoin would no longer be viable."
     ]
   ],
   "btc": [
@@ -5656,6 +5656,11 @@
       "n9zo27m",
       "2025-08-22T00:25:09",
       "Update regarding the vulnerability state of the 11 password managers mentioned.\n\ntl;dr: Only LogmeOnce is still fully vulnerable. 1Password released a first fix and blog post/statement (a second fix is on the way). LastPass won't do more (if you're still using LastPass...). Every other password managers mentioned released a fix and communicated with their users about it.\n\n>**\ud83d\udfe0 1Password**  \n**Vulnerable version:**\u00a0<8.11.7.2  \n**Partially fixed:** 8.11.7  \n**Improvement:** You can now choose to have 1Password ask before it autofills logins, credit cards, or other non-credential items in your browser. You can turn on \u201cAsk before filling\u201d for certain items under Settings > Security. Please see the accompanying [security advisory](https://support.1password.com/kb/202508).  \n**Vulnerable methods:**\u00a0Parent Element, Overlay In addition to the clickjacking vulnerability,\u00a0**1Password has confusing texting in the dialog box**\u00a0when filling in a credit card. There is generic text \"item\". The user may not know that it is a credit card.   \n**Upcoming fix:** [8.11.7.2](http://8.11.7.2) (check the blog post for the details)\n\n>**\ud83d\udfe2 Bitwarden**  \n**Vulnerable version:**\u00a02025.7.0 \\*\\*Fixed: 2025.8.0 **Vulnerable methods:**\u00a0Parent Element\n\n>**\ud83d\udfe2 Dashlane**  \n**Fixed:**\u00a0v6.2531.1 (1.8.2025)  \n**Security Overview:**\u00a0[https://support.dashlane.com/hc/en-us/articles/28598967624722-Advisory-Passkey-Dialog-Clickjacking-Issue](https://support.dashlane.com/hc/en-us/articles/28598967624722-Advisory-Passkey-Dialog-Clickjacking-Issue)\n\n>**\ud83d\udfe0 Enpass**  \n**Vulnerable version:**\u00a06.11.6 (latest) **Vulnerable methods:**\u00a0Parent Element, Overlay  \n**Fixed Method:**\u00a0Extension Element <6.11.4.2 (19.5.2025)  \n**Release Notes:**\u00a0[https://www.enpass.io/release-notes/enpass-browser-extensions/](https://www.enpass.io/release-notes/enpass-browser-extensions/)\n\n>**\ud83d\udfe0 iCloud Passwords**  \n**Vulnerable version:**\u00a03.1.25 (latest) / *Note from commenter: partially fixed, no other infos from Apple at this time*  \n**Methods:**\u00a0Overlay  \n**Fixed Method:**\u00a0Extension Element <2.3.22 (12.8.2024)  \n**Acknowledgements:**\u00a0August 2024 [https://support.apple.com/en-us/122162](https://support.apple.com/en-us/122162)\n\n>**\ud83d\udfe2 Keeper**  \n**Fixed Methods:**  \nExtension Element <17.1.1 (1.5.2025)  \nOverlay <17.2.0 (29.7.2025)\n\n>**\ud83d\udfe0 \u274c LastPass**  \n**Vulnerable version:**\u00a04.146.1 (latest)  \n**Vulnerable methods:**\u00a0Parent Element, Overlay  \n**Fixed:**\u00a0Credit Card, Personal Data <=4.125.0 (15.12.2023) / *Note from commenter: partially fixed, won't make further change.*\n\n>**\ud83d\udd34 LogMeOnce**  \n**Vulnerable version:**\u00a07.12.4 (latest)  \n**Vulnerable methods:**\u00a0Extension Element, Parent Element, Overlay\n\n>**\ud83d\udfe2 NordPass**  \n**Fixed:**\u00a0<5.13.24 (15.2.2024)\n\n>**\ud83d\udfe2 ProtonPass**  \n**Fixed Methods:**  \nExtension Element, Parent Element <1.9.5 (22.12.2023)  \nExtension Element <=1.31.0 ([CRX](https://marektoth.com/files/ghmbeldphafepmbegfdlkpapadhbakde_1_31_0.crx))  \nOverlay <=1.31.4  \n**Acknowledgements:**\u00a0[https://proton.me/blog/protonmail-security-contributors](https://proton.me/blog/protonmail-security-contributors)\n\n>**\ud83d\udfe2 RoboForm**  \n**Fixed Methods:**  \nExtension Element <9.5.6 (7.12.2023)  \nParent Element, Overlay <9.7.6 (25.7.2024)  \n**Release Notes:**\u00a0[https://www.roboform.com/news-ext-chrome](https://www.roboform.com/news-ext-chrome)\n\nLong story short: only web extensions are impacted. Desktop and mobile apps are safe. If you're using a web browser extension, make sure to turn off autofill until a fix is released. If you're using a Chromium web browser, you can also change the \"Site access\" setting of your password manager extension to \"On click\".\n\nIf it wasn't the case already (assuming that your threat model requires it):\n\n>2FA should be strictly separated from login credentials - when storing everything in one place, so the attacker could exploit vulnerable password managers and gain access to the account even with 2FA enabled."
+    ],
+    [
+      "na0mvml",
+      "2025-08-22T04:06:43",
+      "How abt bitcoin.com wallet?"
     ]
   ],
   "solana": [
@@ -13479,6 +13484,16 @@
       "na0gx5s",
       "2025-08-22T03:23:36",
       "Pair trading"
+    ],
+    [
+      "na0mwxg",
+      "2025-08-22T04:06:43",
+      "I think this pull back was the market digesting the fact there won\u2019t be a rate cut. Tomorrow could be the reversal."
+    ],
+    [
+      "na0mxyb",
+      "2025-08-22T04:06:43",
+      "According to Tom Lee, Ethereum is the next Bitcoin, with billions of institutional dollars flowing into ETH as we speak. They might know something we don't?"
     ]
   ],
   "SolanaMemeCoins": [
@@ -19230,6 +19245,11 @@
       "na0gwv4",
       "2025-08-22T03:23:36",
       "That\u2019s what I was thinking too. They don\u2019t seem to mind when I give, but I\u2019m getting all these warnings about withdrawing. I mean it\u2019s a good problem to have, but the solution does not seem evident. I\u2019m gonna look into that cold wallet thing."
+    ],
+    [
+      "na0mwwd",
+      "2025-08-22T04:06:43",
+      "I think with recent Aerodrome partnership with Coinbase, I see some big rise happening for AERO. It might reach Uniswap mcap\n\nSo, $AERO token and you can stake it across different places as well to earn high yields"
     ]
   ],
   "cardano": [
