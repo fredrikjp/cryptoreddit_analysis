@@ -1,51 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7ogg71",
-      {
-        "neg": 0.2,
-        "neu": 0.6,
-        "pos": 0.2,
-        "compound": 0.1
-      }
-    ],
-    [
-      "n7ogkmu",
-      {
-        "neg": 0.4,
-        "neu": 0.4,
-        "pos": 0.2,
-        "compound": -0.2
-      }
-    ],
-    [
-      "n7or3uj",
-      {
-        "neg": 0.7,
-        "neu": 0.2,
-        "pos": 0.1,
-        "compound": -0.6
-      }
-    ],
-    [
-      "n7or5sr",
-      {
-        "neg": 0.0,
-        "neu": 0.9,
-        "pos": 0.1,
-        "compound": 0.1
-      }
-    ],
-    [
-      "n7or5vj",
-      {
-        "neg": 0.0,
-        "neu": 1.0,
-        "pos": 0.0,
-        "compound": 0.0
-      }
-    ],
-    [
       "n7orbiu",
       {
         "neg": 0.9,
@@ -8999,6 +8954,51 @@
         "pos": 0.0,
         "compound": -0.5
       }
+    ],
+    [
+      "na09hyp",
+      {
+        "neg": 0.2,
+        "neu": 0.75,
+        "pos": 0.05,
+        "compound": -0.4
+      }
+    ],
+    [
+      "na09lzp",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "na09mej",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "na09mqa",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "na09o02",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
     ]
   ],
   "btc": [
@@ -12233,6 +12233,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "na09idz",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
       }
     ]
   ],
@@ -24219,6 +24228,24 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "na09ey0",
+      {
+        "neg": 0.05,
+        "neu": 0.4,
+        "pos": 0.55,
+        "compound": 0.5
+      }
+    ],
+    [
+      "na09htx",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -29557,6 +29584,15 @@
         "pos": 0.05,
         "compound": 0.05
       }
+    ],
+    [
+      "na09jog",
+      {
+        "neg": 0.05,
+        "neu": 0.35,
+        "pos": 0.6,
+        "compound": 0.63
+      }
     ]
   ],
   "sui": [
@@ -34511,6 +34547,15 @@
         "neg": 0.0,
         "neu": 0.2,
         "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "na09npc",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
         "compound": 0.0
       }
     ]
