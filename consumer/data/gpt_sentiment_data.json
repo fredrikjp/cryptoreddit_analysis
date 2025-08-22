@@ -1,15 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7orbiu",
-      {
-        "neg": 0.9,
-        "neu": 0.1,
-        "pos": 0.0,
-        "compound": -0.85
-      }
-    ],
-    [
       "n7p3xol",
       {
         "neg": 0.9,
@@ -8998,6 +8989,15 @@
         "neu": 0.1,
         "pos": 0.1,
         "compound": -0.7
+      }
+    ],
+    [
+      "na0grq1",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
@@ -24246,6 +24246,15 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "na0gx5s",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -27287,6 +27296,15 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "na0gsyo",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
     ]
   ],
   "ethtrader": [
@@ -29592,6 +29610,15 @@
         "neu": 0.35,
         "pos": 0.6,
         "compound": 0.63
+      }
+    ],
+    [
+      "na0gq7p",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -34557,6 +34584,15 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": 0.0
+      }
+    ],
+    [
+      "na0gwv4",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
       }
     ]
   ],
