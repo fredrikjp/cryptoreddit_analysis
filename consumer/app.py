@@ -8,6 +8,8 @@ import os
 from datetime import timedelta
 import time
 import sys, os
+import numpy as np
+
 
 sys.path.append(os.path.dirname(__file__))  # add current dir to sys.path
 
@@ -211,9 +213,22 @@ df_grouped = (
 )
 
 # Rolling average for compound if 1 hour and 1 day selected
-if selected_freq in ['1h', '1D']:
+if selected_freq == '1h':
     df_grouped['Compound'] = df_grouped.groupby(['Subreddit', 'Source'])['Compound'].transform(
         lambda x: x.rolling(window=9, min_periods=1).mean()
+    )
+elif selected_freq == '1D':
+    df_grouped['Positive'] = df_grouped.groupby(['Subreddit', 'Source'])['Positive'].transform(
+        lambda x: x.rolling(window=2, min_periods=1).mean()
+    )
+    df_grouped['Negative'] = df_grouped.groupby(['Subreddit', 'Source'])['Negative'].transform(
+        lambda x: x.rolling(window=2, min_periods=1).mean()
+    )
+    df_grouped['Neutral'] = df_grouped.groupby(['Subreddit', 'Source'])['Neutral'].transform(
+        lambda x: x.rolling(window=2, min_periods=1).mean()
+    )
+    df_grouped['Compound'] = df_grouped.groupby(['Subreddit', 'Source'])['Compound'].transform(
+        lambda x: x.rolling(window=2, min_periods=1).mean()
     )
 
 
@@ -227,29 +242,47 @@ full_index = pd.MultiIndex.from_product(
 
 df_grouped = df_grouped.set_index(['Timestamp','Subreddit','Source']).reindex(full_index, fill_value=None).reset_index()
 
+# --- create Compound Neg and mask negatives from Compound ---
+df_plot = df_grouped.copy()
+
+df_plot["Compound Neg"] = np.where(df_plot["Compound"] < 0, -df_plot["Compound"], np.nan)
+df_plot["Compound"]     = np.where(df_plot["Compound"] < 0, np.nan, df_plot["Compound"])
+
+df_plot = df_plot.sort_values(["Timestamp", "Subreddit", "Source"]).reset_index(drop=True)
+
+
+
 # Make the bars value stay the same for each time period it does not have any data
 # Print scores of Btc subreddit for debugging
-for timestamp in df_grouped['Timestamp'].unique():
-    for subreddit in df_grouped['Subreddit'].unique():
+for timestamp in df_plot['Timestamp'].unique():
+    for subreddit in df_plot['Subreddit'].unique():
         # If value is None, fill it with the last available value
-        if df_grouped.loc[(df_grouped['Timestamp'] == timestamp) & (df_grouped['Subreddit'] == subreddit), 'Negative'].isnull().any():
+        if df_plot.loc[(df_plot['Timestamp'] == timestamp) & (df_plot['Subreddit'] == subreddit), 'Negative'].isnull().any():
             # Get the last available scores for this subreddit
-            last_scores = df_grouped[
-                (df_grouped['Subreddit'] == subreddit) &
-                (df_grouped['Timestamp'] < timestamp)
+            last_scores = df_plot[
+                (df_plot['Subreddit'] == subreddit) &
+                (df_plot['Timestamp'] < timestamp)
             ].tail(1)
             if not last_scores.empty:
-                df_grouped.loc[
-                    (df_grouped['Timestamp'] == timestamp) & (df_grouped['Subreddit'] == subreddit),
-                    ['Negative', 'Neutral', 'Positive', 'Compound']
-                ] = last_scores[['Negative', 'Neutral', 'Positive', 'Compound']].values[0]
+                df_plot.loc[
+                    (df_plot['Timestamp'] == timestamp) & (df_plot['Subreddit'] == subreddit),
+                    ['Negative', 'Neutral', 'Positive', 'Compound', 'Compound Neg']
+                ] = last_scores[['Negative', 'Neutral', 'Positive', 'Compound', 'Compound Neg']].values[0]
 
-bar_sentiment_melted = df_grouped.melt(
+bar_sentiment_melted = df_plot.melt(
     id_vars=['Timestamp', 'Subreddit', 'Source'],
-    value_vars=['Negative', 'Neutral', 'Positive', 'Compound'],
+    value_vars=['Negative', 'Neutral', 'Positive', 'Compound', 'Compound Neg'],
     var_name='SentimentType',
     value_name='Score'
 )
+
+# (optional) consistent legend/order
+order = ["Negative", "Neutral", "Positive", "Compound", "Compound Neg"]
+bar_sentiment_melted["SentimentType"] = pd.Categorical(bar_sentiment_melted["SentimentType"], categories=order, ordered=True)
+
+
+
+
 
 fig_bar = px.bar(
     bar_sentiment_melted,
@@ -263,6 +296,7 @@ fig_bar = px.bar(
         'Neutral': 'gray',
         'Positive': 'green',
         'Compound': 'blue'
+        ,'Compound Neg': 'black'
     },
     title="Average Sentiment Scores by Subreddit Over Time",
     facet_col='Source'
