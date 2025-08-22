@@ -1,42 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7qnia4",
-      {
-        "neg": 0.0,
-        "neu": 1.0,
-        "pos": 0.0,
-        "compound": 0.0
-      }
-    ],
-    [
-      "n7qnkjy",
-      {
-        "neg": 0.0,
-        "neu": 0.1,
-        "pos": 0.9,
-        "compound": 0.85
-      }
-    ],
-    [
-      "n7qnkzh",
-      {
-        "neg": 0.0,
-        "neu": 0.5599999999999999,
-        "pos": 0.24,
-        "compound": 0.32000000000000006
-      }
-    ],
-    [
-      "n7qnlht",
-      {
-        "neg": 0.6,
-        "neu": 0.4,
-        "pos": 0.0,
-        "compound": -0.5
-      }
-    ],
-    [
       "n7qnnck",
       {
         "neg": 0.4,
@@ -8998,6 +8962,42 @@
         "neu": 0.0,
         "pos": 0.9,
         "compound": 0.7
+      }
+    ],
+    [
+      "na27akc",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.8,
+        "compound": 0.6
+      }
+    ],
+    [
+      "na27cja",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "na27e7m",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.7
+      }
+    ],
+    [
+      "na27hqn",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
@@ -24408,6 +24408,69 @@
         "pos": 0.3,
         "compound": 0.1
       }
+    ],
+    [
+      "na27aqq",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "na27b0v",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "na27c03",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "na27dmr",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "na27do8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "na27g5v",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "na27jvz",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -27467,6 +27530,15 @@
         "pos": 0.2,
         "compound": 0.2
       }
+    ],
+    [
+      "na27bae",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "ethtrader": [
@@ -29854,6 +29926,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "na27ab6",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.0
+      }
+    ],
+    [
+      "na27etw",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.85
+      }
     ]
   ],
   "sui": [
@@ -30107,6 +30197,15 @@
         "neu": 0.4,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "na27b4w",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.4
       }
     ]
   ],
@@ -31873,6 +31972,33 @@
         "neu": 0.8,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "na27ddp",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.8
+      }
+    ],
+    [
+      "na27h98",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "na27kbr",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
       }
     ]
   ],
@@ -34879,6 +35005,24 @@
       {
         "neg": 0.0,
         "neu": 0.3,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "na27gfx",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "na27hos",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
       }
