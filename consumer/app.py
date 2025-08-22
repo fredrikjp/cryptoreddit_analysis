@@ -210,6 +210,13 @@ df_grouped = (
     .reset_index()
 )
 
+# Rolling average for compound if 1 hour and 1 day selected
+if selected_freq in ['1h', '1D']:
+    df_grouped['Compound'] = df_grouped.groupby(['Subreddit', 'Source'])['Compound'].transform(
+        lambda x: x.rolling(window=9, min_periods=1).mean()
+    )
+
+
 # Get all combinations of time x subreddit x source
 full_index = pd.MultiIndex.from_product(
     [df_grouped['Timestamp'].unique(),
@@ -218,7 +225,24 @@ full_index = pd.MultiIndex.from_product(
     names=['Timestamp','Subreddit','Source']
 )
 
-df_grouped = df_grouped.set_index(['Timestamp','Subreddit','Source']).reindex(full_index, fill_value=0).reset_index()
+df_grouped = df_grouped.set_index(['Timestamp','Subreddit','Source']).reindex(full_index, fill_value=None).reset_index()
+
+# Make the bars value stay the same for each time period it does not have any data
+# Print scores of Btc subreddit for debugging
+for timestamp in df_grouped['Timestamp'].unique():
+    for subreddit in df_grouped['Subreddit'].unique():
+        # If value is None, fill it with the last available value
+        if df_grouped.loc[(df_grouped['Timestamp'] == timestamp) & (df_grouped['Subreddit'] == subreddit), 'Negative'].isnull().any():
+            # Get the last available scores for this subreddit
+            last_scores = df_grouped[
+                (df_grouped['Subreddit'] == subreddit) &
+                (df_grouped['Timestamp'] < timestamp)
+            ].tail(1)
+            if not last_scores.empty:
+                df_grouped.loc[
+                    (df_grouped['Timestamp'] == timestamp) & (df_grouped['Subreddit'] == subreddit),
+                    ['Negative', 'Neutral', 'Positive', 'Compound']
+                ] = last_scores[['Negative', 'Neutral', 'Positive', 'Compound']].values[0]
 
 bar_sentiment_melted = df_grouped.melt(
     id_vars=['Timestamp', 'Subreddit', 'Source'],
