@@ -1,11 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7nt84d",
-      "2025-08-08T20:06:47",
-      "The energy in Proof of Work isn\u2019t waste, it\u2019s what gives Bitcoin real world resistance to control. As Jason Lowery explains in Softwar, PoW physically constrains power through energy, like digital kinetic force. Proof of Stake may use less energy, but it centralizes control in the hands of the wealthy, turning the system into a plutocracy. PoW trades efficiency for true decentralization and sovereignty and that\u2019s the whole point. Nobody will ever be able to deny or reverse your transaction on Bitcoin, Vitalik can."
-    ],
-    [
       "n7nt96y",
       "2025-08-08T20:06:47",
       "I used to be an activist about it. I would be sending people bitcoin from my phone, I would talk about it, I hosted seminars about it at work back in 2012. I tried to get friends and colleagues to split the cost of a GPU mining rig in 2011. Nothing really made a difference because people just thought I was a kook.\n\nThen I worked with people for a few years that were bitcoin 24x7 and it was amazing!\n\nNow when people ask me about bitcoin I just brush them off and move on. I never bring it up myself."
@@ -4999,6 +4994,11 @@
       "n9zaxcg",
       "2025-08-21T23:05:53",
       "I trust you redditor for 3 weeks"
+    ],
+    [
+      "n9zo4ef",
+      "2025-08-22T00:25:09",
+      "He said bitcoin is for criminals and money laundering."
     ]
   ],
   "btc": [
@@ -5651,6 +5651,11 @@
       "n9xntv1",
       "2025-08-21T18:08:10",
       "hell, time goes by, got old over it"
+    ],
+    [
+      "n9zo27m",
+      "2025-08-22T00:25:09",
+      "Update regarding the vulnerability state of the 11 password managers mentioned.\n\ntl;dr: Only LogmeOnce is still fully vulnerable. 1Password released a first fix and blog post/statement (a second fix is on the way). LastPass won't do more (if you're still using LastPass...). Every other password managers mentioned released a fix and communicated with their users about it.\n\n>**\ud83d\udfe0 1Password**  \n**Vulnerable version:**\u00a0<8.11.7.2  \n**Partially fixed:** 8.11.7  \n**Improvement:** You can now choose to have 1Password ask before it autofills logins, credit cards, or other non-credential items in your browser. You can turn on \u201cAsk before filling\u201d for certain items under Settings > Security. Please see the accompanying [security advisory](https://support.1password.com/kb/202508).  \n**Vulnerable methods:**\u00a0Parent Element, Overlay In addition to the clickjacking vulnerability,\u00a0**1Password has confusing texting in the dialog box**\u00a0when filling in a credit card. There is generic text \"item\". The user may not know that it is a credit card.   \n**Upcoming fix:** [8.11.7.2](http://8.11.7.2) (check the blog post for the details)\n\n>**\ud83d\udfe2 Bitwarden**  \n**Vulnerable version:**\u00a02025.7.0 \\*\\*Fixed: 2025.8.0 **Vulnerable methods:**\u00a0Parent Element\n\n>**\ud83d\udfe2 Dashlane**  \n**Fixed:**\u00a0v6.2531.1 (1.8.2025)  \n**Security Overview:**\u00a0[https://support.dashlane.com/hc/en-us/articles/28598967624722-Advisory-Passkey-Dialog-Clickjacking-Issue](https://support.dashlane.com/hc/en-us/articles/28598967624722-Advisory-Passkey-Dialog-Clickjacking-Issue)\n\n>**\ud83d\udfe0 Enpass**  \n**Vulnerable version:**\u00a06.11.6 (latest) **Vulnerable methods:**\u00a0Parent Element, Overlay  \n**Fixed Method:**\u00a0Extension Element <6.11.4.2 (19.5.2025)  \n**Release Notes:**\u00a0[https://www.enpass.io/release-notes/enpass-browser-extensions/](https://www.enpass.io/release-notes/enpass-browser-extensions/)\n\n>**\ud83d\udfe0 iCloud Passwords**  \n**Vulnerable version:**\u00a03.1.25 (latest) / *Note from commenter: partially fixed, no other infos from Apple at this time*  \n**Methods:**\u00a0Overlay  \n**Fixed Method:**\u00a0Extension Element <2.3.22 (12.8.2024)  \n**Acknowledgements:**\u00a0August 2024 [https://support.apple.com/en-us/122162](https://support.apple.com/en-us/122162)\n\n>**\ud83d\udfe2 Keeper**  \n**Fixed Methods:**  \nExtension Element <17.1.1 (1.5.2025)  \nOverlay <17.2.0 (29.7.2025)\n\n>**\ud83d\udfe0 \u274c LastPass**  \n**Vulnerable version:**\u00a04.146.1 (latest)  \n**Vulnerable methods:**\u00a0Parent Element, Overlay  \n**Fixed:**\u00a0Credit Card, Personal Data <=4.125.0 (15.12.2023) / *Note from commenter: partially fixed, won't make further change.*\n\n>**\ud83d\udd34 LogMeOnce**  \n**Vulnerable version:**\u00a07.12.4 (latest)  \n**Vulnerable methods:**\u00a0Extension Element, Parent Element, Overlay\n\n>**\ud83d\udfe2 NordPass**  \n**Fixed:**\u00a0<5.13.24 (15.2.2024)\n\n>**\ud83d\udfe2 ProtonPass**  \n**Fixed Methods:**  \nExtension Element, Parent Element <1.9.5 (22.12.2023)  \nExtension Element <=1.31.0 ([CRX](https://marektoth.com/files/ghmbeldphafepmbegfdlkpapadhbakde_1_31_0.crx))  \nOverlay <=1.31.4  \n**Acknowledgements:**\u00a0[https://proton.me/blog/protonmail-security-contributors](https://proton.me/blog/protonmail-security-contributors)\n\n>**\ud83d\udfe2 RoboForm**  \n**Fixed Methods:**  \nExtension Element <9.5.6 (7.12.2023)  \nParent Element, Overlay <9.7.6 (25.7.2024)  \n**Release Notes:**\u00a0[https://www.roboform.com/news-ext-chrome](https://www.roboform.com/news-ext-chrome)\n\nLong story short: only web extensions are impacted. Desktop and mobile apps are safe. If you're using a web browser extension, make sure to turn off autofill until a fix is released. If you're using a Chromium web browser, you can also change the \"Site access\" setting of your password manager extension to \"On click\".\n\nIf it wasn't the case already (assuming that your threat model requires it):\n\n>2FA should be strictly separated from login credentials - when storing everything in one place, so the attacker could exploit vulnerable password managers and gain access to the account even with 2FA enabled."
     ]
   ],
   "solana": [
@@ -8065,6 +8070,11 @@
       "n9w9gx2",
       "2025-08-21T14:06:36",
       "Degenerate here! If AI \u201cbubble\u201d \u201cpops\u201d that would imply a mega drop in the S&P and we would of course also be cooked."
+    ],
+    [
+      "n9zo3jh",
+      "2025-08-22T00:25:09",
+      "Update regarding the vulnerability state of the 11 password managers mentioned.\n\ntl;dr: Only LogmeOnce is still fully vulnerable. 1Password released a first fix and blog post/statement (a second fix is on the way). LastPass won't do more (if you're still using LastPass...). Every other password managers mentioned released a fix and communicated with their users about it.\n\n>**\ud83d\udfe0 1Password**  \n**Vulnerable version:**\u00a0<8.11.7.2  \n**Partially fixed:** 8.11.7  \n**Improvement:** You can now choose to have 1Password ask before it autofills logins, credit cards, or other non-credential items in your browser. You can turn on \u201cAsk before filling\u201d for certain items under Settings > Security. Please see the accompanying [security advisory](https://support.1password.com/kb/202508).  \n**Vulnerable methods:**\u00a0Parent Element, Overlay In addition to the clickjacking vulnerability,\u00a0**1Password has confusing texting in the dialog box**\u00a0when filling in a credit card. There is generic text \"item\". The user may not know that it is a credit card.   \n**Upcoming fix:** [8.11.7.2](http://8.11.7.2) (check the blog post for the details)\n\n>**\ud83d\udfe2 Bitwarden**  \n**Vulnerable version:**\u00a02025.7.0 \\*\\*Fixed: 2025.8.0 **Vulnerable methods:**\u00a0Parent Element\n\n>**\ud83d\udfe2 Dashlane**  \n**Fixed:**\u00a0v6.2531.1 (1.8.2025)  \n**Security Overview:**\u00a0[https://support.dashlane.com/hc/en-us/articles/28598967624722-Advisory-Passkey-Dialog-Clickjacking-Issue](https://support.dashlane.com/hc/en-us/articles/28598967624722-Advisory-Passkey-Dialog-Clickjacking-Issue)\n\n>**\ud83d\udfe0 Enpass**  \n**Vulnerable version:**\u00a06.11.6 (latest) **Vulnerable methods:**\u00a0Parent Element, Overlay  \n**Fixed Method:**\u00a0Extension Element <6.11.4.2 (19.5.2025)  \n**Release Notes:**\u00a0[https://www.enpass.io/release-notes/enpass-browser-extensions/](https://www.enpass.io/release-notes/enpass-browser-extensions/)\n\n>**\ud83d\udfe0 iCloud Passwords**  \n**Vulnerable version:**\u00a03.1.25 (latest) / *Note from commenter: partially fixed, no other infos from Apple at this time*  \n**Methods:**\u00a0Overlay  \n**Fixed Method:**\u00a0Extension Element <2.3.22 (12.8.2024)  \n**Acknowledgements:**\u00a0August 2024 [https://support.apple.com/en-us/122162](https://support.apple.com/en-us/122162)\n\n>**\ud83d\udfe2 Keeper**  \n**Fixed Methods:**  \nExtension Element <17.1.1 (1.5.2025)  \nOverlay <17.2.0 (29.7.2025)\n\n>**\ud83d\udfe0 \u274c LastPass**  \n**Vulnerable version:**\u00a04.146.1 (latest)  \n**Vulnerable methods:**\u00a0Parent Element, Overlay  \n**Fixed:**\u00a0Credit Card, Personal Data <=4.125.0 (15.12.2023) / *Note from commenter: partially fixed, won't make further change.*\n\n>**\ud83d\udd34 LogMeOnce**  \n**Vulnerable version:**\u00a07.12.4 (latest)  \n**Vulnerable methods:**\u00a0Extension Element, Parent Element, Overlay\n\n>**\ud83d\udfe2 NordPass**  \n**Fixed:**\u00a0<5.13.24 (15.2.2024)\n\n>**\ud83d\udfe2 ProtonPass**  \n**Fixed Methods:**  \nExtension Element, Parent Element <1.9.5 (22.12.2023)  \nExtension Element <=1.31.0 ([CRX](https://marektoth.com/files/ghmbeldphafepmbegfdlkpapadhbakde_1_31_0.crx))  \nOverlay <=1.31.4  \n**Acknowledgements:**\u00a0[https://proton.me/blog/protonmail-security-contributors](https://proton.me/blog/protonmail-security-contributors)\n\n>**\ud83d\udfe2 RoboForm**  \n**Fixed Methods:**  \nExtension Element <9.5.6 (7.12.2023)  \nParent Element, Overlay <9.7.6 (25.7.2024)  \n**Release Notes:**\u00a0[https://www.roboform.com/news-ext-chrome](https://www.roboform.com/news-ext-chrome)\n\nLong story short: only web extensions are impacted. Desktop and mobile apps are safe. If you're using a web browser extension, make sure to turn off autofill until a fix is released. If you're using a Chromium web browser, you can also change the \"Site access\" setting of your password manager extension to \"On click\".\n\nIf it wasn't the case already (assuming that your threat model requires it):\n\n>2FA should be strictly separated from login credentials - when storing everything in one place, so the attacker could exploit vulnerable password managers and gain access to the account even with 2FA enabled."
     ]
   ],
   "dogecoin": [
@@ -9162,6 +9172,11 @@
       "n9xo4gs",
       "2025-08-21T18:08:56",
       "I had just started trading three months earlier everything was in doge. I made big cash and I thought damn this trading stuff is easy. I just made close to 50 K."
+    ],
+    [
+      "n9zo5ch",
+      "2025-08-22T00:25:36",
+      "I've been rolling for several years had a little more than that. Just gotta be patient"
     ]
   ],
   "CryptoCurrency": [
@@ -13409,6 +13424,21 @@
       "n9zaxs2",
       "2025-08-21T23:05:53",
       "Lmao you\u2019re just figuring this out now? Neither are the large asset managers like blackrock and blackstone that are pumping your bags with their bullshit ETFs."
+    ],
+    [
+      "n9znx7b",
+      "2025-08-22T00:25:09",
+      "Damn, JPow hasn't even spoken."
+    ],
+    [
+      "n9zo6h6",
+      "2025-08-22T00:25:36",
+      "Update regarding the vulnerability state of the 11 password managers mentioned.\n\ntl;dr: Only LogmeOnce is still fully vulnerable. 1Password released a first fix and blog post/statement (a second fix is on the way). LastPass won't do more (if you're still using LastPass...). Every other password managers mentioned released a fix and communicated with their users about it.\n\n>**\ud83d\udfe0 1Password**  \n**Vulnerable version:**\u00a0<8.11.7.2  \n**Partially fixed:** 8.11.7  \n**Improvement:** You can now choose to have 1Password ask before it autofills logins, credit cards, or other non-credential items in your browser. You can turn on \u201cAsk before filling\u201d for certain items under Settings > Security. Please see the accompanying [security advisory](https://support.1password.com/kb/202508).  \n**Vulnerable methods:**\u00a0Parent Element, Overlay In addition to the clickjacking vulnerability,\u00a0**1Password has confusing texting in the dialog box**\u00a0when filling in a credit card. There is generic text \"item\". The user may not know that it is a credit card.   \n**Upcoming fix:** [8.11.7.2](http://8.11.7.2) (check the blog post for the details)\n\n>**\ud83d\udfe2 Bitwarden**  \n**Vulnerable version:**\u00a02025.7.0 \\*\\*Fixed: 2025.8.0 **Vulnerable methods:**\u00a0Parent Element\n\n>**\ud83d\udfe2 Dashlane**  \n**Fixed:**\u00a0v6.2531.1 (1.8.2025)  \n**Security Overview:**\u00a0[https://support.dashlane.com/hc/en-us/articles/28598967624722-Advisory-Passkey-Dialog-Clickjacking-Issue](https://support.dashlane.com/hc/en-us/articles/28598967624722-Advisory-Passkey-Dialog-Clickjacking-Issue)\n\n>**\ud83d\udfe0 Enpass**  \n**Vulnerable version:**\u00a06.11.6 (latest) **Vulnerable methods:**\u00a0Parent Element, Overlay  \n**Fixed Method:**\u00a0Extension Element <6.11.4.2 (19.5.2025)  \n**Release Notes:**\u00a0[https://www.enpass.io/release-notes/enpass-browser-extensions/](https://www.enpass.io/release-notes/enpass-browser-extensions/)\n\n>**\ud83d\udfe0 iCloud Passwords**  \n**Vulnerable version:**\u00a03.1.25 (latest) / *Note from commenter: partially fixed, no other infos from Apple at this time*  \n**Methods:**\u00a0Overlay  \n**Fixed Method:**\u00a0Extension Element <2.3.22 (12.8.2024)  \n**Acknowledgements:**\u00a0August 2024 [https://support.apple.com/en-us/122162](https://support.apple.com/en-us/122162)\n\n>**\ud83d\udfe2 Keeper**  \n**Fixed Methods:**  \nExtension Element <17.1.1 (1.5.2025)  \nOverlay <17.2.0 (29.7.2025)\n\n>**\ud83d\udfe0 \u274c LastPass**  \n**Vulnerable version:**\u00a04.146.1 (latest)  \n**Vulnerable methods:**\u00a0Parent Element, Overlay  \n**Fixed:**\u00a0Credit Card, Personal Data <=4.125.0 (15.12.2023) / *Note from commenter: partially fixed, won't make further change.*\n\n>**\ud83d\udd34 LogMeOnce**  \n**Vulnerable version:**\u00a07.12.4 (latest)  \n**Vulnerable methods:**\u00a0Extension Element, Parent Element, Overlay\n\n>**\ud83d\udfe2 NordPass**  \n**Fixed:**\u00a0<5.13.24 (15.2.2024)\n\n>**\ud83d\udfe2 ProtonPass**  \n**Fixed Methods:**  \nExtension Element, Parent Element <1.9.5 (22.12.2023)  \nExtension Element <=1.31.0 ([CRX](https://marektoth.com/files/ghmbeldphafepmbegfdlkpapadhbakde_1_31_0.crx))  \nOverlay <=1.31.4  \n**Acknowledgements:**\u00a0[https://proton.me/blog/protonmail-security-contributors](https://proton.me/blog/protonmail-security-contributors)\n\n>**\ud83d\udfe2 RoboForm**  \n**Fixed Methods:**  \nExtension Element <9.5.6 (7.12.2023)  \nParent Element, Overlay <9.7.6 (25.7.2024)  \n**Release Notes:**\u00a0[https://www.roboform.com/news-ext-chrome](https://www.roboform.com/news-ext-chrome)\n\nLong story short: only web extensions are impacted. Desktop and mobile apps are safe. If you're using a web browser extension, make sure to turn off autofill until a fix is released. If you're using a Chromium web browser, you can also change the \"Site access\" setting of your password manager extension to \"On click\".\n\nIf it wasn't the case already (assuming that your threat model requires it):\n\n>2FA should be strictly separated from login credentials - when storing everything in one place, so the attacker could exploit vulnerable password managers and gain access to the account even with 2FA enabled."
+    ],
+    [
+      "n9zo6jl",
+      "2025-08-22T00:25:36",
+      "Not really an illusion of popularity but that's okay, to have over 59 billion tokens in circulation and be worth 3 bucks a token give or take is popularity beyond simple marketing. I beleive your a fan of chainlink (great token by the way I hold both!) If it had 59 billion tokens its price would be roughly .40 cents per token. Xrp has a demand that is backed by extreme popularity regardless of just fundamentals. I agree that the partnerships are overblown to some degree and the lawsuit put a damper, and they are playing some catch up but also have some niches they can enter."
     ]
   ],
   "SolanaMemeCoins": [
@@ -14378,6 +14408,11 @@
       "n9wlo8z",
       "2025-08-21T15:06:51",
       "Thank you for your submission on r/Memecoins, Join Crypto Other Subreddits:\n\n- r/MemecoinsOnSui\n- r/MemecoinMoonshots\n- r/SolanaNFT\n\nAlso check out the official discord for r/Memecoins:\nhttps://discord.gg/YM9sSDbsBh\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/memecoins) if you have any questions or concerns.*"
+    ],
+    [
+      "n9znymm",
+      "2025-08-22T00:25:09",
+      "100%"
     ]
   ],
   "BitcoinMarkets": [
@@ -16359,6 +16394,16 @@
       "n9ycoh9",
       "2025-08-21T20:07:10",
       "Your post was removed from r/ethtrader because media posts are reserved for special members. Please visit [this link] (https://donut-dashboard.com/#/membership) to learn more or to purchase a membership.  Otherwise, you can re-submit with a link to the media in the body of the post."
+    ],
+    [
+      "n9zo6lm",
+      "2025-08-22T00:25:36",
+      "!topics"
+    ],
+    [
+      "n9zo715",
+      "2025-08-22T00:25:36",
+      "The following topics are currently at or over the limit:\n\n- Stables (2 / 2)\n- Politics (2 / 2)\n- Macroeconomics (2 / 2)\n\n\n[Click here](https://www.reddit.com/r/ethtrader/comments/1fyb8rv/rethtrader_automated_topic_limiter_topics_allowed/) for more information on topic limits.  Additionally, you can view the full list [here](https://donut-dashboard.com/#/topiclimits)."
     ]
   ],
   "sui": [
