@@ -1,33 +1,6 @@
 {
   "Bitcoin": [
     [
-      "n7pq4h4",
-      {
-        "neg": 0.0,
-        "neu": 1.0,
-        "pos": 0.0,
-        "compound": 0.0
-      }
-    ],
-    [
-      "n7pxtuc",
-      {
-        "neg": 0.0,
-        "neu": 1.0,
-        "pos": 0.0,
-        "compound": 0.0
-      }
-    ],
-    [
-      "n7pxvdv",
-      {
-        "neg": 0.0,
-        "neu": 1.0,
-        "pos": 0.0,
-        "compound": 0.0
-      }
-    ],
-    [
       "n7qadxy",
       {
         "neg": 0.0,
@@ -8999,6 +8972,33 @@
         "pos": 0.146,
         "compound": 0.5237
       }
+    ],
+    [
+      "na1eiyt",
+      {
+        "neg": 0.102,
+        "neu": 0.898,
+        "pos": 0.0,
+        "compound": -0.2584
+      }
+    ],
+    [
+      "na1ejvk",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "na1elqo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -12260,6 +12260,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "na1ekeg",
+      {
+        "neg": 0.0,
+        "neu": 0.256,
+        "pos": 0.744,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "na1emk0",
+      {
+        "neg": 0.054,
+        "neu": 0.872,
+        "pos": 0.074,
+        "compound": 0.2937
       }
     ]
   ],
