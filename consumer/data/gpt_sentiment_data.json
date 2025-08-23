@@ -17827,6 +17827,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "na7qhjj",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -28174,6 +28183,33 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "na7qc7i",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.9
+      }
+    ],
+    [
+      "na7qd4p",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "na7qgwm",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.8
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -29581,6 +29617,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "na7qcln",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.1
       }
     ]
   ],
