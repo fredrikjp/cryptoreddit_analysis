@@ -9800,6 +9800,69 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "naa8q3m",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "naa8qkf",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "naa8qph",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "naa8rji",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.9
+      }
+    ],
+    [
+      "naa8vh4",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "naa8wr4",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "naa8ygi",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
+      }
     ]
   ],
   "btc": [
@@ -13278,6 +13341,15 @@
         "pos": 0.05,
         "compound": -0.9
       }
+    ],
+    [
+      "naa8q5l",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "ethereum": [
@@ -15943,6 +16015,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.5
+      }
+    ],
+    [
+      "naa8sg1",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
@@ -26523,6 +26604,24 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "naa8qzm",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "naa8wi6",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -32662,6 +32761,15 @@
         "pos": 0.0,
         "compound": -0.0
       }
+    ],
+    [
+      "naa8zwa",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
     ]
   ],
   "sui": [
@@ -34905,6 +35013,33 @@
         "neg": 0.5,
         "neu": 0.1,
         "pos": 0.4,
+        "compound": 0.1
+      }
+    ],
+    [
+      "naa8qey",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "naa8txz",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "naa8u3x",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
         "compound": 0.1
       }
     ]
