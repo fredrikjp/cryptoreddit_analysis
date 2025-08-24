@@ -10214,6 +10214,33 @@
         "pos": 0.127,
         "compound": 0.5859
       }
+    ],
+    [
+      "nadcyeq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd4dh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd56a",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -27189,6 +27216,24 @@
         "pos": 0.209,
         "compound": 0.4404
       }
+    ],
+    [
+      "nadd1xy",
+      {
+        "neg": 0.226,
+        "neu": 0.666,
+        "pos": 0.108,
+        "compound": -0.85
+      }
+    ],
+    [
+      "nadd3mh",
+      {
+        "neg": 0.0,
+        "neu": 0.715,
+        "pos": 0.285,
+        "compound": 0.9538
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -33475,6 +33520,96 @@
     ],
     [
       "nad6b1v",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadcyuh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd0d4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd0v4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd1mz",
+      {
+        "neg": 0.0,
+        "neu": 0.797,
+        "pos": 0.203,
+        "compound": 0.3164
+      }
+    ],
+    [
+      "nadd1ze",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd2jn",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd2u0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd45c",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd4cr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nadd5du",
       {
         "neg": 0.0,
         "neu": 1.0,
