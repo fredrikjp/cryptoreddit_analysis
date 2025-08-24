@@ -10331,6 +10331,87 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "naexp7s",
+      {
+        "neg": 0.0,
+        "neu": 0.843,
+        "pos": 0.157,
+        "compound": 0.0772
+      }
+    ],
+    [
+      "naexpne",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naexr5r",
+      {
+        "neg": 0.076,
+        "neu": 0.924,
+        "pos": 0.0,
+        "compound": -0.2263
+      }
+    ],
+    [
+      "naexs1n",
+      {
+        "neg": 0.0,
+        "neu": 0.894,
+        "pos": 0.106,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "naexu8e",
+      {
+        "neg": 0.0,
+        "neu": 0.818,
+        "pos": 0.182,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "naexuph",
+      {
+        "neg": 0.0,
+        "neu": 0.556,
+        "pos": 0.444,
+        "compound": 0.4939
+      }
+    ],
+    [
+      "naexwbu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naexwc1",
+      {
+        "neg": 0.0,
+        "neu": 0.877,
+        "pos": 0.123,
+        "compound": 0.2732
+      }
+    ],
+    [
+      "naexwiu",
+      {
+        "neg": 0.179,
+        "neu": 0.513,
+        "pos": 0.308,
+        "compound": 0.5435
+      }
     ]
   ],
   "btc": [
@@ -16574,6 +16655,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "naexqqt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -18730,6 +18820,15 @@
     ],
     [
       "nad6anc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naexpzf",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -33850,6 +33949,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "naexqeq",
+      {
+        "neg": 0.0,
+        "neu": 0.625,
+        "pos": 0.375,
+        "compound": 0.2023
+      }
+    ],
+    [
+      "naexuld",
+      {
+        "neg": 0.0,
+        "neu": 0.556,
+        "pos": 0.444,
+        "compound": 0.4939
+      }
     ]
   ],
   "sui": [
@@ -39525,6 +39642,24 @@
         "neu": 0.674,
         "pos": 0.243,
         "compound": 0.5106
+      }
+    ],
+    [
+      "naexpbe",
+      {
+        "neg": 0.0,
+        "neu": 0.756,
+        "pos": 0.244,
+        "compound": 0.4939
+      }
+    ],
+    [
+      "naexrkk",
+      {
+        "neg": 0.04,
+        "neu": 0.829,
+        "pos": 0.131,
+        "compound": 0.6239
       }
     ]
   ],
