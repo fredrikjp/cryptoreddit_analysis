@@ -10151,6 +10151,60 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "nacziv9",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "naczjfy",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.25
+      }
+    ],
+    [
+      "naczjyg",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "naczk8m",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.7,
+        "compound": 0.5
+      }
+    ],
+    [
+      "naczl2x",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "naczle7",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.3
+      }
     ]
   ],
   "btc": [
@@ -13673,6 +13727,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "naczkh5",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.9,
+        "compound": 0.85
       }
     ]
   ],
@@ -18469,6 +18532,24 @@
     ],
     [
       "nacu2c7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naczhwc",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naczls0",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -27035,6 +27116,15 @@
         "neu": 0.1,
         "pos": 0.1,
         "compound": -0.7
+      }
+    ],
+    [
+      "nacziup",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.05
       }
     ]
   ],
