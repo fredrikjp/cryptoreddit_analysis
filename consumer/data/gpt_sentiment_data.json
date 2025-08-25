@@ -11429,6 +11429,15 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "namssdx",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
+      }
     ]
   ],
   "btc": [
@@ -15195,6 +15204,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "namskkc",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": 0.2
+      }
+    ],
+    [
+      "namslav",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -17996,6 +18023,15 @@
         "pos": 0.1,
         "compound": -0.4
       }
+    ],
+    [
+      "namshov",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "dogecoin": [
@@ -20220,6 +20256,15 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.1
+      }
+    ],
+    [
+      "namsp78",
+      {
+        "neg": 0.04000000000000001,
+        "neu": 0.32000000000000006,
+        "pos": 0.0,
+        "compound": -0.08000000000000002
       }
     ]
   ],
@@ -29681,6 +29726,42 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.4
+      }
+    ],
+    [
+      "namsl3v",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "namsmhe",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "namsole",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "namsp64",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -42720,6 +42801,15 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.2
+      }
+    ],
+    [
+      "namsn1v",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.0
       }
     ]
   ],
