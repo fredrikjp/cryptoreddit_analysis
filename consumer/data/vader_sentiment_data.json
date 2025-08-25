@@ -11132,6 +11132,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "najs9a7",
+      {
+        "neg": 0.062,
+        "neu": 0.819,
+        "pos": 0.119,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "najsc7p",
+      {
+        "neg": 0.651,
+        "neu": 0.349,
+        "pos": 0.0,
+        "compound": -0.6808
+      }
+    ],
+    [
+      "najscoh",
+      {
+        "neg": 0.0,
+        "neu": 0.769,
+        "pos": 0.231,
+        "compound": 0.2023
+      }
     ]
   ],
   "btc": [
@@ -14825,6 +14852,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "najs7mw",
+      {
+        "neg": 0.0,
+        "neu": 0.777,
+        "pos": 0.223,
+        "compound": 0.3182
       }
     ]
   ],
@@ -28881,6 +28917,69 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "najs6pm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "najs7wz",
+      {
+        "neg": 0.0,
+        "neu": 0.555,
+        "pos": 0.445,
+        "compound": 0.9489
+      }
+    ],
+    [
+      "najs8ob",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "najs94s",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "najsagb",
+      {
+        "neg": 0.0,
+        "neu": 0.712,
+        "pos": 0.288,
+        "compound": 0.7717
+      }
+    ],
+    [
+      "najsaro",
+      {
+        "neg": 0.0,
+        "neu": 0.824,
+        "pos": 0.176,
+        "compound": 0.4939
+      }
+    ],
+    [
+      "najsbbg",
+      {
+        "neg": 0.201,
+        "neu": 0.565,
+        "pos": 0.234,
+        "compound": 0.1045
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -31053,6 +31152,51 @@
         "neu": 0.778,
         "pos": 0.087,
         "compound": -0.445
+      }
+    ],
+    [
+      "najs6c5",
+      {
+        "neg": 0.0,
+        "neu": 0.691,
+        "pos": 0.309,
+        "compound": 0.481
+      }
+    ],
+    [
+      "najs7sp",
+      {
+        "neg": 0.048,
+        "neu": 0.826,
+        "pos": 0.126,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "najs89w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "najs9w9",
+      {
+        "neg": 0.158,
+        "neu": 0.652,
+        "pos": 0.19,
+        "compound": 0.0772
+      }
+    ],
+    [
+      "najsby1",
+      {
+        "neg": 0.124,
+        "neu": 0.619,
+        "pos": 0.258,
+        "compound": 0.3182
       }
     ]
   ],
@@ -35614,6 +35758,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "najsaqd",
+      {
+        "neg": 0.075,
+        "neu": 0.664,
+        "pos": 0.261,
+        "compound": 0.9646
+      }
+    ],
+    [
+      "najsb6x",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "najsbfl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -37930,6 +38101,15 @@
         "neu": 0.772,
         "pos": 0.108,
         "compound": 0.2481
+      }
+    ],
+    [
+      "najsaxu",
+      {
+        "neg": 0.381,
+        "neu": 0.619,
+        "pos": 0.0,
+        "compound": -0.4019
       }
     ]
   ],
