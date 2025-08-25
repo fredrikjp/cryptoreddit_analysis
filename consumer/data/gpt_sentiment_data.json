@@ -10952,6 +10952,15 @@
         "pos": 0.1,
         "compound": -0.5
       }
+    ],
+    [
+      "nai4mmt",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -12285,6 +12294,15 @@
         "neu": 0.6,
         "pos": 0.3,
         "compound": 0.3
+      }
+    ],
+    [
+      "nai4rrj",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
       }
     ]
   ],
@@ -19527,6 +19545,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.1
+      }
+    ],
+    [
+      "nai4qan",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -28467,6 +28494,33 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nai4oaj",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nai4of0",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.75
+      }
+    ],
+    [
+      "nai4vg1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -30595,6 +30649,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nai4qjq",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.2
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -31568,6 +31631,24 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "nai4neq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nai4o4a",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
       }
     ]
   ],
@@ -35073,6 +35154,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.7
+      }
+    ],
+    [
+      "nai4qpy",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.7
       }
     ]
   ],
