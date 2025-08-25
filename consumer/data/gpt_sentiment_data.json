@@ -11294,6 +11294,60 @@
         "pos": 0.2,
         "compound": -0.1
       }
+    ],
+    [
+      "nakudap",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nakudmg",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nakuf9w",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nakug93",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nakuhg3",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nakukg3",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.35
+      }
     ]
   ],
   "btc": [
@@ -17797,6 +17851,15 @@
         "neu": 0.2,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "nakud8o",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.25
       }
     ]
   ],
@@ -29295,6 +29358,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nakujb9",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nakulmk",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nakulsk",
+      {
+        "neg": 0.4,
+        "neu": 0.4,
+        "pos": 0.2,
+        "compound": 0.05
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -31540,6 +31630,15 @@
         "pos": 0.2,
         "compound": -0.2
       }
+    ],
+    [
+      "nakudo1",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.85
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -32550,6 +32649,24 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "nakugg1",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nakuj7o",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": 0.15
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -33082,6 +33199,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nakuhgq",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.4,
+        "compound": 0.5
       }
     ]
   ],
@@ -36496,6 +36622,15 @@
         "neg": 0.0,
         "neu": 1.0,
         "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nakugx2",
+      {
+        "neg": 0.09000000000000001,
+        "neu": 0.63,
+        "pos": 0.18000000000000002,
         "compound": 0.0
       }
     ]
