@@ -11681,6 +11681,69 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "naospyf",
+      {
+        "neg": 0.22,
+        "neu": 0.536,
+        "pos": 0.244,
+        "compound": 0.1027
+      }
+    ],
+    [
+      "naosse5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naosu9u",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naosuyq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naosvn2",
+      {
+        "neg": 0.157,
+        "neu": 0.654,
+        "pos": 0.19,
+        "compound": 0.128
+      }
+    ],
+    [
+      "naot0iz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naot0lf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -20625,6 +20688,24 @@
         "neu": 0.755,
         "pos": 0.245,
         "compound": 0.0772
+      }
+    ],
+    [
+      "naosvup",
+      {
+        "neg": 0.0,
+        "neu": 0.694,
+        "pos": 0.306,
+        "compound": 0.296
+      }
+    ],
+    [
+      "naoszda",
+      {
+        "neg": 0.442,
+        "neu": 0.233,
+        "pos": 0.326,
+        "compound": -0.25
       }
     ]
   ],
@@ -30330,6 +30411,24 @@
         "pos": 0.135,
         "compound": 0.0772
       }
+    ],
+    [
+      "naosseg",
+      {
+        "neg": 0.039,
+        "neu": 0.862,
+        "pos": 0.099,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "naossga",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -33764,6 +33863,15 @@
         "neu": 0.958,
         "pos": 0.0,
         "compound": -0.1511
+      }
+    ],
+    [
+      "naosqix",
+      {
+        "neg": 0.071,
+        "neu": 0.778,
+        "pos": 0.151,
+        "compound": 0.5423
       }
     ]
   ],
@@ -39902,6 +40010,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "naot0lz",
+      {
+        "neg": 0.192,
+        "neu": 0.808,
+        "pos": 0.0,
+        "compound": -0.2263
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -43521,6 +43638,24 @@
         "neu": 0.884,
         "pos": 0.0,
         "compound": -0.2732
+      }
+    ],
+    [
+      "naossho",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "naot0ey",
+      {
+        "neg": 0.062,
+        "neu": 0.9,
+        "pos": 0.038,
+        "compound": -0.2942
       }
     ]
   ],
