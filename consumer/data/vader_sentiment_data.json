@@ -12068,6 +12068,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nasnhnd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nasnhnj",
+      {
+        "neg": 0.169,
+        "neu": 0.831,
+        "pos": 0.0,
+        "compound": -0.5362
+      }
+    ],
+    [
+      "nasnosj",
+      {
+        "neg": 0.0,
+        "neu": 0.876,
+        "pos": 0.124,
+        "compound": 0.34
+      }
+    ],
+    [
+      "nasnrge",
+      {
+        "neg": 0.031,
+        "neu": 0.661,
+        "pos": 0.308,
+        "compound": 0.9112
+      }
     ]
   ],
   "btc": [
@@ -18842,6 +18878,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nasnhx0",
+      {
+        "neg": 0.651,
+        "neu": 0.349,
+        "pos": 0.0,
+        "compound": -0.6808
+      }
     ]
   ],
   "dogecoin": [
@@ -21192,6 +21237,24 @@
         "neu": 0.867,
         "pos": 0.043,
         "compound": -0.4404
+      }
+    ],
+    [
+      "nasnl4c",
+      {
+        "neg": 0.07,
+        "neu": 0.93,
+        "pos": 0.0,
+        "compound": -0.0516
+      }
+    ],
+    [
+      "nasno6p",
+      {
+        "neg": 0.0,
+        "neu": 0.501,
+        "pos": 0.499,
+        "compound": 0.2481
       }
     ]
   ],
@@ -31149,6 +31212,42 @@
         "pos": 0.384,
         "compound": 0.3595
       }
+    ],
+    [
+      "nasnlny",
+      {
+        "neg": 0.0,
+        "neu": 0.704,
+        "pos": 0.296,
+        "compound": 0.7439
+      }
+    ],
+    [
+      "nasnm40",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nasnnwx",
+      {
+        "neg": 0.14,
+        "neu": 0.86,
+        "pos": 0.0,
+        "compound": -0.0772
+      }
+    ],
+    [
+      "nasnq0m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -32113,6 +32212,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nasnjam",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.5719
       }
     ]
   ],
@@ -44601,6 +44709,33 @@
         "neu": 0.0,
         "pos": 1.0,
         "compound": 0.4215
+      }
+    ],
+    [
+      "nasnlbo",
+      {
+        "neg": 0.046,
+        "neu": 0.793,
+        "pos": 0.162,
+        "compound": 0.8856
+      }
+    ],
+    [
+      "nasnm2x",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nasnrko",
+      {
+        "neg": 0.0,
+        "neu": 0.726,
+        "pos": 0.274,
+        "compound": 0.5994
       }
     ]
   ],
