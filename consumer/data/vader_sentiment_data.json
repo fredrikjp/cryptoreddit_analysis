@@ -11996,6 +11996,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "narcclp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "narceyv",
+      {
+        "neg": 0.159,
+        "neu": 0.841,
+        "pos": 0.0,
+        "compound": -0.7984
+      }
+    ],
+    [
+      "narcfgn",
+      {
+        "neg": 0.0,
+        "neu": 0.449,
+        "pos": 0.551,
+        "compound": 0.8689
+      }
+    ],
+    [
+      "narchjl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "narcljv",
+      {
+        "neg": 0.14,
+        "neu": 0.7,
+        "pos": 0.16,
+        "compound": -0.1394
+      }
     ]
   ],
   "btc": [
@@ -18746,6 +18791,15 @@
     ],
     [
       "naq7y7y",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "narchhc",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -30951,6 +31005,60 @@
         "pos": 0.172,
         "compound": 0.9559
       }
+    ],
+    [
+      "narcar1",
+      {
+        "neg": 0.043,
+        "neu": 0.904,
+        "pos": 0.054,
+        "compound": 0.1145
+      }
+    ],
+    [
+      "narciki",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "narcjoo",
+      {
+        "neg": 0.0,
+        "neu": 0.788,
+        "pos": 0.212,
+        "compound": 0.5411
+      }
+    ],
+    [
+      "narcju8",
+      {
+        "neg": 0.0,
+        "neu": 0.852,
+        "pos": 0.148,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "narcktd",
+      {
+        "neg": 0.0,
+        "neu": 0.769,
+        "pos": 0.231,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "narcn41",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -31892,6 +32000,24 @@
     ],
     [
       "naqk87b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "narcfko",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "narchp1",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -34443,6 +34569,15 @@
     ],
     [
       "nar0zx5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "narcddn",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -38224,6 +38359,24 @@
         "pos": 0.225,
         "compound": 0.4404
       }
+    ],
+    [
+      "narckm9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "narcmlx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -40621,6 +40774,24 @@
         "neu": 0.819,
         "pos": 0.181,
         "compound": 0.4738
+      }
+    ],
+    [
+      "narcci0",
+      {
+        "neg": 0.057,
+        "neu": 0.864,
+        "pos": 0.079,
+        "compound": 0.1926
+      }
+    ],
+    [
+      "narcley",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -44286,6 +44457,15 @@
         "neu": 0.387,
         "pos": 0.613,
         "compound": 0.9468
+      }
+    ],
+    [
+      "narcaqe",
+      {
+        "neg": 0.0,
+        "neu": 0.323,
+        "pos": 0.677,
+        "compound": 0.6369
       }
     ]
   ],
