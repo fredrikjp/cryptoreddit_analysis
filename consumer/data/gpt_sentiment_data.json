@@ -11816,6 +11816,51 @@
         "pos": 0.4,
         "compound": 0.3
       }
+    ],
+    [
+      "naq7w9b",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.7,
+        "compound": 0.5
+      }
+    ],
+    [
+      "naq7y7x",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "naq7yoy",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "naq7zoc",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "naq80sj",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
     ]
   ],
   "btc": [
@@ -15654,6 +15699,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "naq814y",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -18517,6 +18571,15 @@
         "neu": 0.6,
         "pos": 0.3,
         "compound": 0.4
+      }
+    ],
+    [
+      "naq7y7y",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.1
       }
     ]
   ],
@@ -30627,6 +30690,15 @@
         "pos": 0.2,
         "compound": 0.2
       }
+    ],
+    [
+      "naq7wy9",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -34088,6 +34160,15 @@
         "neu": 0.1,
         "pos": 0.0,
         "compound": -0.8
+      }
+    ],
+    [
+      "naq80bo",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
       }
     ]
   ],
@@ -43881,6 +43962,15 @@
         "neu": 0.48,
         "pos": 0.06,
         "compound": 0.12
+      }
+    ],
+    [
+      "naq7z0u",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.75
       }
     ]
   ],
