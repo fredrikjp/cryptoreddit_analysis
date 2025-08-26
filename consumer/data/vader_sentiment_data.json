@@ -12293,6 +12293,42 @@
         "pos": 0.158,
         "compound": 0.6832
       }
+    ],
+    [
+      "naue99m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nauedob",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nauee2x",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nauefbm",
+      {
+        "neg": 0.0,
+        "neu": 0.196,
+        "pos": 0.804,
+        "compound": 0.6249
+      }
     ]
   ],
   "btc": [
@@ -35141,6 +35177,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nauecmw",
+      {
+        "neg": 0.0,
+        "neu": 0.836,
+        "pos": 0.164,
+        "compound": 0.3291
       }
     ]
   ],
