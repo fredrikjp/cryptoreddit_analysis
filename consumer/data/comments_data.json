@@ -6989,6 +6989,21 @@
       "navwccg",
       "2025-08-27T03:21:12",
       "Plus don't forget this was purchased at a time people was paying for Jimmy John's sandwiches with bitcoins like more than one! So maybe your dad wasn't too technical with his password thinking it a gamble or a random chance purchase. Who knew or even imagined the crypto market would be ANYWHERE NEAR it is today.\n\n\nIn any event I wish you luck. And when you do crack it 20 bucks would never hurt."
+    ],
+    [
+      "naw2ucf",
+      "2025-08-27T04:07:40",
+      "Go For Trust Wallet"
+    ],
+    [
+      "naw2uw4",
+      "2025-08-27T04:07:40",
+      "And that\u2019s just in the US lol"
+    ],
+    [
+      "naw2vft",
+      "2025-08-27T04:07:40",
+      "To take a stab at a simple explanation: Bitcoin is a distributed ledger. Thousands of nodes around the world are keeping track of the ledger, that is to say the list of who owns how many bitcoin. When miners solve their \"puzzle\" they earn the right to post a new block of transactions and collect the fees attached to them. Every node then checks their work, makes sure it all follows the agreed upon rules, and then updates their copy of the ledger. No single entity is in control because there's no one master copy of the ledger, just a system for the nodes to agree upon the correct state of it.\n\n\nWhat you store as an owner of bitcoin is not the bitcoin itself, but a private key. Private key / public key cryptography is a system where you basically have two magic codes. One of them can encode a message that the other can decode. You make one of them publicly known and keep one of them secret. Then when you encode a message with the secret one, people can decode it with the public one to confirm that the message really came from you. This is how you prove ownership of and move your bitcoin, because there is a public key attached to the bitcoin on the ledger and you can mathematically prove you know the corresponding private key. Nobody can guess your private key because it's a 256 bit number, bigger than the number of atoms in the universe. You could guess a million times a second for a million years and get nowhere.\n\n\nCentralized exchanges are institutions that have order books and basically exist as middlemen to connect buyers and sellers and skim a fee / spread for their trouble. Trading does happen peer to peer as well."
     ]
   ],
   "btc": [
@@ -10830,6 +10845,11 @@
       "navf2dr",
       "2025-08-27T01:34:17",
       "(Whats a concernoor?)"
+    ],
+    [
+      "naw2x2j",
+      "2025-08-27T04:07:40",
+      "lets go asia!!!!"
     ]
   ],
   "dogecoin": [
@@ -19790,6 +19810,11 @@
       "navf1gq",
       "2025-08-27T01:34:17",
       "Bet I could get close with enough highway and a cool morning."
+    ],
+    [
+      "naw2si4",
+      "2025-08-27T04:07:40",
+      "https://farside.co.uk/btc/\n\nETF\u2019s positive again.\n\nHopefully back to the slow grind up."
     ]
   ],
   "Pepecryptocurrency": [
