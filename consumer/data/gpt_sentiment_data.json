@@ -12761,6 +12761,15 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nayx9el",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.6
+      }
     ]
   ],
   "btc": [
@@ -14319,6 +14328,15 @@
         "neu": 0.1,
         "pos": 0.05,
         "compound": -0.8
+      }
+    ],
+    [
+      "nayxfq2",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
@@ -16805,6 +16823,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nayxa6h",
+      {
+        "neg": 0.5,
+        "neu": 0.3,
+        "pos": 0.2,
+        "compound": -0.3
       }
     ]
   ],
@@ -19805,6 +19832,15 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nayxhie",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "dogecoin": [
@@ -22227,6 +22263,15 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.8
+      }
+    ],
+    [
+      "nayxgw6",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
       }
     ]
   ],
@@ -32517,6 +32562,51 @@
         "pos": 0.05,
         "compound": -0.65
       }
+    ],
+    [
+      "nayx6q3",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.75
+      }
+    ],
+    [
+      "nayx8v7",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nayx909",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.05
+      }
+    ],
+    [
+      "nayx9pn",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nayxbe8",
+      {
+        "neg": 0.4,
+        "neu": 0.4,
+        "pos": 0.2,
+        "compound": -0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -35129,6 +35219,15 @@
         "neg": 0.0,
         "neu": 0.3,
         "pos": 0.7,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nayxeqn",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
         "compound": 0.8
       }
     ]
@@ -40189,6 +40288,24 @@
     ],
     [
       "naxdob9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nayxblr",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nayxe87",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -47016,6 +47133,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nayx799",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "Chainlink": [
@@ -47206,6 +47332,15 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.5
+      }
+    ],
+    [
+      "nayx7yz",
+      {
+        "neg": 0.0,
+        "neu": 0.42,
+        "pos": 0.27999999999999997,
+        "compound": 0.21
       }
     ]
   ]
