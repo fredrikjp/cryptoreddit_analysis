@@ -7004,6 +7004,21 @@
       "naw2vft",
       "2025-08-27T04:07:40",
       "To take a stab at a simple explanation: Bitcoin is a distributed ledger. Thousands of nodes around the world are keeping track of the ledger, that is to say the list of who owns how many bitcoin. When miners solve their \"puzzle\" they earn the right to post a new block of transactions and collect the fees attached to them. Every node then checks their work, makes sure it all follows the agreed upon rules, and then updates their copy of the ledger. No single entity is in control because there's no one master copy of the ledger, just a system for the nodes to agree upon the correct state of it.\n\n\nWhat you store as an owner of bitcoin is not the bitcoin itself, but a private key. Private key / public key cryptography is a system where you basically have two magic codes. One of them can encode a message that the other can decode. You make one of them publicly known and keep one of them secret. Then when you encode a message with the secret one, people can decode it with the public one to confirm that the message really came from you. This is how you prove ownership of and move your bitcoin, because there is a public key attached to the bitcoin on the ledger and you can mathematically prove you know the corresponding private key. Nobody can guess your private key because it's a 256 bit number, bigger than the number of atoms in the universe. You could guess a million times a second for a million years and get nowhere.\n\n\nCentralized exchanges are institutions that have order books and basically exist as middlemen to connect buyers and sellers and skim a fee / spread for their trouble. Trading does happen peer to peer as well."
+    ],
+    [
+      "nawab9l",
+      "2025-08-27T05:06:47",
+      "This, be ready to buy the dips and then you'll view them as a good thing.\n\nThe only mistake is not having money left over to buy more."
+    ],
+    [
+      "nawabq5",
+      "2025-08-27T05:06:47",
+      "Cherry picking at the highest level. Of course many people will say many things don't work, and a large amount of those things end up not working. So you compiled 3 things that people were hesitant about that worked out and think that means bitcoin will work too? The logic on this sub is nutty."
+    ],
+    [
+      "nawaflj",
+      "2025-08-27T05:07:42",
+      "That goldfish picking stocks could probably make better bitcoin price predictions than Schiff"
     ]
   ],
   "btc": [
@@ -10850,6 +10865,16 @@
       "naw2x2j",
       "2025-08-27T04:07:40",
       "lets go asia!!!!"
+    ],
+    [
+      "nawae1s",
+      "2025-08-27T05:07:42",
+      "ETH 4621"
+    ],
+    [
+      "nawafvm",
+      "2025-08-27T05:07:42",
+      "4621.67"
     ]
   ],
   "dogecoin": [
@@ -17799,6 +17824,16 @@
       "navwabk",
       "2025-08-27T03:20:44",
       "There\u2019s already gold-linked markets, or you can trade gold on any forex or futures platform. Doing it on a blockchain, (the BTC one for gods sake), does nothing better."
+    ],
+    [
+      "nawadu7",
+      "2025-08-27T05:06:47",
+      "More like -30%. Hold onto your pockets boys."
+    ],
+    [
+      "nawaejd",
+      "2025-08-27T05:07:42",
+      "Is the decoupling in the room with us?"
     ]
   ],
   "SolanaMemeCoins": [
@@ -21944,6 +21979,11 @@
       "nav2dk1",
       "2025-08-27T00:20:35",
       "Eth simply filled a massive liquidity gap created on the 22nd in the am. This was obviously a massive support level. This level was likely where many whales bought, and for all we know they were the ones selling over the last 3 days. Eth returned to their entry, now rinse repeat"
+    ],
+    [
+      "nawablu",
+      "2025-08-27T05:06:47",
+      "The fall in prices forced many people with leveraged positions to sell their crypto at a loss to stop the financial bleeding. They took out positions where if it goes up they make extra money, and if it goes down they lose extra money with a limit at the point where they are forced by the exchange to automatically liquidate at a loss.\n\nWhen unusually large amounts get liquidated it is interpreted as the prices surprising the investment community."
     ]
   ],
   "sui": [
@@ -25400,6 +25440,16 @@
       "nav2azc",
       "2025-08-27T00:19:56",
       "Bleep boop I guess. \n\nI dunno what a bot wouldn\u2019t say?"
+    ],
+    [
+      "nawabdb",
+      "2025-08-27T05:06:47",
+      "Old news. GCUL is private, not public.\n\n\nKTA, which was recently validated by Google Cloud, will integrate GCUL as an anchor."
+    ],
+    [
+      "nawahuh",
+      "2025-08-27T05:07:42",
+      "Delusional"
     ]
   ],
   "cardano": [
