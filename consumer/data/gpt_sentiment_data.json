@@ -13004,6 +13004,24 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "nb2bort",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": 0.15
+      }
+    ],
+    [
+      "nb2brcr",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "btc": [
@@ -33147,6 +33165,15 @@
         "pos": 0.5,
         "compound": 0.6
       }
+    ],
+    [
+      "nb2bmoh",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.4,
+        "compound": 0.4
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -35823,6 +35850,15 @@
         "neu": 0.5,
         "pos": 0.5,
         "compound": 0.5
+      }
+    ],
+    [
+      "nb2bpzz",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.65
       }
     ]
   ],
@@ -40951,6 +40987,15 @@
         "pos": 0.7,
         "compound": 0.65
       }
+    ],
+    [
+      "nb2bsi0",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
     ]
   ],
   "sui": [
@@ -43510,6 +43555,24 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.4
+      }
+    ],
+    [
+      "nb2bo2k",
+      {
+        "neg": 0.9,
+        "neu": 0.05,
+        "pos": 0.05,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nb2btrv",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ],
@@ -47374,6 +47437,15 @@
         "pos": 0.0,
         "compound": -0.6400000000000001
       }
+    ],
+    [
+      "nb2bncx",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.5,
+        "compound": 0.5
+      }
     ]
   ],
   "cardano": [
@@ -48061,6 +48133,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.1
+      }
+    ],
+    [
+      "nb2bqgo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nb2bt1v",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ]
