@@ -13265,6 +13265,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nb4lapz",
+      {
+        "neg": 0.25,
+        "neu": 0.5,
+        "pos": 0.25,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nb4lgwk",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
     ]
   ],
   "btc": [
@@ -17427,6 +17445,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nb4la6f",
+      {
+        "neg": 0.7,
+        "neu": 0.25,
+        "pos": 0.05,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nb4ldqk",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.3
+      }
     ]
   ],
   "ethereum": [
@@ -20507,6 +20543,15 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nb4lbhp",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -23055,6 +23100,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.6
+      }
+    ],
+    [
+      "nb4lbwf",
+      {
+        "neg": 0.8,
+        "neu": 0.15,
+        "pos": 0.05,
+        "compound": -0.7
       }
     ]
   ],
@@ -33758,6 +33812,42 @@
         "neu": 0.2,
         "pos": 0.5,
         "compound": 0.15
+      }
+    ],
+    [
+      "nb4lb1q",
+      {
+        "neg": 0.18,
+        "neu": 0.39,
+        "pos": 0.03,
+        "compound": -0.18
+      }
+    ],
+    [
+      "nb4ledo",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nb4lh68",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nb4lhm1",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.7
       }
     ]
   ],
