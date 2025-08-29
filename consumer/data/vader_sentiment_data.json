@@ -14057,6 +14057,60 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nbbhec7",
+      {
+        "neg": 0.19,
+        "neu": 0.723,
+        "pos": 0.087,
+        "compound": -0.4336
+      }
+    ],
+    [
+      "nbbhexk",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbbhg3k",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbbhizy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbbhjym",
+      {
+        "neg": 0.0,
+        "neu": 0.769,
+        "pos": 0.231,
+        "compound": 0.8271
+      }
+    ],
+    [
+      "nbbho8k",
+      {
+        "neg": 0.052,
+        "neu": 0.74,
+        "pos": 0.209,
+        "compound": 0.7906
+      }
     ]
   ],
   "btc": [
@@ -15714,6 +15768,33 @@
         "neu": 0.84,
         "pos": 0.121,
         "compound": 0.4983
+      }
+    ],
+    [
+      "nbbhd8y",
+      {
+        "neg": 0.0,
+        "neu": 0.659,
+        "pos": 0.341,
+        "compound": 0.5598
+      }
+    ],
+    [
+      "nbbhep6",
+      {
+        "neg": 0.0,
+        "neu": 0.777,
+        "pos": 0.223,
+        "compound": 0.6169
+      }
+    ],
+    [
+      "nbbhksu",
+      {
+        "neg": 0.3,
+        "neu": 0.575,
+        "pos": 0.125,
+        "compound": -0.6346
       }
     ]
   ],
@@ -18380,6 +18461,15 @@
         "neu": 0.911,
         "pos": 0.041,
         "compound": -0.1154
+      }
+    ],
+    [
+      "nbbhlug",
+      {
+        "neg": 0.154,
+        "neu": 0.737,
+        "pos": 0.109,
+        "compound": 0.1163
       }
     ]
   ],
@@ -21595,6 +21685,69 @@
         "neu": 0.91,
         "pos": 0.076,
         "compound": 0.7778
+      }
+    ],
+    [
+      "nbbhcy3",
+      {
+        "neg": 0.055,
+        "neu": 0.834,
+        "pos": 0.112,
+        "compound": 0.981
+      }
+    ],
+    [
+      "nbbhhke",
+      {
+        "neg": 0.023,
+        "neu": 0.797,
+        "pos": 0.18,
+        "compound": 0.9913
+      }
+    ],
+    [
+      "nbbhkfc",
+      {
+        "neg": 0.24,
+        "neu": 0.67,
+        "pos": 0.089,
+        "compound": -0.5719
+      }
+    ],
+    [
+      "nbbhl2c",
+      {
+        "neg": 0.043,
+        "neu": 0.854,
+        "pos": 0.103,
+        "compound": 0.9793
+      }
+    ],
+    [
+      "nbbhm0v",
+      {
+        "neg": 0.047,
+        "neu": 0.718,
+        "pos": 0.235,
+        "compound": 0.8883
+      }
+    ],
+    [
+      "nbbhoid",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbbhp7d",
+      {
+        "neg": 0.0,
+        "neu": 0.571,
+        "pos": 0.429,
+        "compound": 0.4588
       }
     ]
   ],
@@ -35541,6 +35694,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nbbhh4t",
+      {
+        "neg": 0.0,
+        "neu": 0.469,
+        "pos": 0.531,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "nbbhjaf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbbhoyf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -39686,6 +39866,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nbbhgpy",
+      {
+        "neg": 0.039,
+        "neu": 0.886,
+        "pos": 0.075,
+        "compound": 0.7485
       }
     ]
   ],
@@ -50460,6 +50649,42 @@
         "neu": 0.761,
         "pos": 0.0,
         "compound": -0.296
+      }
+    ],
+    [
+      "nbbhe3s",
+      {
+        "neg": 0.171,
+        "neu": 0.829,
+        "pos": 0.0,
+        "compound": -0.5719
+      }
+    ],
+    [
+      "nbbhfhb",
+      {
+        "neg": 0.051,
+        "neu": 0.932,
+        "pos": 0.017,
+        "compound": -0.5574
+      }
+    ],
+    [
+      "nbbhih5",
+      {
+        "neg": 0.075,
+        "neu": 0.83,
+        "pos": 0.096,
+        "compound": 0.1623
+      }
+    ],
+    [
+      "nbbhihr",
+      {
+        "neg": 0.0,
+        "neu": 0.487,
+        "pos": 0.513,
+        "compound": 0.2755
       }
     ]
   ],

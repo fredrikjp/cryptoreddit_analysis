@@ -7809,6 +7809,36 @@
       "nbb744y",
       "2025-08-29T13:12:48",
       "You need this guy! [https://www.youtube.com/watch?v=dT9y-KQbqi4](https://www.youtube.com/watch?v=dT9y-KQbqi4)"
+    ],
+    [
+      "nbbhec7",
+      "2025-08-29T14:05:58",
+      "The idea was that the collateral to debt ratio is fixed, if the collateral value increases, you borrow more, therefore the debt increases."
+    ],
+    [
+      "nbbhexk",
+      "2025-08-29T14:06:19",
+      "What app or system do you guys use to invest in Bitcoin?"
+    ],
+    [
+      "nbbhg3k",
+      "2025-08-29T14:06:19",
+      "Millionaire soon tm"
+    ],
+    [
+      "nbbhizy",
+      "2025-08-29T14:06:37",
+      "I followed the rules listed brother! Read them. Change them if it needs to be updated."
+    ],
+    [
+      "nbbhjym",
+      "2025-08-29T14:06:59",
+      "I mean subreddits are specifically designed to be echo chamber circlejerks and you\u2019re asking the dedicated Bitcoin subreddit if they\u2019d choose Bitcoin. Seems like you\u2019re pretty cringe and just seeking reddit points."
+    ],
+    [
+      "nbbho8k",
+      "2025-08-29T14:07:26",
+      "I\u2019m 33 and just bought $11 worth of Bitcoin this morning maybe will buy another 25$ of my shitty baby mom pays the electric. But anyway yes keep buying bitcoin and as said above, and enjoy yourself"
     ]
   ],
   "btc": [
@@ -8731,6 +8761,21 @@
       "nbafm5t",
       "2025-08-29T10:06:38",
       "Dude no matter what BTC does. BCH has always one more option to scale. BCH is free. BTC is bound. It's as simple as that."
+    ],
+    [
+      "nbbhd8y",
+      "2025-08-29T14:05:58",
+      "You are so lucky to get that back"
+    ],
+    [
+      "nbbhep6",
+      "2025-08-29T14:05:58",
+      "Bitcoin Cash (BCH) is the solution.\n\nInstant transactions, sub-cent fees and world scale potential!\n\nDo not miss your second chance into early Bitcoin adoption."
+    ],
+    [
+      "nbbhksu",
+      "2025-08-29T14:06:59",
+      "Ya I think L2 works but doesn't solve the scaling problem which is why it didn't succeed in making bitcoin popular."
     ]
   ],
   "solana": [
@@ -10213,6 +10258,11 @@
       "nbaw4vq",
       "2025-08-29T12:09:16",
       "For some reason my Phantom extension stopped being able to read my balance so I switched over to Solflare.  Works fine for me.  All wallets are the same imo.  I don't notice any difference that matters other than that Phantom stopped working but Solflare still does.  Biggest change seems to be that Phantom is purple while Solflare is yellow."
+    ],
+    [
+      "nbbhlug",
+      "2025-08-29T14:06:59",
+      "To pay for a deficit, the federal government borrows additional funds, which increases the debt. Other activities contribute to the change in federal debt, such as changes in the Treasury's operating cash account and federal student loans. The total debt for the U.S. through August 25, 2025 is $37.25 trillion.\n\nBut I can\u2019t get some love while I\u2019m healing from injury ok \u2705"
     ]
   ],
   "ethereum": [
@@ -12000,6 +12050,41 @@
       "nbb715k",
       "2025-08-29T13:12:09",
       "The Poseidon hash is currently undergoing extensive public scrutiny as part of [https://www.poseidon-initiative.info/](https://www.poseidon-initiative.info/) Should it be considered secure, we will likely push for a precompile. It remains to figure out though over which field the precompile should be allowed, as it is still widely used within elliptic-curve-based SNARKs (thus 256-bit field), which are quantum-vulnerable. As ZKVMs tend to use post-quantum SNARKs, they use Poseidons over the most efficient PQ-friendly field, of which several 31-bit ones are equally popular: KoalaBear, BabyBear, and M31. One of them should dominate, and if ZKVM proofs are accessed from EVM, we can select that field for a precompile."
+    ],
+    [
+      "nbbhcy3",
+      "2025-08-29T14:05:58",
+      "Thank you for the question Pintail, and great to see issuance as a top voted question :)\n\n> It is still true that under the current curve all rational ETH holders will eventually (be forced to) stake their ETH\n\nShort answer: IMO yes\n\nLong answer: The issuance curve is designed such that nominal yield from issuance alone is at least 2%/year, even when all 121M ETH is staked. Operational costs (compute & bandwidth, devops, inactivity & slashing risks, activation & exit inefficiencies) are typically small (measured in basis points) and will go down significantly with things like L1 EVM SNARKification and attester-proposer separation (APS). As such the dominant staking cost is arguably external opportunity cost, e.g. from defi.\n\nToday there's roughly [2.5M ETH earning 2%/year on Aave](https://app.aave.com/). Even at today's levels, 2%/year is insufficient to have a significant impact on staking. Going forward it may be reasonable to expect defi yields to compress, e.g. as institutional money won't be afraid to lend in size. A final note is that defi yields are somewhat correlated and indirectly boosted by staking yields which will naturally go down from the current 3%/year.\n\nTo summarise, yes, IMO it's reasonable to expect staking costs to stay under nominal staking yields, and therefore for the total amount of ETH staked to keep growing as ETH holders increasingly grow rational.\n\n> How are researchers currently thinking about the process for reaching consensus on a suitable long term issuance curve?\n\nIMO a good first step would be to educate on the negative externalities of most ETH being staked:\n\n * **erosion of pristine collateral**: Staking absorbs yield-seeking pristine ETH, leaving relatively little for defi. We're seeing a taste of that today: defi markets are dwarfed relative to staking markets (e.g. 2.5M ETH in Aave vs 35.7M ETH staked). Another dynamic is LSTs finding their way into defi. For example in Aave there's 1.2M wstETH (earning 0.05%/year) and 0.3M rsETH (earning <0.01%/year). These LSTs add risks (smart contract risk, operator risk, governance risk), fragment the market, as well as compete with ETH as a unit of account which may negatively affect ETH's monetary premium.\n * **overpayment for security**: The primary goal of issuance is to pay for economic security. Most people would argue 50% of all ETH is insufficient economic security. IMO issuance expended to get the staking rate beyond 50% is wasteful. This waste materialises as fundamental sell pressure through income taxes, as well as memetic sell pressure through unnecessary nominal dilution.\n\n> no longer a sense of urgency about this problem\n\nIssuance is Ethereum's equivalent of global warming. It slowly creeps over, year after year. I remain optimistic that as the negative externalities become increasingly acute, and as the community increasingly appreciates the difference between nominal real staking yields, urgency will increase.\n\nAs I wrote this answer I decided to purchase realyield.org. If anyone would like to build a high-quality educational website on the difference between nominal and real yields, and as well as the negative externalities of overstaking, please do get in touch :)\n\n> How long do we have to take action on this?\n\nThere is arguably a limited window of opportunity to take action because core features of Ethereum like issuance naturally tend towards ossification. I would hope that issuance is addressed within the next 5 years, ideally sooner.\n\nIMO we need an issuance champion. The equivalent of Tim Beiko for EIP-1559, of Danny Ryan for the merge, or Potuz for ePBS. If that's you please step up\u2014my DMs are open. It will be a challenging but meaningful journey, and despite the cries of nominal yield enjoyoors the community at large will root and cheer for you."
+    ],
+    [
+      "nbbhhke",
+      "2025-08-29T14:06:37",
+      "I see a difference between 7782, which is a proposal for a feature (shorter slots) but is not clearly opinionated on a solution to achieve it, vs 7732 which is a specific solution to ship. Likewise, we should ideally first have a strong view on what the network needs and then coordinate on how to ship it, i.e., decide the specific solution and accelerate its development. If feature proposals cannot hope to compete against solution proposals because they are more under-specified, we need a way to have stronger commitments behind features, so that research and engineering resources can be aligned and the right features can be accelerated, vs deciding based on \"Proof-of-Work\".\n\nAs for Glamsterdam, the network needs scale, and while [I personally don't think that every part of 7732 justifies its cost](https://x.com/barnabemonnot/status/1953773053785051279), 7732 answers the need for scale and so is a good update in my view. Meanwhile, prototyping and metrics collection efforts are ongoing for shorter slots, mostly in EF Protocol teams but also in discussion with core devs. I remain convinced that shorter slots is one of the highest-impact proposals we should accelerate today (see the pitch [here](https://ethereum-magicians.org/t/eip-7782-the-case-for-2x-shorter-slot-times-in-glamsterdam/24616)).\n\nSo I think we're working towards a better pipelined decision process that separates the feature selection (ideally driven by community and product considerations) from the solution selection (ideally driven by research and core devs)."
+    ],
+    [
+      "nbbhkfc",
+      "2025-08-29T14:06:59",
+      "yep but by same token, if it doesn't hold then could be some grief"
+    ],
+    [
+      "nbbhl2c",
+      "2025-08-29T14:06:59",
+      "I wouldn't call it a blocker necessarily - more of an engineering challenge :')\n\nThis is a multi faceted problem, but one of the large ones is propagating so many small attestation messages through such a large network in such a short period of time. At 1.1m validators, each subnet handles ~500 attestations per slot. Critically, the aggregators on these subnets need to see 66% of the votes in a reasonable amount of time for the chain to stablize. This is a lower bound though as 66% isn't really acceptable. We'd likely see highly sophisticated and well-resourced operators trend towards the \"fast enough\" 66% attesters, while under-resourced operators like home stakers fall outside -- not good.\n\nWe've spent a lot of time recently buffing up our observability at the p2p layer, and have some interesting data here. [I've just run some analysis on the last 24h of `missed slots` on Mainnet.](https://i.imgur.com/UHIrhpV.png) Missed slots are useful since all consensus clients release their attestations at the same time (4s) if they don't see a block. All of the instances here are running on attestation subnets `0` and `1` to filter out noise. Over this period, aggregated, it takes 780ms to propagate 66% of attestations, and 1960ms to hit 95%.\n\nThe challenge is obviously in that long tail - the attesters that are between p66 and p95. [We can actually see which entities are in there too](https://i.imgur.com/1rlHIjJ.png). This isn't weighted by stake or anything, so take it with a grain of salt, but interesting nonetheless. \n\nAttestations (and shorter slot times) haven't really been a focus until recently. Single Attestations occupy 4s of the 12s slot budget (with another 4s for aggregation!), and have been \"working\" since the beacon chain launched because of this generous budget. The good news is I personally think there is a lot of low hanging fruit in this space. For example: when we initially conducted the above analysis as a part of the 6s slot push for Glamsterdam we noticed that Kiln was disproportionately appearing in the long tail of attestations. Toni from the Prototyping team reached out and we saw a large improvement on the back of some changes they made to their infra (ty Kiln!). I fully expect that we'll find more of these. Not just in operator setups, but in clients, and the p2p layer itself."
+    ],
+    [
+      "nbbhm0v",
+      "2025-08-29T14:07:26",
+      "Thanks!  I just need to do some simple operations that would be painful to do manually.  I see that there are some libraries in my language out there and are popular.  Hopefully the source is available so I can audit it or just learn from the source for better safety."
+    ],
+    [
+      "nbbhoid",
+      "2025-08-29T14:07:26",
+      "etfs were mainly inflows though"
+    ],
+    [
+      "nbbhp7d",
+      "2025-08-29T14:07:26",
+      "Privacy Stewards of Ethereum :)"
     ]
   ],
   "dogecoin": [
@@ -19749,6 +19834,21 @@
       "nbb76ew",
       "2025-08-29T13:12:48",
       "CEX = Off chain, DEX = on chain"
+    ],
+    [
+      "nbbhh4t",
+      "2025-08-29T14:06:19",
+      "are ya winning son?"
+    ],
+    [
+      "nbbhjaf",
+      "2025-08-29T14:06:37",
+      "Alts \"outperformed\" BTC by dropping less than BTC."
+    ],
+    [
+      "nbbhoyf",
+      "2025-08-29T14:07:26",
+      "That's what she said"
     ]
   ],
   "SolanaMemeCoins": [
@@ -22055,6 +22155,11 @@
       "nbamy6t",
       "2025-08-29T11:05:38",
       "If you know, you know"
+    ],
+    [
+      "nbbhgpy",
+      "2025-08-29T14:06:19",
+      "Hello u/AccidentalArbitrage\n\n[Your open trade](https://reddit.com/r/BitcoinMarkets/comments/18vebp1/bitty_bot_paper_trading_log/nay5ohj/?context=1) has been closed due to opening a new trade. Your new trade will be opened at the exact same price with no slippage. Your trade closed at the current price of Bitcoin on Coinbase Pro, which is **$108,859.96**\n\nYou spent $2,666,648.51 cash to open this trade. You have repaid your loan of $5,333,297.02 to the Bitty Bot Bank and $2,464,689.47 has now been added to your cash balance.\n\nYou lost a total of **-$201,959.04 -7.57%** Ouch!\n\nYour cash balance after closing this trade is $2,464,689.47\n\n---\n\n[You have](/message/messages/3palxvo) **Shorted \u20bf22.64091837** ($2,464,689.47 worth of BTC at the execution price of $108,859.96)\n\nYou have chosen 1X leverage: You have borrowed $0.00 from the Bitty Bot Bank and spent $2,464,689.47 from your cash balance.\n\nThis trade is not using leverage and cannot be liquidated.\n\nYou have not set a stop loss or a take profit price for this trade.\n\nAfter opening this trade, your remaining cash balance is $0.00\n\nGood luck!"
     ]
   ],
   "Pepecryptocurrency": [
@@ -28045,6 +28150,26 @@
       "nbamxlg",
       "2025-08-29T11:05:38",
       "To avoid... it's the opposite of crypto philosophy"
+    ],
+    [
+      "nbbhe3s",
+      "2025-08-29T14:05:58",
+      "MAGACOIN Finance presale? I see it heavily advertised on MSN, along with MUTUUM Finance and other scam finance presales"
+    ],
+    [
+      "nbbhfhb",
+      "2025-08-29T14:06:19",
+      "When you store crypto you either keep it on the exchange or you put it in something called a wallet. The wallet is defined by a code. \n\nCold storage means that you write down the code on a piece of pair and no one else knows about it, so it's impossible for a hacker to steal your money. \n\nGoogle Ledger.\n\nSOL is the crypto currency that runs the Solana network. It's very fast and cheap to transactions. The bet is that in the future a significant part of money transactions will happen on blockchain and that the choice will be Solana."
+    ],
+    [
+      "nbbhih5",
+      "2025-08-29T14:06:37",
+      "What's the harm in holding, right? I'm sitting on a fairly big bag, but I guess I'll just hold it. It's not hurting anybody and who knows."
+    ],
+    [
+      "nbbhihr",
+      "2025-08-29T14:06:37",
+      "VET, no doubt"
     ]
   ],
   "cardano": [
