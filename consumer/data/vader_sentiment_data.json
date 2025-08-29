@@ -14219,6 +14219,87 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nbcj6ju",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbcj7a8",
+      {
+        "neg": 0.0,
+        "neu": 0.703,
+        "pos": 0.297,
+        "compound": 0.9136
+      }
+    ],
+    [
+      "nbcjain",
+      {
+        "neg": 0.054,
+        "neu": 0.851,
+        "pos": 0.096,
+        "compound": 0.6115
+      }
+    ],
+    [
+      "nbcjay7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbcjbbz",
+      {
+        "neg": 0.295,
+        "neu": 0.705,
+        "pos": 0.0,
+        "compound": -0.3646
+      }
+    ],
+    [
+      "nbcjc65",
+      {
+        "neg": 0.0,
+        "neu": 0.428,
+        "pos": 0.572,
+        "compound": 0.3976
+      }
+    ],
+    [
+      "nbcjca9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbcjceo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbcje54",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -18588,6 +18669,24 @@
         "pos": 0.53,
         "compound": 0.3089
       }
+    ],
+    [
+      "nbcj0ys",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbcjbol",
+      {
+        "neg": 0.054,
+        "neu": 0.872,
+        "pos": 0.074,
+        "compound": 0.2937
+      }
     ]
   ],
   "ethereum": [
@@ -21901,6 +22000,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nbcj129",
+      {
+        "neg": 0.284,
+        "neu": 0.654,
+        "pos": 0.062,
+        "compound": -0.9864
       }
     ]
   ],
@@ -35919,6 +36027,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nbcj3tk",
+      {
+        "neg": 0.0,
+        "neu": 0.826,
+        "pos": 0.174,
+        "compound": 0.2732
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -37162,6 +37279,15 @@
         "neu": 0.455,
         "pos": 0.545,
         "compound": 0.802
+      }
+    ],
+    [
+      "nbcj0l8",
+      {
+        "neg": 0.0,
+        "neu": 0.822,
+        "pos": 0.178,
+        "compound": 0.636
       }
     ]
   ],
@@ -44516,6 +44642,15 @@
         "neu": 0.858,
         "pos": 0.142,
         "compound": 0.7959
+      }
+    ],
+    [
+      "nbcjdbk",
+      {
+        "neg": 0.097,
+        "neu": 0.789,
+        "pos": 0.115,
+        "compound": 0.128
       }
     ]
   ],
