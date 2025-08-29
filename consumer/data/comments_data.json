@@ -7799,6 +7799,16 @@
       "nbaw7ey",
       "2025-08-29T12:09:16",
       "Thank you. \ud83d\udc4d"
+    ],
+    [
+      "nbb723d",
+      "2025-08-29T13:12:09",
+      "When is longer than 2 days"
+    ],
+    [
+      "nbb744y",
+      "2025-08-29T13:12:48",
+      "You need this guy! [https://www.youtube.com/watch?v=dT9y-KQbqi4](https://www.youtube.com/watch?v=dT9y-KQbqi4)"
     ]
   ],
   "btc": [
@@ -11985,6 +11995,11 @@
       "nb9wnci",
       "2025-08-29T07:07:32",
       "*user Arvolear asks:*  \n  \nWhy still no EVM parallelization in Geth?"
+    ],
+    [
+      "nbb715k",
+      "2025-08-29T13:12:09",
+      "The Poseidon hash is currently undergoing extensive public scrutiny as part of [https://www.poseidon-initiative.info/](https://www.poseidon-initiative.info/) Should it be considered secure, we will likely push for a precompile. It remains to figure out though over which field the precompile should be allowed, as it is still widely used within elliptic-curve-based SNARKs (thus 256-bit field), which are quantum-vulnerable. As ZKVMs tend to use post-quantum SNARKs, they use Poseidons over the most efficient PQ-friendly field, of which several 31-bit ones are equally popular: KoalaBear, BabyBear, and M31. One of them should dominate, and if ZKVM proofs are accessed from EVM, we can select that field for a precompile."
     ]
   ],
   "dogecoin": [
@@ -19704,6 +19719,36 @@
       "nbaw4gp",
       "2025-08-29T12:09:16",
       "JP Morgan holding bags"
+    ],
+    [
+      "nbb70ju",
+      "2025-08-29T13:12:09",
+      "markets are already open"
+    ],
+    [
+      "nbb71ee",
+      "2025-08-29T13:12:09",
+      "When there are bulls, surely there are bullshits."
+    ],
+    [
+      "nbb73gr",
+      "2025-08-29T13:12:48",
+      "BTC D was below 60% for a while now. It's not like this is something new"
+    ],
+    [
+      "nbb75zg",
+      "2025-08-29T13:12:48",
+      "These...these are the tough moments. We look out and see the stock market slamming through new ATH after another, and yet all \ud83c\udf3d and others are being desecrated, horribly. We look out upon the fields and think, *how can there be hope in the face of such of such blind cruelty? How can it be so wrong?* I say to you, ITS OVER SELL EVERYTHING!!!"
+    ],
+    [
+      "nbb769g",
+      "2025-08-29T13:12:48",
+      "why cry about people crying"
+    ],
+    [
+      "nbb76ew",
+      "2025-08-29T13:12:48",
+      "CEX = Off chain, DEX = on chain"
     ]
   ],
   "SolanaMemeCoins": [
@@ -24249,6 +24294,11 @@
       "nbaw52o",
       "2025-08-29T12:09:16",
       "In csv my voting is on 0 but i did vote in governance is this a glitch?"
+    ],
+    [
+      "nbb6zrq",
+      "2025-08-29T13:12:09",
+      "u/Odd-Radio-8500 has tipped u/MasterpieceLoud4931 1.0 donut (weight: 1.0)\n\n[LINK](https://reddit.com/comments/1n343o8/_/nbb6yax)\n\n[ARCHIVE](https://raw.githubusercontent.com/ethtrader/ethtrader-tip-archive/main/2025/08/29/t1_nbb6yax.txt)\n\n^(note: archived content can take up to 10 minutes before it is available for viewing)\n\n^(donut-bot v0.1.20240111-tip | Learn more about [Earn2Tip](https://www.reddit.com/r/ethtrader/comments/17q24e7/introducing_donutbot_register_and_tip_commands/))"
     ]
   ],
   "sui": [
