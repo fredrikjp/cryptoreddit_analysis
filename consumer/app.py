@@ -110,7 +110,7 @@ sentiment_df = sentiment_df.merge(
 # Sidebar for filtering
 st.sidebar.header("Filter Subreddits")
 all_subreddits = sorted(sentiment_df['Subreddit'].unique(), key=lambda s: s.lower())
-select_all = st.sidebar.checkbox("Select All Subreddits", value=True)
+select_all = st.sidebar.checkbox("Select All Subreddits", value=False)
 
 if select_all:
     subreddits = st.sidebar.multiselect(
@@ -122,7 +122,7 @@ else:
     subreddits = st.sidebar.multiselect(
         "Select Subreddits",
         options=all_subreddits,
-        default=[]
+        default=["Bitcoin", "ethereum", "solana"]
     )
 
 
@@ -181,6 +181,7 @@ filtered_bar_df = filtered_sentiment_df[
 
 avg_sentiment = filtered_bar_df.groupby(['Subreddit', 'Source'])[['Negative', 'Neutral', 'Positive', 'Compound']].mean().reset_index()
 
+############################################################################
 
 # Animated bar chart
 # Add timestamp column to sentiment_df by message ID
@@ -307,6 +308,54 @@ fig_bar.layout.updatemenus[0].buttons[0].args[1]['frame']['duration'] = 800  # m
 fig_bar.layout.updatemenus[0].buttons[0].args[1]['transition']['duration'] = 500
 
 st.plotly_chart(fig_bar, use_container_width=True)
+
+#################################################################################
+
+# Animated bubble chart
+
+# --- Add Volume (count of posts/messages) ---
+df_grouped["Volume"] = df_grouped.groupby(["Timestamp","Subreddit","Source"])["Positive"].transform("count")
+
+# --- Prepare data for bubble chart ---
+df_bubble = df_grouped.copy()
+df_bubble["SentimentX"] = (df_bubble["Positive"] - df_bubble["Negative"]) / 2
+
+# --- Static line traces (trails) ---
+fig = go.Figure()
+
+for (sub, src), subdf in df_bubble.groupby(["Subreddit","Source"]):
+    fig.add_trace(go.Scatter(
+        x=subdf["SentimentX"],
+        y=subdf["Compound"],
+        mode="lines",
+        line=dict(width=1),
+        name=f"{sub} ({src})",
+        showlegend=False,
+        hoverinfo="skip"  # don’t spam hover with the trail
+    ))
+
+
+fig_bubble = px.scatter(
+    df_bubble,
+    x="SentimentX",
+    y="Compound",
+    size="Volume",              
+    color="Subreddit",         
+    animation_frame="Timestamp",
+    facet_col="Source",
+    hover_name="Subreddit",
+    title="Sentiment Bubble Chart Over Time",
+    size_max=60,              
+    range_x=[-0.5, 0.5],
+    range_y=[df_bubble["Compound"].min()*1.1, df_bubble["Compound"].max()*1.1]
+)
+
+# Optional: match animation speed with bar chart
+fig_bubble.layout.updatemenus[0].buttons[0].args[1]['frame']['duration'] = 800
+fig_bubble.layout.updatemenus[0].buttons[0].args[1]['transition']['duration'] = 500
+
+st.plotly_chart(fig_bubble, use_container_width=True)
+
 
 # Bar chart for average sentiment
 fig_bar = px.bar(
