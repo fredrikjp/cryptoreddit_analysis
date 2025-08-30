@@ -14984,6 +14984,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nbhrv5u",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbhrwid",
+      {
+        "neg": 0.094,
+        "neu": 0.767,
+        "pos": 0.139,
+        "compound": 0.5106
+      }
     ]
   ],
   "btc": [
@@ -16852,6 +16870,15 @@
     ],
     [
       "nbhihb2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbhrzd9",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -37296,6 +37323,24 @@
         "pos": 0.355,
         "compound": 0.296
       }
+    ],
+    [
+      "nbhrr66",
+      {
+        "neg": 0.219,
+        "neu": 0.781,
+        "pos": 0.0,
+        "compound": -0.1027
+      }
+    ],
+    [
+      "nbhrtj9",
+      {
+        "neg": 0.079,
+        "neu": 0.749,
+        "pos": 0.172,
+        "compound": 0.3612
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -38588,6 +38633,33 @@
     ],
     [
       "nbhi9jq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbhrqtw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbhrsxd",
+      {
+        "neg": 0.0,
+        "neu": 0.887,
+        "pos": 0.113,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "nbhrw13",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -41684,6 +41756,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nbhrq3x",
+      {
+        "neg": 0.14,
+        "neu": 0.74,
+        "pos": 0.12,
+        "compound": -0.3928
       }
     ]
   ],
@@ -45886,6 +45967,15 @@
     ],
     [
       "nbguczm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbhrq4x",
       {
         "neg": 0.0,
         "neu": 1.0,
