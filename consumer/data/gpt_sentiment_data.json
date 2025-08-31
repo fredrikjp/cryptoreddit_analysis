@@ -15452,6 +15452,51 @@
         "pos": 0.5,
         "compound": 0.4
       }
+    ],
+    [
+      "nbo6tnx",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nbo6z5x",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbo6zjz",
+      {
+        "neg": 0.0,
+        "neu": 0.65,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nbo70zj",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbo71lw",
+      {
+        "neg": 0.0,
+        "neu": 0.75,
+        "pos": 0.1,
+        "compound": 0.15
+      }
     ]
   ],
   "btc": [
@@ -20235,6 +20280,15 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "nbo717m",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.35
+      }
     ]
   ],
   "ethereum": [
@@ -23638,6 +23692,15 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "nbo6qbf",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
@@ -38249,6 +38312,15 @@
         "neu": 0.4,
         "pos": 0.5,
         "compound": 0.42
+      }
+    ],
+    [
+      "nbo708s",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.55
       }
     ]
   ],
@@ -54141,6 +54213,24 @@
         "neu": 0.15,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nbo6pqh",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nbo6vlm",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
       }
     ]
   ],
