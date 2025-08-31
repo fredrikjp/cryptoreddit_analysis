@@ -15506,6 +15506,42 @@
         "pos": 0.8,
         "compound": 0.85
       }
+    ],
+    [
+      "nbolezg",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nbolh8r",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nbolhmr",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nbolkcr",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -38357,6 +38393,15 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.55
+      }
+    ],
+    [
+      "nbolel2",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
