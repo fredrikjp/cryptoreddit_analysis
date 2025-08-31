@@ -15542,6 +15542,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nboxgua",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nboxijs",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nboxja2",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nboxl4s",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.6
+      }
     ]
   ],
   "btc": [
@@ -17478,6 +17514,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nboxdxl",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.2
       }
     ]
   ],
@@ -20342,6 +20387,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.35
+      }
+    ],
+    [
+      "nboxklg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -42972,6 +43026,33 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nboxf1p",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nboxgcl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nboxmb8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -50080,6 +50161,15 @@
         "neu": 0.9,
         "pos": 0.05,
         "compound": -0.1
+      }
+    ],
+    [
+      "nboxe29",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
       }
     ]
   ],
