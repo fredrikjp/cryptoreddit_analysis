@@ -16046,6 +16046,42 @@
         "pos": 0.05,
         "compound": 0.1
       }
+    ],
+    [
+      "nbuwjbv",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nbuwlpp",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nbuwlti",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.45
+      }
+    ],
+    [
+      "nbuwqnj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -18036,6 +18072,15 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": -0.1
+      }
+    ],
+    [
+      "nbuwj3a",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
@@ -20981,6 +21026,24 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.1
+      }
+    ],
+    [
+      "nbuwlpl",
+      {
+        "neg": 0.05,
+        "neu": 0.9,
+        "pos": 0.05,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nbuwqgj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -24439,6 +24502,24 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.3
+      }
+    ],
+    [
+      "nbuwjzw",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nbuwo98",
+      {
+        "neg": 0.6,
+        "neu": 0.35,
+        "pos": 0.05,
+        "compound": -0.5
       }
     ]
   ],
@@ -39357,6 +39438,33 @@
         "pos": 0.0,
         "compound": -0.15
       }
+    ],
+    [
+      "nbuwkhi",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
+      }
+    ],
+    [
+      "nbuwo3o",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "nbuwogm",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -40753,6 +40861,15 @@
         "neu": 0.42,
         "pos": 0.12,
         "compound": 0.09
+      }
+    ],
+    [
+      "nbuwjo9",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.5
       }
     ]
   ],
@@ -48619,6 +48736,15 @@
         "pos": 0.3,
         "compound": -0.05
       }
+    ],
+    [
+      "nbuwhxl",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.7
+      }
     ]
   ],
   "sui": [
@@ -49016,6 +49142,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nbuwuah",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ],
