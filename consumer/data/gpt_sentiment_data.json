@@ -16244,6 +16244,33 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nbxixgx",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nbxiyq1",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nbxj14c",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "btc": [
@@ -21243,6 +21270,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nbxj3bb",
+      {
+        "neg": 0.9,
+        "neu": 0.0,
+        "pos": 0.1,
+        "compound": -0.8
+      }
     ]
   ],
   "ethereum": [
@@ -24773,6 +24809,15 @@
         "pos": 0.05,
         "compound": -0.7
       }
+    ],
+    [
+      "nbxj2eu",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
     ]
   ],
   "dogecoin": [
@@ -27510,6 +27555,15 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.4
+      }
+    ],
+    [
+      "nbxj4sb",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
       }
     ]
   ],
@@ -39888,6 +39942,15 @@
         "pos": 0.9,
         "compound": 0.7
       }
+    ],
+    [
+      "nbxj2hz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -49222,6 +49285,15 @@
         "pos": 0.3,
         "compound": 0.1
       }
+    ],
+    [
+      "nbxixn4",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "sui": [
@@ -56688,6 +56760,24 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.5
+      }
+    ],
+    [
+      "nbxj0a2",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nbxj1th",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
