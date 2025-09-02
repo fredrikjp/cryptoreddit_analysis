@@ -16307,6 +16307,42 @@
         "pos": 0.0,
         "compound": -0.3
       }
+    ],
+    [
+      "nc01gn8",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nc01hv5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nc01ki8",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nc01ky7",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.8,
+        "compound": 0.6
+      }
     ]
   ],
   "btc": [
@@ -21324,6 +21360,15 @@
         "pos": 0.1,
         "compound": -0.8
       }
+    ],
+    [
+      "nc01gjy",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "ethereum": [
@@ -24880,6 +24925,15 @@
         "neu": 0.9,
         "pos": 0.0,
         "compound": -0.2
+      }
+    ],
+    [
+      "nc01gws",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -40086,6 +40140,33 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "nc01gqj",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nc01kru",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nc01lo2",
+      {
+        "neg": 0.2,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -45611,6 +45692,15 @@
         "pos": 0.1,
         "compound": -0.2
       }
+    ],
+    [
+      "nc01guj",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8
+      }
     ]
   ],
   "ethtrader": [
@@ -49554,6 +49644,51 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nc01f8k",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nc01fpg",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.9
+      }
+    ],
+    [
+      "nc01fq3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nc01gpg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nc01l5i",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.1
       }
     ]
   ],
