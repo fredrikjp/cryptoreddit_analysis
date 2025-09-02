@@ -52646,6 +52646,24 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nbzf1tu",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nbzf408",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -57138,6 +57156,33 @@
         "neu": 0.5,
         "pos": 0.5,
         "compound": 0.25
+      }
+    ],
+    [
+      "nbzf3jy",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nbzf40a",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nbzf432",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
       }
     ]
   ],
