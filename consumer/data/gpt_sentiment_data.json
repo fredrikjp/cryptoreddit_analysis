@@ -16910,6 +16910,24 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nc82b86",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nc82cvb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -41517,6 +41535,42 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nc8260z",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nc828m4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nc829eq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nc82ck4",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -44904,6 +44958,15 @@
         "neu": 0.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nc826yz",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
       }
     ]
   ],
@@ -54527,6 +54590,24 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "nc82g0y",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nc82gbe",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -59217,6 +59298,15 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": 0.0
+      }
+    ],
+    [
+      "nc82ahm",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
