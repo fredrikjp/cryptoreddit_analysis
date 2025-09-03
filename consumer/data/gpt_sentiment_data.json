@@ -18901,6 +18901,15 @@
         "pos": 0.7,
         "compound": 0.75
       }
+    ],
+    [
+      "nc60uai",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "solana": [
@@ -41157,6 +41166,24 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "nc60tes",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nc60u20",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -50881,6 +50908,24 @@
     ],
     [
       "nc5c87k",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nc60qtt",
+      {
+        "neg": 0.0,
+        "neu": 0.877,
+        "pos": 0.123,
+        "compound": 0.202
+      }
+    ],
+    [
+      "nc60rbw",
       {
         "neg": 0.0,
         "neu": 1.0,
