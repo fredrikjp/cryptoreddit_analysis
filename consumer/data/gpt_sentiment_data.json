@@ -17045,6 +17045,24 @@
         "pos": 0.4,
         "compound": 0.3
       }
+    ],
+    [
+      "nca2tvz",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nca2uhz",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "btc": [
@@ -19233,6 +19251,15 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.3
+      }
+    ],
+    [
+      "nca2ui0",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.2
       }
     ]
   ],
@@ -22376,6 +22403,15 @@
         "neu": 0.6,
         "pos": 0.2,
         "compound": -0.3
+      }
+    ],
+    [
+      "nca2uhu",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -26069,6 +26105,15 @@
         "pos": 0.0,
         "compound": -0.1
       }
+    ],
+    [
+      "nca1dk1",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "dogecoin": [
@@ -28895,6 +28940,15 @@
         "neg": 0.3,
         "neu": 0.4,
         "pos": 0.3,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nca2wjj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
         "compound": 0.0
       }
     ]
@@ -41850,6 +41904,24 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nca2u4z",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nca2wey",
+      {
+        "neg": 0.2,
+        "neu": 0.5,
+        "pos": 0.3,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -45318,6 +45390,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nca2pac",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.25
       }
     ]
   ],
@@ -55004,6 +55085,24 @@
         "pos": 0.9,
         "compound": 0.85
       }
+    ],
+    [
+      "nca2mt9",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
+      }
+    ],
+    [
+      "nca2wy5",
+      {
+        "neg": 0.1,
+        "neu": 0.1,
+        "pos": 0.6,
+        "compound": 0.5
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -59713,6 +59812,24 @@
         "pos": 0.7,
         "compound": 0.5
       }
+    ],
+    [
+      "nca2uid",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nca2wjk",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.9,
+        "compound": 0.7
+      }
     ]
   ],
   "cardano": [
@@ -60254,6 +60371,24 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nca2pdz",
+      {
+        "neg": 0.75,
+        "neu": 0.2,
+        "pos": 0.05,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nca2ta6",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
