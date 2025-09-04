@@ -17234,6 +17234,42 @@
         "pos": 0.2,
         "compound": -0.1
       }
+    ],
+    [
+      "ncci49f",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncci4za",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "ncci5c8",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "ncci5cv",
+      {
+        "neg": 0.6,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "btc": [
@@ -26384,6 +26420,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncci6w0",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": 0.2
+      }
     ]
   ],
   "dogecoin": [
@@ -29265,6 +29310,15 @@
         "neu": 0.8,
         "pos": 0.0,
         "compound": -0.1
+      }
+    ],
+    [
+      "ncci78a",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.2
       }
     ]
   ],
@@ -42300,6 +42354,15 @@
         "pos": 0.4,
         "compound": 0.1
       }
+    ],
+    [
+      "ncci8fq",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -43777,6 +43840,15 @@
         "neu": 0.0,
         "pos": 1.0,
         "compound": 0.6
+      }
+    ],
+    [
+      "ncci3oo",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -45840,6 +45912,15 @@
         "neu": 0.0,
         "pos": 1.0,
         "compound": 0.85
+      }
+    ],
+    [
+      "ncci6cf",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8
       }
     ]
   ],
@@ -60369,6 +60450,15 @@
         "neu": 0.6,
         "pos": 0.2,
         "compound": 0.0
+      }
+    ],
+    [
+      "ncci7i5",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
       }
     ]
   ],
