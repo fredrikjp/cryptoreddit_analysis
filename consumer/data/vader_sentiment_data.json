@@ -17063,6 +17063,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncb1beq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncb1hya",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncb1i5k",
+      {
+        "neg": 0.783,
+        "neu": 0.217,
+        "pos": 0.0,
+        "compound": -0.5574
+      }
     ]
   ],
   "btc": [
@@ -45445,6 +45472,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncb1i5c",
+      {
+        "neg": 0.171,
+        "neu": 0.829,
+        "pos": 0.0,
+        "compound": -0.357
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -52346,6 +52382,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ncb1gtb",
+      {
+        "neg": 0.173,
+        "neu": 0.827,
+        "pos": 0.0,
+        "compound": -0.5267
       }
     ]
   ],
