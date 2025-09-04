@@ -17162,6 +17162,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncbfehx",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "ncbfj5i",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.2
+      }
     ]
   ],
   "btc": [
@@ -19377,6 +19395,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "ncbfff2",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
       }
     ]
   ],
@@ -29112,6 +29139,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ncbfkus",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
@@ -45616,6 +45652,24 @@
         "pos": 0.36000000000000004,
         "compound": 0.27
       }
+    ],
+    [
+      "ncbff4v",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncbfhxt",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -52066,6 +52120,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncbff9i",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncbffag",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -55327,6 +55399,15 @@
         "neu": 0.1,
         "pos": 0.6,
         "compound": 0.5
+      }
+    ],
+    [
+      "ncbfks0",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
@@ -60054,6 +60135,15 @@
         "neu": 0.3,
         "pos": 0.9,
         "compound": 0.7
+      }
+    ],
+    [
+      "ncbfi7n",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ],
