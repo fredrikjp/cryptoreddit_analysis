@@ -17810,6 +17810,42 @@
         "pos": 0.3,
         "compound": 0.3
       }
+    ],
+    [
+      "nchld3o",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nchlgfh",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nchlj56",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nchlkpc",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "btc": [
@@ -20142,6 +20178,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.25
+      }
+    ],
+    [
+      "nchljar",
+      {
+        "neg": 0.03,
+        "neu": 0.24,
+        "pos": 0.03,
+        "compound": -0.03
       }
     ]
   ],
@@ -23357,6 +23402,15 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": 0.05
+      }
+    ],
+    [
+      "nchlg3m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
       }
     ]
   ],
@@ -30070,6 +30124,15 @@
     ],
     [
       "nchb85l",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nchlel5",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -43362,6 +43425,15 @@
         "pos": 0.0,
         "compound": 0.1
       }
+    ],
+    [
+      "nchld3c",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -53533,6 +53605,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nchlkyh",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "sui": [
@@ -61719,6 +61800,15 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "nchlmkd",
+      {
+        "neg": 0.42,
+        "neu": 0.27999999999999997,
+        "pos": 0.0,
+        "compound": -0.35
       }
     ]
   ],
