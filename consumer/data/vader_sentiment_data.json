@@ -18242,6 +18242,60 @@
         "pos": 0.122,
         "compound": 0.81
       }
+    ],
+    [
+      "nclio7y",
+      {
+        "neg": 0.344,
+        "neu": 0.4,
+        "pos": 0.256,
+        "compound": -0.2732
+      }
+    ],
+    [
+      "ncliou1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncliqol",
+      {
+        "neg": 0.125,
+        "neu": 0.799,
+        "pos": 0.076,
+        "compound": -0.0987
+      }
+    ],
+    [
+      "nclir4o",
+      {
+        "neg": 0.0,
+        "neu": 0.952,
+        "pos": 0.048,
+        "compound": 0.1027
+      }
+    ],
+    [
+      "nclisjz",
+      {
+        "neg": 0.024,
+        "neu": 0.881,
+        "pos": 0.095,
+        "compound": 0.7783
+      }
+    ],
+    [
+      "ncliuok",
+      {
+        "neg": 0.217,
+        "neu": 0.783,
+        "pos": 0.0,
+        "compound": -0.4168
+      }
     ]
   ],
   "btc": [
@@ -44244,6 +44298,51 @@
         "pos": 0.228,
         "compound": 0.4588
       }
+    ],
+    [
+      "nclimcl",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.05,
+        "compound": 0.25
+      }
+    ],
+    [
+      "nclimfj",
+      {
+        "neg": 0.0,
+        "neu": 0.508,
+        "pos": 0.492,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "nclinh9",
+      {
+        "neg": 0.058,
+        "neu": 0.891,
+        "pos": 0.05,
+        "compound": -0.2047
+      }
+    ],
+    [
+      "ncliohj",
+      {
+        "neg": 0.412,
+        "neu": 0.588,
+        "pos": 0.0,
+        "compound": -0.1027
+      }
+    ],
+    [
+      "nclisqq",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.8074
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -54676,6 +54775,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nclirv1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -62961,6 +63069,33 @@
         "neu": 0.833,
         "pos": 0.103,
         "compound": 0.34
+      }
+    ],
+    [
+      "nclim2v",
+      {
+        "neg": 0.0,
+        "neu": 0.752,
+        "pos": 0.248,
+        "compound": 0.3876
+      }
+    ],
+    [
+      "nclis36",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nclitdx",
+      {
+        "neg": 0.0,
+        "neu": 0.851,
+        "pos": 0.149,
+        "compound": 0.8957
       }
     ]
   ],
