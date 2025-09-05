@@ -9974,6 +9974,16 @@
       "ncixf72",
       "2025-09-05T09:06:48",
       "Hey I\u2019m here"
+    ],
+    [
+      "ncj3ocb",
+      "2025-09-05T10:06:39",
+      "Cliffnt version : leaving the spare running on network helps it run calculations and you earn faction of millionth btc ? Is that correct ? And roughly how much it could earn say every 6 months ? I know changes if btc goes up I was just wondering ...anyone help me out with any info for this noob"
+    ],
+    [
+      "ncj3oy6",
+      "2025-09-05T10:06:39",
+      "How are the fees when spending?"
     ]
   ],
   "btc": [
@@ -15185,6 +15195,11 @@
       "ncfn7j0",
       "2025-09-04T20:07:48",
       "Let\u2019s go baybay"
+    ],
+    [
+      "ncj3q25",
+      "2025-09-05T10:06:39",
+      "Just giving it away for free like the Holiday Inn in Vegas"
     ]
   ],
   "dogecoin": [
@@ -24274,6 +24289,11 @@
       "ncixh8a",
       "2025-09-05T09:06:48",
       "The 80-byte limit on OP_RETURN data is being removed, but this was never a consensus rule. Miners could already include larger data in blocks, and that has not changed. The consensus rules still apply: an OP_RETURN output can only be up to about 10,000 bytes, a transaction up to about 100,000 virtual bytes, and blocks are still limited to about 4 megabytes weight.\n\nWhat changes is only the default relay policy. Nodes running Core will now forward larger OP_RETURN transactions by default. If you prefer the old behavior you can still turn off OP_RETURN relay or keep the old size limit in your settings. These options are being deprecated but they are still available in v30.\n\nRunning a pruned node also means you do not keep all historical block data forever, so you are not forced to store every piece of arbitrary content on disk. Bitcoin Knots uses stricter defaults for relaying, but just like Core it accepts all valid blocks under the consensus rules. Bitcoin is not suddenly becoming a storage chain, and users can choose how their own node handles data relay."
+    ],
+    [
+      "ncj3ns6",
+      "2025-09-05T10:06:39",
+      "Can only freeze custodial Wallets."
     ]
   ],
   "SolanaMemeCoins": [
@@ -25116,6 +25136,11 @@
       "ncixfyc",
       "2025-09-05T09:06:48",
       "Serious people, please wake up before it is too late, so much bullshit, useless coins on Solana, now we have VOOZ, it literally is the best utility coin there is, loads of users per month and now even a intergraded crypto payment system!!!!\u00a0\n\n\nStill no tokens, buy a bag ASAP!!!"
+    ],
+    [
+      "ncj3q53",
+      "2025-09-05T10:06:39",
+      "Once u put real money in it will be a shock."
     ]
   ],
   "memecoins": [
