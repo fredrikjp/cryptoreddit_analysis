@@ -9969,6 +9969,11 @@
       "ncirldg",
       "2025-09-05T08:08:44",
       "At age 13, with this mindset, you\u2019re going to be rich regardless of whether you invest in bc or not."
+    ],
+    [
+      "ncixf72",
+      "2025-09-05T09:06:48",
+      "Hey I\u2019m here"
     ]
   ],
   "btc": [
@@ -24254,6 +24259,21 @@
       "ncirq1b",
       "2025-09-05T08:08:44",
       "Bitcoin simply loves to find ways of frustrating and shaking away folks using its own price action. Always been that way for years."
+    ],
+    [
+      "ncixe3g",
+      "2025-09-05T09:06:48",
+      "How could they stake? Wouldnt it take incredible amount of resources to manage those ETH by themselves? Also wouldnt it be cause liquidity crisis when managing the ETF?"
+    ],
+    [
+      "ncixemj",
+      "2025-09-05T09:06:48",
+      "Likely because you are using inflammatory inaccurate titles"
+    ],
+    [
+      "ncixh8a",
+      "2025-09-05T09:06:48",
+      "The 80-byte limit on OP_RETURN data is being removed, but this was never a consensus rule. Miners could already include larger data in blocks, and that has not changed. The consensus rules still apply: an OP_RETURN output can only be up to about 10,000 bytes, a transaction up to about 100,000 virtual bytes, and blocks are still limited to about 4 megabytes weight.\n\nWhat changes is only the default relay policy. Nodes running Core will now forward larger OP_RETURN transactions by default. If you prefer the old behavior you can still turn off OP_RETURN relay or keep the old size limit in your settings. These options are being deprecated but they are still available in v30.\n\nRunning a pruned node also means you do not keep all historical block data forever, so you are not forced to store every piece of arbitrary content on disk. Bitcoin Knots uses stricter defaults for relaying, but just like Core it accepts all valid blocks under the consensus rules. Bitcoin is not suddenly becoming a storage chain, and users can choose how their own node handles data relay."
     ]
   ],
   "SolanaMemeCoins": [
@@ -25091,6 +25111,11 @@
       "ncdjm83",
       "2025-09-04T14:06:34",
       "https://preview.redd.it/kvjrig3in5nf1.jpeg?width=1024&format=pjpg&auto=webp&s=4545b1abb69ff690feaf74b527f41f6dfc8b245e\n\nThirstyChad $Thirst"
+    ],
+    [
+      "ncixfyc",
+      "2025-09-05T09:06:48",
+      "Serious people, please wake up before it is too late, so much bullshit, useless coins on Solana, now we have VOOZ, it literally is the best utility coin there is, loads of users per month and now even a intergraded crypto payment system!!!!\u00a0\n\n\nStill no tokens, buy a bag ASAP!!!"
     ]
   ],
   "memecoins": [
