@@ -17900,6 +17900,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncilbgt",
+      {
+        "neg": 0.046,
+        "neu": 0.542,
+        "pos": 0.413,
+        "compound": 0.982
+      }
+    ],
+    [
+      "ncilbp0",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.4767
+      }
+    ],
+    [
+      "ncileig",
+      {
+        "neg": 0.033,
+        "neu": 0.885,
+        "pos": 0.082,
+        "compound": 0.4287
+      }
+    ],
+    [
+      "ncilf22",
+      {
+        "neg": 0.012,
+        "neu": 0.87,
+        "pos": 0.119,
+        "compound": 0.9532
+      }
     ]
   ],
   "btc": [
@@ -23483,6 +23519,24 @@
         "neu": 0.83,
         "pos": 0.139,
         "compound": 0.8074
+      }
+    ],
+    [
+      "ncilb07",
+      {
+        "neg": 0.0,
+        "neu": 0.335,
+        "pos": 0.665,
+        "compound": 0.714
+      }
+    ],
+    [
+      "ncilfee",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -30219,6 +30273,15 @@
         "neu": 0.508,
         "pos": 0.492,
         "compound": 0.4404
+      }
+    ],
+    [
+      "nciled8",
+      {
+        "neg": 0.0,
+        "neu": 0.721,
+        "pos": 0.279,
+        "compound": 0.4754
       }
     ]
   ],
@@ -43542,6 +43605,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncilap7",
+      {
+        "neg": 0.016,
+        "neu": 0.74,
+        "pos": 0.244,
+        "compound": 0.9397
+      }
+    ],
+    [
+      "ncildo8",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.5994
+      }
+    ],
+    [
+      "ncilfcs",
+      {
+        "neg": 0.057,
+        "neu": 0.807,
+        "pos": 0.135,
+        "compound": 0.4588
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -53812,6 +53902,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncilbu0",
+      {
+        "neg": 0.0,
+        "neu": 0.77,
+        "pos": 0.23,
+        "compound": 0.4574
+      }
+    ],
+    [
+      "ncilc3h",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncilcur",
+      {
+        "neg": 0.0,
+        "neu": 0.663,
+        "pos": 0.337,
+        "compound": 0.7269
+      }
+    ],
+    [
+      "ncilf6w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -62034,6 +62160,15 @@
         "neu": 0.781,
         "pos": 0.219,
         "compound": 0.8271
+      }
+    ],
+    [
+      "ncile64",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
