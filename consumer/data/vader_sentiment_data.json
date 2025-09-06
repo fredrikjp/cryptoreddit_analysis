@@ -18908,6 +18908,51 @@
         "pos": 1.0,
         "compound": 0.4588
       }
+    ],
+    [
+      "nctabad",
+      {
+        "neg": 0.023,
+        "neu": 0.611,
+        "pos": 0.365,
+        "compound": 0.9879
+      }
+    ],
+    [
+      "nctacpf",
+      {
+        "neg": 0.0,
+        "neu": 0.756,
+        "pos": 0.244,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "nctadnd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nctaeml",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nctafv5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
