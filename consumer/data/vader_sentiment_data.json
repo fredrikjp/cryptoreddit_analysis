@@ -18647,6 +18647,51 @@
         "pos": 0.312,
         "compound": 0.9051
       }
+    ],
+    [
+      "ncqqg7w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncqqgsm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncqqjdj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncqqle3",
+      {
+        "neg": 0.133,
+        "neu": 0.809,
+        "pos": 0.058,
+        "compound": -0.5574
+      }
+    ],
+    [
+      "ncqqmoj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -24464,6 +24509,15 @@
         "neu": 0.898,
         "pos": 0.102,
         "compound": 0.3612
+      }
+    ],
+    [
+      "ncqqf13",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -31290,6 +31344,15 @@
         "neu": 0.267,
         "pos": 0.733,
         "compound": 0.6705
+      }
+    ],
+    [
+      "ncqqh9l",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -45125,6 +45188,60 @@
         "neu": 0.795,
         "pos": 0.149,
         "compound": 0.7088
+      }
+    ],
+    [
+      "ncqqi8x",
+      {
+        "neg": 0.046,
+        "neu": 0.908,
+        "pos": 0.046,
+        "compound": -0.0021
+      }
+    ],
+    [
+      "ncqqijm",
+      {
+        "neg": 0.241,
+        "neu": 0.759,
+        "pos": 0.0,
+        "compound": -0.5859
+      }
+    ],
+    [
+      "ncqqiv4",
+      {
+        "neg": 0.101,
+        "neu": 0.776,
+        "pos": 0.122,
+        "compound": 0.3361
+      }
+    ],
+    [
+      "ncqqkj4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncqqmbw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncqqmdc",
+      {
+        "neg": 0.186,
+        "neu": 0.718,
+        "pos": 0.096,
+        "compound": -0.8253
       }
     ]
   ],
@@ -59189,6 +59306,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncqqg6r",
+      {
+        "neg": 0.294,
+        "neu": 0.521,
+        "pos": 0.185,
+        "compound": -0.4482
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -64257,6 +64383,15 @@
         "neu": 0.508,
         "pos": 0.492,
         "compound": 0.4404
+      }
+    ],
+    [
+      "ncqqgi5",
+      {
+        "neg": 0.184,
+        "neu": 0.816,
+        "pos": 0.0,
+        "compound": -0.5444
       }
     ]
   ],
