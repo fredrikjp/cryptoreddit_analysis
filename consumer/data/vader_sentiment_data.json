@@ -18854,6 +18854,60 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncszxmo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncszyv3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nct00z0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nct01u4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nct03bt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nct073q",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4588
+      }
     ]
   ],
   "btc": [
@@ -51153,6 +51207,15 @@
         "pos": 0.04,
         "compound": -0.3182
       }
+    ],
+    [
+      "nct02f1",
+      {
+        "neg": 0.104,
+        "neu": 0.896,
+        "pos": 0.0,
+        "compound": -0.296
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -59845,6 +59908,33 @@
         "neu": 0.925,
         "pos": 0.075,
         "compound": 0.3612
+      }
+    ],
+    [
+      "ncszwmc",
+      {
+        "neg": 0.0,
+        "neu": 0.635,
+        "pos": 0.365,
+        "compound": 0.9041
+      }
+    ],
+    [
+      "nct02zw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nct06re",
+      {
+        "neg": 0.0,
+        "neu": 0.931,
+        "pos": 0.069,
+        "compound": 0.4404
       }
     ]
   ],
