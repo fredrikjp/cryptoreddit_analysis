@@ -18836,6 +18836,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ncsdi5e",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -21307,6 +21316,15 @@
     ],
     [
       "ncr1ryi",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncsdkgf",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -28544,6 +28562,15 @@
         "pos": 0.0,
         "compound": 0.1
       }
+    ],
+    [
+      "ncsdfd5",
+      {
+        "neg": 0.1,
+        "neu": 0.75,
+        "pos": 0.15,
+        "compound": 0.1
+      }
     ]
   ],
   "dogecoin": [
@@ -31587,6 +31614,15 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.5
+      }
+    ],
+    [
+      "ncsdjcj",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.9
       }
     ]
   ],
@@ -45567,6 +45603,33 @@
         "pos": 0.05,
         "compound": 0.0
       }
+    ],
+    [
+      "ncsdes4",
+      {
+        "neg": 0.8,
+        "neu": 0.15,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "ncsdj5u",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "ncsdjla",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -49348,6 +49411,15 @@
       {
         "neg": 0.0,
         "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ncsdgvz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -59684,6 +59756,15 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "ncsdfzg",
+      {
+        "neg": 0.05,
+        "neu": 0.6,
+        "pos": 0.35,
+        "compound": 0.4
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -65375,6 +65456,15 @@
         "neu": 0.8,
         "pos": 0.9,
         "compound": 0.85
+      }
+    ],
+    [
+      "ncsdfj6",
+      {
+        "neg": 0.4,
+        "neu": 0.55,
+        "pos": 0.05,
+        "compound": -0.3
       }
     ]
   ],
