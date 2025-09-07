@@ -20,7 +20,7 @@ comments_json = os.path.join(base_dir, 'data', 'comments_data.json')
 KAFKA_BOOTSTRAP_SERVERS = os.getenv('KAFKA_BOOTSTRAP_SERVERS', 'localhost:9092')
 
 # Que length
-MAX_LEN = 4000
+MAX_LEN = 40000
 
 if not os.path.exists(vader_json) or os.path.getsize(vader_json) == 0:
     score_queues_vader = {}
