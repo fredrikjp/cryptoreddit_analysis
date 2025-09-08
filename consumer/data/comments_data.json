@@ -10844,6 +10844,16 @@
       "nd4iars",
       "2025-09-08T18:08:22",
       "You don't have to sell if you really believe in the long-term upside. A lot of people borrow against their BTC instead - platforms like N\u0435\u0445\u043e make that possible without offloading your stack. It's not risk-free, but it's a way to handle short-term needs without giving up long-term conviction. Might be worth looking into before making a move you'll regret later."
+    ],
+    [
+      "nd4u1lo",
+      "2025-09-08T19:06:16",
+      "Financial freedom"
+    ],
+    [
+      "nd4u30x",
+      "2025-09-08T19:06:50",
+      "Set a daily buy and forget about it OP. Go on about your life and let it grow behind the scenes."
     ]
   ],
   "btc": [
@@ -12271,6 +12281,11 @@
       "nd3gzrn",
       "2025-09-08T15:07:53",
       "Thanks for the marketing presentation.  Now all you need is PowerPoint and you'll be the most annoying."
+    ],
+    [
+      "nd4u170",
+      "2025-09-08T19:06:16",
+      "> If they can make the same insane gains that BTC had\n\nNot possible without insane risk of failure. Thus, hedge funds emerge that employ mathematicians for billions to balance risk equations. Recommend videos from Veritasium on the matter\n\nBig money are looking for fixed income, not for insane risk. Bitcoin provides it: 450 coins vs $12bln deficit printed every day is more than enough"
     ]
   ],
   "solana": [
@@ -16420,6 +16435,11 @@
       "nd45dn9",
       "2025-09-08T17:07:27",
       "source?"
+    ],
+    [
+      "nd4u23d",
+      "2025-09-08T19:06:50",
+      "I don't think diversity is necessarily the solution, because the way NPM is set up, it's not feasible to compromise already-released versions of packages. NPM doesn't let you edit existing versions of your software, only publish new versions.\n\nSo an attacker can only compromise new versions by taking control of a dev's account. The software of every downstream dev who doesn't update to the new package version remains safe to this type of exploit.\n\nIdeally if you're developing a security sensitive package (like crypto), all your dependencies should be locked across builds and updated manually only. If your packages are never automatically updated, then there will always be a delay before you adopt a new dependency version (so the community can notify everyone)."
     ]
   ],
   "dogecoin": [
@@ -26229,6 +26249,21 @@
       "nd4ibaj",
       "2025-09-08T18:08:22",
       "I mean realistically you'll see it in the first 5 and last 5? \n\nWould they really be able to get an address that's close enough you'll have to check every one? \n\nThen again if it's big money, triple check it"
+    ],
+    [
+      "nd4tupo",
+      "2025-09-08T19:06:16",
+      "\\*yawn\\*\n\n>*As this space develops, we continue to see more and more networks and platforms come to market, and as such, financial institutions will need the ability to interact across a variety of different chains.* ***Providers such as Chainlink are also advancing standards enabling interoperability across public and private blockchain networks.***\n\n\n\n>*Asset servicing: an FMI priority With all of this transformation, the hope is that these new technologies can also begin to deliver real benefits in corporate actions and proxy voting, given that 13% of respondents in North America consider asset servicing automation to be a significant market change. As our previous reports have highlighted, the significant efforts by buy-side firms to drive automation in corporate actions and the renewed focus by both US and Canadian CSDs in this area is cause for optimism. The DTCC\u2019s ongoing Corporate Actions Transformation is accelerating in 2025- 2026 and the CDS\u2019s corporate actions group is due to publish its position paper in Q4 2025. I****n addition, both CSDs have continued to support SWIFT and Chainlink\u2019s Project CALM41 (\u201cCorporate Actions Language Model\u201d, using GenAI and blockchain) to explore new efficiencies in event validation.***"
+    ],
+    [
+      "nd4txq7",
+      "2025-09-08T19:06:16",
+      "I\u2019m in that WhatsApp group, silently watching. It seems scam to me too. However, 95% of the stock recommendations both Robin and Jason issued have gained as projected. Again, I have not bought any of the recommended stocks as I\u2019m afraid of WhatsApp scams. I have not participated in the SDT, which has shown pretty good gain so far. I\u2019m pretty sure it\u2019s another pump and dump scam."
+    ],
+    [
+      "nd4u1pr",
+      "2025-09-08T19:06:50",
+      "If you don't have a hardware wallet, don't have more then a months worth of wages in crypto."
     ]
   ],
   "SolanaMemeCoins": [
@@ -27131,6 +27166,11 @@
       "nd455ca",
       "2025-09-08T17:06:40",
       "sry no time buddy, all my time goes to trading memecoins"
+    ],
+    [
+      "nd4tuza",
+      "2025-09-08T19:06:16",
+      "\ud83d\udcc8For the win"
     ]
   ],
   "memecoins": [
@@ -29410,6 +29450,11 @@
       "nd25k1o",
       "2025-09-08T10:07:02",
       "Bitcoin cruising at 112k and it's dead in here. Just how I like it."
+    ],
+    [
+      "nd4u34b",
+      "2025-09-08T19:06:50",
+      "188k stablecoin."
     ]
   ],
   "Pepecryptocurrency": [
@@ -37290,6 +37335,11 @@
       "nd457md",
       "2025-09-08T17:06:40",
       "10 years is a better timestamp"
+    ],
+    [
+      "nd4u5qn",
+      "2025-09-08T19:06:50",
+      "This sounds like a scam. Why would you want to use crypto to pay if you\u2019ve never really used crypto?\n\nGenerally people looking for anonymous payment situations are trying to avoid capital gains taxes on their crypto profits.\n\nBut the idea of crypto as anonymous is a huge misunderstanding. Crypto is CENSORSHIP RESISTANT not anonymous. Governments can\u2019t control who or what you do with your magic internet money but they can certainly track it.\n\nIn fact blockchains are great for tracking payment flow that\u2019s one of their primary purposes. Everything is transparent and preserved for all time. For example, some people collect \u201cpizza sats\u201d which are the specific fractions of Bitcoin that were used in the infamous pizza purchase transaction in 2011."
     ]
   ],
   "cardano": [
