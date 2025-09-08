@@ -19268,6 +19268,24 @@
         "pos": 0.0,
         "compound": 0.1
       }
+    ],
+    [
+      "nd1zjdc",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nd1zms2",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -21798,6 +21816,15 @@
         "neu": 0.15,
         "pos": 0.15,
         "compound": -0.5
+      }
+    ],
+    [
+      "nd1zl15",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.4
       }
     ]
   ],
@@ -46638,6 +46665,24 @@
         "pos": 0.0,
         "compound": -0.5
       }
+    ],
+    [
+      "nd1zmxz",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nd1zn0i",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -50554,6 +50599,33 @@
       {
         "neg": 0.0,
         "neu": 0.5,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd1zjjs",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.9
+      }
+    ],
+    [
+      "nd1zmid",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd1zoq0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -57520,6 +57592,15 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "nd1zoho",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
     ]
   ],
   "sui": [
@@ -61033,6 +61114,15 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.3
+      }
+    ],
+    [
+      "nd1zl4y",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
