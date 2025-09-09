@@ -20339,6 +20339,24 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "ndc2b9c",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "ndc2gr9",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "btc": [
@@ -26760,6 +26778,15 @@
         "pos": 0.0,
         "compound": -0.05
       }
+    ],
+    [
+      "ndc2932",
+      {
+        "neg": 0.2,
+        "neu": 0.75,
+        "pos": 0.05,
+        "compound": -0.3
+      }
     ]
   ],
   "ethereum": [
@@ -30668,6 +30695,24 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "ndc28jj",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "ndc28mw",
+      {
+        "neg": 0.1,
+        "neu": 0.85,
+        "pos": 0.05,
+        "compound": -0.2
+      }
     ]
   ],
   "dogecoin": [
@@ -34008,6 +34053,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "ndc281h",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": 0.0
       }
     ]
   ],
@@ -49005,6 +49059,33 @@
         "pos": 0.02,
         "compound": -0.85
       }
+    ],
+    [
+      "ndc28sl",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndc2cgd",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "ndc2ges",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -53274,6 +53355,15 @@
         "neu": 0.2,
         "pos": 0.7,
         "compound": 0.55
+      }
+    ],
+    [
+      "ndc2fm8",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.9
       }
     ]
   ],
