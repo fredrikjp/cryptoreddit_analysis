@@ -10974,6 +10974,11 @@
       "nd6u9oh",
       "2025-09-09T01:34:50",
       "No not new"
+    ],
+    [
+      "nd74iod",
+      "2025-09-09T02:34:24",
+      "Yes I don't use coinbase but I also got multiple messages like that"
     ]
   ],
   "btc": [
@@ -12451,6 +12456,11 @@
       "nd6ualo",
       "2025-09-09T01:34:50",
       "The title of the bitcoin white paper is \u201cBitcoin: A Peer-to-Peer Electronic Cash System\u201d."
+    ],
+    [
+      "nd74b57",
+      "2025-09-09T02:33:01",
+      "Satoshi created bitcoin, and since bitcoin was created, nobody changed it. Satoshi was against the hardfork. So you have 11 billion BCH and 2.3 trillion bitcoin. If you\u2019re not a maxi you\u2019re not doing it right. You\u2019re just trying to hold on to something that\u2019s never gonna be"
     ]
   ],
   "solana": [
@@ -16615,6 +16625,11 @@
       "nd4u23d",
       "2025-09-08T19:06:50",
       "I don't think diversity is necessarily the solution, because the way NPM is set up, it's not feasible to compromise already-released versions of packages. NPM doesn't let you edit existing versions of your software, only publish new versions.\n\nSo an attacker can only compromise new versions by taking control of a dev's account. The software of every downstream dev who doesn't update to the new package version remains safe to this type of exploit.\n\nIdeally if you're developing a security sensitive package (like crypto), all your dependencies should be locked across builds and updated manually only. If your packages are never automatically updated, then there will always be a delay before you adopt a new dependency version (so the community can notify everyone)."
+    ],
+    [
+      "nd74kqx",
+      "2025-09-09T02:34:24",
+      "WARNING ABOUT SCAMS:  Recently there have been a lot of convincing-looking scams posted on crypto-related reddits including fake NFTs, fake credit cards, fake exchanges, fake mixing services, fake airdrops, fake MEV bots, fake ENS sites and scam sites claiming to help you revoke approvals to prevent fake hacks. These are typically upvoted by bots and seen before moderators can remove them. Do not click on these links and always be wary of anything that tries to rush you into sending money or approving contracts.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/ethereum) if you have any questions or concerns.*"
     ]
   ],
   "dogecoin": [
@@ -18427,6 +18442,11 @@
       "nd6uc9f",
       "2025-09-09T01:34:50",
       "![gif](giphy|QynMX1WxnYFbb2OHnJ)"
+    ],
+    [
+      "nd74jul",
+      "2025-09-09T02:34:24",
+      "4xATH=$3 which is the normal cycle of a crypto"
     ]
   ],
   "CryptoCurrency": [
@@ -26569,6 +26589,21 @@
       "nd6u65r",
       "2025-09-09T01:33:49",
       "Can\u2019t wait for the panic selling so I can pick up cheap sats."
+    ],
+    [
+      "nd74agq",
+      "2025-09-09T02:33:01",
+      "My portfolio is green. I think I dun goofed."
+    ],
+    [
+      "nd74bhd",
+      "2025-09-09T02:33:01",
+      "Those are unrelated concepts."
+    ],
+    [
+      "nd74kri",
+      "2025-09-09T02:34:24",
+      "Didn't Hillary spy on her political opponents also? Rules for thee but not for me?"
     ]
   ],
   "SolanaMemeCoins": [
@@ -32774,6 +32809,11 @@
       "nd34y66",
       "2025-09-08T14:07:43",
       ">Been in ETH since $350\n\nSo four years"
+    ],
+    [
+      "nd74b56",
+      "2025-09-09T02:33:01",
+      "What\u2019s Friday"
     ]
   ],
   "sui": [
@@ -34753,6 +34793,11 @@
       "nd6u7sa",
       "2025-09-09T01:34:09",
       "Release the files."
+    ],
+    [
+      "nd74klk",
+      "2025-09-09T02:34:24",
+      "Undervalued? I don\u2019t think so. Currently it\u2019s nothing but something to speculate on and it\u2019s very plentiful / available."
     ]
   ],
   "CryptoMarkets": [
@@ -37715,6 +37760,11 @@
       "nd5ubwz",
       "2025-09-08T22:06:59",
       "Chainlink, BTC and SPX6900."
+    ],
+    [
+      "nd74cc4",
+      "2025-09-09T02:33:01",
+      "That's exactly it. The streaming platform analogy is spot-on. We're getting an insane amount of real-time data from every wallet and transaction, but without a new way to process it, it's just noise.\n\nThe challenge isn't just about collecting the data; it's about building that intelligence layer that turns noise into signal. It's about amplifying human potential, not replacing it.\n\nThe question is, who gets there first?"
     ]
   ],
   "cardano": [
