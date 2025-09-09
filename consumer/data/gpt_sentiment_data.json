@@ -19682,6 +19682,51 @@
         "pos": 0.0,
         "compound": -0.4
       }
+    ],
+    [
+      "nd6hfuh",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.65
+      }
+    ],
+    [
+      "nd6hhft",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd6hl4h",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nd6hmog",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd6hn3n",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
     ]
   ],
   "btc": [
@@ -22293,6 +22338,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.3
+      }
+    ],
+    [
+      "nd6hej3",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.2
       }
     ]
   ],
@@ -25895,6 +25949,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "nd6hfh3",
+      {
+        "neg": 0.05,
+        "neu": 0.8,
+        "pos": 0.15,
+        "compound": 0.2
       }
     ]
   ],
@@ -32982,6 +33045,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nd6hga6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd6hh3r",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
@@ -47573,6 +47654,60 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": -0.1
+      }
+    ],
+    [
+      "nd6hed8",
+      {
+        "neg": 0.75,
+        "neu": 0.2,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nd6hepz",
+      {
+        "neg": 0.1,
+        "neu": 0.85,
+        "pos": 0.05,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nd6hj1q",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd6hkjh",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nd6hm89",
+      {
+        "neg": 0.75,
+        "neu": 0.2,
+        "pos": 0.05,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nd6hmfj",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
       }
     ]
   ],
