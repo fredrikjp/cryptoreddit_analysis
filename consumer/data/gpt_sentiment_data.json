@@ -19934,6 +19934,42 @@
         "pos": 0.4,
         "compound": 0.25
       }
+    ],
+    [
+      "nd91lui",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nd91osz",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nd91pzz",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nd91q9o",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.5
+      }
     ]
   ],
   "btc": [
@@ -22635,6 +22671,33 @@
         "neu": 0.5,
         "pos": 0.0,
         "compound": -0.1
+      }
+    ],
+    [
+      "nd91mxe",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.85
+      }
+    ],
+    [
+      "nd91n17",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nd91top",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
       }
     ]
   ],
@@ -33414,6 +33477,15 @@
         "neu": 0.5,
         "pos": 0.5,
         "compound": 0.3
+      }
+    ],
+    [
+      "nd91p5f",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.5
       }
     ]
   ],
@@ -48168,6 +48240,51 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "nd91lv6",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nd91pvn",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.3,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd91ree",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.75
+      }
+    ],
+    [
+      "nd91s2x",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nd91tel",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -52330,6 +52447,15 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nd91p8g",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -54068,6 +54194,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "nd91nq3",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.2
       }
     ]
   ],
