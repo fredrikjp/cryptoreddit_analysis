@@ -20078,6 +20078,24 @@
         "pos": 0.1,
         "compound": -0.4
       }
+    ],
+    [
+      "nd9ylwf",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd9ysml",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.25
+      }
     ]
   ],
   "btc": [
@@ -26445,6 +26463,33 @@
         "pos": 0.15,
         "compound": 0.2
       }
+    ],
+    [
+      "nd9yo5l",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd9yqpu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nd9yvxa",
+      {
+        "neg": 0.5,
+        "neu": 0.3,
+        "pos": 0.2,
+        "compound": -0.2
+      }
     ]
   ],
   "ethereum": [
@@ -30334,6 +30379,15 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": -0.3
+      }
+    ],
+    [
+      "nd9ysq0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": -0.1
       }
     ]
   ],
@@ -48473,6 +48527,42 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.8
+      }
+    ],
+    [
+      "nd9yo34",
+      {
+        "neg": 0.9,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "nd9ys8p",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nd9ysr8",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.2,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nd9yvqy",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
