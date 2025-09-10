@@ -298,19 +298,19 @@ fig_bar = px.bar(
     animation_frame='Timestamp',  # this is the time axis for animation
     barmode='group',
     color_discrete_map={
-        'Negative': 'red',
-        'Neutral': 'gray',
-        'Positive': 'green',
-        'Compound': 'blue'
-        ,'Compound Neg': 'black'
+        'Negative': '#fa9078',
+        'Neutral': '#b4b4b4',
+        'Positive': '#40d397',
+        'Compound': '#63C8FF',
+        'Compound Neg': '#896C6C'
     },
     title="Average Sentiment Scores by Subreddit Over Time",
     facet_col='Source'
 )
 
 # Optional: adjust animation speed
-fig_bar.layout.updatemenus[0].buttons[0].args[1]['frame']['duration'] = 800  # ms per frame
-fig_bar.layout.updatemenus[0].buttons[0].args[1]['transition']['duration'] = 500
+fig_bar.layout.updatemenus[0].buttons[0].args[1]['frame']['duration'] = 1000  # ms per frame
+fig_bar.layout.updatemenus[0].buttons[0].args[1]['transition']['duration'] = 1000
 
 st.plotly_chart(fig_bar, use_container_width=True)
 
