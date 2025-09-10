@@ -21023,6 +21023,15 @@
         "pos": 0.0,
         "compound": -0.1
       }
+    ],
+    [
+      "ndicle1",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -27732,6 +27741,15 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "ndicmvb",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "ethereum": [
@@ -31721,6 +31739,15 @@
         "pos": 0.05,
         "compound": 0.0
       }
+    ],
+    [
+      "ndico8v",
+      {
+        "neg": 0.4,
+        "neu": 0.4,
+        "pos": 0.2,
+        "compound": -0.1
+      }
     ]
   ],
   "dogecoin": [
@@ -35178,6 +35205,15 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.25
+      }
+    ],
+    [
+      "ndicms7",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.9
       }
     ]
   ],
@@ -50508,6 +50544,42 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "ndichtu",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
+    ],
+    [
+      "ndici0x",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "ndick2u",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.5
+      }
+    ],
+    [
+      "ndicmxn",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -62272,6 +62344,15 @@
         "pos": 0.0,
         "compound": -0.34
       }
+    ],
+    [
+      "ndicokw",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
     ]
   ],
   "sui": [
@@ -71664,6 +71745,15 @@
         "neu": 0.06,
         "pos": 0.0,
         "compound": -0.020000000000000004
+      }
+    ],
+    [
+      "ndicpvn",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
       }
     ]
   ],
