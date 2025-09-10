@@ -52409,6 +52409,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ndjeid3",
+      {
+        "neg": 0.0,
+        "neu": 0.513,
+        "pos": 0.487,
+        "compound": 0.8225
+      }
+    ],
+    [
+      "ndjeq1l",
+      {
+        "neg": 0.351,
+        "neu": 0.649,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
     ]
   ],
   "memecoins": [
@@ -55102,6 +55120,24 @@
         "pos": 0.398,
         "compound": 0.6486
       }
+    ],
+    [
+      "ndjema6",
+      {
+        "neg": 0.0,
+        "neu": 0.94,
+        "pos": 0.06,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "ndjetff",
+      {
+        "neg": 0.121,
+        "neu": 0.744,
+        "pos": 0.135,
+        "compound": 0.212
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -57692,6 +57728,15 @@
     ],
     [
       "ndhqwdk",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndjejnn",
       {
         "neg": 0.0,
         "neu": 1.0,
