@@ -20834,6 +20834,24 @@
         "pos": 0.1,
         "compound": -0.3
       }
+    ],
+    [
+      "ndgwuvl",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.2
+      }
+    ],
+    [
+      "ndgwzrl",
+      {
+        "neg": 0.7,
+        "neu": 0.25,
+        "pos": 0.05,
+        "compound": -0.6
+      }
     ]
   ],
   "btc": [
@@ -31460,6 +31478,15 @@
         "pos": 0.1,
         "compound": -0.4
       }
+    ],
+    [
+      "ndgwyac",
+      {
+        "neg": 0.05,
+        "neu": 0.9,
+        "pos": 0.05,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -34872,6 +34899,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.3
+      }
+    ],
+    [
+      "ndgwuvf",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
       }
     ]
   ],
@@ -50097,6 +50133,33 @@
     ],
     [
       "ndgjz0q",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndgx01v",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndgx4y6",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndgx53r",
       {
         "neg": 0.0,
         "neu": 0.0,
@@ -70989,6 +71052,33 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.2
+      }
+    ],
+    [
+      "ndgwuik",
+      {
+        "neg": 0.75,
+        "neu": 0.15,
+        "pos": 0.1,
+        "compound": -0.65
+      }
+    ],
+    [
+      "ndgx0vw",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ndgx2nm",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
