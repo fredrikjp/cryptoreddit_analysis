@@ -145,8 +145,9 @@ filtered_sentiment_df = sentiment_df[
 
 ####################################################################
 
-# Display top 10 comments judged by gpt sentiment
+# Display top 10 comments judged by gpt sentiment 
 st.header("Comments with GPT Scores")
+
 gpt_sentiment_df = filtered_sentiment_df[filtered_sentiment_df['Source'] == 'GPT']
 # Add sentiment scores to the comments DataFrame
 comment_and_sentiment_df = filtered_comments_df.merge(
@@ -155,7 +156,12 @@ comment_and_sentiment_df = filtered_comments_df.merge(
     how='left'
 )
 
-st.dataframe(comment_and_sentiment_df[["Timestamp", "Compound", "Positive", "Negative", "Subreddit", "Comment"]].sort_values(by="Compound", ascending=False) , use_container_width=True)
+# Radio buttons for daily or all-time top comments
+time_filter = st.radio("", ('Last 24 Hours', 'All Time'), horizontal=True)
+if time_filter == 'Last 24 Hours':
+    st.dataframe(comment_and_sentiment_df[comment_and_sentiment_df['Timestamp'] >= (pd.Timestamp.now() - pd.Timedelta(days=1))][["Timestamp", "Compound", "Positive", "Negative", "Subreddit", "Comment"]].sort_values(by="Compound", ascending=False) , use_container_width=True)
+elif time_filter == 'All Time':
+    st.dataframe(comment_and_sentiment_df[["Timestamp", "Compound", "Positive", "Negative", "Subreddit", "Comment"]].sort_values(by="Compound", ascending=False) , use_container_width=True)
 
 ##############################################################
 
