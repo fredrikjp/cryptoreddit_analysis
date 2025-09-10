@@ -20573,6 +20573,24 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "ndetdw3",
+      {
+        "neg": 0.2,
+        "neu": 0.5,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ndetfh6",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
     ]
   ],
   "btc": [
@@ -27129,6 +27147,15 @@
         "pos": 0.6,
         "compound": 0.35
       }
+    ],
+    [
+      "ndetbs5",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "ethereum": [
@@ -31063,6 +31090,15 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": 0.1
+      }
+    ],
+    [
+      "ndet9px",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.5
       }
     ]
   ],
@@ -55706,6 +55742,15 @@
         "neu": 0.95,
         "pos": 0.05,
         "compound": 0.1
+      }
+    ],
+    [
+      "ndeta31",
+      {
+        "neg": 0.0,
+        "neu": 0.35,
+        "pos": 0.15,
+        "compound": 0.2
       }
     ]
   ],
