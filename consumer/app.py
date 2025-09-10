@@ -361,20 +361,6 @@ fig_bubble.layout.updatemenus[0].buttons[0].args[1]['transition']['duration'] = 
 
 st.plotly_chart(fig_bubble, use_container_width=True)
 
-
-# Bar chart for average sentiment
-fig_bar = px.bar(
-    avg_sentiment,
-    x='Subreddit',
-    y=['Negative', 'Neutral', 'Positive', 'Compound'],
-    barmode='group',
-    color_discrete_map={'Negative': 'red', 'Neutral': 'gray', 'Positive': 'green', 'Compound': 'blue'},
-    title="Average Sentiment Scores by Subreddit",
-    facet_col='Source'
-)
-st.plotly_chart(fig_bar, use_container_width=True)
-
-
 #################################################################################
 
 
@@ -409,6 +395,24 @@ fig_line = px.line(
 )
 st.plotly_chart(fig_line, use_container_width=True)
 
+
+
+
+############################################################################
+
+# Bar chart for average sentiment
+fig_bar = px.bar(
+    avg_sentiment,
+    x='Subreddit',
+    y=['Negative', 'Neutral', 'Positive', 'Compound'],
+    barmode='group',
+    color_discrete_map={'Negative': 'red', 'Neutral': 'gray', 'Positive': 'green', 'Compound': 'blue'},
+    title="Average Sentiment Scores by Subreddit",
+    facet_col='Source'
+)
+st.plotly_chart(fig_bar, use_container_width=True)
+
+############################################################################
 
 # Sentiment distribution
 st.subheader("Sentiment Distribution")
