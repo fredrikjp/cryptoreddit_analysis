@@ -21536,6 +21536,42 @@
         "pos": 0.0,
         "compound": -0.34
       }
+    ],
+    [
+      "ndoomcr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndoot2h",
+      {
+        "neg": 0.107,
+        "neu": 0.893,
+        "pos": 0.0,
+        "compound": -0.0516
+      }
+    ],
+    [
+      "ndooud6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndoowss",
+      {
+        "neg": 0.223,
+        "neu": 0.777,
+        "pos": 0.0,
+        "compound": -0.7096
+      }
     ]
   ],
   "btc": [
@@ -24480,6 +24516,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ndoonnh",
+      {
+        "neg": 0.104,
+        "neu": 0.836,
+        "pos": 0.059,
+        "compound": -0.4005
       }
     ]
   ],
@@ -28392,6 +28437,15 @@
     ],
     [
       "ndochch",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndoophh",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -51453,6 +51507,24 @@
         "pos": 0.168,
         "compound": 0.5267
       }
+    ],
+    [
+      "ndoooq1",
+      {
+        "neg": 0.0,
+        "neu": 0.898,
+        "pos": 0.102,
+        "compound": 0.8555
+      }
+    ],
+    [
+      "ndoowrl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -64119,6 +64191,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ndoop6i",
+      {
+        "neg": 0.031,
+        "neu": 0.818,
+        "pos": 0.15,
+        "compound": 0.9371
+      }
     ]
   ],
   "XRP": [
@@ -73095,6 +73176,15 @@
         "neu": 0.891,
         "pos": 0.04,
         "compound": -0.2287
+      }
+    ],
+    [
+      "ndoop93",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
