@@ -21491,6 +21491,51 @@
         "pos": 0.9,
         "compound": 0.7
       }
+    ],
+    [
+      "ndocg9t",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "ndock6p",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "ndocpk6",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "ndocrcc",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "ndocs52",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "btc": [
@@ -24426,6 +24471,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.2
+      }
+    ],
+    [
+      "ndocs44",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -28334,6 +28388,15 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.6
+      }
+    ],
+    [
+      "ndochch",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
       }
     ]
   ],
@@ -51372,6 +51435,24 @@
         "pos": 0.5,
         "compound": 0.2
       }
+    ],
+    [
+      "ndocf5j",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "ndocpge",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.75
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -53164,6 +53245,24 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "ndocmqj",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.3,
+        "compound": -0.1
+      }
+    ],
+    [
+      "ndocoyw",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
       }
     ]
   ],
@@ -55983,6 +56082,33 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ndoch8n",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.5
+      }
+    ],
+    [
+      "ndocilt",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.3,
+        "compound": -0.4
+      }
+    ],
+    [
+      "ndocm8z",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
@@ -72960,6 +73086,15 @@
         "neu": 0.7,
         "pos": 0.2,
         "compound": 0.15
+      }
+    ],
+    [
+      "ndocikl",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
