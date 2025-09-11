@@ -21455,6 +21455,42 @@
         "pos": 0.4,
         "compound": 0.3
       }
+    ],
+    [
+      "ndnyzyr",
+      {
+        "neg": 0.7,
+        "neu": 0.15,
+        "pos": 0.15,
+        "compound": -0.4
+      }
+    ],
+    [
+      "ndnz63p",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "ndnz936",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.45
+      }
+    ],
+    [
+      "ndnz95i",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -28289,6 +28325,15 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": -0.3
+      }
+    ],
+    [
+      "ndnz5kv",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.6
       }
     ]
   ],
@@ -35807,6 +35852,15 @@
         "neg": 0.0,
         "neu": 0.8,
         "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ndnz18j",
+      {
+        "neg": 0.3,
+        "neu": 0.3,
+        "pos": 0.4,
         "compound": 0.1
       }
     ]
@@ -51309,6 +51363,15 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "ndnz5o0",
+      {
+        "neg": 0.2,
+        "neu": 0.3,
+        "pos": 0.5,
+        "compound": 0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -55900,6 +55963,24 @@
       {
         "neg": 0.0,
         "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndnz097",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndnz5zc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -73502,6 +73583,15 @@
         "neu": 0.5,
         "pos": 0.4,
         "compound": 0.2
+      }
+    ],
+    [
+      "ndnz6l3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
