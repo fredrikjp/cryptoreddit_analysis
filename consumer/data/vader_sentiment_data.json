@@ -21329,6 +21329,69 @@
         "pos": 0.597,
         "compound": 0.7506
       }
+    ],
+    [
+      "ndmycgl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndmyczg",
+      {
+        "neg": 0.102,
+        "neu": 0.667,
+        "pos": 0.231,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "ndmyfeq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndmyfui",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndmygi2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndmyiya",
+      {
+        "neg": 0.292,
+        "neu": 0.472,
+        "pos": 0.236,
+        "compound": -0.1531
+      }
+    ],
+    [
+      "ndmynfl",
+      {
+        "neg": 0.068,
+        "neu": 0.898,
+        "pos": 0.034,
+        "compound": -0.2192
+      }
     ]
   ],
   "btc": [
@@ -24246,6 +24309,15 @@
         "neu": 0.838,
         "pos": 0.07,
         "compound": -0.1366
+      }
+    ],
+    [
+      "ndmyglq",
+      {
+        "neg": 0.08,
+        "neu": 0.882,
+        "pos": 0.038,
+        "compound": -0.7778
       }
     ]
   ],
@@ -52904,6 +52976,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ndmym2m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "memecoins": [
@@ -72609,6 +72690,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ndmyjgg",
+      {
+        "neg": 0.0,
+        "neu": 0.759,
+        "pos": 0.241,
+        "compound": 0.5859
       }
     ]
   ],
