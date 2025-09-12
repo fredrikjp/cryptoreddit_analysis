@@ -21878,6 +21878,15 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "ndt7e76",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -24858,6 +24867,15 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "ndt7arb",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
       }
     ]
   ],
@@ -28820,6 +28838,15 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.7
+      }
+    ],
+    [
+      "ndt7dzo",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.2
       }
     ]
   ],
@@ -52110,6 +52137,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ndt7bns",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "ndt7dcx",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -64306,6 +64351,15 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "ndt7aj0",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.7,
+        "compound": 0.5
+      }
     ]
   ],
   "sui": [
@@ -73978,6 +74032,15 @@
         "pos": 0.7,
         "compound": 0.65
       }
+    ],
+    [
+      "ndt7id4",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
     ]
   ],
   "cardano": [
@@ -74618,6 +74681,33 @@
         "neu": 0.5,
         "pos": 0.2,
         "compound": -0.1
+      }
+    ],
+    [
+      "ndt4qds",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.05,
+        "compound": 0.3
+      }
+    ],
+    [
+      "ndt5w8r",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.4
+      }
+    ],
+    [
+      "ndt63fr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],

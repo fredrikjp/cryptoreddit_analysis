@@ -12154,6 +12154,11 @@
       "ndswl19",
       "2025-09-12T11:59:08",
       "Bitcoin can also serve as a means of payment. It seems you may have limited knowledge about Bitcoin and its various uses."
+    ],
+    [
+      "ndt7e76",
+      "2025-09-12T13:12:05",
+      "Ok croissant"
     ]
   ],
   "btc": [
@@ -13811,6 +13816,11 @@
       "nds9wrx",
       "2025-09-12T09:08:05",
       "I am aware of that, but then why the complacent attitude and give even more space to spammers ? Should not spam be fought against instead ? Or people just gave up.\n\nStill note an valid argument to accept this change. Just to say \"Spam has been already been placed into blocks so let's give them more space\" \n\nDoesn't make any sense to me.  Shitcoiners are finding ways to place a storage business model in Bitcoin."
+    ],
+    [
+      "ndt7arb",
+      "2025-09-12T13:11:24",
+      "bitcoin's largest OP_RETURN ever happened 300 days ago. the filter is simply not an effective way to prevent people from doing large OP_RETURNs. the fact of the matter is large OP_RETURNs are valid in bitcoin consensus and the only thing that can change that is a fork.\n\nif you search the seven seas for all the people who are crying about large OP_RETURNs, you'll find maybe one or two who correctly understand this and advocate, however misguidedly, for a fork to make them invalid in consensus. most of these raspberry pi owning windowlickers refuse to actually stand up for their beliefs by supporting a fork about anything at all anymore. this isn't a matter of defeatism. they legitimately don't understand how bitcoin works or what is going on."
     ]
   ],
   "solana": [
@@ -16013,6 +16023,11 @@
       "nds42lq",
       "2025-09-12T08:08:34",
       "The only reason bnb has stayed slightly ahead of Solana for the past few months has been because of market manipulation from binance to keep their coin ahead. Mass outflows of Solana and ETH on their behalf via wintermute (despite having no Solana on balance sheets) signal them using their customers funds to manipulate prices. They can\u2019t suppress it forever with current traction."
+    ],
+    [
+      "ndt7dzo",
+      "2025-09-12T13:11:24",
+      "Exchange hacks, bankruptcy, higher centralized exchange fees, frozen funds, sandwiches are avoidable, most have just seen this as a tax that goes back to SOL holders. \n\nQuestion is why would you use the centralized exchange."
     ]
   ],
   "ethereum": [
@@ -28954,6 +28969,16 @@
       "ndswkdi",
       "2025-09-12T11:59:08",
       "It's the American way."
+    ],
+    [
+      "ndt7bns",
+      "2025-09-12T13:11:24",
+      "cut your losses"
+    ],
+    [
+      "ndt7dcx",
+      "2025-09-12T13:11:24",
+      "They are getting old. Knees clicking. They bought and held all this time and now want something. \n\nThey may diversify or go live better."
     ]
   ],
   "SolanaMemeCoins": [
@@ -35734,6 +35759,11 @@
       "ndsv3dw",
       "2025-09-12T11:59:08",
       "Saylor and MSTR are the start of the 2026 bear market..."
+    ],
+    [
+      "ndt7aj0",
+      "2025-09-12T13:11:24",
+      "Yield dilutes the value. That money doesn't come from nowhere.\n\nBTC is the worlds biggest decentralized deflationary asset. That's all it ever needs to be.\n\nETH handles smart contracts in a decentralized way.\n\nSOL handles smart contracts instantly in a semi-decentralized way... and so on.\n\nThere's many winners, we have many chains..."
     ]
   ],
   "sui": [
@@ -41110,6 +41140,11 @@
       "ndsna80",
       "2025-09-12T11:06:08",
       "we dont know the hype behind xrp? Lawsuit over, first crypto to have complete legal clarity, RWA utility, instant fee less transactions, partnerships with 100+ countries\u2026. Fud"
+    ],
+    [
+      "ndt7id4",
+      "2025-09-12T13:12:05",
+      "Neither. But if I had to choose, SOL. XRP has been rendered useless with stablecoin adoption and banks creating their own. The value from RLUSD is very minimal so far, and 80%+ of that value is on Ethereum, not XRPL. \n\nThe only reason it has such a high marketcap is from the lawsuit and social media bots creating a cult following. Fake news all over propping it up with people who don't know any better."
     ]
   ],
   "cardano": [
@@ -41467,6 +41502,21 @@
       "ndsnexl",
       "2025-09-12T11:06:08",
       "FYI the yt-app that posts the content is just an aggregation app installed to reddit. We can only specify channel ids, there is no additional context so we remove content from the bot retrospectively.\n\nAll of the channels added to the aggregation were considered Cardano specific and from active community members. It's sad that Josh doubled down and effectively admitted he doesn't care if it's misinformation. He certainly lost my respect."
+    ],
+    [
+      "ndt4qds",
+      "2025-09-12T13:12:05",
+      "Thanks a lot. This perspective has been extremely helpful. Allowing people to experience it makes it easier to entice them. \n\nI have made a couple of fixes to how the application works now. Anyone can now access the feed, view details of Krypts and even view unlock krypts as well.\n\nHere's one of such Krypts: here[No Lock Krypt](https://www.nkrypt.space/dashboard/krypt/68c40236a13f42a76ebb1f79/unlock)\n\nYou can also view the home feed - [Home Feed](https://www.nkrypt.space/dashboard)\n\n\nLooking forward to your thoughts.\n\nBy the way this is all I have going on Cardano at the moment."
+    ],
+    [
+      "ndt5w8r",
+      "2025-09-12T13:12:05",
+      "Yeah, I have implemented robust changes to reflect all of those. It is ironic how it went over my head considering how much of a difference these little changes can make.\n\nFor a social app, I see the rationale in making it easier for people to see what's in it. For Nkrypt that has its quirk, it becomes even more important.\n\nHere's a log of the changes done.\n\n1. Public Feed : We have made it possible for visitors to be able to view the public feed without needing to sign up\nHome Feed[Home Feed](https://www.nkrypt.space/dashboard)\n\n2. Krypt Details: Made it possible for people to view Krypts details without an account \n[Krypt Details](https://www.nkrypt.space/dashboard/krypt/68c40236a13f42a76ebb1f79)\n \n\n\n3. Viewing Unlock Posts : We have taken it a step further to allow no-lock posts to be accessible by just anyone \nHere's an example: [No Lock Post](https://www.nkrypt.space/dashboard/krypt/68c40236a13f42a76ebb1f79/unlock)\n\n\nLet me know what you think."
+    ],
+    [
+      "ndt63fr",
+      "2025-09-12T13:12:05",
+      "Thanks a lot."
     ]
   ],
   "Chainlink": [
