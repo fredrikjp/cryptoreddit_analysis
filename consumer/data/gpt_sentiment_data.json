@@ -21851,6 +21851,15 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "ndsnez2",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -36397,6 +36406,15 @@
     ],
     [
       "ndrxtgh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndsnb17",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -68045,6 +68063,15 @@
         "pos": 0.2,
         "compound": 0.0
       }
+    ],
+    [
+      "ndsnd8k",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.75
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -73897,6 +73924,15 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "ndsna80",
+      {
+        "neg": 0.1,
+        "neu": 0.2,
+        "pos": 0.7,
+        "compound": 0.65
+      }
     ]
   ],
   "cardano": [
@@ -74528,6 +74564,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ndsnexl",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
       }
     ]
   ],
