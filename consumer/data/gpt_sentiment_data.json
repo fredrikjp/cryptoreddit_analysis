@@ -36700,6 +36700,15 @@
         "pos": 1.0,
         "compound": 0.8
       }
+    ],
+    [
+      "ndwigg5",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -52506,6 +52515,15 @@
         "pos": 0.1,
         "compound": 0.05
       }
+    ],
+    [
+      "ndwiebb",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -59091,6 +59109,15 @@
         "pos": 0.0,
         "compound": -0.1
       }
+    ],
+    [
+      "ndwiayb",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -59956,6 +59983,15 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.8
+      }
+    ],
+    [
+      "ndwib7p",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -74661,6 +74697,15 @@
         "neu": 0.6,
         "pos": 0.3,
         "compound": 0.25
+      }
+    ],
+    [
+      "ndwian8",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
