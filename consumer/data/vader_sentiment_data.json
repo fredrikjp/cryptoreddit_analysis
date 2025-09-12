@@ -21644,6 +21644,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ndqbotb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndqbp60",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndqbq43",
+      {
+        "neg": 0.0,
+        "neu": 0.798,
+        "pos": 0.202,
+        "compound": 0.5093
+      }
     ]
   ],
   "btc": [
@@ -51660,6 +51687,15 @@
         "pos": 0.0,
         "compound": -0.5709
       }
+    ],
+    [
+      "ndqbsao",
+      {
+        "neg": 0.199,
+        "neu": 0.513,
+        "pos": 0.288,
+        "compound": -0.1531
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -56325,6 +56361,15 @@
         "neu": 0.754,
         "pos": 0.246,
         "compound": 0.9799
+      }
+    ],
+    [
+      "ndqbr5h",
+      {
+        "neg": 0.048,
+        "neu": 0.826,
+        "pos": 0.126,
+        "compound": 0.5106
       }
     ]
   ],
