@@ -21671,6 +21671,42 @@
         "pos": 0.202,
         "compound": 0.5093
       }
+    ],
+    [
+      "ndqoet4",
+      {
+        "neg": 0.255,
+        "neu": 0.365,
+        "pos": 0.38,
+        "compound": 0.1779
+      }
+    ],
+    [
+      "ndqoi92",
+      {
+        "neg": 0.565,
+        "neu": 0.435,
+        "pos": 0.0,
+        "compound": -0.3818
+      }
+    ],
+    [
+      "ndqon8o",
+      {
+        "neg": 0.022,
+        "neu": 0.834,
+        "pos": 0.145,
+        "compound": 0.8608
+      }
+    ],
+    [
+      "ndqonry",
+      {
+        "neg": 0.221,
+        "neu": 0.626,
+        "pos": 0.152,
+        "compound": -0.3462
+      }
     ]
   ],
   "btc": [
@@ -36132,6 +36168,42 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ndqoebg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndqoevp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndqofn9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ndqohn0",
+      {
+        "neg": 0.238,
+        "neu": 0.762,
+        "pos": 0.0,
+        "compound": -0.3612
       }
     ]
   ],
@@ -58994,6 +59066,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ndqoex5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethtrader": [
@@ -67594,6 +67675,15 @@
         "neu": 0.855,
         "pos": 0.0,
         "compound": -0.296
+      }
+    ],
+    [
+      "ndqogrs",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
