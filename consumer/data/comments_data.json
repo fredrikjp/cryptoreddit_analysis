@@ -12099,6 +12099,11 @@
       "ndqy3ag",
       "2025-09-12T02:31:22",
       "You insured against that?"
+    ],
+    [
+      "ndr4zbs",
+      "2025-09-12T03:14:41",
+      "LMAO!  This is exactly the nonsense that indicates we are at the top of the bull.  Every time the same thing........"
     ]
   ],
   "btc": [
@@ -28809,6 +28814,11 @@
       "ndqxwzo",
       "2025-09-12T02:30:26",
       "I use mexc and pretty much everything is on there. No KYC"
+    ],
+    [
+      "ndr4zh8",
+      "2025-09-12T03:14:41",
+      "Al Roker looks great!"
     ]
   ],
   "SolanaMemeCoins": [
@@ -40895,6 +40905,16 @@
       "ndp13gf",
       "2025-09-11T20:06:53",
       "yep this the new oil that is why many countries start Bitcoin mining it like safe and protects their assets, the same when they start oil drilling."
+    ],
+    [
+      "ndr522d",
+      "2025-09-12T03:14:41",
+      "This is problematic.  Though potentially part hit piece against Hoskinson it\u2019s also got some truth.  Remember the Africa projects Hoskinson kept promising & then there was nothing and no one depth analysis for investors as to what went wrong? Hoskinson keeps dangling the carrots ans hyping projects that dont come to fruition.  Simultaneously he downplays other chains that far out perform cardano, smart contracts etc.  And yet Hoskinson keeps throwing them under the bus and hyping cardano as a superior chain.  Stop taking dude! Please! Start showing us some results already.  It gets really old.   Read this article cardanoians and try to deny that some things are true.  Charles needs to close his mouth and work.  I don\u2019t care about your side projects and promises man.  Stop acting like a used car salesmen and grow up.  Produce results that matter. And quit trying to act like a big player.  Real info oriented investors Dont care to hear you brag.  Just results \n\n https://crypto.news/hoskinson-talks-big-cardanos-reality-tells-another-story/"
+    ],
+    [
+      "ndr528u",
+      "2025-09-12T03:14:41",
+      "Some papers actually explain mechanics in plain terms. imo those are worth looking at code>buzzwords."
     ]
   ],
   "cardano": [
@@ -41414,6 +41434,11 @@
       "ndaniq2",
       "2025-09-09T17:05:58",
       "Donde esta la biblioteka"
+    ],
+    [
+      "ndr4xml",
+      "2025-09-12T03:14:41",
+      "Details matter, I am here to learn, we should all be here to learn and pass on truths.\n\nWhat it means to build on something when saying you \u201cbuild on\u201d a blockchain /network/ecosystem means you deploy your contracts or logic on that chain\u2019s execution layer, your App or dApp lives there and depends on its consensus and blockspace, an example is when building on Ethereum or the XRPL means your contracts are on Ethereum and use Ethereum\u2019s block production and state, or your App or dApp is on the XRPL and benefits from the consensus and Ledger. So no you don\u2019t build apps or dApps on the CCIP because it is not a blockchain or ledger or execution layer, it has no blockspace or smart contract hosting of it\u2019s own, what you do with CCIP is plug into it, and what it means to plug into CCIP is it is a middleware protocol that lets contracts on existing chains talk to each other, CCIP provides messaging and token transfer APIs between chains. So when you \u201cuse CCIP\u201d you are really building on other blockchains, and integrating CCIP as a communication layer."
     ]
   ]
 }
