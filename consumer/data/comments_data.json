@@ -12324,6 +12324,11 @@
       "ne05tli",
       "2025-09-13T15:06:16",
       "Polarising people"
+    ],
+    [
+      "ne0i2cx",
+      "2025-09-13T16:06:42",
+      "Fair. I have two stashes, my physical bitcoin on my hardware wallet, and my tax-free growth Roth. So I'm trying the two-pronged approach. I'll retire off of the tax-free bitcoin as much as I can, but hold the physical to use as collateral."
     ]
   ],
   "btc": [
@@ -14016,6 +14021,11 @@
       "ne05nsb",
       "2025-09-13T15:06:16",
       "No it is not.\n\nDownload the Original Bitcoin client, sync the chain, and try to transact.  It will not work.\n\nBTC is a total mess due to their misguided soft-fork policy, loaded with technical deb, hence why you have the inscriptions exploit.\n\nHard-fork is the proper way to upgrade a blockchain, you have been lied to by the Core dev scammers.\n\n[On consensus and forks - how softforks create future protocol problems](https://medium.com/@octskyward/on-consensus-and-forks-c6a050c792e7)"
+    ],
+    [
+      "ne0hyqc",
+      "2025-09-13T16:06:42",
+      "That approach has the issue that most payments will be denominated in euro or dollars.\nAnd you want that to use the current exchange rate, not one from when you planned a series of payments, whichi may be months ago."
     ]
   ],
   "solana": [
@@ -16273,6 +16283,11 @@
       "ndzu0jq",
       "2025-09-13T14:05:12",
       "Yeah, climbing to #5 is pretty wild considering all the setbacks Solana had to shake off. Shows that steady dev activity and user growth can outweigh the old \u201cdowntime chain\u201d jokes. At the same time, being top 5 also means higher scrutiny. Outages, centralization debates, and regulatory pressure could hit harder from here.\n\nFor me, it\u2019s less about market cap ranking and more about whether the ecosystem keeps pulling in real projects and users. If that momentum holds, the rank takes care of itself.\n\nWhen I\u2019ve wanted to rotate into SOL from ETH or other chains, [Rubic](https://www.reddit.com/r/Rubic/)\u2019s been handy for making those swaps without bridge headaches."
+    ],
+    [
+      "ne0i2ws",
+      "2025-09-13T16:06:42",
+      "U probably need to wait for FedEx to return and for them to ship out another one."
     ]
   ],
   "ethereum": [
@@ -20642,6 +20657,11 @@
       "ne05x0u",
       "2025-09-13T15:06:51",
       "Bring out the moon"
+    ],
+    [
+      "ne0i07e",
+      "2025-09-13T16:06:42",
+      "it didnt blow up lol"
     ]
   ],
   "CryptoCurrency": [
@@ -41975,6 +41995,11 @@
       "ne05xor",
       "2025-09-13T15:06:51",
       "What if they do what they plan to, which is open up public nodes so anyone can run one?"
+    ],
+    [
+      "ne0i4rd",
+      "2025-09-13T16:06:42",
+      "Personally, I stick with Monero or Litecoin when I want cheap + reliable. If I need to move between ecosystems, I\u2019ll just swap on Rubic since it can handle cross-chain stuff without custody."
     ]
   ],
   "cardano": [
