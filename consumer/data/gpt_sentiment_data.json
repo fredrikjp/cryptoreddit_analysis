@@ -37483,6 +37483,24 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "ne32y6j",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.15
+      }
+    ],
+    [
+      "ne330jv",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.5
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -53586,6 +53604,15 @@
         "pos": 0.2,
         "compound": 0.45
       }
+    ],
+    [
+      "ne32xv1",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -60269,6 +60296,15 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.1
+      }
+    ],
+    [
+      "ne32yin",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
@@ -76868,6 +76904,15 @@
         "neu": 0.4,
         "pos": 0.5,
         "compound": 0.3
+      }
+    ],
+    [
+      "ne32x1k",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
