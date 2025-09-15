@@ -22805,6 +22805,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "neaply4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neapmx8",
+      {
+        "neg": 0.0,
+        "neu": 0.694,
+        "pos": 0.306,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "neapn9e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -30108,6 +30135,24 @@
         "pos": 0.0,
         "compound": -0.7022
       }
+    ],
+    [
+      "neapm84",
+      {
+        "neg": 0.154,
+        "neu": 0.738,
+        "pos": 0.107,
+        "compound": -0.34
+      }
+    ],
+    [
+      "neapt2d",
+      {
+        "neg": 0.0,
+        "neu": 0.839,
+        "pos": 0.161,
+        "compound": 0.3182
+      }
     ]
   ],
   "ethereum": [
@@ -34208,6 +34253,15 @@
     ],
     [
       "ne8v24y",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neapm6m",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -54792,6 +54846,24 @@
         "pos": 0.126,
         "compound": 0.3818
       }
+    ],
+    [
+      "neapn7m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neapnpl",
+      {
+        "neg": 0.144,
+        "neu": 0.792,
+        "pos": 0.064,
+        "compound": -0.8294
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -67581,6 +67653,24 @@
         "neu": 0.642,
         "pos": 0.358,
         "compound": 0.5994
+      }
+    ],
+    [
+      "neappe5",
+      {
+        "neg": 0.0,
+        "neu": 0.818,
+        "pos": 0.182,
+        "compound": 0.9564
+      }
+    ],
+    [
+      "neapppu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
