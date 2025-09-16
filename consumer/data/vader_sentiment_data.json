@@ -23426,6 +23426,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nelel54",
+      {
+        "neg": 0.778,
+        "neu": 0.222,
+        "pos": 0.0,
+        "compound": -0.5423
+      }
+    ],
+    [
+      "nelepun",
+      {
+        "neg": 0.054,
+        "neu": 0.782,
+        "pos": 0.164,
+        "compound": 0.8047
+      }
+    ],
+    [
+      "neleucr",
+      {
+        "neg": 0.0,
+        "neu": 0.526,
+        "pos": 0.474,
+        "compound": 0.4019
+      }
     ]
   ],
   "btc": [
@@ -31044,6 +31071,51 @@
         "pos": 0.441,
         "compound": 0.7269
       }
+    ],
+    [
+      "nelejs0",
+      {
+        "neg": 0.089,
+        "neu": 0.815,
+        "pos": 0.096,
+        "compound": -0.0258
+      }
+    ],
+    [
+      "nelekdu",
+      {
+        "neg": 0.089,
+        "neu": 0.815,
+        "pos": 0.096,
+        "compound": -0.0258
+      }
+    ],
+    [
+      "nelemwa",
+      {
+        "neg": 0.089,
+        "neu": 0.815,
+        "pos": 0.096,
+        "compound": -0.0258
+      }
+    ],
+    [
+      "neleoqz",
+      {
+        "neg": 0.089,
+        "neu": 0.815,
+        "pos": 0.096,
+        "compound": -0.0258
+      }
+    ],
+    [
+      "neleryj",
+      {
+        "neg": 0.054,
+        "neu": 0.872,
+        "pos": 0.074,
+        "compound": 0.2937
+      }
     ]
   ],
   "ethereum": [
@@ -35185,6 +35257,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nelema9",
+      {
+        "neg": 0.069,
+        "neu": 0.767,
+        "pos": 0.164,
+        "compound": 0.8074
       }
     ]
   ],
@@ -56457,6 +56538,51 @@
         "pos": 0.0,
         "compound": -0.2263
       }
+    ],
+    [
+      "nelekw7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nelelml",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nelen1x",
+      {
+        "neg": 0.0,
+        "neu": 0.737,
+        "pos": 0.263,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "nelenfh",
+      {
+        "neg": 0.084,
+        "neu": 0.916,
+        "pos": 0.0,
+        "compound": -0.2755
+      }
+    ],
+    [
+      "neleqt1",
+      {
+        "neg": 0.0,
+        "neu": 0.481,
+        "pos": 0.519,
+        "compound": 0.6498
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -61590,6 +61716,15 @@
         "neu": 0.826,
         "pos": 0.126,
         "compound": 0.5106
+      }
+    ],
+    [
+      "nelesu3",
+      {
+        "neg": 0.0,
+        "neu": 0.746,
+        "pos": 0.254,
+        "compound": 0.5267
       }
     ]
   ],
