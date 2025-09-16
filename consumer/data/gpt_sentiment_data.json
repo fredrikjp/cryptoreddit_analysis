@@ -23192,6 +23192,15 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nehyjsm",
+      {
+        "neg": 0.2,
+        "neu": 0.3,
+        "pos": 0.5,
+        "compound": 0.3
+      }
     ]
   ],
   "btc": [
@@ -55899,6 +55908,24 @@
         "pos": 0.2,
         "compound": 0.0
       }
+    ],
+    [
+      "nehyh9y",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nehykh5",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -79404,6 +79431,24 @@
         "neu": 0.1,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "nehyhrx",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nehykev",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
       }
     ]
   ],
