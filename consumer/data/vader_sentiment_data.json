@@ -23219,6 +23219,24 @@
         "pos": 0.068,
         "compound": 0.1531
       }
+    ],
+    [
+      "neizi25",
+      {
+        "neg": 0.118,
+        "neu": 0.755,
+        "pos": 0.126,
+        "compound": -0.2477
+      }
+    ],
+    [
+      "neiznye",
+      {
+        "neg": 0.0,
+        "neu": 0.955,
+        "pos": 0.045,
+        "compound": 0.1901
+      }
     ]
   ],
   "btc": [
@@ -26460,6 +26478,15 @@
         "neu": 0.678,
         "pos": 0.037,
         "compound": -0.931
+      }
+    ],
+    [
+      "neizroq",
+      {
+        "neg": 0.114,
+        "neu": 0.781,
+        "pos": 0.105,
+        "compound": -0.1313
       }
     ]
   ],
@@ -30756,6 +30783,24 @@
         "pos": 0.06,
         "compound": 0.5574
       }
+    ],
+    [
+      "neizi8q",
+      {
+        "neg": 0.034,
+        "neu": 0.867,
+        "pos": 0.1,
+        "compound": 0.8176
+      }
+    ],
+    [
+      "neizknu",
+      {
+        "neg": 0.034,
+        "neu": 0.867,
+        "pos": 0.1,
+        "compound": 0.8176
+      }
     ]
   ],
   "ethereum": [
@@ -34888,6 +34933,15 @@
         "neu": 0.781,
         "pos": 0.0,
         "compound": -0.8271
+      }
+    ],
+    [
+      "neizpqv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -55998,6 +56052,33 @@
         "pos": 0.301,
         "compound": 0.3182
       }
+    ],
+    [
+      "neizfq3",
+      {
+        "neg": 0.071,
+        "neu": 0.834,
+        "pos": 0.095,
+        "compound": 0.27
+      }
+    ],
+    [
+      "neizosd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neizs3e",
+      {
+        "neg": 0.094,
+        "neu": 0.906,
+        "pos": 0.0,
+        "compound": -0.4404
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -62961,6 +63042,15 @@
         "pos": 0.171,
         "compound": 0.9115
       }
+    ],
+    [
+      "neizr7n",
+      {
+        "neg": 0.072,
+        "neu": 0.744,
+        "pos": 0.184,
+        "compound": 0.7906
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -69175,6 +69265,60 @@
         "pos": 0.044,
         "compound": 0.296
       }
+    ],
+    [
+      "neizf5n",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neizgf0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neizk91",
+      {
+        "neg": 0.0,
+        "neu": 0.736,
+        "pos": 0.264,
+        "compound": 0.4359
+      }
+    ],
+    [
+      "neizkxd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neizn16",
+      {
+        "neg": 0.0,
+        "neu": 0.756,
+        "pos": 0.244,
+        "compound": 0.4926
+      }
+    ],
+    [
+      "neizni0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -69815,6 +69959,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "neizr0g",
+      {
+        "neg": 0.0,
+        "neu": 0.876,
+        "pos": 0.124,
+        "compound": 0.4019
       }
     ]
   ],
@@ -79566,6 +79719,33 @@
         "neu": 0.658,
         "pos": 0.0,
         "compound": -0.3818
+      }
+    ],
+    [
+      "neizgzb",
+      {
+        "neg": 0.157,
+        "neu": 0.781,
+        "pos": 0.062,
+        "compound": -0.7951
+      }
+    ],
+    [
+      "neizlka",
+      {
+        "neg": 0.116,
+        "neu": 0.752,
+        "pos": 0.132,
+        "compound": 0.09
+      }
+    ],
+    [
+      "neizq0j",
+      {
+        "neg": 0.0,
+        "neu": 0.431,
+        "pos": 0.569,
+        "compound": 0.765
       }
     ]
   ],
