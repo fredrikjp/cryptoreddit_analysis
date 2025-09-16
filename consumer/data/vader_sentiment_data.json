@@ -26407,6 +26407,15 @@
         "pos": 0.0,
         "compound": -0.34
       }
+    ],
+    [
+      "nehsigl",
+      {
+        "neg": 0.123,
+        "neu": 0.689,
+        "pos": 0.188,
+        "compound": 0.2168
+      }
     ]
   ],
   "solana": [
@@ -30674,6 +30683,15 @@
         "neu": 0.788,
         "pos": 0.212,
         "compound": 0.8192
+      }
+    ],
+    [
+      "nehsjex",
+      {
+        "neg": 0.0,
+        "neu": 0.423,
+        "pos": 0.577,
+        "compound": 0.6249
       }
     ]
   ],
@@ -55872,6 +55890,15 @@
         "pos": 0.294,
         "compound": 0.3612
       }
+    ],
+    [
+      "nehsh4m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -68980,6 +69007,24 @@
     ],
     [
       "nehas22",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nehsha1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nehshv0",
       {
         "neg": 0.0,
         "neu": 1.0,
