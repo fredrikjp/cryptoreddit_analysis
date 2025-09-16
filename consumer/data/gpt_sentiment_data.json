@@ -23201,6 +23201,15 @@
         "pos": 0.5,
         "compound": 0.3
       }
+    ],
+    [
+      "neiely3",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.9
+      }
     ]
   ],
   "btc": [
@@ -26433,6 +26442,15 @@
         "neu": 0.5,
         "pos": 0.5,
         "compound": 0.3
+      }
+    ],
+    [
+      "neiej9o",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -61033,6 +61051,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "neieia0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neieir3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": -0.1
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -69102,6 +69138,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "neielqj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
