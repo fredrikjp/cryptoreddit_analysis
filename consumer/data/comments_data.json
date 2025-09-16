@@ -12959,6 +12959,31 @@
       "nek0mbb",
       "2025-09-16T17:06:49",
       "I'm really tired of the fiat slavery"
+    ],
+    [
+      "nekpin1",
+      "2025-09-16T19:05:35",
+      "Expensive handbags."
+    ],
+    [
+      "nekpiq6",
+      "2025-09-16T19:05:35",
+      "Agreed, it's not worth it now. I was thinking more about what 4TB might cost 7-8 years in the future when the  2TB starts maxing out."
+    ],
+    [
+      "nekppd1",
+      "2025-09-16T19:06:56",
+      "It isn\u2019t widely used, 2.3 trillion is less than 0.5% of the global money supply. Even now, with all the talk, adoption is still in the early stages at best. Plenty of room to grow, but let\u2019s be realistic here, it\u2019s still not widely used. \n\nI could see a future, however unlikely, where btc is so heavily concentrated in institutions and corporations that an alternative becomes more attractive. \n\nTo think the first car ever made would be the same car people drive 100 years later seems naive. Technology advances, and replaces existing models pretty frequently, bitcoin isn\u2019t an exception to this. If something is better, and solves a problem bitcoin cant, the only thing holding it back is adoption. Maybe it could be as simple as that. It\u2019s possible."
+    ],
+    [
+      "nekps3u",
+      "2025-09-16T19:06:56",
+      "Bitcoin will be replaced, Just like how it will replace gold.  \n\nIt\u2019s just that most likely the thing that will replace bitcoin will be as different to bitcoin as bitcoin is to gold.  In other words it\u2019ll most likely be a technology that we have yet to develop."
+    ],
+    [
+      "nekpvde",
+      "2025-09-16T19:06:56",
+      "It could be perfect functionally and meet everyone's needs, but it will still fall victim to human greed and have a huge premine with associated rugpull."
     ]
   ],
   "btc": [
@@ -17168,6 +17193,21 @@
       "nek0ie7",
       "2025-09-16T17:06:04",
       "Wrong, Solana money grabbing. They told me my max which I could use for the  purchase, then left me 0.00006 Sol short. Dirty pool infested in crypto."
+    ],
+    [
+      "nekplgh",
+      "2025-09-16T19:05:35",
+      "Hindsight is 20/20 but actually changing that pattern feels impossible sometimes even when you know exactly what you did wrong. That internal voice that says 'this time it's different' is a killer."
+    ],
+    [
+      "nekpnt4",
+      "2025-09-16T19:06:56",
+      "You've hit the nail on the head with the core challenge of getting low-latency price data on Solana. Relying on\u00a0getTransaction\u00a0after a\u00a0logsSubscribe\u00a0event is definitely going to burn through your RPC credits and will still have a slight lag.\n\nThe big third-party APIs (like Birdeye, etc.) are your best bet for a simple solution, but as you said, they can be expensive and often don't meet that sub-1.5s latency requirement for a large number of pairs.\n\nHonestly, what you're trying to build is a core component of what high-performance trading bots do under the hood. They need to have the absolute latest price data to execute trades effectively and protect against MEV.\n\nMy team and I actually use a Telegram-based bot, JitoX, for our execution. While it's a trading tool on the front-end, its entire backend is an engine built to solve this exact data problem. It maintains a high-speed connection to the Jito block engine, which gives it access to transaction data and state changes faster than a standard RPC connection. This allows it to calculate real-time prices and execute trades with minimal latency.\n\nInstead of spending a ton of time and money building out this complex data infrastructure yourself, you might find it more efficient to leverage a tool that has already perfected it.\n\nThe bot is\u00a0JitoXai\\_bot\u00a0if you want to check out how it performs. It's a good example of a system that has solved the low-latency price feed problem."
+    ],
+    [
+      "nekpu8t",
+      "2025-09-16T19:06:56",
+      "Yeah I went to use it, but it wanted to do a transaction, so I rejected it.  Not sure if I like this website."
     ]
   ],
   "ethereum": [
@@ -31269,6 +31309,16 @@
       "nek0ily",
       "2025-09-16T17:06:04",
       "I'm not in the same boat as you so take this with a grain of salt, but with how shady CDC is with minting, burning, unburning coins, I'd hate to have any CRO non-liquid. And with WLF getting so heavily involved, I'd guess these inflationary practices will only become more frequent. Prepare to dump it imo"
+    ],
+    [
+      "nekpigt",
+      "2025-09-16T19:05:35",
+      "He is still managing scion capitall, isnt he?"
+    ],
+    [
+      "nekpj3r",
+      "2025-09-16T19:05:35",
+      "The shock will be when you want to sell but there is not enough demand for the purchase."
     ]
   ],
   "SolanaMemeCoins": [
