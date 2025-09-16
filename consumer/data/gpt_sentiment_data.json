@@ -30639,6 +30639,15 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "neh3osq",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
     ]
   ],
   "ethereum": [
@@ -72860,6 +72869,24 @@
         "pos": 0.1,
         "compound": -0.7
       }
+    ],
+    [
+      "neh3phb",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "neh3u2j",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.5
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -79224,6 +79251,24 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.5
+      }
+    ],
+    [
+      "neh3pyd",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "neh3sr0",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
