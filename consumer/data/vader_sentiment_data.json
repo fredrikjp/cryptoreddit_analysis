@@ -23975,6 +23975,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nerkabp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nerkgym",
+      {
+        "neg": 0.0,
+        "neu": 0.879,
+        "pos": 0.121,
+        "compound": 0.4144
+      }
     ]
   ],
   "btc": [
@@ -57789,6 +57807,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nerkfzw",
+      {
+        "neg": 0.149,
+        "neu": 0.851,
+        "pos": 0.0,
+        "compound": -0.2732
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -63111,6 +63138,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nerkef2",
+      {
+        "neg": 0.0,
+        "neu": 0.94,
+        "pos": 0.06,
+        "compound": 0.3182
       }
     ]
   ],
@@ -75401,6 +75437,15 @@
     ],
     [
       "nemdehn",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nerkcwm",
       {
         "neg": 0.0,
         "neu": 1.0,
