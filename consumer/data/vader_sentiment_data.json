@@ -23597,6 +23597,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nenydlt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nenyg2k",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -56934,6 +56952,15 @@
         "pos": 0.0,
         "compound": -0.6597
       }
+    ],
+    [
+      "nenyete",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -70303,6 +70330,24 @@
     ],
     [
       "nenlanl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nenydla",
+      {
+        "neg": 0.15,
+        "neu": 0.776,
+        "pos": 0.074,
+        "compound": -0.6593
+      }
+    ],
+    [
+      "nenyeuc",
       {
         "neg": 0.0,
         "neu": 1.0,
