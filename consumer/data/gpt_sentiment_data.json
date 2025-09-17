@@ -23498,6 +23498,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nemq0fl",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -39597,6 +39606,24 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.8
+      }
+    ],
+    [
+      "nempxuz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nemq1no",
+      {
+        "neg": 0.2,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
@@ -61897,6 +61924,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nemq05n",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -70033,6 +70069,15 @@
     ],
     [
       "neizni0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nempypx",
       {
         "neg": 0.0,
         "neu": 1.0,
