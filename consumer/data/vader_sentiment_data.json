@@ -23993,6 +23993,51 @@
         "pos": 0.121,
         "compound": 0.4144
       }
+    ],
+    [
+      "nes8kpn",
+      {
+        "neg": 0.0,
+        "neu": 0.963,
+        "pos": 0.037,
+        "compound": 0.0258
+      }
+    ],
+    [
+      "nes8o50",
+      {
+        "neg": 0.0,
+        "neu": 0.847,
+        "pos": 0.153,
+        "compound": 0.2023
+      }
+    ],
+    [
+      "nes8t4b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nes8ub8",
+      {
+        "neg": 0.0,
+        "neu": 0.893,
+        "pos": 0.107,
+        "compound": 0.2023
+      }
+    ],
+    [
+      "nes8uf2",
+      {
+        "neg": 0.026,
+        "neu": 0.959,
+        "pos": 0.014,
+        "compound": -0.2723
+      }
     ]
   ],
   "btc": [
@@ -27378,6 +27423,15 @@
         "neu": 0.866,
         "pos": 0.134,
         "compound": 0.5267
+      }
+    ],
+    [
+      "nes8izn",
+      {
+        "neg": 0.043,
+        "neu": 0.795,
+        "pos": 0.162,
+        "compound": 0.6662
       }
     ]
   ],
@@ -40420,6 +40474,33 @@
     ],
     [
       "ner7dbr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nes8n4c",
+      {
+        "neg": 0.0,
+        "neu": 0.894,
+        "pos": 0.106,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "nes8ooz",
+      {
+        "neg": 0.0,
+        "neu": 0.543,
+        "pos": 0.457,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "nes8ri3",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -57816,6 +57897,24 @@
         "pos": 0.0,
         "compound": -0.2732
       }
+    ],
+    [
+      "nes8lxd",
+      {
+        "neg": 0.358,
+        "neu": 0.642,
+        "pos": 0.0,
+        "compound": -0.5994
+      }
+    ],
+    [
+      "nes8tsv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -63147,6 +63246,87 @@
         "neu": 0.94,
         "pos": 0.06,
         "compound": 0.3182
+      }
+    ],
+    [
+      "nes8jbb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nes8jiy",
+      {
+        "neg": 0.043,
+        "neu": 0.63,
+        "pos": 0.327,
+        "compound": 0.8213
+      }
+    ],
+    [
+      "nes8kvh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nes8lpr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nes8nm4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nes8pbs",
+      {
+        "neg": 0.0,
+        "neu": 0.196,
+        "pos": 0.804,
+        "compound": 0.8481
+      }
+    ],
+    [
+      "nes8qjb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nes8s4y",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nes8tej",
+      {
+        "neg": 0.0,
+        "neu": 0.278,
+        "pos": 0.722,
+        "compound": 0.3818
       }
     ]
   ],
