@@ -23489,6 +23489,15 @@
         "pos": 0.0,
         "compound": -0.3
       }
+    ],
+    [
+      "nemdb7l",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -26739,6 +26748,15 @@
         "neu": 0.0,
         "pos": 0.0,
         "compound": -0.0
+      }
+    ],
+    [
+      "nemdd7t",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.7
       }
     ]
   ],
@@ -31160,6 +31178,15 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.5
+      }
+    ],
+    [
+      "nemdehh",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
@@ -39552,6 +39579,24 @@
         "neu": 0.6,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "nemdgpf",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nemdimu",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
@@ -56664,6 +56709,24 @@
         "pos": 0.0,
         "compound": -0.3
       }
+    ],
+    [
+      "nemdf4b",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nemdh5v",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -58618,6 +58681,15 @@
         "neu": 0.25,
         "pos": 0.7,
         "compound": 0.65
+      }
+    ],
+    [
+      "nemdd6r",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
       }
     ]
   ],
@@ -61815,6 +61887,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.4
+      }
+    ],
+    [
+      "nemdczs",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -73975,6 +74056,15 @@
         "neu": 0.7,
         "pos": 0.8,
         "compound": 0.65
+      }
+    ],
+    [
+      "nemdehn",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
       }
     ]
   ],
