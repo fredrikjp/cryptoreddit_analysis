@@ -23714,6 +23714,51 @@
         "pos": 0.0,
         "compound": -0.1
       }
+    ],
+    [
+      "neph41l",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": -0.1
+      }
+    ],
+    [
+      "neph6c5",
+      {
+        "neg": 0.4,
+        "neu": 0.2,
+        "pos": 0.6,
+        "compound": 0.25
+      }
+    ],
+    [
+      "neph7zp",
+      {
+        "neg": 0.85,
+        "neu": 0.15,
+        "pos": 0.0,
+        "compound": -0.75
+      }
+    ],
+    [
+      "nephb6j",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nephbca",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "btc": [
@@ -27045,6 +27090,15 @@
         "neu": 0.8,
         "pos": 0.0,
         "compound": -0.3
+      }
+    ],
+    [
+      "neph7jx",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
       }
     ]
   ],
@@ -31520,6 +31574,42 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.8
+      }
+    ],
+    [
+      "neph3ia",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.15
+      }
+    ],
+    [
+      "neph66m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neph6l2",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "neph7k5",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
       }
     ]
   ],
@@ -40009,6 +40099,24 @@
       {
         "neg": 0.0,
         "neu": 0.6,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "neph6f7",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.55
+      }
+    ],
+    [
+      "nephahw",
+      {
+        "neg": 0.15,
+        "neu": 0.75,
         "pos": 0.1,
         "compound": 0.1
       }
@@ -62527,6 +62635,15 @@
         "pos": 0.95,
         "compound": 0.95
       }
+    ],
+    [
+      "neph38c",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.2
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -70731,6 +70848,24 @@
         "neu": 0.6,
         "pos": 0.3,
         "compound": 0.25
+      }
+    ],
+    [
+      "neph698",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.05,
+        "compound": 0.1
+      }
+    ],
+    [
+      "neph89m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
