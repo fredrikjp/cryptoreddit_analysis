@@ -40885,6 +40885,15 @@
         "pos": 0.709,
         "compound": 0.807
       }
+    ],
+    [
+      "nevgnv9",
+      {
+        "neg": 0.0,
+        "neu": 0.417,
+        "pos": 0.583,
+        "compound": 0.4201
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -58455,6 +58464,33 @@
         "pos": 0.273,
         "compound": 0.9246
       }
+    ],
+    [
+      "nevgkkq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nevgl3l",
+      {
+        "neg": 0.298,
+        "neu": 0.477,
+        "pos": 0.225,
+        "compound": -0.1561
+      }
+    ],
+    [
+      "nevgpoe",
+      {
+        "neg": 0.278,
+        "neu": 0.564,
+        "pos": 0.158,
+        "compound": -0.2787
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -63948,6 +63984,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nevgpsd",
+      {
+        "neg": 0.0,
+        "neu": 0.94,
+        "pos": 0.06,
+        "compound": 0.3182
       }
     ]
   ],
