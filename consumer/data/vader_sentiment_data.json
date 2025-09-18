@@ -24290,6 +24290,15 @@
         "pos": 0.163,
         "compound": 0.1901
       }
+    ],
+    [
+      "newef5m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -40965,6 +40974,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "newe8no",
+      {
+        "neg": 0.077,
+        "neu": 0.619,
+        "pos": 0.305,
+        "compound": 0.7741
       }
     ]
   ],
@@ -58590,6 +58608,42 @@
         "pos": 0.0,
         "compound": -0.4019
       }
+    ],
+    [
+      "newe7uw",
+      {
+        "neg": 0.22,
+        "neu": 0.526,
+        "pos": 0.254,
+        "compound": -0.0772
+      }
+    ],
+    [
+      "newe8dq",
+      {
+        "neg": 0.404,
+        "neu": 0.382,
+        "pos": 0.214,
+        "compound": -0.3597
+      }
+    ],
+    [
+      "newegku",
+      {
+        "neg": 0.057,
+        "neu": 0.741,
+        "pos": 0.203,
+        "compound": 0.5789
+      }
+    ],
+    [
+      "neweiml",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -64093,6 +64147,24 @@
         "pos": 0.06,
         "compound": 0.3182
       }
+    ],
+    [
+      "newebbs",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "newehbr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -65984,6 +66056,15 @@
         "neu": 0.815,
         "pos": 0.126,
         "compound": 0.3363
+      }
+    ],
+    [
+      "newegug",
+      {
+        "neg": 0.0,
+        "neu": 0.936,
+        "pos": 0.064,
+        "compound": 0.4939
       }
     ]
   ],
@@ -83031,6 +83112,15 @@
         "neu": 0.602,
         "pos": 0.398,
         "compound": 0.6486
+      }
+    ],
+    [
+      "neweap2",
+      {
+        "neg": 0.072,
+        "neu": 0.818,
+        "pos": 0.11,
+        "compound": 0.8561
       }
     ]
   ],
