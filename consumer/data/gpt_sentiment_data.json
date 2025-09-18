@@ -24335,6 +24335,24 @@
         "pos": 0.2,
         "compound": 0.25
       }
+    ],
+    [
+      "nexgt4f",
+      {
+        "neg": 0.15,
+        "neu": 0.7,
+        "pos": 0.15,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nexh4k6",
+      {
+        "neg": 0.7,
+        "neu": 0.25,
+        "pos": 0.05,
+        "compound": -0.7
+      }
     ]
   ],
   "btc": [
@@ -32364,6 +32382,15 @@
       {
         "neg": 0.1,
         "neu": 0.85,
+        "pos": 0.05,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nexgyqc",
+      {
+        "neg": 0.05,
+        "neu": 0.9,
         "pos": 0.05,
         "compound": 0.0
       }
@@ -76775,6 +76802,15 @@
         "pos": 0.05,
         "compound": 0.0
       }
+    ],
+    [
+      "nexgygh",
+      {
+        "neg": 0.105,
+        "neu": 0.18,
+        "pos": 0.015,
+        "compound": -0.12
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -83346,6 +83382,15 @@
         "neu": 0.05,
         "pos": 0.05,
         "compound": 0.0
+      }
+    ],
+    [
+      "nexgvn3",
+      {
+        "neg": 0.0,
+        "neu": 0.15,
+        "pos": 0.85,
+        "compound": 0.8
       }
     ]
   ],
