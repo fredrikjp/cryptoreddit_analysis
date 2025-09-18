@@ -24362,6 +24362,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ney5ksf",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ney5ovy",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "ney5ppi",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "btc": [
@@ -41108,6 +41135,42 @@
         "neg": 0.2,
         "neu": 0.6,
         "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ney5nny",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ney5r0w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ney5t3x",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ney5tgu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
         "compound": 0.0
       }
     ]
@@ -58859,6 +58922,33 @@
         "neu": 0.9,
         "pos": 0.0,
         "compound": -0.1
+      }
+    ],
+    [
+      "ney5n51",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ney5rpw",
+      {
+        "neg": 0.6,
+        "neu": 0.0,
+        "pos": 0.3,
+        "compound": -0.4
+      }
+    ],
+    [
+      "ney5tcv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -76874,6 +76964,24 @@
         "pos": 0.015,
         "compound": -0.12
       }
+    ],
+    [
+      "ney5qnp",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.7
+      }
+    ],
+    [
+      "ney5vs1",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -83482,6 +83590,24 @@
         "pos": 1.0,
         "compound": 0.9
       }
+    ],
+    [
+      "ney5ka4",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ney5tud",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "cardano": [
@@ -84383,6 +84509,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "ney5w4s",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
