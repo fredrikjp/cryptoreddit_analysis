@@ -24434,6 +24434,33 @@
         "pos": 0.2,
         "compound": 0.2
       }
+    ],
+    [
+      "nezgtv3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nezgu90",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nezgvvd",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -27918,6 +27945,15 @@
         "neu": 0.05,
         "pos": 0.0,
         "compound": -0.9
+      }
+    ],
+    [
+      "nezgvnl",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.7
       }
     ]
   ],
@@ -83785,6 +83821,15 @@
       {
         "neg": 0.0,
         "neu": 0.5,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nezgqez",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
       }
