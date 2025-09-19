@@ -25046,6 +25046,33 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "nf51f5s",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nf51hw2",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nf51jki",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -60408,6 +60435,15 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nf51kw5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -66154,6 +66190,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nf51p8j",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -69073,6 +69118,24 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.55
+      }
+    ],
+    [
+      "nf51iz3",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nf51j7m",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -78881,6 +78944,24 @@
         "pos": 0.1,
         "compound": -0.1
       }
+    ],
+    [
+      "nf51g8f",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nf51ndj",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -85587,6 +85668,15 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": 0.0
+      }
+    ],
+    [
+      "nf51fq1",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
