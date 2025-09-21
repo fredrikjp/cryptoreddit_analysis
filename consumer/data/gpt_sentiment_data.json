@@ -25802,6 +25802,42 @@
         "pos": 0.1,
         "compound": -0.8
       }
+    ],
+    [
+      "nfdv9z4",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nfdva4e",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nfdvczw",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nfdve2v",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -29547,6 +29583,15 @@
         "neu": 0.85,
         "pos": 0.1,
         "compound": 0.1
+      }
+    ],
+    [
+      "nfdvbv3",
+      {
+        "neg": 0.9,
+        "neu": 0.05,
+        "pos": 0.05,
+        "compound": -0.8
       }
     ]
   ],
