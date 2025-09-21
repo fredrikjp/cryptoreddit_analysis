@@ -25865,6 +25865,51 @@
         "pos": 0.7,
         "compound": 0.5
       }
+    ],
+    [
+      "nfelpah",
+      {
+        "neg": 0.24,
+        "neu": 0.12,
+        "pos": 0.04000000000000001,
+        "compound": -0.16000000000000003
+      }
+    ],
+    [
+      "nfelust",
+      {
+        "neg": 0.4,
+        "neu": 0.4,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nfelvbq",
+      {
+        "neg": 0.0,
+        "neu": 0.75,
+        "pos": 0.25,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nfelwzm",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nfelxtp",
+      {
+        "neg": 0.0,
+        "neu": 0.15,
+        "pos": 0.85,
+        "compound": 0.75
+      }
     ]
   ],
   "btc": [
@@ -29619,6 +29664,15 @@
         "neu": 0.05,
         "pos": 0.05,
         "compound": -0.8
+      }
+    ],
+    [
+      "nfeltwq",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -43431,6 +43485,24 @@
         "neu": 0.15,
         "pos": 0.03,
         "compound": -0.09
+      }
+    ],
+    [
+      "nfeltlt",
+      {
+        "neg": 0.06,
+        "neu": 0.13999999999999999,
+        "pos": 0.0,
+        "compound": -0.04000000000000001
+      }
+    ],
+    [
+      "nfelxte",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -68116,6 +68188,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nfelxc2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -87917,6 +87998,15 @@
         "neg": 0.1,
         "neu": 0.7,
         "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nfelqfb",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.0,
         "compound": 0.0
       }
     ]
