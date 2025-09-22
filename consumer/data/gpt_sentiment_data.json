@@ -26549,6 +26549,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nfmozsk",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.6
+      }
     ]
   ],
   "btc": [
@@ -35319,6 +35328,15 @@
         "pos": 0.15,
         "compound": 0.1
       }
+    ],
+    [
+      "nfmoszz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -39604,6 +39622,33 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.2
+      }
+    ],
+    [
+      "nfmopxh",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nfmorpd",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nfmp2wj",
+      {
+        "neg": 0.5,
+        "neu": 0.2,
+        "pos": 0.3,
+        "compound": -0.3
       }
     ]
   ],
@@ -44520,6 +44565,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.7
+      }
+    ],
+    [
+      "nfmoxxi",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -63629,6 +63683,33 @@
         "neu": 0.1,
         "pos": 0.0,
         "compound": -0.7
+      }
+    ],
+    [
+      "nfmov8l",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.3,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nfmoygu",
+      {
+        "neg": 0.1,
+        "neu": 0.85,
+        "pos": 0.05,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nfmp23z",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
       }
     ]
   ],
@@ -90123,6 +90204,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nfmozwh",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
       }
     ]
   ],
