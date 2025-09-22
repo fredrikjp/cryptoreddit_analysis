@@ -26693,6 +26693,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nfoj3ce",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.15
+      }
     ]
   ],
   "btc": [
@@ -30609,6 +30618,15 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.1
+      }
+    ],
+    [
+      "nfoj90e",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -39829,6 +39847,15 @@
         "neu": 0.3,
         "pos": 0.8,
         "compound": 0.75
+      }
+    ],
+    [
+      "nfoj90k",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
@@ -63980,6 +64007,42 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.8
+      }
+    ],
+    [
+      "nfoj2gm",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nfoj30j",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nfoj3xe",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.15
+      }
+    ],
+    [
+      "nfoj89z",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.1
       }
     ]
   ],
@@ -90618,6 +90681,33 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nfoj4xd",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nfoj6gw",
+      {
+        "neg": 0.85,
+        "neu": 0.15,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nfoj9ag",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
       }
     ]
   ],
