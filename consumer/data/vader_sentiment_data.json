@@ -27008,6 +27008,24 @@
         "pos": 0.744,
         "compound": 0.4404
       }
+    ],
+    [
+      "nfsewq0",
+      {
+        "neg": 0.0,
+        "neu": 0.431,
+        "pos": 0.569,
+        "compound": 0.765
+      }
+    ],
+    [
+      "nfsexav",
+      {
+        "neg": 0.286,
+        "neu": 0.623,
+        "pos": 0.092,
+        "compound": -0.6738
+      }
     ]
   ],
   "btc": [
@@ -40261,6 +40279,15 @@
         "neu": 0.833,
         "pos": 0.079,
         "compound": -0.7467
+      }
+    ],
+    [
+      "nfseor5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -64620,6 +64647,33 @@
         "pos": 0.179,
         "compound": 0.5423
       }
+    ],
+    [
+      "nfsevgh",
+      {
+        "neg": 0.188,
+        "neu": 0.723,
+        "pos": 0.09,
+        "compound": -0.6367
+      }
+    ],
+    [
+      "nfsewrq",
+      {
+        "neg": 0.108,
+        "neu": 0.704,
+        "pos": 0.188,
+        "compound": 0.427
+      }
+    ],
+    [
+      "nfsezhg",
+      {
+        "neg": 0.155,
+        "neu": 0.603,
+        "pos": 0.241,
+        "compound": 0.25
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -70996,6 +71050,15 @@
         "pos": 0.055,
         "compound": -0.296
       }
+    ],
+    [
+      "nfserks",
+      {
+        "neg": 0.133,
+        "neu": 0.73,
+        "pos": 0.137,
+        "compound": 0.0258
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -73014,6 +73077,15 @@
         "pos": 0.16,
         "compound": 0.0478
       }
+    ],
+    [
+      "nfsenya",
+      {
+        "neg": 0.026,
+        "neu": 0.902,
+        "pos": 0.072,
+        "compound": 0.705
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -74122,6 +74194,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nfsey4t",
+      {
+        "neg": 0.085,
+        "neu": 0.819,
+        "pos": 0.096,
+        "compound": 0.1007
       }
     ]
   ],
@@ -91428,6 +91509,15 @@
         "neu": 0.721,
         "pos": 0.279,
         "compound": 0.926
+      }
+    ],
+    [
+      "nfsexi5",
+      {
+        "neg": 0.0,
+        "neu": 0.958,
+        "pos": 0.042,
+        "compound": 0.3939
       }
     ]
   ],
