@@ -27080,6 +27080,42 @@
         "pos": 0.0,
         "compound": -0.5719
       }
+    ],
+    [
+      "nftgcam",
+      {
+        "neg": 0.09,
+        "neu": 0.801,
+        "pos": 0.11,
+        "compound": 0.1154
+      }
+    ],
+    [
+      "nftgicm",
+      {
+        "neg": 0.0,
+        "neu": 0.222,
+        "pos": 0.778,
+        "compound": 0.7906
+      }
+    ],
+    [
+      "nftgjzq",
+      {
+        "neg": 0.026,
+        "neu": 0.836,
+        "pos": 0.139,
+        "compound": 0.8371
+      }
+    ],
+    [
+      "nftgleg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -64773,6 +64809,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nftgaf6",
+      {
+        "neg": 0.281,
+        "neu": 0.719,
+        "pos": 0.0,
+        "compound": -0.4404
+      }
+    ],
+    [
+      "nftgaqg",
+      {
+        "neg": 0.0,
+        "neu": 0.263,
+        "pos": 0.737,
+        "compound": 0.6808
+      }
+    ],
+    [
+      "nftg9rl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nftgkt9",
+      {
+        "neg": 0.166,
+        "neu": 0.736,
+        "pos": 0.098,
+        "compound": -0.6041
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -67033,6 +67105,24 @@
         "neu": 0.656,
         "pos": 0.344,
         "compound": 0.6966
+      }
+    ],
+    [
+      "nftgi5q",
+      {
+        "neg": 0.0,
+        "neu": 0.748,
+        "pos": 0.252,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "nftgltq",
+      {
+        "neg": 0.435,
+        "neu": 0.565,
+        "pos": 0.0,
+        "compound": -0.4724
       }
     ]
   ],
@@ -71220,6 +71310,42 @@
         "neu": 0.896,
         "pos": 0.104,
         "compound": 0.4939
+      }
+    ],
+    [
+      "nftgagf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nftgc2m",
+      {
+        "neg": 0.0,
+        "neu": 0.655,
+        "pos": 0.345,
+        "compound": 0.2755
+      }
+    ],
+    [
+      "nftgdqg",
+      {
+        "neg": 0.065,
+        "neu": 0.935,
+        "pos": 0.0,
+        "compound": -0.4215
+      }
+    ],
+    [
+      "nftgk2j",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -84630,6 +84756,15 @@
         "neg": 0.0,
         "neu": 1.0,
         "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nftgenw",
+      {
+        "neg": 0.264,
+        "neu": 0.472,
+        "pos": 0.264,
         "compound": 0.0
       }
     ]
