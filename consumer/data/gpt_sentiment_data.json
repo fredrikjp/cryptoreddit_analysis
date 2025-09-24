@@ -27260,6 +27260,51 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "nfvxv7s",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.85
+      }
+    ],
+    [
+      "nfvxvui",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.0,
+        "compound": -0.05
+      }
+    ],
+    [
+      "nfvxvzt",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.0,
+        "compound": -0.05
+      }
+    ],
+    [
+      "nfvxw4z",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.0,
+        "compound": -0.05
+      }
+    ],
+    [
+      "nfvxw9f",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.0,
+        "compound": -0.05
+      }
     ]
   ],
   "btc": [
