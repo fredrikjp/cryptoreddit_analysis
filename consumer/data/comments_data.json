@@ -15249,6 +15249,21 @@
       "nfy7jto",
       "2025-09-24T14:06:18",
       "It is not a \u201cDilemma\u201d. There is no alternative choice of better value.\u00a0"
+    ],
+    [
+      "nfyjojd",
+      "2025-09-24T15:06:51",
+      "At this point it's a Bitcoin ETF for people and funds who can't technically hold BTC but can buy stocks. What they buy is irrelevant IMO."
+    ],
+    [
+      "nfyjs1y",
+      "2025-09-24T15:07:09",
+      "Is there a way to limit the electricity needed for value?"
+    ],
+    [
+      "nfyjsgf",
+      "2025-09-24T15:07:09",
+      "Yeah I also agree with you and DCA at these levels, I just have cash on the sideline for sub 100 and I personally think sub 80 and maybe a smidge below 70. Maybe. But I\u2019ll start DCAing my stack heavier sub 100"
     ]
   ],
   "btc": [
@@ -17481,6 +17496,11 @@
       "nfy7qon",
       "2025-09-24T14:07:16",
       "Watch the video. You might not agree with 99% of it, but there are bugs being injected into this new Core's version, the video highlights that with example."
+    ],
+    [
+      "nfyjsnp",
+      "2025-09-24T15:07:09",
+      ">First, current throughput can be 7 TPS or higher, just taking an example from today: block 916144 has 6114 transactions, so we're talking over 10 TPS.\n\nMerely semantics the average is 5 and for good reason typical transaction require  X amount of space even when signature data is segregated from counting towards the 1MB limit,  (fun fact, Segwit actually increases block size disproportionately to the increase in transaction capacity, than an outright block size increase.)\n\nFYI by cherry-picking data by your logic before Segwit  Bitcoin was doing more transaction, eg in 2015 block 367,853 had over 20 tps.  And that number would be higher if that block was found in less than 10 minutes."
     ]
   ],
   "solana": [
@@ -36364,6 +36384,16 @@
       "nfy7ncj",
       "2025-09-24T14:07:16",
       "I\u2019d say houses should be more affordable than in the US then. Where I live property taxes are up to 3.76% per year. Average home is 500k+ so you\u2019re paying almost 19k/year just in taxes, and they tend to go up over time. Many homes are more in the 700-900k range so even higher taxes"
+    ],
+    [
+      "nfyjo2c",
+      "2025-09-24T15:06:51",
+      "Last I head was baby raptr about a month ago. When was this announced?"
+    ],
+    [
+      "nfyjqvq",
+      "2025-09-24T15:07:09",
+      "lol..... so dramatic"
     ]
   ],
   "SolanaMemeCoins": [
@@ -40013,6 +40043,16 @@
       "nfy7ku7",
       "2025-09-24T14:07:16",
       "Thank you for your submission on r/Memecoins, Join Crypto Other Subreddits:\n\n- r/MemecoinsOnSui\n- r/MemecoinMoonshots\n- r/SolanaNFT\n\nAlso check out the official discord for r/Memecoins:\nhttps://discord.gg/YM9sSDbsBh\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/memecoins) if you have any questions or concerns.*"
+    ],
+    [
+      "nfyjoi1",
+      "2025-09-24T15:06:51",
+      "Could it be a joke coin that would reference retirement? Like, say I have a 401k... Ah, nvm... JK \ud83d\ude0f"
+    ],
+    [
+      "nfyjsmz",
+      "2025-09-24T15:07:09",
+      "The first rule of retirement is: you don\u2019t talk about it. ***j*"
     ]
   ],
   "BitcoinMarkets": [
@@ -51515,6 +51555,11 @@
       "nfy7jz4",
       "2025-09-24T14:07:16",
       "All the major exchanges, Binance, Coinbase, Kraken etc"
+    ],
+    [
+      "nfyjnzu",
+      "2025-09-24T15:06:51",
+      "smells like Updog"
     ]
   ],
   "cardano": [
@@ -52042,6 +52087,11 @@
       "nfwpipw",
       "2025-09-24T07:07:22",
       "# Understanding Wallets & Storing Your ADA Safely\n\nStoring your ADA securely requires understanding how crypto wallets work. They don't hold your coins directly, but manage the **keys** that give you access on the blockchain.\n\n**For maximum security, a Hardware Wallet is strongly recommended from the start.**\n\nLearn more in our comprehensive wiki section:\n*   **Start Here:** [**Wallets & Seed Phrases: Securing Your Keys**](https://www.reddit.com/r/cardano/wiki/index/wallets)\n\nThis section covers:\n*   How wallets function ([interfaces vs keys](https://www.reddit.com/r/cardano/wiki/index/wallets/understanding-wallets/)).\n*   The critical importance of your [Seed Phrase](https://www.reddit.com/r/cardano/wiki/index/wallets/seed-phrase) and how to protect it.\n*   Choosing a wallet ([Software vs Hardware](https://www.reddit.com/r/cardano/wiki/index/wallets/choosing-a-wallet)), covering wallet types and why we **highly** recommend starting with a hardware wallet.\n\n**\u26a0\ufe0f Key Security Rules:**\n*   **Get a Hardware Wallet** for any significant amount. Buy direct from the manufacturer.\n*   **NEVER share your Seed Phrase or enter it online.** Keep backups offline & secure.\n*   **Your Seed Phrase IS your ADA.** Protect it accordingly.\n\n*Use `?help` to see all available commands, or browse the full [Wiki Index](https://www.reddit.com/r/cardano/wiki/index/) for detailed topics.*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*"
+    ],
+    [
+      "nfyjqdw",
+      "2025-09-24T15:06:51",
+      "*  &#x1F393; **[Please read the r/Cardano Wiki!](https://www.reddit.com/r/cardano/wiki/index/)** *It covers [getting started](https://www.reddit.com/r/cardano/wiki/index/quick-start-guide/), [importance of hardware wallets](https://www.reddit.com/r/cardano/wiki/index/wallets/choosing-a-wallet), [wallet security](https://www.reddit.com/r/cardano/wiki/index/wallets/), [buying](https://www.reddit.com/r/cardano/wiki/index/acquiring-ada/), [staking](https://www.reddit.com/r/cardano/wiki/index/staking/) ADA, \u26a0\ufe0f [avoiding scams](https://www.reddit.com/r/cardano/wiki/index/security/), [Governance](https://www.reddit.com/r/cardano/wiki/index/governance/), and more.*\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/cardano) if you have any questions or concerns.*"
     ]
   ],
   "Chainlink": [

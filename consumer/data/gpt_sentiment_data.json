@@ -27449,6 +27449,33 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "nfyjojd",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nfyjs1y",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nfyjsgf",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.75
+      }
     ]
   ],
   "btc": [
@@ -31464,6 +31491,15 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "nfyjsnp",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.1
       }
     ]
   ],
@@ -65448,6 +65484,24 @@
         "pos": 0.03,
         "compound": 0.03
       }
+    ],
+    [
+      "nfyjo2c",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nfyjqvq",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -72010,6 +72064,24 @@
       {
         "neg": 0.0,
         "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nfyjoi1",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nfyjsmz",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -92707,6 +92779,15 @@
         "pos": 0.1,
         "compound": 0.15
       }
+    ],
+    [
+      "nfyjnzu",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "cardano": [
@@ -93653,6 +93734,15 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.2
+      }
+    ],
+    [
+      "nfyjqdw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
