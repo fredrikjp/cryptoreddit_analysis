@@ -41297,6 +41297,15 @@
         "pos": 0.4,
         "compound": 0.3
       }
+    ],
+    [
+      "ng50wcb",
+      {
+        "neg": 0.05,
+        "neu": 0.1,
+        "pos": 0.85,
+        "compound": 0.7
+      }
     ]
   ],
   "dogecoin": [
@@ -66222,6 +66231,24 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "ng50ui2",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.55
+      }
+    ],
+    [
+      "ng50utc",
+      {
+        "neg": 0.8,
+        "neu": 0.15,
+        "pos": 0.05,
+        "compound": -0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -86558,6 +86585,15 @@
         "pos": 0.06,
         "compound": 0.09
       }
+    ],
+    [
+      "ng50ye3",
+      {
+        "neg": 0.05,
+        "neu": 0.25,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -93849,6 +93885,15 @@
         "neu": 0.5,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ng50se7",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.75
       }
     ]
   ],
