@@ -28070,6 +28070,24 @@
         "pos": 1.0,
         "compound": 0.9
       }
+    ],
+    [
+      "ngb4dsh",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ngb4hwn",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -32156,6 +32174,15 @@
         "neg": 0.6,
         "neu": 0.3,
         "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "ngb4fvy",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
         "compound": -0.4
       }
     ]
@@ -67194,6 +67221,33 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "ngb4deq",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "ngb4ixm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngb4jnt",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -69535,6 +69589,15 @@
         "neu": 0.05,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ngb4iua",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.85
       }
     ]
   ],
@@ -73930,6 +73993,15 @@
         "pos": 0.3,
         "compound": 0.5
       }
+    ],
+    [
+      "ngb4fzf",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -76037,6 +76109,15 @@
         "neu": 0.3,
         "pos": 0.3,
         "compound": 0.0
+      }
+    ],
+    [
+      "ngb4d2b",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
@@ -84015,6 +84096,15 @@
       {
         "neg": 0.5,
         "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "ngb4iyy",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
         "pos": 0.1,
         "compound": -0.4
       }
