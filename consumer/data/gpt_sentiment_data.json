@@ -66942,6 +66942,24 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "ng8dagd",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "ng8dczs",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.85
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -76931,6 +76949,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ng8dbrd",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "ethtrader": [
@@ -82880,6 +82907,15 @@
         "neg": 0.0,
         "neu": 1.0,
         "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ng8dcuq",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
         "compound": 0.0
       }
     ]
@@ -94839,6 +94875,15 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "ng8dcbh",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
