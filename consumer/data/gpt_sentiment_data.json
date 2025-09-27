@@ -32518,6 +32518,15 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "ngezax3",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
     ]
   ],
   "solana": [
@@ -67968,6 +67977,15 @@
         "pos": 0.4,
         "compound": 0.1
       }
+    ],
+    [
+      "ngezgkz",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": -0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -74784,6 +74802,15 @@
         "neu": 0.9,
         "pos": 0.0,
         "compound": -0.2
+      }
+    ],
+    [
+      "ngezfsf",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
       }
     ]
   ],
@@ -88718,6 +88745,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ngezd8a",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -96189,6 +96225,15 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "ngezdb4",
+      {
+        "neg": 0.27999999999999997,
+        "neu": 0.35,
+        "pos": 0.06999999999999999,
+        "compound": -0.21
       }
     ]
   ],
