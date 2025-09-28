@@ -33211,6 +33211,15 @@
         "pos": 0.0,
         "compound": -0.3
       }
+    ],
+    [
+      "ngpvevf",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.0
+      }
     ]
   ],
   "solana": [
@@ -38532,6 +38541,15 @@
         "pos": 0.6,
         "compound": 0.6
       }
+    ],
+    [
+      "ngpvdqz",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "ethereum": [
@@ -43105,6 +43123,24 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.3
+      }
+    ],
+    [
+      "ngpv7qt",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngpvg45",
+      {
+        "neg": 0.05,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.1
       }
     ]
   ],
@@ -48336,6 +48372,15 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "ngpvfxr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -69273,6 +69318,51 @@
         "pos": 0.05,
         "compound": -0.6
       }
+    ],
+    [
+      "ngpv44i",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "ngpv5l7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngpv6rr",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "ngpvbgv",
+      {
+        "neg": 0.3,
+        "neu": 0.2,
+        "pos": 0.5,
+        "compound": 0.2
+      }
+    ],
+    [
+      "ngpvf70",
+      {
+        "neg": 0.15,
+        "neu": 0.65,
+        "pos": 0.55,
+        "compound": 0.35
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -76342,6 +76432,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ngpvfnw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -78521,6 +78620,15 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": 0.0
+      }
+    ],
+    [
+      "ngpv5i3",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
@@ -98322,6 +98430,33 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "ngpv9rq",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ngpvdr2",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngpvgc2",
+      {
+        "neg": 0.12,
+        "neu": 0.06,
+        "pos": 0.0,
+        "compound": -0.1
       }
     ]
   ],
