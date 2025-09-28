@@ -28925,6 +28925,51 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "ngoggt8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngoghg7",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "ngogl2s",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngogl5g",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngoglym",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -38360,6 +38405,60 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.1
+      }
+    ],
+    [
+      "ngogf1r",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngogh60",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.35
+      }
+    ],
+    [
+      "ngogk1u",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "ngoglbt",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngoglyx",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "ngogn1s",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
@@ -71489,6 +71588,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ngogfyd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "memecoins": [
@@ -76062,6 +76170,24 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.2
+      }
+    ],
+    [
+      "ngogjoj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngoglce",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -97962,6 +98088,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "ngogkbz",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": -0.05
       }
     ]
   ],

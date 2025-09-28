@@ -28925,6 +28925,51 @@
         "pos": 0.0,
         "compound": -0.875
       }
+    ],
+    [
+      "ngoggt8",
+      {
+        "neg": 0.034,
+        "neu": 0.909,
+        "pos": 0.057,
+        "compound": 0.2263
+      }
+    ],
+    [
+      "ngoghg7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngogl2s",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "ngogl5g",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngoglym",
+      {
+        "neg": 0.0,
+        "neu": 0.907,
+        "pos": 0.093,
+        "compound": 0.2144
+      }
     ]
   ],
   "btc": [
@@ -38360,6 +38405,60 @@
         "neu": 0.312,
         "pos": 0.688,
         "compound": 0.296
+      }
+    ],
+    [
+      "ngogf1r",
+      {
+        "neg": 0.034,
+        "neu": 0.867,
+        "pos": 0.1,
+        "compound": 0.8176
+      }
+    ],
+    [
+      "ngogh60",
+      {
+        "neg": 0.146,
+        "neu": 0.854,
+        "pos": 0.0,
+        "compound": -0.2222
+      }
+    ],
+    [
+      "ngogk1u",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngoglbt",
+      {
+        "neg": 0.0,
+        "neu": 0.764,
+        "pos": 0.236,
+        "compound": 0.8777
+      }
+    ],
+    [
+      "ngoglyx",
+      {
+        "neg": 0.293,
+        "neu": 0.707,
+        "pos": 0.0,
+        "compound": -0.6597
+      }
+    ],
+    [
+      "ngogn1s",
+      {
+        "neg": 0.172,
+        "neu": 0.828,
+        "pos": 0.0,
+        "compound": -0.4019
       }
     ]
   ],
@@ -71489,6 +71588,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ngogfyd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "memecoins": [
@@ -76062,6 +76170,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ngogjoj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngoglce",
+      {
+        "neg": 0.098,
+        "neu": 0.613,
+        "pos": 0.288,
+        "compound": 0.8809
       }
     ]
   ],
@@ -97962,6 +98088,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ngogkbz",
+      {
+        "neg": 0.015,
+        "neu": 0.941,
+        "pos": 0.044,
+        "compound": 0.509
       }
     ]
   ],
