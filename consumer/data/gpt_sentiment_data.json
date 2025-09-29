@@ -29159,6 +29159,15 @@
         "pos": 0.1,
         "compound": 0.2
       }
+    ],
+    [
+      "ngsww75",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "btc": [
@@ -38703,6 +38712,15 @@
         "pos": 0.3,
         "compound": 0.4
       }
+    ],
+    [
+      "ngswzn4",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.9
+      }
     ]
   ],
   "ethereum": [
@@ -43330,6 +43348,15 @@
         "neu": 0.95,
         "pos": 0.05,
         "compound": 0.4
+      }
+    ],
+    [
+      "ngswvp0",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
@@ -69678,6 +69705,24 @@
         "pos": 0.05,
         "compound": -0.3
       }
+    ],
+    [
+      "ngswvzf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngswxxk",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -78999,6 +79044,15 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "ngswxwa",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.25
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -86374,6 +86428,24 @@
         "pos": 0.4,
         "compound": 0.2
       }
+    ],
+    [
+      "ngsww9n",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ngswx1h",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -91093,6 +91165,15 @@
         "neu": 0.5,
         "pos": 0.3,
         "compound": 0.1
+      }
+    ],
+    [
+      "ngswtq4",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
@@ -98943,6 +99024,15 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.5
+      }
+    ],
+    [
+      "ngswyg8",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ],
