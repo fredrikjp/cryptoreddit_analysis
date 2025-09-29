@@ -29402,6 +29402,24 @@
         "pos": 0.145,
         "compound": 0.296
       }
+    ],
+    [
+      "ngwaltz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngwaois",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -70245,6 +70263,15 @@
         "pos": 0.141,
         "compound": 0.7635
       }
+    ],
+    [
+      "ngwaoku",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -72766,6 +72793,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ngwaoix",
+      {
+        "neg": 0.0,
+        "neu": 0.745,
+        "pos": 0.255,
+        "compound": 0.8201
       }
     ]
   ],
@@ -91741,6 +91777,15 @@
         "neu": 0.588,
         "pos": 0.412,
         "compound": 0.2732
+      }
+    ],
+    [
+      "ngwapj0",
+      {
+        "neg": 0.033,
+        "neu": 0.904,
+        "pos": 0.062,
+        "compound": 0.3067
       }
     ]
   ],
