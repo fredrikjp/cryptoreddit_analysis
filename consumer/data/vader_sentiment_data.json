@@ -38694,6 +38694,15 @@
         "pos": 0.188,
         "compound": 0.2144
       }
+    ],
+    [
+      "ngsfchq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -69633,6 +69642,24 @@
         "pos": 0.23,
         "compound": 0.9174
       }
+    ],
+    [
+      "ngsfd0l",
+      {
+        "neg": 0.459,
+        "neu": 0.541,
+        "pos": 0.0,
+        "compound": -0.5267
+      }
+    ],
+    [
+      "ngsffkt",
+      {
+        "neg": 0.21,
+        "neu": 0.79,
+        "pos": 0.0,
+        "compound": -0.3384
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -72118,6 +72145,15 @@
         "neu": 0.649,
         "pos": 0.351,
         "compound": 0.4019
+      }
+    ],
+    [
+      "ngsfg6t",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -98853,6 +98889,15 @@
         "neu": 0.79,
         "pos": 0.19,
         "compound": 0.9759
+      }
+    ],
+    [
+      "ngsfhwo",
+      {
+        "neg": 0.0,
+        "neu": 0.606,
+        "pos": 0.394,
+        "compound": 0.0772
       }
     ]
   ],
