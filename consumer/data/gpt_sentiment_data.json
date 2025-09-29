@@ -29069,6 +29069,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ngr6tia",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngr6u6k",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "btc": [
@@ -86104,6 +86122,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ngr6v4n",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.2
+      }
     ]
   ],
   "sui": [
@@ -98593,6 +98620,15 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "ngr6npg",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.6,
+        "compound": 0.55
+      }
     ]
   ],
   "cardano": [
@@ -99591,6 +99627,15 @@
       {
         "neg": 0.0,
         "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngr6s0a",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
         "pos": 0.0,
         "compound": 0.0
       }
