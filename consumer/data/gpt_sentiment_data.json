@@ -29645,6 +29645,24 @@
         "pos": 0.1,
         "compound": -0.35
       }
+    ],
+    [
+      "ngyumnm",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.5
+      }
+    ],
+    [
+      "ngyuoxs",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "btc": [
@@ -33849,6 +33867,15 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": 0.1
+      }
+    ],
+    [
+      "ngyuqag",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -39233,6 +39260,24 @@
         "neu": 0.4,
         "pos": 0.2,
         "compound": -0.1
+      }
+    ],
+    [
+      "ngyuo7f",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngyurah",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -49236,6 +49281,15 @@
         "neu": 0.6,
         "pos": 0.3,
         "compound": 0.15
+      }
+    ],
+    [
+      "ngyuq82",
+      {
+        "neg": 0.1,
+        "neu": 0.0,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
@@ -70704,6 +70758,24 @@
         "pos": 0.2,
         "compound": -0.1
       }
+    ],
+    [
+      "ngyuoqg",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "ngyur5v",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -73252,6 +73324,24 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "ngyuqih",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "ngyur0j",
+      {
+        "neg": 0.8,
+        "neu": 0.15,
+        "pos": 0.05,
+        "compound": -0.7
       }
     ]
   ],
