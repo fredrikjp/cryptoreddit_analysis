@@ -29582,6 +29582,24 @@
         "pos": 1.0,
         "compound": 0.9
       }
+    ],
+    [
+      "ngxw43u",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "ngxw90b",
+      {
+        "neg": 0.1,
+        "neu": 0.5,
+        "pos": 0.4,
+        "compound": 0.2
+      }
     ]
   ],
   "btc": [
@@ -70524,6 +70542,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ngxw5re",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "ngxw9u7",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -73063,6 +73099,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.5
+      }
+    ],
+    [
+      "ngxw4if",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
@@ -87373,6 +87418,87 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ngxw2tn",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ngxw3lc",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ngxw4cz",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "ngxw54d",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "ngxw5ql",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "ngxw5x0",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "ngxw6lf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngxw7am",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngxw80j",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -92137,6 +92263,15 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": -0.3
+      }
+    ],
+    [
+      "ngxw3qz",
+      {
+        "neg": 0.06,
+        "neu": 0.42,
+        "pos": 0.12,
+        "compound": 0.0
       }
     ]
   ],
