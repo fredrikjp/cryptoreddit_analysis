@@ -29510,6 +29510,78 @@
         "pos": 1.0,
         "compound": 0.3612
       }
+    ],
+    [
+      "ngxmgy9",
+      {
+        "neg": 0.31,
+        "neu": 0.69,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
+    ],
+    [
+      "ngxmh8l",
+      {
+        "neg": 0.0,
+        "neu": 0.943,
+        "pos": 0.057,
+        "compound": 0.25
+      }
+    ],
+    [
+      "ngxmj4n",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngxmlik",
+      {
+        "neg": 0.057,
+        "neu": 0.72,
+        "pos": 0.223,
+        "compound": 0.7717
+      }
+    ],
+    [
+      "ngxmlrp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngxmocw",
+      {
+        "neg": 0.0,
+        "neu": 0.762,
+        "pos": 0.238,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "ngxmp56",
+      {
+        "neg": 0.077,
+        "neu": 0.804,
+        "pos": 0.119,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "ngxmpgk",
+      {
+        "neg": 0.0,
+        "neu": 0.672,
+        "pos": 0.328,
+        "compound": 0.5994
+      }
     ]
   ],
   "btc": [
@@ -49056,6 +49128,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ngxmjsf",
+      {
+        "neg": 0.0,
+        "neu": 0.81,
+        "pos": 0.19,
+        "compound": 0.8458
       }
     ]
   ],
@@ -70416,6 +70497,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ngxmm4j",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngxmotf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngxmpsq",
+      {
+        "neg": 0.24,
+        "neu": 0.76,
+        "pos": 0.0,
+        "compound": -0.4767
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -77632,6 +77740,15 @@
     ],
     [
       "ngwmluu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ngxmf4k",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -88104,6 +88221,15 @@
         "pos": 0.343,
         "compound": -0.0258
       }
+    ],
+    [
+      "ngxmplo",
+      {
+        "neg": 0.787,
+        "neu": 0.213,
+        "pos": 0.0,
+        "compound": -0.5719
+      }
     ]
   ],
   "XRP": [
@@ -92002,6 +92128,15 @@
         "neu": 0.904,
         "pos": 0.062,
         "compound": 0.3067
+      }
+    ],
+    [
+      "ngxmj9p",
+      {
+        "neg": 0.0,
+        "neu": 0.753,
+        "pos": 0.247,
+        "compound": 0.3182
       }
     ]
   ],
