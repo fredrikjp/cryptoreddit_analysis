@@ -29825,6 +29825,33 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "nh0omab",
+      {
+        "neg": 0.0,
+        "neu": 0.24,
+        "pos": 0.06,
+        "compound": 0.06
+      }
+    ],
+    [
+      "nh0ong5",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nh0oofb",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.3
+      }
     ]
   ],
   "btc": [
@@ -34065,6 +34092,15 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "nh0oiqo",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.1
       }
     ]
   ],
@@ -71190,6 +71226,24 @@
         "pos": 0.06,
         "compound": -0.18
       }
+    ],
+    [
+      "nh0oifc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nh0oj0t",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.35
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -78502,6 +78556,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nh0onuf",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.2
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -80744,6 +80807,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "nh0oohk",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
       }
     ]
   ],
@@ -101040,6 +101112,24 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.2
+      }
+    ],
+    [
+      "nh0oi6w",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nh0onek",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.4,
+        "compound": 0.1
       }
     ]
   ],
