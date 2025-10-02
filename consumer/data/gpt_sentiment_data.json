@@ -30635,6 +30635,15 @@
         "pos": 0.2,
         "compound": -0.3
       }
+    ],
+    [
+      "nhart5a",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
     ]
   ],
   "btc": [
@@ -83978,6 +83987,24 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "nhartaj",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nharufw",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
     ]
   ],
   "ethtrader": [
@@ -90287,6 +90314,24 @@
         "neg": 0.1,
         "neu": 0.8,
         "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nharqgt",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nharr20",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
         "compound": 0.0
       }
     ]
