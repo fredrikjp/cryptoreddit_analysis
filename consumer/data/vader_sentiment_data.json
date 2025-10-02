@@ -30968,6 +30968,69 @@
         "pos": 0.0,
         "compound": -0.4767
       }
+    ],
+    [
+      "nhexesz",
+      {
+        "neg": 0.137,
+        "neu": 0.797,
+        "pos": 0.066,
+        "compound": -0.3818
+      }
+    ],
+    [
+      "nhexr0c",
+      {
+        "neg": 0.0,
+        "neu": 0.417,
+        "pos": 0.583,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "nhexreu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhextm1",
+      {
+        "neg": 0.0,
+        "neu": 0.504,
+        "pos": 0.496,
+        "compound": 0.7102
+      }
+    ],
+    [
+      "nhexv4a",
+      {
+        "neg": 0.04,
+        "neu": 0.875,
+        "pos": 0.085,
+        "compound": 0.8238
+      }
+    ],
+    [
+      "nhexxpw",
+      {
+        "neg": 0.351,
+        "neu": 0.649,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
+    ],
+    [
+      "nhey3ic",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -35298,6 +35361,15 @@
         "neu": 0.813,
         "pos": 0.187,
         "compound": 0.6956
+      }
+    ],
+    [
+      "nhexxvp",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.296
       }
     ]
   ],
@@ -40944,6 +41016,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nhey3ld",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.6369
+      }
     ]
   ],
   "ethereum": [
@@ -45661,6 +45742,24 @@
         "neu": 0.282,
         "pos": 0.718,
         "compound": 0.6249
+      }
+    ],
+    [
+      "nhey0qy",
+      {
+        "neg": 0.0,
+        "neu": 0.562,
+        "pos": 0.438,
+        "compound": 0.7783
+      }
+    ],
+    [
+      "nhey1ga",
+      {
+        "neg": 0.163,
+        "neu": 0.74,
+        "pos": 0.097,
+        "compound": -0.8698
       }
     ]
   ],
@@ -73665,6 +73764,51 @@
         "pos": 0.247,
         "compound": 0.4588
       }
+    ],
+    [
+      "nhexqtu",
+      {
+        "neg": 0.143,
+        "neu": 0.549,
+        "pos": 0.308,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "nhexs6o",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhexuqq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhey1om",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhey1p9",
+      {
+        "neg": 0.0,
+        "neu": 0.562,
+        "pos": 0.438,
+        "compound": 0.5994
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -76276,6 +76420,15 @@
         "neu": 0.341,
         "pos": 0.659,
         "compound": 0.7003
+      }
+    ],
+    [
+      "nhey31a",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -83426,6 +83579,24 @@
         "neu": 0.901,
         "pos": 0.028,
         "compound": -0.5789
+      }
+    ],
+    [
+      "nhexste",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhey2rt",
+      {
+        "neg": 0.24,
+        "neu": 0.515,
+        "pos": 0.245,
+        "compound": -0.2332
       }
     ]
   ],
@@ -91135,6 +91306,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nhexurg",
+      {
+        "neg": 0.014,
+        "neu": 0.943,
+        "pos": 0.043,
+        "compound": 0.3506
+      }
     ]
   ],
   "sui": [
@@ -96115,6 +96295,15 @@
         "neu": 0.631,
         "pos": 0.0,
         "compound": -0.4767
+      }
+    ],
+    [
+      "nhexwmq",
+      {
+        "neg": 0.088,
+        "neu": 0.739,
+        "pos": 0.173,
+        "compound": 0.4588
       }
     ]
   ],
@@ -104515,6 +104704,78 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nhexr7v",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "nhexr92",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhexrak",
+      {
+        "neg": 0.0,
+        "neu": 0.897,
+        "pos": 0.103,
+        "compound": 0.34
+      }
+    ],
+    [
+      "nhexrmt",
+      {
+        "neg": 0.041,
+        "neu": 0.817,
+        "pos": 0.141,
+        "compound": 0.8273
+      }
+    ],
+    [
+      "nhexxhw",
+      {
+        "neg": 0.137,
+        "neu": 0.812,
+        "pos": 0.05,
+        "compound": -0.4767
+      }
+    ],
+    [
+      "nhexxjy",
+      {
+        "neg": 0.052,
+        "neu": 0.836,
+        "pos": 0.112,
+        "compound": 0.4939
+      }
+    ],
+    [
+      "nhexzgl",
+      {
+        "neg": 0.061,
+        "neu": 0.939,
+        "pos": 0.0,
+        "compound": -0.4767
+      }
+    ],
+    [
+      "nhey10v",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "cardano": [
@@ -105926,6 +106187,15 @@
     ],
     [
       "nh22g5c",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhexyrt",
       {
         "neg": 0.0,
         "neu": 1.0,
