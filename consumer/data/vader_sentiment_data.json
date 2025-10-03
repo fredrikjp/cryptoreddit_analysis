@@ -31562,6 +31562,33 @@
         "pos": 0.114,
         "compound": 0.7902
       }
+    ],
+    [
+      "nhjgt4o",
+      {
+        "neg": 0.0,
+        "neu": 0.742,
+        "pos": 0.258,
+        "compound": 0.9041
+      }
+    ],
+    [
+      "nhjgucv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhjgw62",
+      {
+        "neg": 0.138,
+        "neu": 0.779,
+        "pos": 0.083,
+        "compound": -0.903
+      }
     ]
   ],
   "btc": [
@@ -41645,6 +41672,15 @@
         "neu": 0.844,
         "pos": 0.064,
         "compound": -0.092
+      }
+    ],
+    [
+      "nhjgy8r",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -52053,6 +52089,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nhjgx96",
+      {
+        "neg": 0.0,
+        "neu": 0.682,
+        "pos": 0.318,
+        "compound": 0.4215
       }
     ]
   ],
@@ -84705,6 +84750,15 @@
         "pos": 0.095,
         "compound": 0.7778
       }
+    ],
+    [
+      "nhjgwj7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -92466,6 +92520,42 @@
         "neu": 0.794,
         "pos": 0.132,
         "compound": 0.4497
+      }
+    ],
+    [
+      "nhjgv76",
+      {
+        "neg": 0.083,
+        "neu": 0.741,
+        "pos": 0.175,
+        "compound": 0.2444
+      }
+    ],
+    [
+      "nhjgvnc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhjgwaz",
+      {
+        "neg": 0.0,
+        "neu": 0.484,
+        "pos": 0.516,
+        "compound": 0.4926
+      }
+    ],
+    [
+      "nhjgwt6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
