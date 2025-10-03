@@ -31283,6 +31283,33 @@
         "pos": 0.1,
         "compound": -0.2
       }
+    ],
+    [
+      "nhgy3dc",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nhgy49k",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nhgy7nc",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.75
+      }
     ]
   ],
   "btc": [
@@ -74313,6 +74340,15 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "nhgy8ap",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -85454,6 +85490,24 @@
         "pos": 0.4,
         "compound": 0.4
       }
+    ],
+    [
+      "nhgy3lz",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nhgy49n",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.3,
+        "compound": -0.1
+      }
     ]
   ],
   "ethtrader": [
@@ -91863,6 +91917,15 @@
         "neu": 0.2,
         "pos": 0.6,
         "compound": 0.6
+      }
+    ],
+    [
+      "nhgy7l4",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
@@ -105451,6 +105514,24 @@
         "pos": 0.1,
         "compound": -0.5
       }
+    ],
+    [
+      "nhgy2u3",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nhgy8dz",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "cardano": [
@@ -106876,6 +106957,15 @@
         "neu": 0.1,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nhgy8tk",
+      {
+        "neg": 0.9,
+        "neu": 0.05,
+        "pos": 0.05,
+        "compound": -0.8
       }
     ]
   ]
