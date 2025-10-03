@@ -31310,6 +31310,33 @@
         "pos": 0.9,
         "compound": 0.75
       }
+    ],
+    [
+      "nhh7v30",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nhh7voa",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nhh7w2k",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
     ]
   ],
   "btc": [
@@ -35662,6 +35689,15 @@
     ],
     [
       "nhglb9b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhh7zgm",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -51729,6 +51765,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.3
+      }
+    ],
+    [
+      "nhh7yvz",
+      {
+        "neg": 0.5,
+        "neu": 0.3,
+        "pos": 0.2,
+        "compound": -0.3
       }
     ]
   ],
@@ -74349,6 +74394,24 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "nhh7w1u",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nhh7wtd",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -76969,6 +77032,15 @@
         "neu": 0.0,
         "pos": 0.8,
         "compound": 0.8
+      }
+    ],
+    [
+      "nhh7ywt",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
       }
     ]
   ],
@@ -96962,6 +97034,15 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "nhh7ubq",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -105531,6 +105612,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "nhh7vy4",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
