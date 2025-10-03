@@ -31454,6 +31454,42 @@
         "pos": 0.0,
         "compound": -0.8
       }
+    ],
+    [
+      "nhi7v32",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nhi7vr5",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhi7wit",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nhi7xi8",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
     ]
   ],
   "btc": [
@@ -35829,6 +35865,15 @@
         "neu": 0.0,
         "pos": 0.0,
         "compound": -0.0
+      }
+    ],
+    [
+      "nhi7w9t",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -74610,6 +74655,24 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nhi7vzw",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nhi804h",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.4
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -77248,6 +77311,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nhi7xw4",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
@@ -82092,6 +82164,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nhi7zgx",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
@@ -105882,6 +105963,15 @@
         "neu": 0.4,
         "pos": 0.4,
         "compound": 0.0
+      }
+    ],
+    [
+      "nhi7wk1",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
