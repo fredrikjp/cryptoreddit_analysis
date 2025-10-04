@@ -32444,6 +32444,24 @@
         "pos": 0.118,
         "compound": 0.2372
       }
+    ],
+    [
+      "nhqwna6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhqwvie",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -42635,6 +42653,15 @@
         "neu": 0.807,
         "pos": 0.12,
         "compound": 0.7333
+      }
+    ],
+    [
+      "nhqwj1h",
+      {
+        "neg": 0.0,
+        "neu": 0.815,
+        "pos": 0.185,
+        "compound": 0.3612
       }
     ]
   ],
@@ -53250,6 +53277,15 @@
         "neu": 0.721,
         "pos": 0.279,
         "compound": 0.5023
+      }
+    ],
+    [
+      "nhqwsc5",
+      {
+        "neg": 0.08,
+        "neu": 0.8,
+        "pos": 0.12,
+        "compound": 0.6077
       }
     ]
   ],
@@ -76662,6 +76698,33 @@
         "pos": 0.0,
         "compound": -0.2732
       }
+    ],
+    [
+      "nhqwirg",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.25
+      }
+    ],
+    [
+      "nhqwndy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhqwsqp",
+      {
+        "neg": 0.105,
+        "neu": 0.744,
+        "pos": 0.15,
+        "compound": 0.2563
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -84298,6 +84361,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nhqwsw1",
+      {
+        "neg": 0.0,
+        "neu": 0.94,
+        "pos": 0.06,
+        "compound": 0.3182
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -86729,6 +86801,24 @@
         "neu": 0.841,
         "pos": 0.12,
         "compound": 0.8768
+      }
+    ],
+    [
+      "nhqwlla",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhqwm44",
+      {
+        "neg": 0.088,
+        "neu": 0.808,
+        "pos": 0.104,
+        "compound": 0.0258
       }
     ]
   ],
