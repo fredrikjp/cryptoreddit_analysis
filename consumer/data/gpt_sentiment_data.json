@@ -32462,6 +32462,33 @@
         "pos": 0.8,
         "compound": 0.6
       }
+    ],
+    [
+      "nhr9caz",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhr9d7c",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nhr9hyq",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
     ]
   ],
   "btc": [
@@ -76724,6 +76751,69 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": 0.2
+      }
+    ],
+    [
+      "nhr99ex",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nhr9bal",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhr9cyz",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nhr9dmf",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nhr9ikr",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nhr9ime",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nhr9k85",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
