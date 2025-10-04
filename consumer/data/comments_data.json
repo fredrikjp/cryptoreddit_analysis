@@ -17859,6 +17859,21 @@
       "nhncv9u",
       "2025-10-04T01:33:49",
       "I am buying it, no need to hide. I see it as an investment. Thats it. What is going on with the blind statement \"study bitcoin\" haha, you buy it because you understand it, otherwise you dont. \"Study bitcoin\" haha. It should have been study macro econ and crypto universe."
+    ],
+    [
+      "nhnktc9",
+      "2025-10-04T02:28:33",
+      "I never used Bitcoin well personally, only what I have mentioned previously.\n\nThe 1 hour consultation is good. The more you understand your device the better. It takes ages to understand even if you are good with computers..\n\nWhen the Trezor arrives ensure the seals are intact, also try setting it up twice i.e. the first time you write down your seed words (which you never tell anyone or store digitally) you do this on scrap paper, not the little paper booklet they give you. Why?\n\nBecause the second time you set it up for good, but this time all the words should be different (however words 3 and 4 will be the word 'academic' this is expected and is Trezor meta-data - Don't freak out). By doing this twice not only have you confirmed that the device is generating random words so not tampered with, but you also have more familiarity with the device.\n\nConfused yet? Great... It's difficult.\n\nTry watching some Trezor Safe 5 YouTube videos in advance.\n\nBuy a physical safe, lock the device and the booklet in it. Maybe two safes, one for each. Your choice. This way you have peace of mind knowing that nobody has looked at the words.\n\nNow the brain curling technical bits:-\n\nYour Trezor generates a private key, this is used to sign sending transactions. You can receive Bitcoin without presenting your private key. Anyone can send you Bitcoin, however when you send Bitcoin you need to sign the transaction by presenting the private key.\n\nYou can have many wallets assigned to one private key. If you create a pass phrase (recommend by not until you know exactly what your doing) then a new private key is generated. \n\nNow you have 20/24 seed words plus a pass phrase (and different wallet addresses) Extra secure why? Because those 20/24 seed words are generated from a pre-defined list. The 25 word (passphrase) you can choose.\n\n25th word examples-\n\npassword123!\nPassword123!\n\nThese are different - why because they are case sensitive. Note the capital P for Password.\n\nDon't get caught out, nobody can help you if you get it wrong.\n\nIf you don't feel comfortable/confident in creating a 25th passphrase on setting up your device during the first go, then don't. You can do it later. I didn't initially, once I understood more (took a few months) then I did. Hell yeah I did. But only when I understood completely what I was doing and yes I was scared shit less. \n\nDid I mention - Do not lose those words!\n\nNEVER Enter your 20/24 words (plus pass phrase if you choose) into anything other than your Trezor device.\n\nIf you're ever unsure what is going on, stop take a deep breath and think. Your Bitcoin won't go anywhere without your approval.\n\nIf you're sending Bitcoin to yourself, a different wallet, consolidating your UTXOs (unspent transaction operations) then send a small amount first like $20.\n\nUTXO - The most complicated part. If you buy Bitcoin from an Exchange and send it to yourself 5 separate times you will have 5 UTXO's which form the whole amount of Bitcoin you own- You then send those 5 to your self (Yes - Your own wallet address) to consolidate them into 1 UTXO . Think of taking your change to the bank to exchange for a note. Why? Because that saves space on the block chain. Each transaction cost is based in part on the size of data you are sending and how busy the Bitcoin block chain network is. In the future who knows what the cost will be, so it's good to consolidate every once in a while. \n\nMore confused, excellent. Like I said It's difficult.\n\nOnce you have mastered buying Spot ETF and sending to your device you're home and dry.\n\nIn the meantime google 'Mempool' - This is the Bitcoin block chain operating 24/7 - Poke around and watch the transactions happen in real time. It's fun.\n\nWhat you have chosen is not easy, but you made the right choice.\n\nIf you have any more questions, come back here and ask. I will try to answer publicly and to the best of my ability.\n\nIt's good to have you here. Best of luck."
+    ],
+    [
+      "nhnktln",
+      "2025-10-04T02:28:33",
+      "But..but...but it was cheaper then \ud83d\ude05. I only kick myself for not learning what I know now sooner"
+    ],
+    [
+      "nhnkwq3",
+      "2025-10-04T02:28:33",
+      "/r/economics is so weird they talk about the dollar losing value and if you even mention BTC as an alternative they downvote to oblivion. Just so weird."
     ]
   ],
   "btc": [
@@ -23488,6 +23503,16 @@
       "nhkfxyd",
       "2025-10-03T16:06:48",
       "Indeed, I had a big bag of CRO coins too. I just sold all recently and can\u2019t lie did made money on trade. App itself is not promising, clumsy and vague. They are overspending on advertising and marketing then working on actual ecosystem. Big promises and hype. Trying to catch a trend but has always failed to achieve. It has gone through last bull cycle and hasn\u2019t matured at all. If it was not for staking price of the coin would be really volatile and the system itself is not feasible yet for sustaining ecosystem."
+    ],
+    [
+      "nhnkw6a",
+      "2025-10-04T02:28:33",
+      "\ud83e\udd23 it did not deliver. Great marketing though. I was so excited for this phone."
+    ],
+    [
+      "nhnkzq4",
+      "2025-10-04T02:28:33",
+      "\ud83d\udc40 really. I don\u2019t stake through them, but that\u2019s odd it\u2019s so low now."
     ]
   ],
   "ethereum": [
