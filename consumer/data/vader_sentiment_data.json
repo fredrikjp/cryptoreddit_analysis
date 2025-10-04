@@ -32597,6 +32597,42 @@
         "pos": 0.393,
         "compound": 0.3802
       }
+    ],
+    [
+      "nhsuapr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhsudix",
+      {
+        "neg": 0.129,
+        "neu": 0.871,
+        "pos": 0.0,
+        "compound": -0.5927
+      }
+    ],
+    [
+      "nhsuh7u",
+      {
+        "neg": 0.0,
+        "neu": 0.706,
+        "pos": 0.294,
+        "compound": 0.808
+      }
+    ],
+    [
+      "nhsujvq",
+      {
+        "neg": 0.0,
+        "neu": 0.69,
+        "pos": 0.31,
+        "compound": 0.4019
+      }
     ]
   ],
   "btc": [
@@ -53461,6 +53497,15 @@
     ],
     [
       "nhrl82r",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhsujrp",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -77058,6 +77103,15 @@
         "pos": 0.0,
         "compound": -0.5106
       }
+    ],
+    [
+      "nhsudj8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -79777,6 +79831,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nhsujzy",
+      {
+        "neg": 0.03,
+        "neu": 0.897,
+        "pos": 0.073,
+        "compound": 0.8411
       }
     ]
   ],
@@ -88558,6 +88621,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nhsufje",
+      {
+        "neg": 0.311,
+        "neu": 0.579,
+        "pos": 0.111,
+        "compound": -0.4714
       }
     ]
   ],
@@ -100301,6 +100373,15 @@
         "pos": 0.089,
         "compound": 0.3474
       }
+    ],
+    [
+      "nhsuhor",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4019
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -109122,6 +109203,15 @@
         "neu": 0.714,
         "pos": 0.222,
         "compound": 0.5994
+      }
+    ],
+    [
+      "nhsui3b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
