@@ -32111,6 +32111,24 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "nhn1cdn",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nhn1gth",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "btc": [
@@ -75906,6 +75924,15 @@
         "pos": 0.3,
         "compound": 0.1
       }
+    ],
+    [
+      "nhn1c0r",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.55
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -85875,6 +85902,15 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "nhn1fxz",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -87217,6 +87253,15 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "nhn1ab4",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.15
       }
     ]
   ],
@@ -98843,6 +98888,42 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "nhn19r3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhn1bv4",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nhn1giq",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nhn1gyc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -107592,6 +107673,15 @@
         "neu": 0.7,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "nhn1fhy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
