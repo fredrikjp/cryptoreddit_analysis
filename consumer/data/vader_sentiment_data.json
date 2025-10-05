@@ -32741,6 +32741,87 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nhtyxk8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhtyxnb",
+      {
+        "neg": 0.0,
+        "neu": 0.408,
+        "pos": 0.592,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "nhtyytf",
+      {
+        "neg": 0.231,
+        "neu": 0.769,
+        "pos": 0.0,
+        "compound": -0.128
+      }
+    ],
+    [
+      "nhtyz68",
+      {
+        "neg": 0.302,
+        "neu": 0.698,
+        "pos": 0.0,
+        "compound": -0.3818
+      }
+    ],
+    [
+      "nhtz1l4",
+      {
+        "neg": 0.0,
+        "neu": 0.728,
+        "pos": 0.272,
+        "compound": 0.6808
+      }
+    ],
+    [
+      "nhtz2nb",
+      {
+        "neg": 0.145,
+        "neu": 0.536,
+        "pos": 0.319,
+        "compound": 0.504
+      }
+    ],
+    [
+      "nhtz3po",
+      {
+        "neg": 0.0,
+        "neu": 0.105,
+        "pos": 0.895,
+        "compound": 0.8205
+      }
+    ],
+    [
+      "nhtz40i",
+      {
+        "neg": 0.042,
+        "neu": 0.773,
+        "pos": 0.185,
+        "compound": 0.8519
+      }
+    ],
+    [
+      "nhtz4c2",
+      {
+        "neg": 0.343,
+        "neu": 0.657,
+        "pos": 0.0,
+        "compound": -0.5655
+      }
     ]
   ],
   "btc": [
@@ -42990,6 +43071,15 @@
     ],
     [
       "nhtse42",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhtz1cr",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -77355,6 +77445,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nhtz1vm",
+      {
+        "neg": 0.0,
+        "neu": 0.763,
+        "pos": 0.237,
+        "compound": 0.5664
+      }
+    ],
+    [
+      "nhtz4fj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhtz5ed",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -109477,6 +109594,24 @@
     ],
     [
       "nhsui3b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhtz2gp",
+      {
+        "neg": 0.0,
+        "neu": 0.652,
+        "pos": 0.348,
+        "compound": 0.4939
+      }
+    ],
+    [
+      "nhtz6ql",
       {
         "neg": 0.0,
         "neu": 1.0,
