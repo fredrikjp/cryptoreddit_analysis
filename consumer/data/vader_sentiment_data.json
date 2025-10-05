@@ -32867,6 +32867,42 @@
         "pos": 0.0,
         "compound": -0.5775
       }
+    ],
+    [
+      "nhujo71",
+      {
+        "neg": 0.524,
+        "neu": 0.476,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "nhujquu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nhujr5f",
+      {
+        "neg": 0.121,
+        "neu": 0.759,
+        "pos": 0.121,
+        "compound": -0.0005
+      }
+    ],
+    [
+      "nhujrii",
+      {
+        "neg": 0.0,
+        "neu": 0.633,
+        "pos": 0.367,
+        "compound": 0.4404
+      }
     ]
   ],
   "btc": [
@@ -43130,6 +43166,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nhujn4u",
+      {
+        "neg": 0.073,
+        "neu": 0.807,
+        "pos": 0.12,
+        "compound": 0.7333
       }
     ]
   ],
@@ -77544,6 +77589,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nhujncy",
+      {
+        "neg": 0.165,
+        "neu": 0.835,
+        "pos": 0.0,
+        "compound": -0.3744
+      }
+    ],
+    [
+      "nhujrsd",
+      {
+        "neg": 0.0,
+        "neu": 0.83,
+        "pos": 0.17,
+        "compound": 0.5719
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -87729,6 +87792,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nhujm40",
+      {
+        "neg": 0.0,
+        "neu": 0.656,
+        "pos": 0.344,
+        "compound": 0.2732
+      }
+    ],
+    [
+      "nhujqyq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -89098,6 +89179,15 @@
         "neu": 0.579,
         "pos": 0.111,
         "compound": -0.4714
+      }
+    ],
+    [
+      "nhujnf6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
