@@ -34316,6 +34316,42 @@
         "pos": 0.1,
         "compound": -0.4
       }
+    ],
+    [
+      "ni6j7ko",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "ni6jdz5",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ni6jfji",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.75
+      }
+    ],
+    [
+      "ni6jgsk",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "btc": [
@@ -49901,6 +49937,15 @@
         "pos": 0.7,
         "compound": 0.65
       }
+    ],
+    [
+      "ni6ja3p",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
     ]
   ],
   "dogecoin": [
@@ -55878,6 +55923,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.4
+      }
+    ],
+    [
+      "ni6ja2h",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -88528,6 +88582,15 @@
         "pos": 0.5,
         "compound": 0.6
       }
+    ],
+    [
+      "ni6j7kx",
+      {
+        "neg": 0.5,
+        "neu": 0.2,
+        "pos": 0.3,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -99184,6 +99247,60 @@
     ],
     [
       "ni390iu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ni6j6rx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ni6j8iw",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.5
+      }
+    ],
+    [
+      "ni6j93i",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ni6jbmr",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8
+      }
+    ],
+    [
+      "ni6jcws",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ni6jejf",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -113631,6 +113748,24 @@
         "neu": 0.5,
         "pos": 0.5,
         "compound": 0.6
+      }
+    ],
+    [
+      "ni6j6lv",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "ni6jc6c",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
