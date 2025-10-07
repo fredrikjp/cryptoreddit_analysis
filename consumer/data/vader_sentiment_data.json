@@ -34766,6 +34766,51 @@
         "pos": 0.416,
         "compound": 0.6908
       }
+    ],
+    [
+      "niazjlz",
+      {
+        "neg": 0.031,
+        "neu": 0.879,
+        "pos": 0.09,
+        "compound": 0.6908
+      }
+    ],
+    [
+      "niazlcq",
+      {
+        "neg": 0.0,
+        "neu": 0.927,
+        "pos": 0.073,
+        "compound": 0.296
+      }
+    ],
+    [
+      "niaznv5",
+      {
+        "neg": 0.0,
+        "neu": 0.82,
+        "pos": 0.18,
+        "compound": 0.296
+      }
+    ],
+    [
+      "niazoez",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niazogq",
+      {
+        "neg": 0.0,
+        "neu": 0.938,
+        "pos": 0.062,
+        "compound": 0.2023
+      }
     ]
   ],
   "btc": [
@@ -39483,6 +39528,24 @@
         "neu": 0.648,
         "pos": 0.219,
         "compound": 0.4939
+      }
+    ],
+    [
+      "niazmw0",
+      {
+        "neg": 0.0,
+        "neu": 0.925,
+        "pos": 0.075,
+        "compound": 0.4168
+      }
+    ],
+    [
+      "niazpub",
+      {
+        "neg": 0.0,
+        "neu": 0.755,
+        "pos": 0.245,
+        "compound": 0.3804
       }
     ]
   ],
@@ -81504,6 +81567,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "niazhiu",
+      {
+        "neg": 0.0,
+        "neu": 0.925,
+        "pos": 0.075,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "niazjkl",
+      {
+        "neg": 0.0,
+        "neu": 0.799,
+        "pos": 0.201,
+        "compound": 0.4137
+      }
+    ],
+    [
+      "niazjri",
+      {
+        "neg": 0.109,
+        "neu": 0.85,
+        "pos": 0.041,
+        "compound": -0.5106
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -84434,6 +84524,24 @@
     ],
     [
       "niank6e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niazlx5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niazsiu",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -89653,6 +89761,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "niazhot",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niazsbh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -92264,6 +92390,15 @@
         "neu": 0.93,
         "pos": 0.07,
         "compound": 0.3612
+      }
+    ],
+    [
+      "niazr4t",
+      {
+        "neg": 0.028,
+        "neu": 0.812,
+        "pos": 0.16,
+        "compound": 0.958
       }
     ]
   ],
