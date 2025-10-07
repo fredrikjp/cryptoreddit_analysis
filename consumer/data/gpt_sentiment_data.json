@@ -34541,6 +34541,24 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "ni8yjkx",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "ni8yrcy",
+      {
+        "neg": 0.1,
+        "neu": 0.5,
+        "pos": 0.4,
+        "compound": 0.35
+      }
     ]
   ],
   "btc": [
@@ -39240,6 +39258,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "ni8yp2o",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.75
       }
     ]
   ],
@@ -45182,6 +45209,15 @@
         "neu": 0.5,
         "pos": 0.3,
         "compound": 0.1
+      }
+    ],
+    [
+      "ni8ys1i",
+      {
+        "neg": 0.75,
+        "neu": 0.25,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ],
@@ -80874,6 +80910,42 @@
         "pos": 0.5,
         "compound": 0.4
       }
+    ],
+    [
+      "ni8yhyy",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "ni8ykbu",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "ni8ymmg",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.65
+      }
+    ],
+    [
+      "ni8yrdr",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -99730,6 +99802,15 @@
         "pos": 0.1,
         "compound": -0.3
       }
+    ],
+    [
+      "ni8ykew",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -105070,6 +105151,15 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "ni8yi7i",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.3
       }
     ]
   ],
