@@ -34811,6 +34811,42 @@
         "pos": 0.062,
         "compound": 0.2023
       }
+    ],
+    [
+      "nibbj2t",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nibbk6z",
+      {
+        "neg": 0.155,
+        "neu": 0.795,
+        "pos": 0.05,
+        "compound": -0.6486
+      }
+    ],
+    [
+      "nibbnuv",
+      {
+        "neg": 0.217,
+        "neu": 0.783,
+        "pos": 0.0,
+        "compound": -0.3612
+      }
+    ],
+    [
+      "nibbqwk",
+      {
+        "neg": 0.112,
+        "neu": 0.724,
+        "pos": 0.164,
+        "compound": 0.4019
+      }
     ]
   ],
   "btc": [
@@ -39546,6 +39582,42 @@
         "neu": 0.755,
         "pos": 0.245,
         "compound": 0.3804
+      }
+    ],
+    [
+      "nibbkky",
+      {
+        "neg": 0.07,
+        "neu": 0.93,
+        "pos": 0.0,
+        "compound": -0.128
+      }
+    ],
+    [
+      "nibbkr9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nibbnzc",
+      {
+        "neg": 0.0,
+        "neu": 0.684,
+        "pos": 0.316,
+        "compound": 0.4168
+      }
+    ],
+    [
+      "nibbsbw",
+      {
+        "neg": 0.0,
+        "neu": 0.684,
+        "pos": 0.316,
+        "compound": 0.4168
       }
     ]
   ],
@@ -81594,6 +81666,33 @@
         "pos": 0.041,
         "compound": -0.5106
       }
+    ],
+    [
+      "nibbnam",
+      {
+        "neg": 0.0,
+        "neu": 0.86,
+        "pos": 0.14,
+        "compound": 0.0772
+      }
+    ],
+    [
+      "nibbr0p",
+      {
+        "neg": 0.0,
+        "neu": 0.951,
+        "pos": 0.049,
+        "compound": 0.2023
+      }
+    ],
+    [
+      "nibbsax",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -89779,6 +89878,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nibbqqj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -92399,6 +92507,15 @@
         "neu": 0.812,
         "pos": 0.16,
         "compound": 0.958
+      }
+    ],
+    [
+      "nibbis3",
+      {
+        "neg": 0.039,
+        "neu": 0.915,
+        "pos": 0.046,
+        "compound": 0.1073
       }
     ]
   ],
@@ -115198,6 +115315,15 @@
         "pos": 0.08,
         "compound": 0.101
       }
+    ],
+    [
+      "nibbm00",
+      {
+        "neg": 0.0,
+        "neu": 0.484,
+        "pos": 0.516,
+        "compound": 0.4927
+      }
     ]
   ],
   "cardano": [
@@ -116297,6 +116423,15 @@
         "neu": 0.837,
         "pos": 0.113,
         "compound": 0.9628
+      }
+    ],
+    [
+      "nibbrnf",
+      {
+        "neg": 0.043,
+        "neu": 0.824,
+        "pos": 0.132,
+        "compound": 0.6114
       }
     ]
   ],
