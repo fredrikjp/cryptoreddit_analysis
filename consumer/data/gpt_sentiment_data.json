@@ -35351,6 +35351,33 @@
         "pos": 0.1,
         "compound": -0.5
       }
+    ],
+    [
+      "nignppo",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nignrdf",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nignsbv",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
     ]
   ],
   "btc": [
@@ -46146,6 +46173,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nignmbe",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.0
+      }
     ]
   ],
   "ethereum": [
@@ -51250,6 +51286,15 @@
         "neu": 0.1,
         "pos": 0.0,
         "compound": -0.8
+      }
+    ],
+    [
+      "nignrv5",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
       }
     ]
   ],
@@ -82656,6 +82701,15 @@
         "pos": 0.1,
         "compound": -0.7
       }
+    ],
+    [
+      "nignqup",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -85654,6 +85708,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nignslj",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.9
       }
     ]
   ],
@@ -90958,6 +91021,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nignqhv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -93624,6 +93696,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nigntha",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -95056,6 +95137,15 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "nignmom",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],

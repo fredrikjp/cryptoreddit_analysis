@@ -35351,6 +35351,33 @@
         "pos": 0.052,
         "compound": -0.7149
       }
+    ],
+    [
+      "nignppo",
+      {
+        "neg": 0.058,
+        "neu": 0.886,
+        "pos": 0.056,
+        "compound": -0.0258
+      }
+    ],
+    [
+      "nignrdf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nignsbv",
+      {
+        "neg": 0.0,
+        "neu": 0.862,
+        "pos": 0.138,
+        "compound": 0.4939
+      }
     ]
   ],
   "btc": [
@@ -46146,6 +46173,15 @@
         "pos": 0.12,
         "compound": 0.7333
       }
+    ],
+    [
+      "nignmbe",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -51250,6 +51286,15 @@
         "neu": 0.755,
         "pos": 0.0,
         "compound": -0.3818
+      }
+    ],
+    [
+      "nignrv5",
+      {
+        "neg": 0.25,
+        "neu": 0.75,
+        "pos": 0.0,
+        "compound": -0.1695
       }
     ]
   ],
@@ -82656,6 +82701,15 @@
         "pos": 0.174,
         "compound": -0.2263
       }
+    ],
+    [
+      "nignqup",
+      {
+        "neg": 0.0,
+        "neu": 0.435,
+        "pos": 0.565,
+        "compound": 0.5994
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -85654,6 +85708,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nignslj",
+      {
+        "neg": 0.0,
+        "neu": 0.916,
+        "pos": 0.084,
+        "compound": 0.8183
       }
     ]
   ],
@@ -90958,6 +91021,15 @@
         "pos": 0.13,
         "compound": 0.5106
       }
+    ],
+    [
+      "nignqhv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -93624,6 +93696,15 @@
         "pos": 0.168,
         "compound": 0.2263
       }
+    ],
+    [
+      "nigntha",
+      {
+        "neg": 0.0,
+        "neu": 0.828,
+        "pos": 0.172,
+        "compound": 0.4019
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -95051,6 +95132,15 @@
     ],
     [
       "nieb22v",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nignmom",
       {
         "neg": 0.0,
         "neu": 1.0,
