@@ -35126,6 +35126,51 @@
         "pos": 0.0,
         "compound": -0.4939
       }
+    ],
+    [
+      "niequau",
+      {
+        "neg": 0.079,
+        "neu": 0.835,
+        "pos": 0.086,
+        "compound": -0.1779
+      }
+    ],
+    [
+      "niequl1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nieqx3e",
+      {
+        "neg": 0.0,
+        "neu": 0.838,
+        "pos": 0.162,
+        "compound": 0.7703
+      }
+    ],
+    [
+      "nieqxg0",
+      {
+        "neg": 0.196,
+        "neu": 0.608,
+        "pos": 0.196,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nieqzps",
+      {
+        "neg": 0.787,
+        "neu": 0.213,
+        "pos": 0.0,
+        "compound": -0.5719
+      }
     ]
   ],
   "btc": [
@@ -57021,6 +57066,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nieqpyw",
+      {
+        "neg": 0.119,
+        "neu": 0.799,
+        "pos": 0.083,
+        "compound": -0.0675
+      }
+    ],
+    [
+      "nieqs8f",
+      {
+        "neg": 0.0,
+        "neu": 0.909,
+        "pos": 0.091,
+        "compound": 0.25
       }
     ]
   ],
@@ -82224,6 +82287,15 @@
         "pos": 0.113,
         "compound": 0.6937
       }
+    ],
+    [
+      "niequ2o",
+      {
+        "neg": 0.097,
+        "neu": 0.759,
+        "pos": 0.143,
+        "compound": 0.2732
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -101323,6 +101395,51 @@
         "pos": 0.26,
         "compound": 0.2225
       }
+    ],
+    [
+      "nieqq30",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nieqvbe",
+      {
+        "neg": 0.0,
+        "neu": 0.51,
+        "pos": 0.49,
+        "compound": 0.7701
+      }
+    ],
+    [
+      "nieqwme",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nieqyh2",
+      {
+        "neg": 0.0,
+        "neu": 0.852,
+        "pos": 0.148,
+        "compound": 0.6114
+      }
+    ],
+    [
+      "nier01a",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -116043,6 +116160,24 @@
         "neu": 0.88,
         "pos": 0.064,
         "compound": 0.1027
+      }
+    ],
+    [
+      "nieqrcn",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nieqryl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
