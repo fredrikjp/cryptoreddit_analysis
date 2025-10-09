@@ -35540,6 +35540,33 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "niix74o",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "niix7tb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niixaq4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -40373,6 +40400,15 @@
         "neg": 0.2,
         "neu": 0.6,
         "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niix4nk",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
         "compound": 0.0
       }
     ]
@@ -83006,6 +83042,15 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.3
+      }
+    ],
+    [
+      "niix4r8",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
       }
     ]
   ],
