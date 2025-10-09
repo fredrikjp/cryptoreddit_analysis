@@ -35711,6 +35711,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nikrzc0",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "niks40z",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "niks4li",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -40581,6 +40608,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nikrw8h",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
       }
     ]
   ],
@@ -51790,6 +51826,24 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "nikrwfh",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.85
+      }
+    ],
+    [
+      "niks3yd",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -83403,6 +83457,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nikrx3s",
+      {
+        "neg": 0.06999999999999999,
+        "neu": 0.5599999999999999,
+        "pos": 0.06999999999999999,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nikrzss",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nikrzt5",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -86437,6 +86518,15 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.4
+      }
+    ],
+    [
+      "niks3zh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -102772,6 +102862,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nikrwim",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niks45d",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "sui": [
@@ -117609,6 +117717,33 @@
         "neu": 0.6,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "nikrwrx",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nikrzb3",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "niks0iv",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.8
       }
     ]
   ],
