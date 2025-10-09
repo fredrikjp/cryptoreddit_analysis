@@ -35819,6 +35819,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nimkaqr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nimkbwe",
+      {
+        "neg": 0.383,
+        "neu": 0.617,
+        "pos": 0.0,
+        "compound": -0.7351
+      }
+    ],
+    [
+      "nimkko6",
+      {
+        "neg": 0.225,
+        "neu": 0.355,
+        "pos": 0.42,
+        "compound": 0.5106
+      }
     ]
   ],
   "btc": [
@@ -40725,6 +40752,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nimkced",
+      {
+        "neg": 0.093,
+        "neu": 0.907,
+        "pos": 0.0,
+        "compound": -0.1901
+      }
+    ],
+    [
+      "nimkl2w",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3612
       }
     ]
   ],
@@ -46883,6 +46928,24 @@
         "neu": 0.807,
         "pos": 0.12,
         "compound": 0.7333
+      }
+    ],
+    [
+      "nimkgnj",
+      {
+        "neg": 0.078,
+        "neu": 0.805,
+        "pos": 0.117,
+        "compound": 0.6126
+      }
+    ],
+    [
+      "nimkkz0",
+      {
+        "neg": 0.0,
+        "neu": 0.753,
+        "pos": 0.247,
+        "compound": 0.7096
       }
     ]
   ],
@@ -58146,6 +58209,15 @@
         "neu": 0.818,
         "pos": 0.0,
         "compound": -0.25
+      }
+    ],
+    [
+      "nimkje8",
+      {
+        "neg": 0.0,
+        "neu": 0.761,
+        "pos": 0.239,
+        "compound": 0.5719
       }
     ]
   ],
@@ -83781,6 +83853,42 @@
         "pos": 0.061,
         "compound": -0.4019
       }
+    ],
+    [
+      "nimkbtg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nimkgyg",
+      {
+        "neg": 0.773,
+        "neu": 0.227,
+        "pos": 0.0,
+        "compound": -0.5267
+      }
+    ],
+    [
+      "nimkh5s",
+      {
+        "neg": 0.0,
+        "neu": 0.833,
+        "pos": 0.167,
+        "compound": 0.7003
+      }
+    ],
+    [
+      "nimkl2i",
+      {
+        "neg": 0.0,
+        "neu": 0.698,
+        "pos": 0.302,
+        "compound": 0.5994
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -94848,6 +94956,15 @@
         "pos": 0.129,
         "compound": 0.1935
       }
+    ],
+    [
+      "nimkcdh",
+      {
+        "neg": 0.072,
+        "neu": 0.811,
+        "pos": 0.117,
+        "compound": 0.0
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -103207,6 +103324,15 @@
     ],
     [
       "nilkhrp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nimkie8",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -119267,6 +119393,15 @@
         "neu": 0.649,
         "pos": 0.351,
         "compound": 0.4019
+      }
+    ],
+    [
+      "nimkjbl",
+      {
+        "neg": 0.05,
+        "neu": 0.819,
+        "pos": 0.13,
+        "compound": 0.5106
       }
     ]
   ],
