@@ -35990,6 +35990,42 @@
         "pos": 0.092,
         "compound": 0.9105
       }
+    ],
+    [
+      "ninwaxb",
+      {
+        "neg": 0.032,
+        "neu": 0.842,
+        "pos": 0.127,
+        "compound": 0.8456
+      }
+    ],
+    [
+      "ninwcmu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ninwenr",
+      {
+        "neg": 0.042,
+        "neu": 0.909,
+        "pos": 0.048,
+        "compound": 0.1372
+      }
+    ],
+    [
+      "ninwgvg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -47100,6 +47136,42 @@
         "pos": 0.247,
         "compound": 0.7096
       }
+    ],
+    [
+      "ninwcbr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ninwdph",
+      {
+        "neg": 0.034,
+        "neu": 0.867,
+        "pos": 0.1,
+        "compound": 0.8176
+      }
+    ],
+    [
+      "ninwetj",
+      {
+        "neg": 0.034,
+        "neu": 0.867,
+        "pos": 0.1,
+        "compound": 0.8176
+      }
+    ],
+    [
+      "ninwfnp",
+      {
+        "neg": 0.034,
+        "neu": 0.867,
+        "pos": 0.1,
+        "compound": 0.8176
+      }
     ]
   ],
   "ethereum": [
@@ -52267,6 +52339,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ninwg1k",
+      {
+        "neg": 0.105,
+        "neu": 0.895,
+        "pos": 0.0,
+        "compound": -0.4019
       }
     ]
   ],
@@ -87158,6 +87239,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ninwdnx",
+      {
+        "neg": 0.484,
+        "neu": 0.215,
+        "pos": 0.301,
+        "compound": -0.4019
+      }
     ]
   ],
   "memecoins": [
@@ -95216,6 +95306,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ninwcux",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ninwg2k",
+      {
+        "neg": 0.115,
+        "neu": 0.885,
+        "pos": 0.0,
+        "compound": -0.296
       }
     ]
   ],
@@ -103603,6 +103711,15 @@
     ],
     [
       "nimkie8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ninwg03",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -118590,6 +118707,24 @@
         "neu": 0.855,
         "pos": 0.119,
         "compound": 0.8399
+      }
+    ],
+    [
+      "ninwant",
+      {
+        "neg": 0.0,
+        "neu": 0.467,
+        "pos": 0.533,
+        "compound": 0.6908
+      }
+    ],
+    [
+      "ninwfz0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
