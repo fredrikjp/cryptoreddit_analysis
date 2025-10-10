@@ -36368,6 +36368,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nis8y89",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nis90za",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nis91fv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -41328,6 +41355,33 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.8
+      }
+    ],
+    [
+      "nis8y1t",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.226
+      }
+    ],
+    [
+      "nis90s5",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nis93bu",
+      {
+        "neg": 0.6,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -47649,6 +47703,24 @@
         "pos": 0.0,
         "compound": -0.0
       }
+    ],
+    [
+      "nis93md",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nis9436",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
     ]
   ],
   "ethereum": [
@@ -52842,6 +52914,33 @@
         "neg": 0.0,
         "neu": 1.0,
         "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nis8x3u",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": -0.153
+      }
+    ],
+    [
+      "nis97ld",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.65
+      }
+    ],
+    [
+      "nis98cs",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
         "compound": 0.0
       }
     ]
@@ -59010,6 +59109,24 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nis945h",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nis98vk",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.5
       }
     ]
   ],
@@ -85005,6 +85122,96 @@
         "pos": 0.2,
         "compound": 0.0
       }
+    ],
+    [
+      "nis8vqq",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.361
+      }
+    ],
+    [
+      "nis8w5w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nis8wg3",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.521
+      }
+    ],
+    [
+      "nis8yi5",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nis8zww",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nis917w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nis91z7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nis92nt",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nis92vd",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.55
+      }
+    ],
+    [
+      "nis97mz",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -110165,6 +110372,15 @@
         "pos": 0.4,
         "compound": 0.3
       }
+    ],
+    [
+      "nis96wf",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -119670,6 +119886,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nis91mp",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
       }
     ]
   ],
