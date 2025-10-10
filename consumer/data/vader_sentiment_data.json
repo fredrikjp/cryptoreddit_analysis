@@ -36251,6 +36251,51 @@
         "pos": 0.507,
         "compound": 0.7351
       }
+    ],
+    [
+      "nirco18",
+      {
+        "neg": 0.0,
+        "neu": 0.917,
+        "pos": 0.083,
+        "compound": 0.2263
+      }
+    ],
+    [
+      "nircrqt",
+      {
+        "neg": 0.0,
+        "neu": 0.435,
+        "pos": 0.565,
+        "compound": 0.8555
+      }
+    ],
+    [
+      "nircs0s",
+      {
+        "neg": 0.412,
+        "neu": 0.588,
+        "pos": 0.0,
+        "compound": -0.5423
+      }
+    ],
+    [
+      "nircu4j",
+      {
+        "neg": 0.154,
+        "neu": 0.549,
+        "pos": 0.297,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "nircv1m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -47495,6 +47540,42 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nirco2d",
+      {
+        "neg": 0.034,
+        "neu": 0.867,
+        "pos": 0.1,
+        "compound": 0.8176
+      }
+    ],
+    [
+      "nircozc",
+      {
+        "neg": 0.479,
+        "neu": 0.521,
+        "pos": 0.0,
+        "compound": -0.8105
+      }
+    ],
+    [
+      "nircp2k",
+      {
+        "neg": 0.0,
+        "neu": 0.764,
+        "pos": 0.236,
+        "compound": 0.8777
+      }
+    ],
+    [
+      "nircq6e",
+      {
+        "neg": 0.034,
+        "neu": 0.867,
+        "pos": 0.1,
+        "compound": 0.8176
       }
     ]
   ],
@@ -58830,6 +58911,24 @@
         "neu": 0.328,
         "pos": 0.305,
         "compound": -0.1458
+      }
+    ],
+    [
+      "nircrwf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nircvp7",
+      {
+        "neg": 0.0,
+        "neu": 0.32,
+        "pos": 0.68,
+        "compound": 0.8176
       }
     ]
   ],
@@ -84744,6 +84843,33 @@
         "pos": 0.0,
         "compound": -0.4767
       }
+    ],
+    [
+      "nirctj8",
+      {
+        "neg": 0.182,
+        "neu": 0.657,
+        "pos": 0.162,
+        "compound": -0.1027
+      }
+    ],
+    [
+      "nirctyx",
+      {
+        "neg": 0.0,
+        "neu": 0.946,
+        "pos": 0.054,
+        "compound": 0.5346
+      }
+    ],
+    [
+      "nircv3i",
+      {
+        "neg": 0.0,
+        "neu": 0.706,
+        "pos": 0.294,
+        "compound": 0.6106
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -87800,6 +87926,15 @@
     ],
     [
       "niqrbns",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nircr0w",
       {
         "neg": 0.0,
         "neu": 1.0,
