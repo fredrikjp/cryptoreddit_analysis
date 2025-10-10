@@ -36476,6 +36476,42 @@
         "pos": 0.083,
         "compound": -0.903
       }
+    ],
+    [
+      "nita4su",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nitad6l",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nitad9q",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nitad9x",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -53068,6 +53104,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nitacp2",
+      {
+        "neg": 0.12,
+        "neu": 0.72,
+        "pos": 0.16,
+        "compound": 0.5214
       }
     ]
   ],
@@ -85473,6 +85518,60 @@
         "pos": 0.0,
         "compound": -0.4019
       }
+    ],
+    [
+      "nita71b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nita7ap",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nita7pk",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nitad93",
+      {
+        "neg": 0.258,
+        "neu": 0.742,
+        "pos": 0.0,
+        "compound": -0.8439
+      }
+    ],
+    [
+      "nitadi9",
+      {
+        "neg": 0.137,
+        "neu": 0.863,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
+    ],
+    [
+      "nitaebr",
+      {
+        "neg": 0.16,
+        "neu": 0.84,
+        "pos": 0.0,
+        "compound": -0.4588
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -96738,6 +96837,24 @@
         "pos": 0.063,
         "compound": -0.2865
       }
+    ],
+    [
+      "nitaf2g",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nitafma",
+      {
+        "neg": 0.116,
+        "neu": 0.884,
+        "pos": 0.0,
+        "compound": -0.7306
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -106113,6 +106230,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nita6va",
+      {
+        "neg": 0.094,
+        "neu": 0.906,
+        "pos": 0.0,
+        "compound": -0.743
+      }
     ]
   ],
   "XRP": [
@@ -110713,6 +110839,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nitabxq",
+      {
+        "neg": 0.0,
+        "neu": 0.803,
+        "pos": 0.197,
+        "compound": 0.4019
       }
     ]
   ],
