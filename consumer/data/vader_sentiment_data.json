@@ -36800,6 +36800,114 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "niut3p7",
+      {
+        "neg": 0.706,
+        "neu": 0.294,
+        "pos": 0.0,
+        "compound": -0.34
+      }
+    ],
+    [
+      "niut484",
+      {
+        "neg": 0.297,
+        "neu": 0.703,
+        "pos": 0.0,
+        "compound": -0.6687
+      }
+    ],
+    [
+      "niut4f6",
+      {
+        "neg": 0.287,
+        "neu": 0.463,
+        "pos": 0.25,
+        "compound": -0.1027
+      }
+    ],
+    [
+      "niut6ds",
+      {
+        "neg": 0.0,
+        "neu": 0.64,
+        "pos": 0.36,
+        "compound": 0.7243
+      }
+    ],
+    [
+      "niut6fc",
+      {
+        "neg": 0.218,
+        "neu": 0.596,
+        "pos": 0.186,
+        "compound": -0.1088
+      }
+    ],
+    [
+      "niut72e",
+      {
+        "neg": 0.028,
+        "neu": 0.874,
+        "pos": 0.098,
+        "compound": 0.5286
+      }
+    ],
+    [
+      "niut96o",
+      {
+        "neg": 0.0,
+        "neu": 0.769,
+        "pos": 0.231,
+        "compound": 0.5434
+      }
+    ],
+    [
+      "niutach",
+      {
+        "neg": 0.676,
+        "neu": 0.0,
+        "pos": 0.324,
+        "compound": -0.5267
+      }
+    ],
+    [
+      "niutal3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niusqg1",
+      {
+        "neg": 0.277,
+        "neu": 0.547,
+        "pos": 0.176,
+        "compound": -0.5574
+      }
+    ],
+    [
+      "niutb0t",
+      {
+        "neg": 0.349,
+        "neu": 0.152,
+        "pos": 0.5,
+        "compound": 0.2481
+      }
+    ],
+    [
+      "niutclt",
+      {
+        "neg": 0.0,
+        "neu": 0.766,
+        "pos": 0.234,
+        "compound": 0.6096
+      }
     ]
   ],
   "btc": [
@@ -41818,6 +41926,24 @@
     ],
     [
       "niujijf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niutay9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niutctz",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -48161,6 +48287,51 @@
         "neu": 0.807,
         "pos": 0.12,
         "compound": 0.7333
+      }
+    ],
+    [
+      "niut552",
+      {
+        "neg": 0.098,
+        "neu": 0.902,
+        "pos": 0.0,
+        "compound": -0.2411
+      }
+    ],
+    [
+      "niut6ha",
+      {
+        "neg": 0.264,
+        "neu": 0.635,
+        "pos": 0.101,
+        "compound": -0.9598
+      }
+    ],
+    [
+      "niut7b4",
+      {
+        "neg": 0.271,
+        "neu": 0.467,
+        "pos": 0.262,
+        "compound": -0.0258
+      }
+    ],
+    [
+      "niutbbn",
+      {
+        "neg": 0.149,
+        "neu": 0.851,
+        "pos": 0.0,
+        "compound": -0.4215
+      }
+    ],
+    [
+      "niutdez",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -59811,6 +59982,51 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "niut50f",
+      {
+        "neg": 0.089,
+        "neu": 0.911,
+        "pos": 0.0,
+        "compound": -0.0191
+      }
+    ],
+    [
+      "niut51q",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niut69w",
+      {
+        "neg": 0.126,
+        "neu": 0.809,
+        "pos": 0.066,
+        "compound": -0.6486
+      }
+    ],
+    [
+      "niutb7w",
+      {
+        "neg": 0.0,
+        "neu": 0.548,
+        "pos": 0.452,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "niutbtd",
+      {
+        "neg": 0.228,
+        "neu": 0.772,
+        "pos": 0.0,
+        "compound": -0.7579
       }
     ]
   ],
@@ -86409,6 +86625,132 @@
         "pos": 0.134,
         "compound": 0.4184
       }
+    ],
+    [
+      "niut40a",
+      {
+        "neg": 0.151,
+        "neu": 0.849,
+        "pos": 0.0,
+        "compound": -0.8131
+      }
+    ],
+    [
+      "niut44e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niut49v",
+      {
+        "neg": 0.286,
+        "neu": 0.714,
+        "pos": 0.0,
+        "compound": -0.4939
+      }
+    ],
+    [
+      "niut4a0",
+      {
+        "neg": 0.0,
+        "neu": 0.762,
+        "pos": 0.238,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "niut4lf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niut515",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niut5fd",
+      {
+        "neg": 0.351,
+        "neu": 0.571,
+        "pos": 0.078,
+        "compound": -0.7717
+      }
+    ],
+    [
+      "niut77t",
+      {
+        "neg": 0.0,
+        "neu": 0.678,
+        "pos": 0.322,
+        "compound": 0.6408
+      }
+    ],
+    [
+      "niut9fz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niut9oz",
+      {
+        "neg": 0.04,
+        "neu": 0.776,
+        "pos": 0.185,
+        "compound": 0.6028
+      }
+    ],
+    [
+      "niutbty",
+      {
+        "neg": 0.04,
+        "neu": 0.576,
+        "pos": 0.384,
+        "compound": 0.8612
+      }
+    ],
+    [
+      "niutd5s",
+      {
+        "neg": 0.0,
+        "neu": 0.341,
+        "pos": 0.659,
+        "compound": 0.7003
+      }
+    ],
+    [
+      "niutds1",
+      {
+        "neg": 0.218,
+        "neu": 0.345,
+        "pos": 0.437,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "niutds3",
+      {
+        "neg": 0.0,
+        "neu": 0.77,
+        "pos": 0.23,
+        "compound": 0.4927
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -97755,6 +98097,15 @@
         "pos": 0.122,
         "compound": -0.4563
       }
+    ],
+    [
+      "niut40g",
+      {
+        "neg": 0.0,
+        "neu": 0.756,
+        "pos": 0.244,
+        "compound": 0.4404
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -99250,6 +99601,15 @@
         "neu": 0.699,
         "pos": 0.243,
         "compound": 0.6712
+      }
+    ],
+    [
+      "niutdle",
+      {
+        "neg": 0.339,
+        "neu": 0.577,
+        "pos": 0.085,
+        "compound": -0.7935
       }
     ]
   ],
@@ -111857,6 +112217,78 @@
         "pos": 0.076,
         "compound": 0.2617
       }
+    ],
+    [
+      "niut34e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niut3i0",
+      {
+        "neg": 0.186,
+        "neu": 0.716,
+        "pos": 0.098,
+        "compound": -0.4707
+      }
+    ],
+    [
+      "niut538",
+      {
+        "neg": 0.0,
+        "neu": 0.897,
+        "pos": 0.103,
+        "compound": 0.1531
+      }
+    ],
+    [
+      "niut5b6",
+      {
+        "neg": 0.384,
+        "neu": 0.496,
+        "pos": 0.12,
+        "compound": -0.7506
+      }
+    ],
+    [
+      "niut77x",
+      {
+        "neg": 0.0,
+        "neu": 0.684,
+        "pos": 0.316,
+        "compound": 0.7184
+      }
+    ],
+    [
+      "niut7w1",
+      {
+        "neg": 0.592,
+        "neu": 0.408,
+        "pos": 0.0,
+        "compound": -0.7003
+      }
+    ],
+    [
+      "niutbu6",
+      {
+        "neg": 0.231,
+        "neu": 0.769,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
+    ],
+    [
+      "niutcov",
+      {
+        "neg": 0.0,
+        "neu": 0.635,
+        "pos": 0.365,
+        "compound": 0.3182
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -121515,6 +121947,24 @@
         "neu": 0.398,
         "pos": 0.389,
         "compound": 0.3254
+      }
+    ],
+    [
+      "niut59m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niut9sj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
