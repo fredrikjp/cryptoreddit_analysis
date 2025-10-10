@@ -36431,6 +36431,51 @@
         "pos": 0.0,
         "compound": -0.3612
       }
+    ],
+    [
+      "nisxf7v",
+      {
+        "neg": 0.0,
+        "neu": 0.899,
+        "pos": 0.101,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "nisxkmw",
+      {
+        "neg": 0.115,
+        "neu": 0.885,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "nisxl5i",
+      {
+        "neg": 0.0,
+        "neu": 0.877,
+        "pos": 0.123,
+        "compound": 0.2755
+      }
+    ],
+    [
+      "nisxn38",
+      {
+        "neg": 0.053,
+        "neu": 0.947,
+        "pos": 0.0,
+        "compound": -0.2411
+      }
+    ],
+    [
+      "nisxnah",
+      {
+        "neg": 0.138,
+        "neu": 0.779,
+        "pos": 0.083,
+        "compound": -0.903
+      }
     ]
   ],
   "btc": [
@@ -53000,6 +53045,24 @@
     ],
     [
       "nisler0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nisxd8p",
+      {
+        "neg": 0.138,
+        "neu": 0.748,
+        "pos": 0.114,
+        "compound": -0.1531
+      }
+    ],
+    [
+      "nisxjsz",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -85320,6 +85383,96 @@
         "pos": 0.218,
         "compound": 0.8305
       }
+    ],
+    [
+      "nisxfwm",
+      {
+        "neg": 0.0,
+        "neu": 0.781,
+        "pos": 0.219,
+        "compound": 0.8316
+      }
+    ],
+    [
+      "nisxibh",
+      {
+        "neg": 0.149,
+        "neu": 0.747,
+        "pos": 0.104,
+        "compound": -0.2732
+      }
+    ],
+    [
+      "nisxk51",
+      {
+        "neg": 0.0,
+        "neu": 0.694,
+        "pos": 0.306,
+        "compound": 0.765
+      }
+    ],
+    [
+      "nisxl76",
+      {
+        "neg": 0.272,
+        "neu": 0.307,
+        "pos": 0.421,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "nisxlaq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nisxm59",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nisxmmz",
+      {
+        "neg": 0.0,
+        "neu": 0.931,
+        "pos": 0.069,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "nisxmt4",
+      {
+        "neg": 0.259,
+        "neu": 0.741,
+        "pos": 0.0,
+        "compound": -0.4215
+      }
+    ],
+    [
+      "nisxoxg",
+      {
+        "neg": 0.0,
+        "neu": 0.782,
+        "pos": 0.218,
+        "compound": 0.7714
+      }
+    ],
+    [
+      "nisxp86",
+      {
+        "neg": 0.574,
+        "neu": 0.426,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -93775,6 +93928,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nisxeiu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nisxg7f",
+      {
+        "neg": 0.0,
+        "neu": 0.635,
+        "pos": 0.365,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "nisxjru",
+      {
+        "neg": 0.0,
+        "neu": 0.593,
+        "pos": 0.407,
+        "compound": 0.6705
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -96539,6 +96719,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nisxlls",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nisxoza",
+      {
+        "neg": 0.121,
+        "neu": 0.816,
+        "pos": 0.063,
+        "compound": -0.2865
       }
     ]
   ],
@@ -104967,6 +105165,15 @@
         "neu": 0.853,
         "pos": 0.0,
         "compound": -0.6705
+      }
+    ],
+    [
+      "nisxgmn",
+      {
+        "neg": 0.06,
+        "neu": 0.824,
+        "pos": 0.116,
+        "compound": 0.6705
       }
     ]
   ],
@@ -120030,6 +120237,24 @@
         "neu": 0.819,
         "pos": 0.162,
         "compound": 0.9298
+      }
+    ],
+    [
+      "nisxg9g",
+      {
+        "neg": 0.02,
+        "neu": 0.853,
+        "pos": 0.127,
+        "compound": 0.8362
+      }
+    ],
+    [
+      "nisxn4b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
