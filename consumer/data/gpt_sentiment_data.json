@@ -36566,6 +36566,60 @@
         "pos": 0.1,
         "compound": -0.1
       }
+    ],
+    [
+      "niu8ktn",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.4
+      }
+    ],
+    [
+      "niu8m70",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": -0.4
+      }
+    ],
+    [
+      "niu8ns8",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "niu8ns4",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "niu8oji",
+      {
+        "neg": 0.3,
+        "neu": 0.2,
+        "pos": 0.5,
+        "compound": 0.3
+      }
+    ],
+    [
+      "niu8pgh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -59406,6 +59460,15 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "niu8prs",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -85698,6 +85761,69 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "niu8k7q",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "niu8k8y",
+      {
+        "neg": 0.03,
+        "neu": 0.06,
+        "pos": 0.010000000000000002,
+        "compound": -0.010000000000000002
+      }
+    ],
+    [
+      "niu8kf6",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "niu8kih",
+      {
+        "neg": 0.05,
+        "neu": 0.3,
+        "pos": 0.65,
+        "compound": 0.6
+      }
+    ],
+    [
+      "niu8mg5",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "niu8n0m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niu8nsj",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -94188,6 +94314,15 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.7
+      }
+    ],
+    [
+      "niu8lt0",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
