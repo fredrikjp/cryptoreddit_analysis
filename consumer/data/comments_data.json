@@ -20074,6 +20074,11 @@
       "niq2si6",
       "2025-10-10T05:07:10",
       "it's \"stack\", not stalk...\n\nwe should stack more bitcoins until we can use bitcoin at the local supermarkets."
+    ],
+    [
+      "niq9qvg",
+      "2025-10-10T06:09:43",
+      "Someone found a new block, fast. In the first seconds after a new block, the mining pool works on an empty block. It cannot use an older computed result, as the old blocks hash is included in the new header, (as are the transactions, via a combined hash). So if it finds the solution to an empty block it gets submitted, as you still get the coinbass transaction , the mining reward that gives out bitcoin."
     ]
   ],
   "btc": [
@@ -29190,6 +29195,16 @@
       "ninwg1k",
       "2025-10-09T21:06:54",
       "Your last paragraph is utterly incorrect. Crypto deposits to exchanges are NOT covered yet in the UK. If you're scammed you lose it all."
+    ],
+    [
+      "niq9jx1",
+      "2025-10-10T06:09:43",
+      "0.03593\n\nIt\u2019s a topsy turvy world"
+    ],
+    [
+      "niq9pk0",
+      "2025-10-10T06:09:43",
+      "**Tricky's Daily Doots #1,258**\n\n**Yesterday's Daily 08/10/2025**\n\n[Previous Daily Doots](https://old.reddit.com/r/ethereum/comments/1o11k99/daily_general_discussion_october_08_2025/nier4sl/)\n\n- u/Set1Less covers [the allegations of Binance's manipulation.](https://old.reddit.com/r/ethereum/comments/1o11k99/daily_general_discussion_october_08_2025/nidiobc/) \ud83d\udd36\n\n- u/wsb_degen_number9999 shares [an anecdote about his neighbour's crypto holdings.](https://old.reddit.com/r/ethereum/comments/1o11k99/daily_general_discussion_october_08_2025/nigcy60/) \ud83e\udd21\n\n- u/LogrisTheBard categorises [his IRL crypto interactions with outsiders.](https://old.reddit.com/r/ethereum/comments/1o11k99/daily_general_discussion_october_08_2025/nigg4un/) \ud83d\udcac"
     ]
   ],
   "dogecoin": [
@@ -53175,6 +53190,11 @@
       "nio7gpz",
       "2025-10-09T22:07:35",
       "Not sure what jurisdiction you're in, but moving your coins shouldn't involve any taxable events."
+    ],
+    [
+      "niq9r18",
+      "2025-10-10T06:09:43",
+      "They're not. The US market open dump is other tradfi associated players."
     ]
   ],
   "Pepecryptocurrency": [
@@ -57854,6 +57874,11 @@
       "nip6ok7",
       "2025-10-10T01:34:50",
       "Well see"
+    ],
+    [
+      "niq9ny8",
+      "2025-10-10T06:09:43",
+      "They will fail, they might get these regulations through but users will ignore them.\n Users will gravitate to Defi platforms without KYC or government meddling.\nIts as if they don't understand Defi at all."
     ]
   ],
   "sui": [
