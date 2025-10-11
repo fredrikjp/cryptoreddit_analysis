@@ -37043,6 +37043,42 @@
         "pos": 0.0,
         "compound": -0.3
       }
+    ],
+    [
+      "nivtyqn",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nivtzh5",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "nivtzn4",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nivu418",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -42102,6 +42138,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nivu2fm",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.3
       }
     ]
   ],
@@ -53816,6 +53861,15 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "nivtzuf",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "dogecoin": [
@@ -60297,6 +60351,15 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.6
+      }
+    ],
+    [
+      "nivu2vn",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
@@ -87354,6 +87417,24 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nivu1ii",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nivu39j",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -107254,6 +107335,42 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nivtyu6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nivu1w0",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nivu2wz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nivu32l",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
     ]
   ],
   "sui": [
@@ -113044,6 +113161,24 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.25
+      }
+    ],
+    [
+      "nivtzia",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nivu10l",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
       }
     ]
   ],
