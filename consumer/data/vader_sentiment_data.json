@@ -37556,6 +37556,69 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "niyinwi",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyipmb",
+      {
+        "neg": 0.844,
+        "neu": 0.156,
+        "pos": 0.0,
+        "compound": -0.6597
+      }
+    ],
+    [
+      "niyiqv4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyiucq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyiueb",
+      {
+        "neg": 0.0,
+        "neu": 0.739,
+        "pos": 0.261,
+        "compound": 0.5574
+      }
+    ],
+    [
+      "niyiv84",
+      {
+        "neg": 0.065,
+        "neu": 0.883,
+        "pos": 0.051,
+        "compound": -0.1739
+      }
+    ],
+    [
+      "niyivoa",
+      {
+        "neg": 0.167,
+        "neu": 0.833,
+        "pos": 0.0,
+        "compound": -0.0516
+      }
     ]
   ],
   "btc": [
@@ -61224,6 +61287,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "niyirgv",
+      {
+        "neg": 0.0,
+        "neu": 0.843,
+        "pos": 0.157,
+        "compound": 0.6808
       }
     ]
   ],
@@ -88965,6 +89037,114 @@
         "pos": 0.165,
         "compound": 0.6898
       }
+    ],
+    [
+      "niyipeg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyipsc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyir53",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyis7t",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyisb8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyitat",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyites",
+      {
+        "neg": 0.156,
+        "neu": 0.781,
+        "pos": 0.063,
+        "compound": -0.4767
+      }
+    ],
+    [
+      "niyiv56",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyiv8h",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niyiwy7",
+      {
+        "neg": 0.058,
+        "neu": 0.883,
+        "pos": 0.06,
+        "compound": 0.0129
+      }
+    ],
+    [
+      "niyixcg",
+      {
+        "neg": 0.091,
+        "neu": 0.83,
+        "pos": 0.079,
+        "compound": 0.024
+      }
+    ],
+    [
+      "niyizwt",
+      {
+        "neg": 0.109,
+        "neu": 0.841,
+        "pos": 0.05,
+        "compound": -0.3903
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -97501,6 +97681,15 @@
         "pos": 0.13,
         "compound": 0.5106
       }
+    ],
+    [
+      "niyiutf",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4215
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -100419,6 +100608,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "niyis4n",
+      {
+        "neg": 0.205,
+        "neu": 0.651,
+        "pos": 0.144,
+        "compound": -0.7603
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -101941,6 +102139,15 @@
         "neu": 0.742,
         "pos": 0.152,
         "compound": 0.296
+      }
+    ],
+    [
+      "niyitqb",
+      {
+        "neg": 0.304,
+        "neu": 0.696,
+        "pos": 0.0,
+        "compound": -0.5423
       }
     ]
   ],
@@ -115124,6 +115331,15 @@
         "pos": 0.293,
         "compound": 0.4567
       }
+    ],
+    [
+      "niyitcw",
+      {
+        "neg": 0.068,
+        "neu": 0.932,
+        "pos": 0.0,
+        "compound": -0.188
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -125052,6 +125268,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "niyiuzj",
+      {
+        "neg": 0.109,
+        "neu": 0.725,
+        "pos": 0.166,
+        "compound": 0.2247
       }
     ]
   ],
