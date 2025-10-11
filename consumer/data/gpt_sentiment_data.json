@@ -36944,6 +36944,42 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "nivfclw",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nivfda6",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nivfj0o",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nivfk4e",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -60144,6 +60180,24 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.8
+      }
+    ],
+    [
+      "nivfc5y",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nivfizc",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.7
       }
     ]
   ],
@@ -86976,6 +87030,141 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "nivfcgf",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nivfdik",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nivfdus",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nivfe50",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.15
+      }
+    ],
+    [
+      "nivfesi",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nivff39",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "nivffo1",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.35
+      }
+    ],
+    [
+      "nivfgr1",
+      {
+        "neg": 0.45,
+        "neu": 0.3,
+        "pos": 0.25,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nivfhqp",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.55
+      }
+    ],
+    [
+      "nivfi2n",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": 0.15
+      }
+    ],
+    [
+      "nivfieo",
+      {
+        "neg": 0.05,
+        "neu": 0.4,
+        "pos": 0.55,
+        "compound": 0.45
+      }
+    ],
+    [
+      "nivfits",
+      {
+        "neg": 0.1,
+        "neu": 0.2,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nivfkhl",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nivfkqv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nivfl17",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -95475,6 +95664,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "nivfhhf",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -106840,6 +107038,24 @@
         "pos": 0.15,
         "compound": 0.05
       }
+    ],
+    [
+      "nivfcqo",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nivfe7t",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -112558,6 +112774,69 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.2
+      }
+    ],
+    [
+      "nivfco3",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nivfdm2",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nivfdsy",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.0
+      }
+    ],
+    [
+      "nivffrq",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nivfj1r",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.35
+      }
+    ],
+    [
+      "nivfj7r",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.85
+      }
+    ],
+    [
+      "nivfjnq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -122280,6 +122559,42 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "nivfdev",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.85
+      }
+    ],
+    [
+      "nivffm3",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.45
+      }
+    ],
+    [
+      "nivfilw",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nivfk7u",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.3,
+        "compound": -0.1
       }
     ]
   ],
