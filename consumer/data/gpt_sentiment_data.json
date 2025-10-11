@@ -36908,6 +36908,42 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "niv48tz",
+      {
+        "neg": 0.95,
+        "neu": 0.04,
+        "pos": 0.01,
+        "compound": -0.93
+      }
+    ],
+    [
+      "niv49ol",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "niv4a53",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "niv4fvl",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "btc": [
@@ -48333,6 +48369,42 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "niv48wl",
+      {
+        "neg": 0.12,
+        "neu": 0.05,
+        "pos": 0.83,
+        "compound": 0.7
+      }
+    ],
+    [
+      "niv4c1m",
+      {
+        "neg": 0.1,
+        "neu": 0.2,
+        "pos": 0.7,
+        "compound": 0.5
+      }
+    ],
+    [
+      "niv4d94",
+      {
+        "neg": 0.1,
+        "neu": 0.85,
+        "pos": 0.05,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niv4hzk",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.7
+      }
     ]
   ],
   "ethereum": [
@@ -53617,6 +53689,15 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": -0.1
+      }
+    ],
+    [
+      "niv4ces",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -60027,6 +60108,42 @@
         "neu": 0.3,
         "pos": 0.5,
         "compound": 0.4
+      }
+    ],
+    [
+      "niv48vt",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.78
+      }
+    ],
+    [
+      "niv494f",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "niv4ao0",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "niv4d0c",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
@@ -86751,6 +86868,114 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "niv4av8",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "niv4ayt",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "niv4d0l",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "niv4d1w",
+      {
+        "neg": 0.05,
+        "neu": 0.6,
+        "pos": 0.35,
+        "compound": 0.3
+      }
+    ],
+    [
+      "niv4dsz",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "niv4eex",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niv4f5s",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "niv4fd4",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "niv4gkq",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.6
+      }
+    ],
+    [
+      "niv4ibw",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "niv4ic8",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "niv4icd",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -98106,6 +98331,24 @@
         "pos": 0.2,
         "compound": -0.6
       }
+    ],
+    [
+      "niv4b29",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "niv4cb3",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -99609,6 +99852,15 @@
         "neg": 0.3,
         "neu": 0.5,
         "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "niv4c0p",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
         "compound": 0.0
       }
     ]
@@ -106579,6 +106831,15 @@
         "pos": 0.7,
         "compound": 0.7
       }
+    ],
+    [
+      "niv4dxb",
+      {
+        "neg": 0.1,
+        "neu": 0.75,
+        "pos": 0.15,
+        "compound": 0.05
+      }
     ]
   ],
   "sui": [
@@ -112288,6 +112549,15 @@
         "neu": 0.5,
         "pos": 0.1,
         "compound": -0.3
+      }
+    ],
+    [
+      "niv49v2",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
       }
     ]
   ],
@@ -121965,6 +122235,51 @@
         "neu": 0.5,
         "pos": 0.2,
         "compound": -0.2
+      }
+    ],
+    [
+      "niv495b",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.35
+      }
+    ],
+    [
+      "niv49rp",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "niv4cpw",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "niv4bqj",
+      {
+        "neg": 0.25,
+        "neu": 0.65,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "niv4id7",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
