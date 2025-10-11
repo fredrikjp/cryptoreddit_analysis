@@ -36980,6 +36980,69 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nivnn8h",
+      {
+        "neg": 0.274,
+        "neu": 0.726,
+        "pos": 0.0,
+        "compound": -0.2235
+      }
+    ],
+    [
+      "nivnndk",
+      {
+        "neg": 0.365,
+        "neu": 0.449,
+        "pos": 0.186,
+        "compound": -0.6808
+      }
+    ],
+    [
+      "nivnnho",
+      {
+        "neg": 0.0,
+        "neu": 0.213,
+        "pos": 0.787,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "nivnrze",
+      {
+        "neg": 0.047,
+        "neu": 0.835,
+        "pos": 0.118,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "nivnt6q",
+      {
+        "neg": 0.0,
+        "neu": 0.674,
+        "pos": 0.326,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "nivntna",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nivnvlz",
+      {
+        "neg": 0.106,
+        "neu": 0.509,
+        "pos": 0.384,
+        "compound": 0.7184
+      }
     ]
   ],
   "btc": [
@@ -42021,6 +42084,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nivnqrr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nivnvq5",
+      {
+        "neg": 0.0,
+        "neu": 0.745,
+        "pos": 0.255,
+        "compound": 0.34
       }
     ]
   ],
@@ -60198,6 +60279,24 @@
         "neu": 0.803,
         "pos": 0.197,
         "compound": 0.4019
+      }
+    ],
+    [
+      "nivnpgg",
+      {
+        "neg": 0.0,
+        "neu": 0.844,
+        "pos": 0.156,
+        "compound": 0.34
+      }
+    ],
+    [
+      "nivnv8j",
+      {
+        "neg": 0.0,
+        "neu": 0.58,
+        "pos": 0.42,
+        "compound": 0.7003
       }
     ]
   ],
@@ -87165,6 +87264,96 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nivnn7d",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.4767
+      }
+    ],
+    [
+      "nivnnz1",
+      {
+        "neg": 0.193,
+        "neu": 0.807,
+        "pos": 0.0,
+        "compound": -0.7717
+      }
+    ],
+    [
+      "nivnord",
+      {
+        "neg": 0.0,
+        "neu": 0.718,
+        "pos": 0.282,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "nivnqxk",
+      {
+        "neg": 0.152,
+        "neu": 0.666,
+        "pos": 0.182,
+        "compound": 0.2091
+      }
+    ],
+    [
+      "nivnr1j",
+      {
+        "neg": 0.0,
+        "neu": 0.887,
+        "pos": 0.113,
+        "compound": 0.3724
+      }
+    ],
+    [
+      "nivnran",
+      {
+        "neg": 0.0,
+        "neu": 0.597,
+        "pos": 0.403,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "nivnsmw",
+      {
+        "neg": 0.0,
+        "neu": 0.823,
+        "pos": 0.177,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "nivnspu",
+      {
+        "neg": 0.0,
+        "neu": 0.77,
+        "pos": 0.23,
+        "compound": 0.6361
+      }
+    ],
+    [
+      "nivnt8z",
+      {
+        "neg": 0.0,
+        "neu": 0.509,
+        "pos": 0.491,
+        "compound": 0.4391
+      }
+    ],
+    [
+      "nivnv2h",
+      {
+        "neg": 0.142,
+        "neu": 0.811,
+        "pos": 0.048,
+        "compound": -0.501
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -107056,6 +107245,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nivnnmv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -112837,6 +113035,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nivnrza",
+      {
+        "neg": 0.155,
+        "neu": 0.845,
+        "pos": 0.0,
+        "compound": -0.296
       }
     ]
   ],
@@ -122595,6 +122802,24 @@
         "neu": 0.673,
         "pos": 0.075,
         "compound": -0.8966
+      }
+    ],
+    [
+      "nivnp2y",
+      {
+        "neg": 0.07,
+        "neu": 0.93,
+        "pos": 0.0,
+        "compound": -0.2732
+      }
+    ],
+    [
+      "nivntzd",
+      {
+        "neg": 0.15,
+        "neu": 0.824,
+        "pos": 0.026,
+        "compound": -0.7579
       }
     ]
   ],
