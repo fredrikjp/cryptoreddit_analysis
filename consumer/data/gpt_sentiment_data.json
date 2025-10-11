@@ -37754,6 +37754,42 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "nizgrp3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nizgvx2",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nizgxwv",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nizgy2x",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.3
+      }
     ]
   ],
   "btc": [
@@ -42948,6 +42984,15 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "nizh0at",
+      {
+        "neg": 0.0,
+        "neu": 0.48,
+        "pos": 0.12,
+        "compound": 0.06
       }
     ]
   ],
@@ -61512,6 +61557,15 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.4
+      }
+    ],
+    [
+      "nizgy16",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
       }
     ]
   ],
@@ -89604,6 +89658,33 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nizgqw4",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nizgtkv",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nizgwb1",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -101111,6 +101192,105 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.2
+      }
+    ],
+    [
+      "nizgrn5",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nizgsgo",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nizgt5s",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nizgu1e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nizgv4i",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nizgvvb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nizgwne",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nizgxfb",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nizgy7i",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nizgz0c",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.9
+      }
+    ],
+    [
+      "nizh01p",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
       }
     ]
   ],
@@ -115880,6 +116060,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nizgr6x",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nizgtgj",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -125817,6 +126015,33 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.7
+      }
+    ],
+    [
+      "nizgsw5",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nizgwmq",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nizgzko",
+      {
+        "neg": 0.45,
+        "neu": 0.05,
+        "pos": 0.0,
+        "compound": -0.4
       }
     ]
   ],
