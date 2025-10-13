@@ -21759,6 +21759,31 @@
       "njak7fo",
       "2025-10-13T16:08:13",
       "From reading further,  I now understand that this update allows all nodes running core 30 to propagate the large transactions across nodes, whereas before these transactions would\u2019ve been ignored by all standard core nodes.\n\nThe transactions are valid, but before core 30 you\u2019d have to run a custom version to have the transaction included in a block.\n\nSo really it\u2019s just making large transaction containing extra data available to everyone, rather than only someone with the ability to mine the block themselves.  \n\nThis will inevitably increase transaction fees, right? \n\nLike I was fully supportive of not increasing block size back in 2017, because of the hard fork. \n\nNow I\u2019m seeing a pattern emerging from core that their aim is to increase base layer transaction fees\u2026 I\u2019m not saying that\u2019s a good or bad thing for the network, but if that\u2019s their goal perhaps they should just be upfront about it?"
+    ],
+    [
+      "njaw6gr",
+      "2025-10-13T17:05:40",
+      "Yep you're fine"
+    ],
+    [
+      "njaw72e",
+      "2025-10-13T17:05:40",
+      "Use a desktop browser. Find the \"advanced\" or \"pro\" version of these things. You're using a vending service that charges what they want, not an exchange, where the price is the point at which the last trade happened."
+    ],
+    [
+      "njawejp",
+      "2025-10-13T17:06:52",
+      "the image attached to that thread was promoting a website that shills a contentious hardfork coin"
+    ],
+    [
+      "njawhpu",
+      "2025-10-13T17:07:17",
+      "Your submission has been flagged for removal because it's a topic about reddit, rather than about Bitcoin itself. Please help keep /r/Bitcoin on topic. Thank you.\n\n^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions."
+    ],
+    [
+      "njawhzq",
+      "2025-10-13T17:07:17",
+      "Your submission has been flagged for removal because it is considered off topic for the Bitcoin subreddit.\n\n^^I ^^am ^^a ^^bot ^^and ^^cannot ^^respond. ^^Please ^^contact ^^r/Bitcoin ^^moderators [^^directly ^^via ^^mod ^^mail](https://www.reddit.com/message/compose?to=%2Fr%2FBitcoin) ^^if ^^you ^^have ^^questions."
     ]
   ],
   "btc": [
@@ -51749,6 +51774,36 @@
       "njak94n",
       "2025-10-13T16:08:13",
       "This is the blind TDS rage I'm talking about. \ud83e\udd21"
+    ],
+    [
+      "njaw85b",
+      "2025-10-13T17:05:40",
+      "That doesn\u2019t make any sense. \n\nThey don\u2019t need to pretend. They\u2019re obviously not worried about legal repercussions. They\u2019re Trump insiders. Probably Baron himself."
+    ],
+    [
+      "njaw9kj",
+      "2025-10-13T17:06:52",
+      "I guess he could also impeached \ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f.  What other ways of him not being in office are there?"
+    ],
+    [
+      "njawgw8",
+      "2025-10-13T17:06:52",
+      "holy sh... I did not know about this."
+    ],
+    [
+      "njawh9x",
+      "2025-10-13T17:06:52",
+      "Totally why BTC went up +12% the first week of October, while Stocks went up sub-1%, right? No upside-potential exists.\n\n...Even though BTC still consistently outperforms the stock markets on every metric since its inception. OOPS."
+    ],
+    [
+      "njawi3o",
+      "2025-10-13T17:07:17",
+      ">Cardano has actually achieved all of its tech milestones.\n\nNo, it hasn't. Input Endorsers and Peras are still R&D.\n\n>None of it is enough to overcome slower, less efficiency, more expensive to use Ethereum.\n\n1. Ethereum is not slower than Cardano. Ethereum is faster both in terms of block time and finality.\n\n2. #1 is the same reason Ethereum is more efficient than Cardano.\n\n3. Ethereum has been cheaper than Cardano for most of the year. E.g. an ETH transfer has been as low as 1 cent compared to an ADA transfer that has been around 7 cents. DEX swaps have also been cheaper.\n\n(And keep in mind that this while Ethereum has been hitting ATHs in gas consumption\n\n).\n\n>First mover advantage is a tall mountain to overcome.\n\nYet newer chains have been doing better than Cardano in climbing the mountain."
+    ],
+    [
+      "njawkj2",
+      "2025-10-13T17:07:17",
+      "Not quite a full recovery on stocks.  Only about half-way.\n\nBut yeah something just seems off about crypto (including BTC) this whole year, whereas the narratives around it would have convinced anybody that 2025 was going to be a blockbuster.\n\nI think everything else is just a lot shinier and that's what the money is chasing, and the macro is still too far over on the \"risk-off\" side of the scale.  And that's probably going to continue into the near- and medium-term future."
     ]
   ],
   "SolanaMemeCoins": [
@@ -53561,6 +53616,11 @@
       "njak6ly",
       "2025-10-13T16:08:13",
       "im in arb since launch and its greatest community i been a part of"
+    ],
+    [
+      "njaw81k",
+      "2025-10-13T17:05:40",
+      "When view the chart, dont look at the moon shot for any advice, look at the bottom of the dumps. If the bottoms keep setting a higher low point, that means the diamond hand holders are accumulating."
     ]
   ],
   "memecoins": [
@@ -58325,6 +58385,11 @@
       "nizh01p",
       "2025-10-11T19:06:15",
       "Hello u/AccidentalArbitrage\n\n[You have](/message/messages/43o7p8i) **Shorted \u20bf891.71352027** ($100,000,000.00 worth of BTC at the execution price of $112,143.64)\n\nYou have chosen 100X leverage: You have borrowed $99,000,000.00 from the Bitty Bot Bank and spent $1,000,000.00 from your cash balance.\n\n**Liquidation Price: $113,265.08**\n\nStop Loss Price: $112,146.44 - Your cash loss will be $2,500.00 if your stop loss is triggered.\n\nYou have not set a take profit price.\n\nAfter opening this trade, your remaining cash balance is $3,519,231.13\n\nGood luck!"
+    ],
+    [
+      "njaw83w",
+      "2025-10-13T17:05:40",
+      "Gold still making ath\u2019s while btc struggles to reclaim its uptrend. How high will gold go this year? Monthly rsi is already at 91 the highest it\u2019s been in 50 years. Doesn\u2019t it have to correct at some point? I don\u2019t see btc making meaningful new ath\u2019s until gold starts coming down. Too much liquidity going into the stock market / precious metals. Especially after the recent liquidation event I feel like crypto as a whole lost a lot of credibility in the short term. Pretty much everyone except btc maxi\u2019s see btc as crypto and not a competitor to gold or equities. Downvote me all you want but btc\u2019s under performance this year caught me completely off guard & I missed a lot of other opportunities by being all in for the past year."
     ]
   ],
   "Pepecryptocurrency": [
@@ -59212,6 +59277,11 @@
       "nj9mynd",
       "2025-10-13T13:15:27",
       "It might not recover. Why would you invest in a token with already larde makert cap after all that happened? Memes are for people looking for easy money, lower market caps are better for it."
+    ],
+    [
+      "njaw9mu",
+      "2025-10-13T17:06:52",
+      "Get rid of this shitcoin Pepe is the only coin not recovering well lmao that shit still at 7 should have sold at the upper 23"
     ]
   ],
   "ethtrader": [
@@ -66813,6 +66883,11 @@
       "nj9w32x",
       "2025-10-13T14:07:43",
       "Most of the big ones handle XRP pairs, but if you\u2019re moving size or care about privacy/compliance, Houdini swap is worth checking"
+    ],
+    [
+      "njawhi6",
+      "2025-10-13T17:07:17",
+      "$70 by 2027"
     ]
   ],
   "CryptoMarkets": [
