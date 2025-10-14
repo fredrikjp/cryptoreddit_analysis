@@ -39401,6 +39401,42 @@
         "pos": 0.1,
         "compound": 0.05
       }
+    ],
+    [
+      "nje1d8r",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nje1e58",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nje1i0h",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nje1jv9",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "btc": [
@@ -64113,6 +64149,15 @@
         "neu": 0.4,
         "pos": 0.2,
         "compound": -0.3
+      }
+    ],
+    [
+      "nje1fs6",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
       }
     ]
   ],
@@ -107288,6 +107333,15 @@
         "pos": 1.0,
         "compound": 0.9
       }
+    ],
+    [
+      "nje1d68",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "ethtrader": [
@@ -114633,6 +114687,33 @@
         "neu": 0.4,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "nje1fyz",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nje1hho",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nje1hpc",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
@@ -131640,6 +131721,15 @@
         "neu": 0.5,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "nje1cuu",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
