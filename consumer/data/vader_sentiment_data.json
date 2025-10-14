@@ -39851,6 +39851,42 @@
         "pos": 0.333,
         "compound": 0.6705
       }
+    ],
+    [
+      "njijuy0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njijvmx",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "njijwrl",
+      {
+        "neg": 0.552,
+        "neu": 0.448,
+        "pos": 0.0,
+        "compound": -0.5719
+      }
+    ],
+    [
+      "njijzh2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -51995,6 +52031,24 @@
         "neu": 0.741,
         "pos": 0.178,
         "compound": 0.3818
+      }
+    ],
+    [
+      "njijueg",
+      {
+        "neg": 0.0,
+        "neu": 0.94,
+        "pos": 0.06,
+        "compound": 0.5574
+      }
+    ],
+    [
+      "njijv2a",
+      {
+        "neg": 0.073,
+        "neu": 0.807,
+        "pos": 0.12,
+        "compound": 0.7333
       }
     ]
   ],
@@ -94932,6 +94986,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "njik1s9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -103864,6 +103927,15 @@
         "pos": 0.06,
         "compound": 0.3182
       }
+    ],
+    [
+      "njik264",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -106934,6 +107006,15 @@
         "neu": 0.762,
         "pos": 0.238,
         "compound": 0.3612
+      }
+    ],
+    [
+      "njijtm0",
+      {
+        "neg": 0.08,
+        "neu": 0.758,
+        "pos": 0.162,
+        "compound": 0.8885
       }
     ]
   ],
@@ -133237,6 +133318,15 @@
     ],
     [
       "njhvq3j",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njijukf",
       {
         "neg": 0.0,
         "neu": 1.0,
