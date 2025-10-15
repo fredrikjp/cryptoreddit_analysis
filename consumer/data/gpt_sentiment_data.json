@@ -40220,6 +40220,87 @@
         "pos": 0.1,
         "compound": -0.2
       }
+    ],
+    [
+      "njn4v4f",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "njn4x9b",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.15
+      }
+    ],
+    [
+      "njn4y6b",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "njn4z4v",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "njn4zch",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "njn50c8",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.8
+      }
+    ],
+    [
+      "njn50ov",
+      {
+        "neg": 0.15,
+        "neu": 0.6,
+        "pos": 0.25,
+        "compound": 0.1
+      }
+    ],
+    [
+      "njn50sg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njn51gz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -45837,6 +45918,24 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "njn4xvx",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "njn54ug",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.5,
+        "compound": 0.2
       }
     ]
   ],
@@ -58064,6 +58163,24 @@
         "pos": 0.0,
         "compound": -0.4
       }
+    ],
+    [
+      "njn4y7l",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.2,
+        "compound": -0.6
+      }
+    ],
+    [
+      "njn53xc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -65436,6 +65553,15 @@
         "neu": 0.7,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "njn55py",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -95805,6 +95931,60 @@
         "pos": 0.5,
         "compound": 0.4
       }
+    ],
+    [
+      "njn4yhz",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "njn4zvs",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "njn51hx",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.1
+      }
+    ],
+    [
+      "njn532q",
+      {
+        "neg": 0.0,
+        "neu": 0.25,
+        "pos": 0.75,
+        "compound": 0.7
+      }
+    ],
+    [
+      "njn54m9",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "njn54q6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": -0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -104791,6 +104971,15 @@
         "pos": 0.4,
         "compound": 0.2
       }
+    ],
+    [
+      "njn4was",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -107888,6 +108077,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.3
+      }
+    ],
+    [
+      "njn4yie",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
@@ -134412,6 +134610,33 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.1
+      }
+    ],
+    [
+      "njn4w1n",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "njn4ypj",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njn50gb",
+      {
+        "neg": 0.81,
+        "neu": 0.045000000000000005,
+        "pos": 0.045000000000000005,
+        "compound": -0.765
       }
     ]
   ],
