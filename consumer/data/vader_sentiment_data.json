@@ -40103,6 +40103,123 @@
         "pos": 0.385,
         "compound": 0.3612
       }
+    ],
+    [
+      "njmsqdo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njmsqt3",
+      {
+        "neg": 0.108,
+        "neu": 0.892,
+        "pos": 0.0,
+        "compound": -0.5067
+      }
+    ],
+    [
+      "njmssaw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njmsug2",
+      {
+        "neg": 0.438,
+        "neu": 0.562,
+        "pos": 0.0,
+        "compound": -0.9509
+      }
+    ],
+    [
+      "njmsut1",
+      {
+        "neg": 0.0,
+        "neu": 0.913,
+        "pos": 0.087,
+        "compound": 0.2263
+      }
+    ],
+    [
+      "njmsw80",
+      {
+        "neg": 0.0,
+        "neu": 0.706,
+        "pos": 0.294,
+        "compound": 0.8402
+      }
+    ],
+    [
+      "njmswek",
+      {
+        "neg": 0.098,
+        "neu": 0.902,
+        "pos": 0.0,
+        "compound": -0.0516
+      }
+    ],
+    [
+      "njmsy4j",
+      {
+        "neg": 0.103,
+        "neu": 0.897,
+        "pos": 0.0,
+        "compound": -0.6597
+      }
+    ],
+    [
+      "njmsywa",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njmsziw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njmt09g",
+      {
+        "neg": 0.0,
+        "neu": 0.706,
+        "pos": 0.294,
+        "compound": 0.8402
+      }
+    ],
+    [
+      "njmt1my",
+      {
+        "neg": 0.0,
+        "neu": 0.706,
+        "pos": 0.294,
+        "compound": 0.8402
+      }
+    ],
+    [
+      "njmt1pz",
+      {
+        "neg": 0.0,
+        "neu": 0.575,
+        "pos": 0.425,
+        "compound": 0.5719
+      }
     ]
   ],
   "btc": [
@@ -45702,6 +45819,24 @@
         "neu": 0.803,
         "pos": 0.197,
         "compound": 0.4019
+      }
+    ],
+    [
+      "njmsqhj",
+      {
+        "neg": 0.0,
+        "neu": 0.922,
+        "pos": 0.078,
+        "compound": 0.296
+      }
+    ],
+    [
+      "njmst9r",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -57919,6 +58054,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "njmsvre",
+      {
+        "neg": 0.105,
+        "neu": 0.801,
+        "pos": 0.094,
+        "compound": -0.2147
       }
     ]
   ],
@@ -95616,6 +95760,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "njmstn9",
+      {
+        "neg": 0.0,
+        "neu": 0.816,
+        "pos": 0.184,
+        "compound": 0.4015
+      }
+    ],
+    [
+      "njmsty0",
+      {
+        "neg": 0.158,
+        "neu": 0.59,
+        "pos": 0.252,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "njmsu5g",
+      {
+        "neg": 0.0,
+        "neu": 0.797,
+        "pos": 0.203,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "njmsva4",
+      {
+        "neg": 0.0,
+        "neu": 0.149,
+        "pos": 0.851,
+        "compound": 0.6908
+      }
+    ],
+    [
+      "njmsz5a",
+      {
+        "neg": 0.226,
+        "neu": 0.774,
+        "pos": 0.0,
+        "compound": -0.7717
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -107690,6 +107879,15 @@
         "neu": 0.784,
         "pos": 0.216,
         "compound": 0.6705
+      }
+    ],
+    [
+      "njmt0ig",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -123350,6 +123548,15 @@
         "pos": 0.0,
         "compound": -0.6908
       }
+    ],
+    [
+      "njmssth",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -134182,6 +134389,24 @@
     ],
     [
       "njmh36s",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njmsu25",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "njmsukk",
       {
         "neg": 0.0,
         "neu": 1.0,
