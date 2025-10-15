@@ -96390,6 +96390,33 @@
         "pos": 0.0,
         "compound": -0.2263
       }
+    ],
+    [
+      "njohg64",
+      {
+        "neg": 0.241,
+        "neu": 0.759,
+        "pos": 0.0,
+        "compound": -0.5423
+      }
+    ],
+    [
+      "njohgd3",
+      {
+        "neg": 0.061,
+        "neu": 0.866,
+        "pos": 0.073,
+        "compound": 0.296
+      }
+    ],
+    [
+      "njohi74",
+      {
+        "neg": 0.306,
+        "neu": 0.694,
+        "pos": 0.0,
+        "compound": -0.4753
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -135127,6 +135154,24 @@
     ],
     [
       "njnu0em",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njohfu3",
+      {
+        "neg": 0.0,
+        "neu": 0.256,
+        "pos": 0.744,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "njohhgx",
       {
         "neg": 0.0,
         "neu": 1.0,
