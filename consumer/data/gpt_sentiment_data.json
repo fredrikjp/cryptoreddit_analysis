@@ -96417,6 +96417,42 @@
         "pos": 0.1,
         "compound": -0.5
       }
+    ],
+    [
+      "njosyzs",
+      {
+        "neg": 0.57,
+        "neu": 0.31,
+        "pos": 0.66,
+        "compound": 0.22
+      }
+    ],
+    [
+      "njoszl2",
+      {
+        "neg": 0.75,
+        "neu": 0.16,
+        "pos": 0.1,
+        "compound": -0.55
+      }
+    ],
+    [
+      "njot089",
+      {
+        "neg": 0.05,
+        "neu": 0.15,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "njot0pj",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.25
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -135177,6 +135213,15 @@
         "neu": 0.5,
         "pos": 0.1,
         "compound": -0.3
+      }
+    ],
+    [
+      "njot2n2",
+      {
+        "neg": 0.05,
+        "neu": 0.1,
+        "pos": 0.85,
+        "compound": 0.75
       }
     ]
   ],
