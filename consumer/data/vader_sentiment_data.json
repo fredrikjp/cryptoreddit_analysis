@@ -40364,6 +40364,60 @@
         "pos": 0.167,
         "compound": 0.34
       }
+    ],
+    [
+      "njntqjx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njntthm",
+      {
+        "neg": 0.064,
+        "neu": 0.858,
+        "pos": 0.078,
+        "compound": 0.137
+      }
+    ],
+    [
+      "njnttyo",
+      {
+        "neg": 0.09,
+        "neu": 0.764,
+        "pos": 0.145,
+        "compound": 0.1501
+      }
+    ],
+    [
+      "njntwvg",
+      {
+        "neg": 0.093,
+        "neu": 0.793,
+        "pos": 0.113,
+        "compound": -0.0777
+      }
+    ],
+    [
+      "njntxei",
+      {
+        "neg": 0.163,
+        "neu": 0.745,
+        "pos": 0.092,
+        "compound": -0.8214
+      }
+    ],
+    [
+      "njntz9v",
+      {
+        "neg": 0.022,
+        "neu": 0.924,
+        "pos": 0.054,
+        "compound": 0.3054
+      }
     ]
   ],
   "btc": [
@@ -46035,6 +46089,24 @@
         "neu": 0.712,
         "pos": 0.152,
         "compound": -0.0387
+      }
+    ],
+    [
+      "njntzjm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njntzld",
+      {
+        "neg": 0.077,
+        "neu": 0.842,
+        "pos": 0.081,
+        "compound": 0.0529
       }
     ]
   ],
@@ -96147,6 +96219,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "njntyj7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njnu058",
+      {
+        "neg": 0.059,
+        "neu": 0.895,
+        "pos": 0.046,
+        "compound": -0.1779
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -123935,6 +124025,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "njntxr1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -134817,6 +134916,42 @@
         "neu": 0.728,
         "pos": 0.101,
         "compound": -0.9916
+      }
+    ],
+    [
+      "njntnni",
+      {
+        "neg": 0.052,
+        "neu": 0.825,
+        "pos": 0.123,
+        "compound": 0.376
+      }
+    ],
+    [
+      "njntq8l",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.25
+      }
+    ],
+    [
+      "njntyfu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njnu0em",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
