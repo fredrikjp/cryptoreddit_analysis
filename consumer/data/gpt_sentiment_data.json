@@ -40625,6 +40625,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "njqju86",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njqjwj8",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -135613,6 +135631,33 @@
     ],
     [
       "njprb53",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njqjsji",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njqjxjt",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.7,
+        "compound": 0.5
+      }
+    ],
+    [
+      "njqjxtc",
       {
         "neg": 0.0,
         "neu": 1.0,
