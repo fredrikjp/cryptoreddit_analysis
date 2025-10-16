@@ -40877,6 +40877,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "njtecpz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njtejzs",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njten1e",
+      {
+        "neg": 0.0,
+        "neu": 0.567,
+        "pos": 0.433,
+        "compound": 0.7269
+      }
+    ],
+    [
+      "njtenpa",
+      {
+        "neg": 0.0,
+        "neu": 0.58,
+        "pos": 0.42,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "njteou5",
+      {
+        "neg": 0.226,
+        "neu": 0.513,
+        "pos": 0.262,
+        "compound": 0.1779
+      }
     ]
   ],
   "btc": [
@@ -46656,6 +46701,24 @@
         "neu": 0.665,
         "pos": 0.335,
         "compound": 0.5473
+      }
+    ],
+    [
+      "njtepjq",
+      {
+        "neg": 0.092,
+        "neu": 0.683,
+        "pos": 0.225,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "njtepzh",
+      {
+        "neg": 0.531,
+        "neu": 0.469,
+        "pos": 0.0,
+        "compound": -0.9287
       }
     ]
   ],
@@ -97344,6 +97407,96 @@
         "pos": 0.132,
         "compound": 0.8047
       }
+    ],
+    [
+      "njtecnb",
+      {
+        "neg": 0.22,
+        "neu": 0.78,
+        "pos": 0.0,
+        "compound": -0.4767
+      }
+    ],
+    [
+      "njtedge",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njtehga",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njteiw2",
+      {
+        "neg": 0.047,
+        "neu": 0.658,
+        "pos": 0.295,
+        "compound": 0.836
+      }
+    ],
+    [
+      "njtel6j",
+      {
+        "neg": 0.0,
+        "neu": 0.709,
+        "pos": 0.291,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "njtenbu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njtenn5",
+      {
+        "neg": 0.093,
+        "neu": 0.907,
+        "pos": 0.0,
+        "compound": -0.1877
+      }
+    ],
+    [
+      "njtenym",
+      {
+        "neg": 0.118,
+        "neu": 0.882,
+        "pos": 0.0,
+        "compound": -0.1531
+      }
+    ],
+    [
+      "njteowy",
+      {
+        "neg": 0.0,
+        "neu": 0.723,
+        "pos": 0.277,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "njteq34",
+      {
+        "neg": 0.0,
+        "neu": 0.814,
+        "pos": 0.186,
+        "compound": 0.6705
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -118783,6 +118936,15 @@
         "pos": 0.064,
         "compound": 0.0258
       }
+    ],
+    [
+      "njtelnh",
+      {
+        "neg": 0.0,
+        "neu": 0.588,
+        "pos": 0.412,
+        "compound": 0.4215
+      }
     ]
   ],
   "sui": [
@@ -125410,6 +125572,15 @@
         "neu": 0.755,
         "pos": 0.245,
         "compound": 0.3818
+      }
+    ],
+    [
+      "njtedvr",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4215
       }
     ]
   ],
@@ -136500,6 +136671,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "njtee7j",
+      {
+        "neg": 0.169,
+        "neu": 0.685,
+        "pos": 0.146,
+        "compound": -0.3291
       }
     ]
   ],
