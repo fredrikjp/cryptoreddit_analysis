@@ -40841,6 +40841,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "njsql8c",
+      {
+        "neg": 0.0,
+        "neu": 0.485,
+        "pos": 0.515,
+        "compound": 0.8176
+      }
+    ],
+    [
+      "njsqq10",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -46566,6 +46584,33 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "njsqi21",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njsqmcj",
+      {
+        "neg": 0.0,
+        "neu": 0.66,
+        "pos": 0.34,
+        "compound": 0.4754
+      }
+    ],
+    [
+      "njsqo5h",
+      {
+        "neg": 0.301,
+        "neu": 0.354,
+        "pos": 0.345,
+        "compound": 0.128
       }
     ]
   ],
@@ -97173,6 +97218,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "njsqhwz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njsqi4g",
+      {
+        "neg": 0.429,
+        "neu": 0.571,
+        "pos": 0.0,
+        "compound": -0.4588
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -106222,6 +106285,15 @@
         "pos": 0.074,
         "compound": -0.1531
       }
+    ],
+    [
+      "njsql2e",
+      {
+        "neg": 0.016,
+        "neu": 0.865,
+        "pos": 0.119,
+        "compound": 0.7912
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -109346,6 +109418,15 @@
         "neu": 0.854,
         "pos": 0.146,
         "compound": 0.8997
+      }
+    ],
+    [
+      "njsqhpk",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -136270,6 +136351,15 @@
     ],
     [
       "njs6rvd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njsqhwn",
       {
         "neg": 0.0,
         "neu": 1.0,
