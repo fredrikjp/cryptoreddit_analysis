@@ -41741,6 +41741,69 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "njyacss",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njyael6",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "njyafvu",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.5
+      }
+    ],
+    [
+      "njyagah",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "njyahlf",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.05,
+        "compound": 0.1
+      }
+    ],
+    [
+      "njyak9t",
+      {
+        "neg": 0.05,
+        "neu": 0.85,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "njyakhu",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.3
+      }
     ]
   ],
   "btc": [
@@ -54362,6 +54425,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "njyaiit",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.8
       }
     ]
   ],
@@ -67551,6 +67623,33 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.3
+      }
+    ],
+    [
+      "njyad45",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.196
+      }
+    ],
+    [
+      "njyaj96",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.0
+      }
+    ],
+    [
+      "njyajoy",
+      {
+        "neg": 0.9,
+        "neu": 0.05,
+        "pos": 0.05,
+        "compound": -0.85
       }
     ]
   ],
@@ -99162,6 +99261,78 @@
         "pos": 0.0,
         "compound": -0.3
       }
+    ],
+    [
+      "njyady5",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "njyae54",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.361
+      }
+    ],
+    [
+      "njyaefg",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "njyaer4",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.3
+      }
+    ],
+    [
+      "njyaff2",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "njyafw3",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
+    ],
+    [
+      "njyag6i",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "njyahle",
+      {
+        "neg": 0.45,
+        "neu": 0.5,
+        "pos": 0.05,
+        "compound": -0.4
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -122007,6 +122178,15 @@
         "pos": 1.0,
         "compound": 0.8
       }
+    ],
+    [
+      "njyagj2",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
+      }
     ]
   ],
   "XRP": [
@@ -127606,6 +127786,42 @@
         "neu": 0.6,
         "pos": 0.0,
         "compound": -0.3
+      }
+    ],
+    [
+      "njyaecw",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.812
+      }
+    ],
+    [
+      "njyaghx",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "njyagdt",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.2
+      }
+    ],
+    [
+      "njyah8j",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.05,
+        "compound": 0.0
       }
     ]
   ],
@@ -139011,6 +139227,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "njyaefb",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
