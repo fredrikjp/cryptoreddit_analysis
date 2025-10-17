@@ -41966,6 +41966,87 @@
         "pos": 0.549,
         "compound": 0.743
       }
+    ],
+    [
+      "njzrhi1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njzrlmf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njzrmi5",
+      {
+        "neg": 0.366,
+        "neu": 0.589,
+        "pos": 0.045,
+        "compound": -0.9019
+      }
+    ],
+    [
+      "njzrn6v",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njzro27",
+      {
+        "neg": 0.06,
+        "neu": 0.863,
+        "pos": 0.076,
+        "compound": 0.1423
+      }
+    ],
+    [
+      "njzrsd2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njzrsiy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njzrtgk",
+      {
+        "neg": 0.165,
+        "neu": 0.835,
+        "pos": 0.0,
+        "compound": -0.3736
+      }
+    ],
+    [
+      "njzru92",
+      {
+        "neg": 0.425,
+        "neu": 0.274,
+        "pos": 0.301,
+        "compound": -0.2263
+      }
     ]
   ],
   "btc": [
@@ -54651,6 +54732,24 @@
         "pos": 0.0,
         "compound": -0.8344
       }
+    ],
+    [
+      "njzrhmm",
+      {
+        "neg": 0.073,
+        "neu": 0.807,
+        "pos": 0.12,
+        "compound": 0.7333
+      }
+    ],
+    [
+      "njzrufz",
+      {
+        "neg": 0.0,
+        "neu": 0.849,
+        "pos": 0.151,
+        "compound": 0.4404
+      }
     ]
   ],
   "ethereum": [
@@ -60340,6 +60439,24 @@
         "neu": 0.769,
         "pos": 0.0,
         "compound": -0.6369
+      }
+    ],
+    [
+      "njzrojw",
+      {
+        "neg": 0.223,
+        "neu": 0.777,
+        "pos": 0.0,
+        "compound": -0.6808
+      }
+    ],
+    [
+      "njzrqpc",
+      {
+        "neg": 0.052,
+        "neu": 0.838,
+        "pos": 0.11,
+        "compound": 0.4767
       }
     ]
   ],
@@ -67920,6 +68037,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "njzrkr5",
+      {
+        "neg": 0.0,
+        "neu": 0.874,
+        "pos": 0.126,
+        "compound": 0.0772
       }
     ]
   ],
@@ -99783,6 +99909,60 @@
         "pos": 0.0,
         "compound": -0.3182
       }
+    ],
+    [
+      "njzrj43",
+      {
+        "neg": 0.095,
+        "neu": 0.905,
+        "pos": 0.0,
+        "compound": -0.5574
+      }
+    ],
+    [
+      "njzrk3v",
+      {
+        "neg": 0.505,
+        "neu": 0.495,
+        "pos": 0.0,
+        "compound": -0.6249
+      }
+    ],
+    [
+      "njzrk83",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "njzrpx9",
+      {
+        "neg": 0.0,
+        "neu": 0.957,
+        "pos": 0.043,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "njzrrev",
+      {
+        "neg": 0.062,
+        "neu": 0.938,
+        "pos": 0.0,
+        "compound": -0.3252
+      }
+    ],
+    [
+      "njzrs20",
+      {
+        "neg": 0.068,
+        "neu": 0.932,
+        "pos": 0.0,
+        "compound": -0.5165
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -112272,6 +112452,15 @@
         "pos": 0.139,
         "compound": 0.6258
       }
+    ],
+    [
+      "njzrizf",
+      {
+        "neg": 0.0,
+        "neu": 0.426,
+        "pos": 0.574,
+        "compound": 0.6588
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -121546,6 +121735,15 @@
         "pos": 0.076,
         "compound": -0.7717
       }
+    ],
+    [
+      "njzrpzd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -128434,6 +128632,24 @@
         "neu": 0.928,
         "pos": 0.072,
         "compound": 0.6124
+      }
+    ],
+    [
+      "njzrhem",
+      {
+        "neg": 0.046,
+        "neu": 0.551,
+        "pos": 0.403,
+        "compound": 0.8565
+      }
+    ],
+    [
+      "njzrkyl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -139866,6 +140082,15 @@
         "neu": 0.617,
         "pos": 0.0,
         "compound": -0.4767
+      }
+    ],
+    [
+      "njzritn",
+      {
+        "neg": 0.064,
+        "neu": 0.936,
+        "pos": 0.0,
+        "compound": -0.296
       }
     ]
   ],
