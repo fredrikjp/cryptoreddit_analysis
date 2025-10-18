@@ -42767,6 +42767,24 @@
         "pos": 0.2,
         "compound": -0.4
       }
+    ],
+    [
+      "nk5fzp9",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nk5g70n",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -48789,6 +48807,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nk5g48c",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nk5g6l1",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -101160,6 +101196,33 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "nk5g48r",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nk5g4va",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nk5g6ug",
+      {
+        "neg": 0.5,
+        "neu": 0.3,
+        "pos": 0.2,
+        "compound": -0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -113773,6 +113836,15 @@
         "neg": 0.2,
         "neu": 0.5,
         "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nk5g6y1",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
         "compound": 0.1
       }
     ]
@@ -130118,6 +130190,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nk5g6vw",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.3,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -141729,6 +141810,15 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "nk5g3zu",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
       }
     ]
   ],
