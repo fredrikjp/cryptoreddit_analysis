@@ -42974,6 +42974,69 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nk7lzrm",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.25
+      }
+    ],
+    [
+      "nk7m1kg",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nk7m5to",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nk7m5x0",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nk7m61h",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nk7m7rc",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nk7m7so",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.15
+      }
     ]
   ],
   "btc": [
@@ -69279,6 +69342,24 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nk7m0us",
+      {
+        "neg": 0.6,
+        "neu": 0.1,
+        "pos": 0.3,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nk7m7sp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -101511,6 +101592,15 @@
         "pos": 0.9,
         "compound": 0.7
       }
+    ],
+    [
+      "nk7m6te",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -105047,6 +105137,15 @@
       {
         "neg": 0.0,
         "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nk7m2xk",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -142314,6 +142413,42 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.5
+      }
+    ],
+    [
+      "nk7m379",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nk7m4fi",
+      {
+        "neg": 0.65,
+        "neu": 0.25,
+        "pos": 0.1,
+        "compound": -0.55
+      }
+    ],
+    [
+      "nk7m6uf",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nk7m6vt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
