@@ -44180,6 +44180,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nklglx7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nklgnpc",
+      {
+        "neg": 0.054,
+        "neu": 0.774,
+        "pos": 0.172,
+        "compound": 0.6705
+      }
+    ],
+    [
+      "nklgp5m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -104021,6 +104048,24 @@
         "neu": 0.843,
         "pos": 0.031,
         "compound": -0.8442
+      }
+    ],
+    [
+      "nklgo6m",
+      {
+        "neg": 0.0,
+        "neu": 0.481,
+        "pos": 0.519,
+        "compound": 0.6597
+      }
+    ],
+    [
+      "nklgozi",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
