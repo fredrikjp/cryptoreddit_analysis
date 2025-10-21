@@ -70900,6 +70900,24 @@
         "pos": 0.4,
         "compound": 0.4
       }
+    ],
+    [
+      "nkky60p",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nkkyaju",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -126325,6 +126343,15 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "nkky52w",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
     ]
   ],
   "sui": [
@@ -133492,6 +133519,15 @@
         "neu": 0.4,
         "pos": 0.5,
         "compound": 0.3
+      }
+    ],
+    [
+      "nkky7mp",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -145500,6 +145536,15 @@
         "neu": 0.3,
         "pos": 0.05,
         "compound": -0.65
+      }
+    ],
+    [
+      "nkkyawq",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.3
       }
     ]
   ],
