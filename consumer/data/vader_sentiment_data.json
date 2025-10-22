@@ -44855,6 +44855,42 @@
         "pos": 0.325,
         "compound": 0.6486
       }
+    ],
+    [
+      "nktug0w",
+      {
+        "neg": 0.273,
+        "neu": 0.727,
+        "pos": 0.0,
+        "compound": -0.128
+      }
+    ],
+    [
+      "nktugwx",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "nktujfr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nktukoq",
+      {
+        "neg": 0.28,
+        "neu": 0.72,
+        "pos": 0.0,
+        "compound": -0.3252
+      }
     ]
   ],
   "btc": [
@@ -105749,6 +105785,60 @@
         "neu": 0.835,
         "pos": 0.135,
         "compound": 0.9687
+      }
+    ],
+    [
+      "nktue2h",
+      {
+        "neg": 0.073,
+        "neu": 0.82,
+        "pos": 0.106,
+        "compound": 0.0258
+      }
+    ],
+    [
+      "nktugqd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nktui48",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nktujz9",
+      {
+        "neg": 0.098,
+        "neu": 0.902,
+        "pos": 0.0,
+        "compound": -0.5574
+      }
+    ],
+    [
+      "nktukby",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nktukui",
+      {
+        "neg": 0.119,
+        "neu": 0.832,
+        "pos": 0.049,
+        "compound": -0.431
       }
     ]
   ],
