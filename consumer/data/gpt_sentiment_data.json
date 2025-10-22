@@ -44810,6 +44810,33 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nkt5idt",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nkt5if7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkt5n9v",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -105605,6 +105632,69 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.2
+      }
+    ],
+    [
+      "nkt5dl0",
+      {
+        "neg": 0.8,
+        "neu": 0.15,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nkt5d1n",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nkt5e9u",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nkt5f49",
+      {
+        "neg": 0.5,
+        "neu": 0.3,
+        "pos": 0.2,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nkt5fxp",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkt5la9",
+      {
+        "neg": 0.1,
+        "neu": 0.5,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nkt5pmg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
