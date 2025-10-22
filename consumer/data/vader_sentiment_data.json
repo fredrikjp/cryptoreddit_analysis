@@ -44909,6 +44909,60 @@
         "pos": 0.032,
         "compound": -0.69
       }
+    ],
+    [
+      "nkuunm4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkuunmr",
+      {
+        "neg": 0.04,
+        "neu": 0.95,
+        "pos": 0.01,
+        "compound": -0.6031
+      }
+    ],
+    [
+      "nkuupum",
+      {
+        "neg": 0.0,
+        "neu": 0.858,
+        "pos": 0.142,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "nkuuq0c",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkuux75",
+      {
+        "neg": 0.132,
+        "neu": 0.601,
+        "pos": 0.267,
+        "compound": 0.5233
+      }
+    ],
+    [
+      "nkuuyyz",
+      {
+        "neg": 0.119,
+        "neu": 0.505,
+        "pos": 0.376,
+        "compound": 0.6808
+      }
     ]
   ],
   "btc": [
@@ -58161,6 +58215,33 @@
         "pos": 0.209,
         "compound": 0.4019
       }
+    ],
+    [
+      "nkuuo2j",
+      {
+        "neg": 0.0,
+        "neu": 0.693,
+        "pos": 0.307,
+        "compound": 0.7964
+      }
+    ],
+    [
+      "nkuup6s",
+      {
+        "neg": 0.0,
+        "neu": 0.704,
+        "pos": 0.296,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "nkuuq7g",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -64030,6 +64111,15 @@
         "neu": 0.496,
         "pos": 0.0,
         "compound": -0.4717
+      }
+    ],
+    [
+      "nkuuvq0",
+      {
+        "neg": 0.0,
+        "neu": 0.932,
+        "pos": 0.068,
+        "compound": 0.0258
       }
     ]
   ],
@@ -106020,6 +106110,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nkuun3w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkuuo2w",
+      {
+        "neg": 0.064,
+        "neu": 0.79,
+        "pos": 0.146,
+        "compound": 0.3975
+      }
+    ],
+    [
+      "nkuuqs7",
+      {
+        "neg": 0.181,
+        "neu": 0.688,
+        "pos": 0.13,
+        "compound": -0.1027
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -135760,6 +135877,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nkuuv7s",
+      {
+        "neg": 0.13,
+        "neu": 0.87,
+        "pos": 0.0,
+        "compound": -0.5859
+      }
+    ],
+    [
+      "nkuuxg5",
+      {
+        "neg": 0.0,
+        "neu": 0.802,
+        "pos": 0.198,
+        "compound": 0.5719
       }
     ]
   ],
