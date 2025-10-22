@@ -44900,6 +44900,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nkujk70",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "btc": [
@@ -58143,6 +58152,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nkujkk2",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.1
+      }
     ]
   ],
   "ethereum": [
@@ -63994,6 +64012,24 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "nkujfo3",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nkujnxi",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
@@ -105912,6 +105948,78 @@
         "pos": 0.05,
         "compound": -0.1
       }
+    ],
+    [
+      "nkujbhd",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.75
+      }
+    ],
+    [
+      "nkujbvw",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nkujcj0",
+      {
+        "neg": 0.85,
+        "neu": 0.15,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "nkujcyl",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nkujcza",
+      {
+        "neg": 0.85,
+        "neu": 0.15,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nkujdn5",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkujh70",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkujjut",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -115455,6 +115563,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nkujn3i",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": 0.2
       }
     ]
   ],
@@ -128411,6 +128528,15 @@
         "neg": 0.2,
         "neu": 0.7,
         "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nkujjob",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
         "compound": -0.2
       }
     ]
@@ -147966,6 +148092,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.6
+      }
+    ],
+    [
+      "nkujjoi",
+      {
+        "neg": 0.2,
+        "neu": 0.3,
+        "pos": 0.5,
+        "compound": 0.5
       }
     ]
   ],
