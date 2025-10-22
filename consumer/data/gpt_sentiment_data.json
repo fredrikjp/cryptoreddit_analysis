@@ -71458,6 +71458,15 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "nkq1qxp",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.5
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -105029,6 +105038,24 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "nkq1kih",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nkq1qqw",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.1
       }
     ]
   ],
@@ -146805,6 +146832,24 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.2
+      }
+    ],
+    [
+      "nkq1k1u",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nkq1o8v",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
       }
     ]
   ],
