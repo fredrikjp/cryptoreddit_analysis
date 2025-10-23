@@ -45161,6 +45161,60 @@
         "pos": 0.9,
         "compound": 0.85
       }
+    ],
+    [
+      "nkyk26k",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nkyk4bg",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nkyk9fb",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nkyk9wr",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkykate",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nkykb6w",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
     ]
   ],
   "btc": [
@@ -51453,6 +51507,15 @@
         "neu": 0.25,
         "pos": 0.05,
         "compound": -0.6
+      }
+    ],
+    [
+      "nkyk140",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -58506,6 +58569,15 @@
     ],
     [
       "nkyadxf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkyk8s2",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -72294,6 +72366,24 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.5
+      }
+    ],
+    [
+      "nkyk9ee",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nkykc2g",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
@@ -106587,6 +106677,60 @@
         "pos": 0.3,
         "compound": -0.1
       }
+    ],
+    [
+      "nkyk3f1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkyk3xa",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkyk8na",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nkyk8wb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nkyk9tw",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.2,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nkykbb6",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -119579,6 +119723,24 @@
         "neu": 0.5,
         "pos": 0.0,
         "compound": -0.2
+      }
+    ],
+    [
+      "nkyk4e9",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nkyk4ve",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.1
       }
     ]
   ],
@@ -136418,6 +136580,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nkyk10e",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -148812,6 +148983,15 @@
         "neu": 0.5,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "nkyk7g3",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
