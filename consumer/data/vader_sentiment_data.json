@@ -46241,6 +46241,24 @@
         "pos": 0.0,
         "compound": -0.5413
       }
+    ],
+    [
+      "nlahih9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nlahk6m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -65804,6 +65822,15 @@
         "pos": 0.062,
         "compound": -0.9864
       }
+    ],
+    [
+      "nlahiqj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -73788,6 +73815,24 @@
         "neu": 0.916,
         "pos": 0.0,
         "compound": -0.296
+      }
+    ],
+    [
+      "nlahjjj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nlahk0u",
+      {
+        "neg": 0.0,
+        "neu": 0.768,
+        "pos": 0.232,
+        "compound": 0.8591
       }
     ]
   ],
