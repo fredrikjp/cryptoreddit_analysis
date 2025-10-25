@@ -46457,6 +46457,96 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "nlbv7iy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nlbv90n",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nlbv9lm",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nlbvaeh",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nlbvaxk",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nlbvbwr",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nlbvcjy",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nlbvd8m",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nlbvdnn",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nlbvfgm",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -60087,6 +60177,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nlbvbcp",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.05,
+        "compound": 0.05
+      }
     ]
   ],
   "ethereum": [
@@ -66081,6 +66180,24 @@
         "neg": 0.05,
         "neu": 0.4,
         "pos": 0.05,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nlbvbdr",
+      {
+        "neg": 0.6,
+        "neu": 0.35,
+        "pos": 0.05,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nlbvfkw",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
         "compound": 0.0
       }
     ]
@@ -74102,6 +74219,15 @@
         "neg": 0.0,
         "neu": 0.0,
         "pos": 1.0,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nlbve36",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
         "compound": 0.7
       }
     ]
@@ -124234,6 +124360,15 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": 0.0
+      }
+    ],
+    [
+      "nlbv77k",
+      {
+        "neg": 0.75,
+        "neu": 0.2,
+        "pos": 0.05,
+        "compound": -0.6
       }
     ]
   ],
