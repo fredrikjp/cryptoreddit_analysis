@@ -47510,6 +47510,78 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "nlm0ofo",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nlm0pit",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nlm0q4k",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.35
+      }
+    ],
+    [
+      "nlm0q4l",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.25
+      }
+    ],
+    [
+      "nlm0saq",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nlm0ssl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nlm0to3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nlm0tpy",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.15
+      }
     ]
   ],
   "btc": [
@@ -54045,6 +54117,15 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.7
+      }
+    ],
+    [
+      "nlm0s5y",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -61427,6 +61508,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "nlm0s1m",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.75
       }
     ]
   ],
@@ -111168,6 +111258,15 @@
         "pos": 0.4,
         "compound": 0.35
       }
+    ],
+    [
+      "nlm0ppj",
+      {
+        "neg": 0.8,
+        "neu": 0.0,
+        "pos": 0.2,
+        "compound": -0.7
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -134281,6 +134380,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nlm0ny2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nlm0onf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -154509,6 +154626,24 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.2
+      }
+    ],
+    [
+      "nlm0qry",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nlm0t4m",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
       }
     ]
   ],
