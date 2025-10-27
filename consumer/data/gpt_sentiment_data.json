@@ -47969,6 +47969,24 @@
         "pos": 0.4,
         "compound": 0.4
       }
+    ],
+    [
+      "nlqe0ag",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nlqe1z9",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "btc": [
@@ -61950,6 +61968,15 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "nlqdxsp",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
     ]
   ],
   "ethereum": [
@@ -68008,6 +68035,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.5
+      }
+    ],
+    [
+      "nlqdule",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
       }
     ]
   ],
@@ -111968,6 +112004,15 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.7
+      }
+    ],
+    [
+      "nlqe215",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
       }
     ]
   ],
