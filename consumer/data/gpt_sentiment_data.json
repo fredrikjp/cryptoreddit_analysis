@@ -48554,6 +48554,42 @@
         "pos": 1.0,
         "compound": 0.9
       }
+    ],
+    [
+      "nlvynpx",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nlvyq4b",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nlvyrby",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nlvyset",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "btc": [
@@ -62696,6 +62732,33 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "nlvym88",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nlvyna4",
+      {
+        "neg": 0.67,
+        "neu": 0.33,
+        "pos": 0.0,
+        "compound": -0.58
+      }
+    ],
+    [
+      "nlvyrz6",
+      {
+        "neg": 0.06,
+        "neu": 0.48,
+        "pos": 0.06,
+        "compound": 0.0
       }
     ]
   ],
@@ -113067,6 +113130,51 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nlvylwx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nlvype1",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nlvypp2",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.65
+      }
+    ],
+    [
+      "nlvyrsx",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nlvytd3",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -122988,6 +123096,15 @@
         "neu": 0.3,
         "pos": 0.9,
         "compound": 0.85
+      }
+    ],
+    [
+      "nlvyuhv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -136467,6 +136584,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.85
+      }
+    ],
+    [
+      "nlvyjfj",
+      {
+        "neg": 0.33,
+        "neu": 0.67,
+        "pos": 0.0,
+        "compound": -0.34
       }
     ]
   ],
@@ -156930,6 +157056,15 @@
         "neu": 0.0,
         "pos": 1.0,
         "compound": 0.6
+      }
+    ],
+    [
+      "nlvym8m",
+      {
+        "neg": 0.0,
+        "neu": 0.52,
+        "pos": 0.48,
+        "compound": 0.34
       }
     ]
   ],
