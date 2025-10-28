@@ -62121,6 +62121,15 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "nls8ogz",
+      {
+        "neg": 0.05,
+        "neu": 0.1,
+        "pos": 0.85,
+        "compound": 0.8
+      }
     ]
   ],
   "ethereum": [
@@ -112185,6 +112194,24 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "nls8l01",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nls8o73",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -125600,6 +125627,15 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.1
+      }
+    ],
+    [
+      "nls8ls3",
+      {
+        "neg": 0.7,
+        "neu": 0.25,
+        "pos": 0.05,
+        "compound": -0.6
       }
     ]
   ],
@@ -142942,6 +142978,15 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.1
+      }
+    ],
+    [
+      "nls8n7v",
+      {
+        "neg": 0.05,
+        "neu": 0.1,
+        "pos": 0.85,
+        "compound": 0.7
       }
     ]
   ],
