@@ -48203,6 +48203,96 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nltcfhz",
+      {
+        "neg": 0.227,
+        "neu": 0.629,
+        "pos": 0.144,
+        "compound": -0.5423
+      }
+    ],
+    [
+      "nltchgh",
+      {
+        "neg": 0.035,
+        "neu": 0.727,
+        "pos": 0.238,
+        "compound": 0.9337
+      }
+    ],
+    [
+      "nltci8n",
+      {
+        "neg": 0.044,
+        "neu": 0.817,
+        "pos": 0.139,
+        "compound": 0.9546
+      }
+    ],
+    [
+      "nltcinp",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "nltcivn",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nltcjfj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nltckd4",
+      {
+        "neg": 0.118,
+        "neu": 0.882,
+        "pos": 0.0,
+        "compound": -0.6597
+      }
+    ],
+    [
+      "nltclmb",
+      {
+        "neg": 0.121,
+        "neu": 0.879,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "nltcm2l",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nltcow9",
+      {
+        "neg": 0.079,
+        "neu": 0.886,
+        "pos": 0.035,
+        "compound": -0.34
+      }
     ]
   ],
   "btc": [
@@ -68350,6 +68440,15 @@
         "neu": 0.654,
         "pos": 0.062,
         "compound": -0.9864
+      }
+    ],
+    [
+      "nltciez",
+      {
+        "neg": 0.059,
+        "neu": 0.875,
+        "pos": 0.066,
+        "compound": 0.0516
       }
     ]
   ],
@@ -112419,6 +112518,33 @@
         "pos": 0.102,
         "compound": 0.8555
       }
+    ],
+    [
+      "nltchd3",
+      {
+        "neg": 0.102,
+        "neu": 0.795,
+        "pos": 0.104,
+        "compound": 0.0129
+      }
+    ],
+    [
+      "nltcj5u",
+      {
+        "neg": 0.173,
+        "neu": 0.761,
+        "pos": 0.066,
+        "compound": -0.4767
+      }
+    ],
+    [
+      "nltcppa",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -116195,6 +116321,15 @@
     ],
     [
       "nlslctm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nltcoxw",
       {
         "neg": 0.0,
         "neu": 1.0,
