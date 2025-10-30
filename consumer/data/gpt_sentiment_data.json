@@ -49823,6 +49823,42 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nm81ll4",
+      {
+        "neg": 0.21,
+        "neu": 0.48999999999999994,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nm81njv",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nm81nm0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nm81pin",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "btc": [
@@ -70321,6 +70357,15 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.7
+      }
+    ],
+    [
+      "nm81fdp",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.2
       }
     ]
   ],
@@ -115731,6 +115776,69 @@
         "pos": 0.0,
         "compound": -0.4
       }
+    ],
+    [
+      "nm81fzo",
+      {
+        "neg": 0.45,
+        "neu": 0.05,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nm81hzl",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nm81j05",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nm81jj8",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nm81khh",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nm81kjz",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.0
+      }
+    ],
+    [
+      "nm81otu",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -147164,6 +147272,24 @@
         "pos": 0.3,
         "compound": 0.3
       }
+    ],
+    [
+      "nm81nff",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nm81o1w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.2,
+        "compound": 0.3
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -160484,6 +160610,15 @@
         "neg": 0.0,
         "neu": 1.0,
         "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nm81jgz",
+      {
+        "neg": 0.06,
+        "neu": 0.18,
+        "pos": 0.06,
         "compound": 0.0
       }
     ]
