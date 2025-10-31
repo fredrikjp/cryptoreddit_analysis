@@ -50273,6 +50273,69 @@
         "pos": 0.3,
         "compound": 0.4
       }
+    ],
+    [
+      "nmd61yj",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nmd63ec",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nmd63jk",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nmd64fc",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nmd68tr",
+      {
+        "neg": 0.2,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nmd6d5x",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nmd6dbr",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.2,
+        "compound": 0.3
+      }
     ]
   ],
   "btc": [
@@ -79403,6 +79466,15 @@
         "neg": 0.3,
         "neu": 0.5,
         "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nmd6cti",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
         "compound": 0.1
       }
     ]
@@ -116892,6 +116964,24 @@
         "pos": 0.2,
         "compound": -0.3
       }
+    ],
+    [
+      "nmd65nu",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nmd6dw2",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -126940,6 +127030,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nmd64rs",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -130649,6 +130748,24 @@
         "neu": 0.6,
         "pos": 0.0,
         "compound": -0.3
+      }
+    ],
+    [
+      "nmd6332",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nmd690f",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
       }
     ]
   ],
@@ -162276,6 +162393,24 @@
         "neu": 0.8,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "nmd66jb",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nmd6bj6",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
       }
     ]
   ],
