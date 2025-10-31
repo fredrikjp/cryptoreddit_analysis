@@ -71105,6 +71105,15 @@
         "pos": 0.233,
         "compound": 0.9703
       }
+    ],
+    [
+      "nmdrkic",
+      {
+        "neg": 0.053,
+        "neu": 0.85,
+        "pos": 0.097,
+        "compound": 0.536
+      }
     ]
   ],
   "dogecoin": [
@@ -117027,6 +117036,33 @@
         "pos": 0.0,
         "compound": -0.296
       }
+    ],
+    [
+      "nmdrm7i",
+      {
+        "neg": 0.381,
+        "neu": 0.619,
+        "pos": 0.0,
+        "compound": -0.5719
+      }
+    ],
+    [
+      "nmdrnde",
+      {
+        "neg": 0.114,
+        "neu": 0.886,
+        "pos": 0.0,
+        "compound": -0.7964
+      }
+    ],
+    [
+      "nmdrrph",
+      {
+        "neg": 0.61,
+        "neu": 0.39,
+        "pos": 0.0,
+        "compound": -0.69
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -120871,6 +120907,15 @@
         "neu": 0.552,
         "pos": 0.448,
         "compound": 0.3472
+      }
+    ],
+    [
+      "nmdrqu3",
+      {
+        "neg": 0.0,
+        "neu": 0.404,
+        "pos": 0.596,
+        "compound": 0.7089
       }
     ]
   ],
