@@ -28154,6 +28154,16 @@
       "nmikug8",
       "2025-11-01T11:05:44",
       "it won't even reach 20k again."
+    ],
+    [
+      "nmis3x5",
+      "2025-11-01T12:08:34",
+      "Keep hating things on reddit with your life mate, should work out well for you."
+    ],
+    [
+      "nmis51c",
+      "2025-11-01T12:08:34",
+      "Here is a more detailed explanation:\n\nYour receiving addresses may be used only to send Bitcoin to. These are designed to be handed out freely. The only transaction you can see with one of these are those associated with only that address. So the best practice is to use them once only, or among as few people as is reasonable. (For example, sometimes it's more convenient to use a single receiving address when selling merchandise to a lot of people in a single setting. But still try to use different receiving addresses anyway if possible.)\n\nThe \"public key\" that Trezor mentions is almost definitely an xpub, which stands for \"extended public key\". This is the key from which your receiving addresses are generated. As such, someone with your xpub can use it to see all of the transactions from all of your receiving addresses. This is why Trezor recommends that you do not share it, for privacy reasons. They still cannot use it to spend your Bitcoin, though.\n\nYour private key is generated alongside your public key. This is what is required to spend your Bitcoin, and obviously should never be shared."
     ]
   ],
   "btc": [
@@ -39735,6 +39745,11 @@
       "nmegctf",
       "2025-10-31T17:06:59",
       "> well below $4k.\n\nNot sure I agree that roughly 5% below $4k is \"well below,\" but okay."
+    ],
+    [
+      "nmis1gm",
+      "2025-11-01T12:08:34",
+      "You must be new here"
     ]
   ],
   "dogecoin": [
@@ -90840,6 +90855,16 @@
       "nmhtg6x",
       "2025-11-01T06:09:09",
       "They aren't cause when you compare them against Bitcoin. You are buying less and less. The risk involved makes no sense when they are not out performing Bitcoins gains and its stability. \n\nEven ETH is down. If you bought the bottom of eth 1500 top 5000. Bottom BTC 16000 top 125000. \n\n3.3x vs 7.5x\n\nYou were better off buying Bitcoin without the extra risk. \n\nIt's even worse with other shitcoins. If people by the end of this cycle still don't understand that anything but the top 2 (and even at that eth has been weak AF) have anything of substance then they deserve to lose their money. There is more than enough data out there that shows this. \n\nWe have now had 3 cycles of shit coins, and the majority died...\n\nSo many didn't even get close to their all time highs. And I think it's cause most people learner this lesson last cycle...\n\nEth struggled to get to it's all time high....Even ETHs founder vitalik was selling...."
+    ],
+    [
+      "nmis3iu",
+      "2025-11-01T12:08:34",
+      "whatever, keep trading"
+    ],
+    [
+      "nmis3rg",
+      "2025-11-01T12:08:34",
+      "Ah yes leverage / greed!"
     ]
   ],
   "cardano": [
