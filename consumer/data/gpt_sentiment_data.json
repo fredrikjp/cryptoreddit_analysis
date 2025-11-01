@@ -50876,6 +50876,60 @@
         "pos": 0.7,
         "compound": 0.5
       }
+    ],
+    [
+      "nml6167",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nml679z",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nml684l",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nml6aag",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nml6aqs",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nml6bem",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -118259,6 +118313,42 @@
         "neu": 0.5,
         "pos": 0.0,
         "compound": -0.3
+      }
+    ],
+    [
+      "nml63df",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nml63j6",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nml68uo",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nml6bfk",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
