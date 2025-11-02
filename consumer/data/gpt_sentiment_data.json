@@ -51380,6 +51380,60 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nmrqu9x",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nmrqy20",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nmrqyj2",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nmrqyrb",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nmrr106",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nmrr13k",
+      {
+        "neg": 0.48,
+        "neu": 0.24,
+        "pos": 0.08000000000000002,
+        "compound": -0.48
+      }
     ]
   ],
   "btc": [
@@ -80934,6 +80988,15 @@
         "neu": 0.0,
         "pos": 1.0,
         "compound": 0.9
+      }
+    ],
+    [
+      "nmrqyjy",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -133242,6 +133305,15 @@
         "pos": 0.0,
         "compound": -0.3
       }
+    ],
+    [
+      "nmrr4zm",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -151502,6 +151574,15 @@
         "pos": 0.8,
         "compound": 0.75
       }
+    ],
+    [
+      "nmrqzgn",
+      {
+        "neg": 0.0,
+        "neu": 0.285,
+        "pos": 0.015,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -165280,6 +165361,15 @@
       {
         "neg": 0.0,
         "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nmrqy44",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
         "pos": 0.0,
         "compound": 0.0
       }
