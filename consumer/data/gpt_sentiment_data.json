@@ -52415,6 +52415,132 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nn33i0k",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nn33i86",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.55
+      }
+    ],
+    [
+      "nn33j6y",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nn33ni1",
+      {
+        "neg": 0.25,
+        "neu": 0.5,
+        "pos": 0.25,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn33niy",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.7,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nn33ny3",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn33ok7",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nn33oty",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nn33oze",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nn33ozg",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nn33saq",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nn33tbe",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nn33uvm",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nn33uxc",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.3
+      }
     ]
   ],
   "btc": [
@@ -73822,6 +73948,42 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "nn33j5a",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nn33jun",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nn33lae",
+      {
+        "neg": 0.65,
+        "neu": 0.3,
+        "pos": 0.05,
+        "compound": -0.55
+      }
+    ],
+    [
+      "nn33p65",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
@@ -122049,6 +122211,78 @@
         "pos": 0.9,
         "compound": 0.9
       }
+    ],
+    [
+      "nn33j2h",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.35
+      }
+    ],
+    [
+      "nn33kcm",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn33lia",
+      {
+        "neg": 0.45,
+        "neu": 0.5,
+        "pos": 0.05,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nn33nej",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn33o0j",
+      {
+        "neg": 0.9,
+        "neu": 0.05,
+        "pos": 0.05,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nn33p47",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nn33rf6",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn33ro5",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.3
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -132304,6 +132538,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nn33gwm",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.3,
+        "compound": -0.45
+      }
+    ],
+    [
+      "nn33ui4",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -138247,6 +138499,15 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "nn33sik",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -146674,6 +146935,15 @@
         "pos": 0.5,
         "compound": 0.3
       }
+    ],
+    [
+      "nn33kz6",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "sui": [
@@ -154912,6 +155182,33 @@
         "neu": 0.0,
         "pos": 1.0,
         "compound": 0.8
+      }
+    ],
+    [
+      "nn33k6c",
+      {
+        "neg": 0.1,
+        "neu": 0.25,
+        "pos": 0.65,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nn33si5",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nn33t45",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
       }
     ]
   ],
@@ -168928,6 +169225,15 @@
         "pos": 0.9,
         "compound": 0.85
       }
+    ],
+    [
+      "nn33o0e",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.4,
+        "compound": 0.15
+      }
     ]
   ],
   "cardano": [
@@ -170288,6 +170594,15 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.5
+      }
+    ],
+    [
+      "nn33hpf",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
