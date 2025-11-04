@@ -52289,6 +52289,78 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nn2fl7g",
+      {
+        "neg": 0.08,
+        "neu": 0.92,
+        "pos": 0.0,
+        "compound": -0.3723
+      }
+    ],
+    [
+      "nn2fmju",
+      {
+        "neg": 0.229,
+        "neu": 0.552,
+        "pos": 0.219,
+        "compound": -0.0314
+      }
+    ],
+    [
+      "nn2fn2v",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn2fnni",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn2fosf",
+      {
+        "neg": 0.035,
+        "neu": 0.874,
+        "pos": 0.091,
+        "compound": 0.4819
+      }
+    ],
+    [
+      "nn2fpbb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn2fpwk",
+      {
+        "neg": 0.16,
+        "neu": 0.766,
+        "pos": 0.074,
+        "compound": -0.4836
+      }
+    ],
+    [
+      "nn2fs4n",
+      {
+        "neg": 0.0,
+        "neu": 0.374,
+        "pos": 0.626,
+        "compound": 0.7717
+      }
     ]
   ],
   "btc": [
@@ -121770,6 +121842,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nn2fjvc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn2fmq9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn2fp6s",
+      {
+        "neg": 0.045,
+        "neu": 0.837,
+        "pos": 0.118,
+        "compound": 0.5494
+      }
+    ],
+    [
+      "nn2frva",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nn2fshv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -132007,6 +132124,15 @@
         "pos": 0.535,
         "compound": 0.3182
       }
+    ],
+    [
+      "nn2fsq1",
+      {
+        "neg": 0.05,
+        "neu": 0.819,
+        "pos": 0.13,
+        "compound": 0.5106
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -135914,6 +136040,15 @@
         "neu": 0.444,
         "pos": 0.556,
         "compound": 0.3612
+      }
+    ],
+    [
+      "nn2frux",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
