@@ -53954,6 +53954,60 @@
         "pos": 0.278,
         "compound": -0.25
       }
+    ],
+    [
+      "nncvo5h",
+      {
+        "neg": 0.495,
+        "neu": 0.505,
+        "pos": 0.0,
+        "compound": -0.2411
+      }
+    ],
+    [
+      "nncvp7y",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nncvpaz",
+      {
+        "neg": 0.0,
+        "neu": 0.724,
+        "pos": 0.276,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "nncvpm4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nncvswk",
+      {
+        "neg": 0.123,
+        "neu": 0.702,
+        "pos": 0.175,
+        "compound": 0.2263
+      }
+    ],
+    [
+      "nncvw8c",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -129602,6 +129656,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nncvsub",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "memecoins": [
@@ -173653,6 +173716,24 @@
         "pos": 0.066,
         "compound": 0.0516
       }
+    ],
+    [
+      "nncvtji",
+      {
+        "neg": 0.137,
+        "neu": 0.686,
+        "pos": 0.176,
+        "compound": 0.2023
+      }
+    ],
+    [
+      "nncvx0j",
+      {
+        "neg": 0.218,
+        "neu": 0.345,
+        "pos": 0.437,
+        "compound": 0.7003
+      }
     ]
   ],
   "cardano": [
@@ -175058,6 +175139,15 @@
         "neu": 0.771,
         "pos": 0.229,
         "compound": 0.7804
+      }
+    ],
+    [
+      "nncvr27",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
