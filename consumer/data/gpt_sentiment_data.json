@@ -54782,6 +54782,33 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "nnmz2ik",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nnmz2l1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nnmz6bp",
+      {
+        "neg": 0.3,
+        "neu": 0.3,
+        "pos": 0.4,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -62091,6 +62118,24 @@
         "neu": 0.5,
         "pos": 0.0,
         "compound": -0.5
+      }
+    ],
+    [
+      "nnmyw9y",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nnmyxfs",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -77144,6 +77189,15 @@
         "pos": 0.2,
         "compound": -0.3
       }
+    ],
+    [
+      "nnmz4zu",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
     ]
   ],
   "dogecoin": [
@@ -86144,6 +86198,24 @@
         "neg": 0.0,
         "neu": 0.7,
         "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nnmz389",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nnmz5zk",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
         "compound": 0.2
       }
     ]
@@ -127593,6 +127665,60 @@
         "pos": 0.6,
         "compound": 0.55
       }
+    ],
+    [
+      "nnmywwu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nnmz00x",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nnmz102",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.0
+      }
+    ],
+    [
+      "nnmz1g3",
+      {
+        "neg": 0.05,
+        "neu": 0.0,
+        "pos": 0.95,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nnmz2dz",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nnmz2ht",
+      {
+        "neg": 0.9,
+        "neu": 0.0,
+        "pos": 0.1,
+        "compound": -0.8
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -142205,6 +142331,15 @@
         "neu": 0.4,
         "pos": 0.1,
         "compound": -0.4
+      }
+    ],
+    [
+      "nnmyxdv",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
       }
     ]
   ],
