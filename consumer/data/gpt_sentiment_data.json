@@ -54602,6 +54602,51 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "nnl49js",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nnl4cyj",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nnl4edh",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.05
+      }
+    ],
+    [
+      "nnl4fc6",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nnl4fjt",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "btc": [
@@ -69987,6 +70032,15 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "nnl4dj3",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.2
+      }
     ]
   ],
   "ethereum": [
@@ -76837,6 +76891,15 @@
         "neu": 0.2,
         "pos": 0.2,
         "compound": -0.5
+      }
+    ],
+    [
+      "nnl4cqo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -85794,6 +85857,15 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.55
+      }
+    ],
+    [
+      "nnl4ej0",
+      {
+        "neg": 0.06,
+        "neu": 0.48,
+        "pos": 0.06,
+        "compound": -0.06
       }
     ]
   ],
@@ -127098,6 +127170,60 @@
         "pos": 0.1,
         "compound": -0.7
       }
+    ],
+    [
+      "nnl484d",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nnl4963",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nnl4aw8",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nnl4cl9",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nnl4co2",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nnl4fug",
+      {
+        "neg": 0.4,
+        "neu": 0.4,
+        "pos": 0.2,
+        "compound": -0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -137536,6 +137662,15 @@
     ],
     [
       "nnkhy15",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nnl4cf9",
       {
         "neg": 0.0,
         "neu": 1.0,
