@@ -54899,6 +54899,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nnnvoy5",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "nnnvsrj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -62226,6 +62244,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nnnvv8l",
+      {
+        "neg": 0.206,
+        "neu": 0.794,
+        "pos": 0.0,
+        "compound": -0.7906
       }
     ]
   ],
@@ -86343,6 +86370,15 @@
         "neu": 0.766,
         "pos": 0.234,
         "compound": 0.0572
+      }
+    ],
+    [
+      "nnnvqk6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -127890,6 +127926,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nnnvp6z",
+      {
+        "neg": 0.164,
+        "neu": 0.694,
+        "pos": 0.142,
+        "compound": -0.431
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -161987,6 +162032,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nnnvqfw",
+      {
+        "neg": 0.043,
+        "neu": 0.876,
+        "pos": 0.08,
+        "compound": 0.521
+      }
+    ],
+    [
+      "nnnvqan",
+      {
+        "neg": 0.595,
+        "neu": 0.405,
+        "pos": 0.0,
+        "compound": -0.6597
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -176608,6 +176671,33 @@
     ],
     [
       "nnnl7ow",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nnnvpg1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nnnvrxr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nnnvthd",
       {
         "neg": 0.0,
         "neu": 1.0,
