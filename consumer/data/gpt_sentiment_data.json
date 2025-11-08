@@ -55268,6 +55268,42 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nntjwkb",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nntjzwv",
+      {
+        "neg": 0.2,
+        "neu": 0.5,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nntk1lj",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nntk3w2",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.4
+      }
     ]
   ],
   "btc": [
@@ -62694,6 +62730,15 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nntjsjf",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.3
       }
     ]
   ],
@@ -132770,6 +132815,24 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "nntjvb3",
+      {
+        "neg": 0.0,
+        "neu": 0.6400000000000001,
+        "pos": 0.0,
+        "compound": 0.08000000000000002
+      }
+    ],
+    [
+      "nntk3xj",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
+      }
     ]
   ],
   "memecoins": [
@@ -145556,6 +145619,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nntjzxt",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": 0.2
+      }
     ]
   ],
   "ethtrader": [
@@ -155792,6 +155864,15 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.4
+      }
+    ],
+    [
+      "nntk1r3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
       }
     ]
   ],
@@ -177702,6 +177783,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.3
+      }
+    ],
+    [
+      "nntk26y",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.8
       }
     ]
   ],
