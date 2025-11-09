@@ -55682,6 +55682,33 @@
         "pos": 0.2,
         "compound": 0.0
       }
+    ],
+    [
+      "no0afzw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "no0ahdd",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "no0ajdm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -87499,6 +87526,15 @@
     ],
     [
       "nnyjmpn",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "no0akwr",
       {
         "neg": 0.9,
         "neu": 0.1,
@@ -129554,6 +129590,15 @@
         "neu": 0.5,
         "pos": 0.1,
         "compound": 0.1
+      }
+    ],
+    [
+      "no0ajv7",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
