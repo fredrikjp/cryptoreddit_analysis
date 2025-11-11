@@ -56780,6 +56780,51 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "nocjr6x",
+      {
+        "neg": 0.75,
+        "neu": 0.25,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nocjrgq",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nocjtkl",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nocjudr",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nock03k",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "btc": [
@@ -131490,6 +131535,33 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nocjrdf",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nocjv2v",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nocjzj7",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -135585,6 +135657,24 @@
         "neg": 0.0,
         "neu": 0.1,
         "pos": 0.9,
+        "compound": 0.9
+      }
+    ],
+    [
+      "nocjscq",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nocjx22",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
         "compound": 0.9
       }
     ]
@@ -157393,6 +157483,15 @@
         "pos": 0.1,
         "compound": 0.15
       }
+    ],
+    [
+      "nocjt92",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "sui": [
@@ -166405,6 +166504,42 @@
         "neu": 0.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nocjrx2",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "nocju0h",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nocjuxq",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.9
+      }
+    ],
+    [
+      "nocjvwn",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.8
       }
     ]
   ],

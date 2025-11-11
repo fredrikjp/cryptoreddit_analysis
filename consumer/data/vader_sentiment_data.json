@@ -56780,6 +56780,51 @@
         "pos": 0.0,
         "compound": -0.4019
       }
+    ],
+    [
+      "nocjr6x",
+      {
+        "neg": 0.0,
+        "neu": 0.857,
+        "pos": 0.143,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "nocjrgq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nocjtkl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nocjudr",
+      {
+        "neg": 0.116,
+        "neu": 0.723,
+        "pos": 0.162,
+        "compound": 0.3818
+      }
+    ],
+    [
+      "nock03k",
+      {
+        "neg": 0.097,
+        "neu": 0.698,
+        "pos": 0.205,
+        "compound": 0.5938
+      }
     ]
   ],
   "btc": [
@@ -131490,6 +131535,33 @@
         "pos": 0.0,
         "compound": -0.5423
       }
+    ],
+    [
+      "nocjrdf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nocjv2v",
+      {
+        "neg": 0.0,
+        "neu": 0.323,
+        "pos": 0.677,
+        "compound": 0.6369
+      }
+    ],
+    [
+      "nocjzj7",
+      {
+        "neg": 0.186,
+        "neu": 0.718,
+        "pos": 0.096,
+        "compound": -0.8253
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -135586,6 +135658,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nocjscq",
+      {
+        "neg": 0.172,
+        "neu": 0.734,
+        "pos": 0.093,
+        "compound": -0.6114
+      }
+    ],
+    [
+      "nocjx22",
+      {
+        "neg": 0.096,
+        "neu": 0.667,
+        "pos": 0.237,
+        "compound": 0.4389
       }
     ]
   ],
@@ -157393,6 +157483,15 @@
         "pos": 0.147,
         "compound": 0.4003
       }
+    ],
+    [
+      "nocjt92",
+      {
+        "neg": 0.0,
+        "neu": 0.943,
+        "pos": 0.057,
+        "compound": 0.34
+      }
     ]
   ],
   "sui": [
@@ -166405,6 +166504,42 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nocjrx2",
+      {
+        "neg": 0.43,
+        "neu": 0.173,
+        "pos": 0.398,
+        "compound": -0.2748
+      }
+    ],
+    [
+      "nocju0h",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nocjuxq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nocjvwn",
+      {
+        "neg": 0.292,
+        "neu": 0.708,
+        "pos": 0.0,
+        "compound": -0.4374
       }
     ]
   ],
