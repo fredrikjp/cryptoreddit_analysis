@@ -57266,6 +57266,33 @@
         "pos": 0.65,
         "compound": 0.6
       }
+    ],
+    [
+      "noikdz0",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "noikhp0",
+      {
+        "neg": 0.02,
+        "neu": 0.1,
+        "pos": 0.88,
+        "compound": 0.8
+      }
+    ],
+    [
+      "noikks2",
+      {
+        "neg": 0.05,
+        "neu": 0.9,
+        "pos": 0.05,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -64962,6 +64989,15 @@
         "neu": 0.7,
         "pos": 0.25,
         "compound": 0.3
+      }
+    ],
+    [
+      "noikj7b",
+      {
+        "neg": 0.4,
+        "neu": 0.1,
+        "pos": 0.5,
+        "compound": 0.05
       }
     ]
   ],
@@ -73343,6 +73379,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "noikdoo",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
       }
     ]
   ],
@@ -132723,6 +132768,24 @@
         "pos": 0.1,
         "compound": -0.2
       }
+    ],
+    [
+      "noikbla",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.7
+      }
+    ],
+    [
+      "noikhjn",
+      {
+        "neg": 0.05,
+        "neu": 0.1,
+        "pos": 0.85,
+        "compound": 0.75
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -167891,6 +167954,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "noikgkj",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "noikjod",
+      {
+        "neg": 0.1,
+        "neu": 0.15,
+        "pos": 0.75,
+        "compound": 0.6
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -183021,6 +183102,15 @@
         "neu": 0.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "noikcdg",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.55
       }
     ]
   ],
