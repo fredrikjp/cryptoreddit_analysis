@@ -56924,6 +56924,24 @@
         "pos": 0.0,
         "compound": -0.3
       }
+    ],
+    [
+      "noe9ocl",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noe9v8y",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -131805,6 +131823,42 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "noe9qdd",
+      {
+        "neg": 0.5,
+        "neu": 0.0,
+        "pos": 0.5,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noe9ree",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "noe9t7w",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.4
+      }
+    ],
+    [
+      "noe9twb",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -146777,6 +146831,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "noe9x5f",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
@@ -166811,6 +166874,15 @@
         "pos": 0.6,
         "compound": 0.5
       }
+    ],
+    [
+      "noe9pt4",
+      {
+        "neg": 0.4,
+        "neu": 0.4,
+        "pos": 0.2,
+        "compound": -0.2
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -181851,6 +181923,24 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.7
+      }
+    ],
+    [
+      "noe9q2c",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.6
+      }
+    ],
+    [
+      "noe9xfm",
+      {
+        "neg": 0.0,
+        "neu": 0.16000000000000003,
+        "pos": 0.04000000000000001,
+        "compound": 0.04000000000000001
       }
     ]
   ],
