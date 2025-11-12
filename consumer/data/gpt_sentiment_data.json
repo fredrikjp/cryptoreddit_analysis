@@ -56915,6 +56915,15 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "nodrot7",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "btc": [
@@ -131759,6 +131768,42 @@
         "neu": 0.4,
         "pos": 0.3,
         "compound": -0.1
+      }
+    ],
+    [
+      "nodrm0g",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nodrp7m",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.75
+      }
+    ],
+    [
+      "nodrpjg",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nodrqn4",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ],
