@@ -57104,6 +57104,24 @@
         "pos": 0.312,
         "compound": 0.7717
       }
+    ],
+    [
+      "noguusr",
+      {
+        "neg": 0.033,
+        "neu": 0.869,
+        "pos": 0.099,
+        "compound": 0.4779
+      }
+    ],
+    [
+      "nogv3uj",
+      {
+        "neg": 0.092,
+        "neu": 0.707,
+        "pos": 0.201,
+        "compound": 0.4588
+      }
     ]
   ],
   "btc": [
@@ -80195,6 +80213,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "noguw1d",
+      {
+        "neg": 0.0,
+        "neu": 0.455,
+        "pos": 0.545,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "noguy32",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -89430,6 +89466,15 @@
         "neu": 0.632,
         "pos": 0.0,
         "compound": -0.5423
+      }
+    ],
+    [
+      "noguxv2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -132282,6 +132327,24 @@
         "pos": 0.0,
         "compound": -0.4019
       }
+    ],
+    [
+      "nogut2z",
+      {
+        "neg": 0.193,
+        "neu": 0.714,
+        "pos": 0.092,
+        "compound": -0.7003
+      }
+    ],
+    [
+      "noguttq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -158248,6 +158311,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nogv0bi",
+      {
+        "neg": 0.0,
+        "neu": 0.856,
+        "pos": 0.144,
+        "compound": 0.4639
+      }
+    ],
+    [
+      "nogv1fn",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -167363,6 +167444,15 @@
     ],
     [
       "nogjqa7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noguza4",
       {
         "neg": 0.0,
         "neu": 1.0,
