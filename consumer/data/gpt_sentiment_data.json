@@ -57761,6 +57761,96 @@
         "pos": 0.1,
         "compound": -0.1
       }
+    ],
+    [
+      "noojid9",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.3
+      }
+    ],
+    [
+      "noojj1s",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.15,
+        "compound": 0.1
+      }
+    ],
+    [
+      "noojk2o",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "noojkl5",
+      {
+        "neg": 0.5,
+        "neu": 0.3,
+        "pos": 0.2,
+        "compound": -0.3
+      }
+    ],
+    [
+      "noojkvv",
+      {
+        "neg": 0.75,
+        "neu": 0.2,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "noojldn",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "noojloi",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.05,
+        "compound": 0.05
+      }
+    ],
+    [
+      "noojlr4",
+      {
+        "neg": 0.65,
+        "neu": 0.35,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "noojpts",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noojr4u",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -65538,6 +65628,24 @@
         "neu": 0.5,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "noojk3a",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "noojobb",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
       }
     ]
   ],
@@ -73941,6 +74049,15 @@
     ],
     [
       "noo9dd1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noojo16",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -133839,6 +133956,87 @@
         "pos": 0.1,
         "compound": -0.2
       }
+    ],
+    [
+      "noojely",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.05
+      }
+    ],
+    [
+      "noojged",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "noojkbe",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.4
+      }
+    ],
+    [
+      "noojlvx",
+      {
+        "neg": 0.1,
+        "neu": 0.2,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "noojn0k",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noojn7s",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "noojnts",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "noojqdt",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noojqg2",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -148929,6 +149127,15 @@
         "pos": 0.0,
         "compound": -0.4
       }
+    ],
+    [
+      "noojj5h",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -159958,6 +160165,15 @@
         "pos": 0.3,
         "compound": 0.4
       }
+    ],
+    [
+      "noojnlu",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.85
+      }
     ]
   ],
   "sui": [
@@ -169258,6 +169474,15 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.4
+      }
+    ],
+    [
+      "noojgnh",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.35
       }
     ]
   ],
