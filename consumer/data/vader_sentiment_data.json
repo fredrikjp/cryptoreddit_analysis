@@ -58166,6 +58166,42 @@
         "pos": 0.0,
         "compound": -0.5399
       }
+    ],
+    [
+      "nopup6h",
+      {
+        "neg": 0.233,
+        "neu": 0.692,
+        "pos": 0.075,
+        "compound": -0.7152
+      }
+    ],
+    [
+      "nopupck",
+      {
+        "neg": 0.0,
+        "neu": 0.588,
+        "pos": 0.412,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "nopuq0b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nopurx4",
+      {
+        "neg": 0.0,
+        "neu": 0.517,
+        "pos": 0.483,
+        "compound": 0.4215
+      }
     ]
   ],
   "btc": [
@@ -65988,6 +66024,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nopus0r",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4019
       }
     ]
   ],
@@ -134559,6 +134604,15 @@
         "pos": 0.0,
         "compound": -0.34
       }
+    ],
+    [
+      "nopuo4l",
+      {
+        "neg": 0.173,
+        "neu": 0.767,
+        "pos": 0.06,
+        "compound": -0.7556
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -149676,6 +149730,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nopukkw",
+      {
+        "neg": 0.355,
+        "neu": 0.645,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "nopuq0i",
+      {
+        "neg": 0.095,
+        "neu": 0.905,
+        "pos": 0.0,
+        "compound": -0.5423
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -160758,6 +160830,15 @@
         "neu": 0.706,
         "pos": 0.072,
         "compound": -0.719
+      }
+    ],
+    [
+      "nopupb1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -185343,6 +185424,15 @@
         "neu": 0.829,
         "pos": 0.0,
         "compound": -0.5423
+      }
+    ],
+    [
+      "nopupfx",
+      {
+        "neg": 0.074,
+        "neu": 0.926,
+        "pos": 0.0,
+        "compound": -0.3252
       }
     ]
   ],
