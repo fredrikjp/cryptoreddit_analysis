@@ -57599,6 +57599,33 @@
         "pos": 0.0,
         "compound": -0.7713
       }
+    ],
+    [
+      "nonjzmp",
+      {
+        "neg": 0.384,
+        "neu": 0.616,
+        "pos": 0.0,
+        "compound": -0.3595
+      }
+    ],
+    [
+      "nonk216",
+      {
+        "neg": 0.18,
+        "neu": 0.569,
+        "pos": 0.251,
+        "compound": 0.128
+      }
+    ],
+    [
+      "nonk77i",
+      {
+        "neg": 0.075,
+        "neu": 0.856,
+        "pos": 0.069,
+        "compound": 0.1585
+      }
     ]
   ],
   "btc": [
@@ -80870,6 +80897,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nonk7w8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -90172,6 +90208,15 @@
     ],
     [
       "nomnsal",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nonk8eg",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -133452,6 +133497,42 @@
         "pos": 0.0,
         "compound": -0.7003
       }
+    ],
+    [
+      "nonjyjb",
+      {
+        "neg": 0.086,
+        "neu": 0.821,
+        "pos": 0.093,
+        "compound": 0.0498
+      }
+    ],
+    [
+      "nonk7lf",
+      {
+        "neg": 0.0,
+        "neu": 0.818,
+        "pos": 0.182,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "nonk8oz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nonk9wl",
+      {
+        "neg": 0.328,
+        "neu": 0.672,
+        "pos": 0.0,
+        "compound": -0.9201
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -144148,6 +144229,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nonk27n",
+      {
+        "neg": 0.128,
+        "neu": 0.585,
+        "pos": 0.287,
+        "compound": 0.4588
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -148478,6 +148568,15 @@
         "neu": 0.862,
         "pos": 0.138,
         "compound": 0.34
+      }
+    ],
+    [
+      "nonk199",
+      {
+        "neg": 0.0,
+        "neu": 0.256,
+        "pos": 0.744,
+        "compound": 0.4404
       }
     ]
   ],
@@ -168773,6 +168872,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nonk4eb",
+      {
+        "neg": 0.042,
+        "neu": 0.853,
+        "pos": 0.105,
+        "compound": 0.5499
+      }
+    ],
+    [
+      "nonk81y",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nonkbct",
+      {
+        "neg": 0.0,
+        "neu": 0.121,
+        "pos": 0.879,
+        "compound": 0.807
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -184002,6 +184128,15 @@
         "neu": 0.833,
         "pos": 0.0,
         "compound": -0.296
+      }
+    ],
+    [
+      "nonkbqa",
+      {
+        "neg": 0.0,
+        "neu": 0.704,
+        "pos": 0.296,
+        "compound": 0.743
       }
     ]
   ],
