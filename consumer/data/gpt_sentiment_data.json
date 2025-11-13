@@ -57851,6 +57851,141 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "noownoh",
+      {
+        "neg": 0.1,
+        "neu": 0.0,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "noowplh",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.75
+      }
+    ],
+    [
+      "noowqjm",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "noowr32",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "noowsu6",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "noowsxl",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.15
+      }
+    ],
+    [
+      "noowtjp",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noowtuf",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "noowtxu",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.8
+      }
+    ],
+    [
+      "noowu2y",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nooww2n",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "noowxnf",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.5,
+        "compound": 0.4
+      }
+    ],
+    [
+      "noowxor",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "noowxs4",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "noowz80",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.6
+      }
     ]
   ],
   "btc": [
@@ -90492,6 +90627,15 @@
         "neu": 0.3,
         "pos": 0.5,
         "compound": 0.4
+      }
+    ],
+    [
+      "noowpxc",
+      {
+        "neg": 0.75,
+        "neu": 0.2,
+        "pos": 0.05,
+        "compound": -0.6
       }
     ]
   ],
@@ -134037,6 +134181,78 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "noowlwd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noowm3x",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "noowrxt",
+      {
+        "neg": 0.45,
+        "neu": 0.3,
+        "pos": 0.25,
+        "compound": -0.2
+      }
+    ],
+    [
+      "noowtfs",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "noowxoe",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "noowy26",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.6
+      }
+    ],
+    [
+      "noowy2g",
+      {
+        "neg": 0.05,
+        "neu": 0.05,
+        "pos": 0.0,
+        "compound": -0.04000000000000001
+      }
+    ],
+    [
+      "noowz0s",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -144751,6 +144967,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "noowmtm",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -151279,6 +151504,33 @@
         "neu": 0.0,
         "pos": 0.0,
         "compound": -0.0
+      }
+    ],
+    [
+      "noowuqh",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.9
+      }
+    ],
+    [
+      "noowvh2",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "noowz2i",
+      {
+        "neg": 0.03,
+        "neu": 0.24,
+        "pos": 0.03,
+        "compound": 0.0
       }
     ]
   ],
@@ -169484,6 +169736,15 @@
         "pos": 0.4,
         "compound": 0.35
       }
+    ],
+    [
+      "noowwhn",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -184722,6 +184983,15 @@
         "neu": 0.54,
         "pos": 0.27,
         "compound": 0.27
+      }
+    ],
+    [
+      "noowy04",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.3
       }
     ]
   ],
