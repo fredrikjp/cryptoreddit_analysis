@@ -57536,6 +57536,24 @@
         "pos": 0.2,
         "compound": 0.9281
       }
+    ],
+    [
+      "nomnkhz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nomnmve",
+      {
+        "neg": 0.056,
+        "neu": 0.89,
+        "pos": 0.054,
+        "compound": -0.3182
+      }
     ]
   ],
   "btc": [
@@ -80789,6 +80807,15 @@
         "pos": 0.119,
         "compound": 0.2263
       }
+    ],
+    [
+      "nomnkoi",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -90087,6 +90114,15 @@
         "neu": 0.659,
         "pos": 0.228,
         "compound": 0.4404
+      }
+    ],
+    [
+      "nomnsal",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -133281,6 +133317,42 @@
         "pos": 0.126,
         "compound": 0.8868
       }
+    ],
+    [
+      "nomnkwo",
+      {
+        "neg": 0.0,
+        "neu": 0.714,
+        "pos": 0.286,
+        "compound": 0.8126
+      }
+    ],
+    [
+      "nomnqw6",
+      {
+        "neg": 0.375,
+        "neu": 0.625,
+        "pos": 0.0,
+        "compound": -0.8014
+      }
+    ],
+    [
+      "nomnrgj",
+      {
+        "neg": 0.311,
+        "neu": 0.626,
+        "pos": 0.062,
+        "compound": -0.9261
+      }
+    ],
+    [
+      "nomntmo",
+      {
+        "neg": 0.122,
+        "neu": 0.878,
+        "pos": 0.0,
+        "compound": -0.4939
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -168584,6 +168656,15 @@
         "pos": 0.163,
         "compound": -0.0516
       }
+    ],
+    [
+      "nomnsw3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -183777,6 +183858,15 @@
         "neu": 0.867,
         "pos": 0.0,
         "compound": -0.5106
+      }
+    ],
+    [
+      "nomnkse",
+      {
+        "neg": 0.186,
+        "neu": 0.814,
+        "pos": 0.0,
+        "compound": -0.1531
       }
     ]
   ],
