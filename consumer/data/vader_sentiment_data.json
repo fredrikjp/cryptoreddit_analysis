@@ -58328,6 +58328,69 @@
         "pos": 0.232,
         "compound": 0.3182
       }
+    ],
+    [
+      "nortxgi",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nortxk6",
+      {
+        "neg": 0.231,
+        "neu": 0.769,
+        "pos": 0.0,
+        "compound": -0.2732
+      }
+    ],
+    [
+      "nortxur",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nortzgf",
+      {
+        "neg": 0.174,
+        "neu": 0.359,
+        "pos": 0.467,
+        "compound": 0.6908
+      }
+    ],
+    [
+      "noru07j",
+      {
+        "neg": 0.0,
+        "neu": 0.556,
+        "pos": 0.444,
+        "compound": 0.4939
+      }
+    ],
+    [
+      "noru0cy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noru19w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -66163,6 +66226,15 @@
     ],
     [
       "nor8s5x",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noru0nk",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -74586,6 +74658,24 @@
         "pos": 0.294,
         "compound": 0.3612
       }
+    ],
+    [
+      "nortzh0",
+      {
+        "neg": 0.068,
+        "neu": 0.858,
+        "pos": 0.074,
+        "compound": 0.0382
+      }
+    ],
+    [
+      "noru0bi",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -81706,6 +81796,15 @@
         "neu": 0.694,
         "pos": 0.0,
         "compound": -0.5913
+      }
+    ],
+    [
+      "nortynu",
+      {
+        "neg": 0.069,
+        "neu": 0.857,
+        "pos": 0.073,
+        "compound": 0.0276
       }
     ]
   ],
@@ -91050,6 +91149,24 @@
         "neu": 0.806,
         "pos": 0.129,
         "compound": 0.296
+      }
+    ],
+    [
+      "nortxmm",
+      {
+        "neg": 0.0,
+        "neu": 0.69,
+        "pos": 0.31,
+        "compound": 0.6696
+      }
+    ],
+    [
+      "nortz76",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -134865,6 +134982,51 @@
         "pos": 0.351,
         "compound": 0.4019
       }
+    ],
+    [
+      "nortv4r",
+      {
+        "neg": 0.153,
+        "neu": 0.847,
+        "pos": 0.0,
+        "compound": -0.4404
+      }
+    ],
+    [
+      "nortv6t",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nortvg7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nortwyr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "norty6v",
+      {
+        "neg": 0.218,
+        "neu": 0.664,
+        "pos": 0.118,
+        "compound": -0.4033
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -145596,6 +145758,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nortvy4",
+      {
+        "neg": 0.0,
+        "neu": 0.263,
+        "pos": 0.737,
+        "compound": 0.6808
       }
     ]
   ],
@@ -185784,6 +185955,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nortxni",
+      {
+        "neg": 0.0,
+        "neu": 0.796,
+        "pos": 0.204,
+        "compound": 0.6858
       }
     ]
   ],
