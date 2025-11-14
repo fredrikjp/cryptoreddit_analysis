@@ -58679,6 +58679,51 @@
         "pos": 0.3,
         "compound": -0.2
       }
+    ],
+    [
+      "notki5t",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "notkiyw",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.4
+      }
+    ],
+    [
+      "notkniy",
+      {
+        "neg": 0.05,
+        "neu": 0.95,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "notkoho",
+      {
+        "neg": 0.55,
+        "neu": 0.3,
+        "pos": 0.15,
+        "compound": -0.3
+      }
+    ],
+    [
+      "notkpf4",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.35
+      }
     ]
   ],
   "btc": [
@@ -82128,6 +82173,15 @@
         "neg": 0.05,
         "neu": 0.7,
         "pos": 0.25,
+        "compound": 0.3
+      }
+    ],
+    [
+      "notkmxv",
+      {
+        "neg": 0.15,
+        "neu": 0.65,
+        "pos": 0.45,
         "compound": 0.3
       }
     ]
@@ -135684,6 +135738,33 @@
         "pos": 0.3,
         "compound": -0.3
       }
+    ],
+    [
+      "notki58",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "notklx9",
+      {
+        "neg": 0.85,
+        "neu": 0.05,
+        "pos": 0.9,
+        "compound": 0.7
+      }
+    ],
+    [
+      "notkm7b",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -150971,6 +151052,15 @@
         "neu": 0.6,
         "pos": 0.2,
         "compound": 0.0
+      }
+    ],
+    [
+      "notkoax",
+      {
+        "neg": 0.65,
+        "neu": 0.2,
+        "pos": 0.15,
+        "compound": -0.45
       }
     ]
   ],
