@@ -58724,6 +58724,69 @@
         "pos": 0.787,
         "compound": 0.5709
       }
+    ],
+    [
+      "notxgvz",
+      {
+        "neg": 0.071,
+        "neu": 0.767,
+        "pos": 0.163,
+        "compound": 0.8733
+      }
+    ],
+    [
+      "notxiqq",
+      {
+        "neg": 0.166,
+        "neu": 0.834,
+        "pos": 0.0,
+        "compound": -0.8609
+      }
+    ],
+    [
+      "notxjgb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "notxklw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "notxmr7",
+      {
+        "neg": 0.121,
+        "neu": 0.737,
+        "pos": 0.142,
+        "compound": -0.1917
+      }
+    ],
+    [
+      "notxmtx",
+      {
+        "neg": 0.129,
+        "neu": 0.612,
+        "pos": 0.259,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "notxnbz",
+      {
+        "neg": 0.0,
+        "neu": 0.325,
+        "pos": 0.675,
+        "compound": 0.7378
+      }
     ]
   ],
   "btc": [
@@ -135765,6 +135828,60 @@
         "pos": 0.099,
         "compound": 0.296
       }
+    ],
+    [
+      "notxi2o",
+      {
+        "neg": 0.153,
+        "neu": 0.847,
+        "pos": 0.0,
+        "compound": -0.5014
+      }
+    ],
+    [
+      "notxjos",
+      {
+        "neg": 0.0,
+        "neu": 0.93,
+        "pos": 0.07,
+        "compound": 0.34
+      }
+    ],
+    [
+      "notxk2f",
+      {
+        "neg": 0.438,
+        "neu": 0.562,
+        "pos": 0.0,
+        "compound": -0.569
+      }
+    ],
+    [
+      "notxlzl",
+      {
+        "neg": 0.101,
+        "neu": 0.899,
+        "pos": 0.0,
+        "compound": -0.5719
+      }
+    ],
+    [
+      "notxnht",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "notxonp",
+      {
+        "neg": 0.204,
+        "neu": 0.729,
+        "pos": 0.067,
+        "compound": -0.8354
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -151061,6 +151178,15 @@
         "neu": 0.748,
         "pos": 0.161,
         "compound": 0.2023
+      }
+    ],
+    [
+      "notxhwb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -186909,6 +187035,15 @@
         "neu": 0.658,
         "pos": 0.292,
         "compound": 0.9628
+      }
+    ],
+    [
+      "notxgoj",
+      {
+        "neg": 0.179,
+        "neu": 0.761,
+        "pos": 0.06,
+        "compound": -0.8271
       }
     ]
   ],
