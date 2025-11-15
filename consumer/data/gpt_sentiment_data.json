@@ -59552,6 +59552,15 @@
         "pos": 0.1,
         "compound": -0.5
       }
+    ],
+    [
+      "noybo7z",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": -0.2
+      }
     ]
   ],
   "btc": [
@@ -83119,6 +83128,15 @@
         "neu": 0.6,
         "pos": 0.3,
         "compound": 0.15
+      }
+    ],
+    [
+      "noybniw",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -152574,6 +152592,15 @@
         "pos": 0.7,
         "compound": 0.7
       }
+    ],
+    [
+      "noybmrm",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -163692,6 +163719,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "noybpe8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noybpqv",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
