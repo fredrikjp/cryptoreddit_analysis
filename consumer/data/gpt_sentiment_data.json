@@ -59426,6 +59426,51 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "noxmuqr",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
+      }
+    ],
+    [
+      "noxmuzv",
+      {
+        "neg": 0.05,
+        "neu": 0.1,
+        "pos": 0.85,
+        "compound": 0.7
+      }
+    ],
+    [
+      "noxmvg6",
+      {
+        "neg": 0.05,
+        "neu": 0.8,
+        "pos": 0.15,
+        "compound": 0.3
+      }
+    ],
+    [
+      "noxmw7q",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "noxmy0w",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -137025,6 +137070,15 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "noxmv4m",
+      {
+        "neg": 0.75,
+        "neu": 0.05,
+        "pos": 0.05,
+        "compound": -0.8
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -152376,6 +152430,15 @@
         "pos": 0.75,
         "compound": 0.7
       }
+    ],
+    [
+      "noxmwue",
+      {
+        "neg": 0.0,
+        "neu": 0.75,
+        "pos": 0.25,
+        "compound": 0.3
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -163485,6 +163548,15 @@
         "neu": 0.1,
         "pos": 0.2,
         "compound": -0.5
+      }
+    ],
+    [
+      "noxmvuv",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -188331,6 +188403,24 @@
         "neu": 0.2,
         "pos": 0.2,
         "compound": -0.4
+      }
+    ],
+    [
+      "noxmv44",
+      {
+        "neg": 0.1,
+        "neu": 0.85,
+        "pos": 0.05,
+        "compound": -0.1
+      }
+    ],
+    [
+      "noxmvni",
+      {
+        "neg": 0.0,
+        "neu": 0.92,
+        "pos": 0.08,
+        "compound": 0.2
       }
     ]
   ],
