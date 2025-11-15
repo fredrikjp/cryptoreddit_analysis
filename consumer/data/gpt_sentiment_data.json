@@ -59561,6 +59561,33 @@
         "pos": 0.1,
         "compound": -0.2
       }
+    ],
+    [
+      "noyhe6c",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "noyhgtg",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "noyhhtf",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
     ]
   ],
   "btc": [
@@ -67446,6 +67473,15 @@
         "neu": 0.6,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "noyhk1b",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.1
       }
     ]
   ],
@@ -137214,6 +137250,24 @@
         "pos": 0.0,
         "compound": -0.24
       }
+    ],
+    [
+      "noyhfzw",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "noyhgg0",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -152601,6 +152655,15 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "noyhj35",
+      {
+        "neg": 0.5,
+        "neu": 0.45,
+        "pos": 0.05,
+        "compound": -0.2
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -154789,6 +154852,15 @@
         "neu": 0.05,
         "pos": 0.05,
         "compound": -0.8
+      }
+    ],
+    [
+      "noyhfyi",
+      {
+        "neg": 0.4,
+        "neu": 0.4,
+        "pos": 0.2,
+        "compound": -0.1
       }
     ]
   ],
@@ -188601,6 +188673,24 @@
         "neu": 0.92,
         "pos": 0.08,
         "compound": 0.2
+      }
+    ],
+    [
+      "noyhhm2",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
+      }
+    ],
+    [
+      "noyhk5d",
+      {
+        "neg": 0.9,
+        "neu": 0.05,
+        "pos": 0.05,
+        "compound": -0.8
       }
     ]
   ],
