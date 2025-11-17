@@ -60803,6 +60803,24 @@
         "pos": 0.1,
         "compound": -0.2
       }
+    ],
+    [
+      "npb2okj",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npb2r2t",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.5
+      }
     ]
   ],
   "btc": [
@@ -77429,6 +77447,15 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.05
+      }
+    ],
+    [
+      "npb2rdc",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
@@ -139563,6 +139590,24 @@
         "pos": 0.6,
         "compound": 0.5
       }
+    ],
+    [
+      "npb2njn",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.05
+      }
+    ],
+    [
+      "npb2pae",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -155138,6 +155183,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "npb2t3c",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.2
       }
     ]
   ],
@@ -175874,6 +175928,15 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "npb2qfu",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -191598,6 +191661,33 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "npb2ohx",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "npb2rlx",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "npb2s0k",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
