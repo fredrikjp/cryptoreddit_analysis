@@ -60713,6 +60713,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "npahoef",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npahpeg",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npahpk4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npahpoc",
+      {
+        "neg": 0.217,
+        "neu": 0.783,
+        "pos": 0.0,
+        "compound": -0.3612
+      }
     ]
   ],
   "btc": [
@@ -68733,6 +68769,15 @@
         "neu": 0.482,
         "pos": 0.0,
         "compound": -0.5093
+      }
+    ],
+    [
+      "npahn1e",
+      {
+        "neg": 0.134,
+        "neu": 0.743,
+        "pos": 0.124,
+        "compound": -0.0516
       }
     ]
   ],
