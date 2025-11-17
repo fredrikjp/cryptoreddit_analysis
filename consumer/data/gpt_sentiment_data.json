@@ -60821,6 +60821,78 @@
         "pos": 0.6,
         "compound": 0.5
       }
+    ],
+    [
+      "npbajes",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "npbak1r",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "npban20",
+      {
+        "neg": 0.1,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "npbanhq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npbanvx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "npbanx5",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "npbao7v",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.9
+      }
+    ],
+    [
+      "npbarem",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "btc": [
@@ -68858,6 +68930,15 @@
         "neg": 0.4,
         "neu": 0.6,
         "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "npbakgc",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.2,
         "compound": -0.3
       }
     ]
@@ -77456,6 +77537,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.7
+      }
+    ],
+    [
+      "npbapab",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
       }
     ]
   ],
@@ -191688,6 +191778,51 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "npbalmu",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "npbam4w",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npbam5a",
+      {
+        "neg": 0.0,
+        "neu": 0.48999999999999994,
+        "pos": 0.21,
+        "compound": 0.27999999999999997
+      }
+    ],
+    [
+      "npbamh8",
+      {
+        "neg": 0.48999999999999994,
+        "neu": 0.21,
+        "pos": 0.0,
+        "compound": -0.42
+      }
+    ],
+    [
+      "npbaqi2",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
       }
     ]
   ],
