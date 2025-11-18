@@ -62540,6 +62540,96 @@
         "pos": 0.087,
         "compound": 0.4678
       }
+    ],
+    [
+      "npjtqi4",
+      {
+        "neg": 0.0,
+        "neu": 0.278,
+        "pos": 0.722,
+        "compound": 0.3818
+      }
+    ],
+    [
+      "npjtrro",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npjtvg0",
+      {
+        "neg": 0.13,
+        "neu": 0.87,
+        "pos": 0.0,
+        "compound": -0.4019
+      }
+    ],
+    [
+      "npjtvwu",
+      {
+        "neg": 0.0,
+        "neu": 0.548,
+        "pos": 0.452,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "npjtwq0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npjtya9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npjtz81",
+      {
+        "neg": 0.0,
+        "neu": 0.465,
+        "pos": 0.535,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "npju02u",
+      {
+        "neg": 0.0,
+        "neu": 0.762,
+        "pos": 0.238,
+        "compound": 0.6486
+      }
+    ],
+    [
+      "npju052",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npju0n7",
+      {
+        "neg": 0.0,
+        "neu": 0.881,
+        "pos": 0.119,
+        "compound": 0.2263
+      }
     ]
   ],
   "btc": [
@@ -143262,6 +143352,24 @@
         "pos": 0.359,
         "compound": 0.4215
       }
+    ],
+    [
+      "npjtvu9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npjtwak",
+      {
+        "neg": 0.317,
+        "neu": 0.683,
+        "pos": 0.0,
+        "compound": -0.7579
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -179987,6 +180095,15 @@
         "pos": 0.149,
         "compound": 0.672
       }
+    ],
+    [
+      "npjtynw",
+      {
+        "neg": 0.0,
+        "neu": 0.894,
+        "pos": 0.106,
+        "compound": 0.2263
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -197748,6 +197865,15 @@
         "pos": 0.132,
         "compound": 0.6114
       }
+    ],
+    [
+      "npjtpa9",
+      {
+        "neg": 0.058,
+        "neu": 0.797,
+        "pos": 0.145,
+        "compound": 0.6181
+      }
     ]
   ],
   "Chainlink": [
@@ -198226,6 +198352,15 @@
         "neu": 0.676,
         "pos": 0.174,
         "compound": 0.128
+      }
+    ],
+    [
+      "npjtrnu",
+      {
+        "neg": 0.0,
+        "neu": 0.839,
+        "pos": 0.161,
+        "compound": 0.8982
       }
     ]
   ]
