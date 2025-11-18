@@ -61829,6 +61829,105 @@
         "pos": 0.0,
         "compound": -0.9134
       }
+    ],
+    [
+      "npgkwyy",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.4404
+      }
+    ],
+    [
+      "npgkxny",
+      {
+        "neg": 0.161,
+        "neu": 0.839,
+        "pos": 0.0,
+        "compound": -0.5562
+      }
+    ],
+    [
+      "npgky47",
+      {
+        "neg": 0.056,
+        "neu": 0.853,
+        "pos": 0.091,
+        "compound": 0.5602
+      }
+    ],
+    [
+      "npgkya0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npgkyv0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npgl0h9",
+      {
+        "neg": 0.18,
+        "neu": 0.82,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "npgl1v3",
+      {
+        "neg": 0.083,
+        "neu": 0.819,
+        "pos": 0.098,
+        "compound": 0.2732
+      }
+    ],
+    [
+      "npgl225",
+      {
+        "neg": 0.263,
+        "neu": 0.737,
+        "pos": 0.0,
+        "compound": -0.3612
+      }
+    ],
+    [
+      "npgl2a2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npgl2s5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npgl39e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -70110,6 +70209,33 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "npgkwr8",
+      {
+        "neg": 0.162,
+        "neu": 0.622,
+        "pos": 0.216,
+        "compound": 0.0772
+      }
+    ],
+    [
+      "npgkxkv",
+      {
+        "neg": 0.157,
+        "neu": 0.843,
+        "pos": 0.0,
+        "compound": -0.3818
+      }
+    ],
+    [
+      "npgkxxj",
+      {
+        "neg": 0.149,
+        "neu": 0.518,
+        "pos": 0.333,
+        "compound": 0.836
       }
     ]
   ],
@@ -95730,6 +95856,24 @@
         "neu": 0.693,
         "pos": 0.177,
         "compound": 0.0258
+      }
+    ],
+    [
+      "npgkxeq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npgkyzk",
+      {
+        "neg": 0.216,
+        "neu": 0.784,
+        "pos": 0.0,
+        "compound": -0.296
       }
     ]
   ],
@@ -142082,6 +142226,42 @@
         "neu": 0.926,
         "pos": 0.074,
         "compound": 0.4019
+      }
+    ],
+    [
+      "npgkypt",
+      {
+        "neg": 0.052,
+        "neu": 0.746,
+        "pos": 0.201,
+        "compound": 0.6124
+      }
+    ],
+    [
+      "npgkysl",
+      {
+        "neg": 0.0,
+        "neu": 0.974,
+        "pos": 0.026,
+        "compound": 0.2382
+      }
+    ],
+    [
+      "npgl2au",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npgl37b",
+      {
+        "neg": 0.122,
+        "neu": 0.812,
+        "pos": 0.066,
+        "compound": -0.2741
       }
     ]
   ],
