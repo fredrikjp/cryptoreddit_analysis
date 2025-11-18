@@ -62297,6 +62297,87 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "npigmuj",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "npigoe6",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npigovz",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": -0.1
+      }
+    ],
+    [
+      "npigqgi",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "npigsvk",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.25
+      }
+    ],
+    [
+      "npigvkn",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npigx3a",
+      {
+        "neg": 0.0,
+        "neu": 0.08000000000000002,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npigyj0",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.4,
+        "compound": 0.1
+      }
+    ],
+    [
+      "npigywi",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -142929,6 +143010,24 @@
         "pos": 0.8,
         "compound": 0.6
       }
+    ],
+    [
+      "npigwn3",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "npigz8a",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -153895,6 +153994,15 @@
         "pos": 0.16000000000000003,
         "compound": -0.24
       }
+    ],
+    [
+      "npigv4x",
+      {
+        "neg": 0.0,
+        "neu": 0.24,
+        "pos": 0.5599999999999999,
+        "compound": 0.48
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -158702,6 +158810,15 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.2
+      }
+    ],
+    [
+      "npigw4m",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
       }
     ]
   ],
@@ -171731,6 +171848,15 @@
         "neu": 0.4,
         "pos": 0.2,
         "compound": -0.2
+      }
+    ],
+    [
+      "npigo73",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -195657,6 +195783,15 @@
         "neu": 0.2,
         "pos": 0.05,
         "compound": -0.65
+      }
+    ],
+    [
+      "npigz4y",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.5
       }
     ]
   ],
