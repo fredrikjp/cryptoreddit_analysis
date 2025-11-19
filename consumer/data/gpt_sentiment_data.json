@@ -63278,6 +63278,69 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "npprz04",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.3
+      }
+    ],
+    [
+      "npps26k",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "npps869",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.7
+      }
+    ],
+    [
+      "npps8gn",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "npps8zj",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.3
+      }
+    ],
+    [
+      "npps9qn",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nppsb47",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -71829,6 +71892,42 @@
         "neu": 0.2,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "npprxro",
+      {
+        "neg": 0.6,
+        "neu": 0.1,
+        "pos": 0.3,
+        "compound": -0.15
+      }
+    ],
+    [
+      "npprz8e",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "npps0fk",
+      {
+        "neg": 0.75,
+        "neu": 0.05,
+        "pos": 0.2,
+        "compound": -0.4
+      }
+    ],
+    [
+      "npps9v4",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -88078,6 +88177,15 @@
         "neu": 0.27,
         "pos": 0.0,
         "compound": -0.63
+      }
+    ],
+    [
+      "npps7b1",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
       }
     ]
   ],
@@ -144792,6 +144900,33 @@
         "pos": 0.9,
         "compound": 0.7
       }
+    ],
+    [
+      "npprzrh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npps5g7",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "npps94z",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -160718,6 +160853,24 @@
         "neu": 0.6,
         "pos": 0.5,
         "compound": 0.2
+      }
+    ],
+    [
+      "nppsar6",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nppsb92",
+      {
+        "neg": 0.0,
+        "neu": 0.85,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
@@ -181724,6 +181877,24 @@
         "pos": 0.5,
         "compound": 0.6
       }
+    ],
+    [
+      "npps76i",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nppsbpa",
+      {
+        "neg": 0.2,
+        "neu": 0.5,
+        "pos": 0.3,
+        "compound": 0.05
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -198060,6 +198231,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.6
+      }
+    ],
+    [
+      "npps30a",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.3,
+        "compound": 0.2
       }
     ]
   ],
