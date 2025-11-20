@@ -63818,6 +63818,114 @@
         "pos": 0.2,
         "compound": 0.15
       }
+    ],
+    [
+      "npur3hy",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "npur3pa",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npur4w0",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "npur5lz",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "npur5ma",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npur5s0",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "npur8tj",
+      {
+        "neg": 0.15,
+        "neu": 0.7,
+        "pos": 0.15,
+        "compound": 0.2
+      }
+    ],
+    [
+      "npurbky",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "npurdt2",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "npure6n",
+      {
+        "neg": 0.6,
+        "neu": 0.35,
+        "pos": 0.05,
+        "compound": -0.5
+      }
+    ],
+    [
+      "npurf24",
+      {
+        "neg": 0.05,
+        "neu": 0.2,
+        "pos": 0.75,
+        "compound": 0.7
+      }
+    ],
+    [
+      "npurgk5",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.85
+      }
     ]
   ],
   "btc": [
@@ -72657,6 +72765,15 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": -0.1
+      }
+    ],
+    [
+      "npur35b",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.5
       }
     ]
   ],
@@ -146070,6 +146187,42 @@
         "pos": 0.08000000000000002,
         "compound": 0.08000000000000002
       }
+    ],
+    [
+      "npur70o",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "npura1g",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "npuran4",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "npurg18",
+      {
+        "neg": 0.1,
+        "neu": 0.25,
+        "pos": 0.65,
+        "compound": 0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -150319,6 +150472,51 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.8
+      }
+    ],
+    [
+      "npur3iv",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "npura8q",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npurbvc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npurd8q",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npurfdt",
+      {
+        "neg": 0.020000000000000004,
+        "neu": 0.17,
+        "pos": 0.010000000000000002,
+        "compound": -0.020000000000000004
       }
     ]
   ],
@@ -162131,6 +162329,15 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.2
+      }
+    ],
+    [
+      "npur3mw",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
       }
     ]
   ],
@@ -199734,6 +199941,24 @@
         "neu": 0.4,
         "pos": 0.3,
         "compound": 0.0
+      }
+    ],
+    [
+      "npurcgf",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8
+      }
+    ],
+    [
+      "npure2o",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
