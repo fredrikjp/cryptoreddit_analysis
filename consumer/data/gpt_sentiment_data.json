@@ -64754,6 +64754,123 @@
         "pos": 0.2,
         "compound": -0.1
       }
+    ],
+    [
+      "npx4ann",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.7
+      }
+    ],
+    [
+      "npx4brv",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "npx4cs8",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "npx4dgg",
+      {
+        "neg": 0.1,
+        "neu": 0.4,
+        "pos": 0.5,
+        "compound": 0.1
+      }
+    ],
+    [
+      "npx4ge9",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "npx4gly",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npx4gss",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "npx4hz5",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "npx4ifp",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "npx4j7r",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "npx4k32",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "npx4l2c",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "npx4l4w",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "btc": [
@@ -73675,6 +73792,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "npx4cpi",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "npx4cq9",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "npx4eof",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "npx4ffq",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.2
+      }
     ]
   ],
   "solana": [
@@ -82523,6 +82676,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.15
+      }
+    ],
+    [
+      "npx4hrk",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -147591,6 +147753,15 @@
         "pos": 0.3,
         "compound": 0.0
       }
+    ],
+    [
+      "npx4g7v",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -163859,6 +164030,15 @@
         "neu": 0.4,
         "pos": 0.3,
         "compound": 0.1
+      }
+    ],
+    [
+      "npx4dtp",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
       }
     ]
   ],
@@ -201651,6 +201831,51 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.1
+      }
+    ],
+    [
+      "npx4a0t",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npx4b78",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "npx4bcb",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "npx4d1j",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
+      }
+    ],
+    [
+      "npx4hib",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
