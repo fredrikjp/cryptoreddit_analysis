@@ -65816,6 +65816,60 @@
         "pos": 0.0,
         "compound": -0.4
       }
+    ],
+    [
+      "nq04hje",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nq04hsu",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.9
+      }
+    ],
+    [
+      "nq04ifc",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.35
+      }
+    ],
+    [
+      "nq04kst",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nq04ll1",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nq04lof",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "btc": [
@@ -74863,6 +74917,42 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "nq04ghg",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nq04gr2",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nq04km7",
+      {
+        "neg": 0.9,
+        "neu": 0.0,
+        "pos": 0.1,
+        "compound": -0.8
+      }
+    ],
+    [
+      "nq04l5a",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
     ]
   ],
   "solana": [
@@ -83748,6 +83838,15 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "nq04k9x",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -91363,6 +91462,15 @@
         "neu": 0.2,
         "pos": 0.9,
         "compound": 0.7
+      }
+    ],
+    [
+      "nq04ggy",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
       }
     ]
   ],
@@ -101130,6 +101238,15 @@
         "neu": 0.2,
         "pos": 0.2,
         "compound": -0.3
+      }
+    ],
+    [
+      "nq04ik6",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
@@ -149490,6 +149607,60 @@
         "pos": 0.5,
         "compound": 0.4
       }
+    ],
+    [
+      "nq04ffl",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nq04fnm",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nq04ika",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.15
+      }
+    ],
+    [
+      "nq04j8f",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nq04k6a",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nq04koe",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -160761,6 +160932,15 @@
         "neu": 0.35,
         "pos": 0.6,
         "compound": 0.7
+      }
+    ],
+    [
+      "nq04kwx",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -204028,6 +204208,42 @@
         "pos": 0.3,
         "compound": 0.4
       }
+    ],
+    [
+      "nq04fyr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nq04gbf",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nq04hxl",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nq04iey",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": 0.25
+      }
     ]
   ],
   "cardano": [
@@ -205748,6 +205964,15 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nq04j1r",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.05
       }
     ]
   ],
