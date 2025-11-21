@@ -66095,6 +66095,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nq15pnp",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nq15rar",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nq15u5u",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nq15zkh",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "btc": [
@@ -75240,6 +75276,24 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.1
+      }
+    ],
+    [
+      "nq15tc0",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nq1607c",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
@@ -101580,6 +101634,42 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.7
+      }
+    ],
+    [
+      "nq15r2u",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nq15wer",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nq15y5w",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nq15yd3",
+      {
+        "neg": 0.8,
+        "neu": 0.15,
+        "pos": 0.05,
+        "compound": -0.7
       }
     ]
   ],
@@ -150273,6 +150363,150 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nq15qq9",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nq15r27",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nq15rhh",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nq15s14",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nq15s6l",
+      {
+        "neg": 0.5,
+        "neu": 0.3,
+        "pos": 0.4,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nq15t5g",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nq15u5l",
+      {
+        "neg": 0.1,
+        "neu": 0.1,
+        "pos": 0.8,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nq15u6y",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nq15uep",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nq15vbs",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nq15vdk",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nq15x9u",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nq15yiv",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nq15yvl",
+      {
+        "neg": 0.4,
+        "neu": 0.55,
+        "pos": 0.05,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nq160lb",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nq160nl",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -166668,6 +166902,24 @@
         "pos": 0.3,
         "compound": 0.1
       }
+    ],
+    [
+      "nq15ry3",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nq160cf",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -178135,6 +178387,15 @@
       {
         "neg": 0.0,
         "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nq15z35",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -207226,6 +207487,15 @@
         "neu": 0.8,
         "pos": 0.4,
         "compound": 0.25
+      }
+    ],
+    [
+      "nq15upz",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ]
