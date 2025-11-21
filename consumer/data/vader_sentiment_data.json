@@ -65159,6 +65159,78 @@
         "pos": 0.07,
         "compound": 0.2023
       }
+    ],
+    [
+      "npymn9y",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npymnkd",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npymp37",
+      {
+        "neg": 0.0,
+        "neu": 0.435,
+        "pos": 0.565,
+        "compound": 0.7574
+      }
+    ],
+    [
+      "npympw5",
+      {
+        "neg": 0.0,
+        "neu": 0.795,
+        "pos": 0.205,
+        "compound": 0.6597
+      }
+    ],
+    [
+      "npymreb",
+      {
+        "neg": 0.0,
+        "neu": 0.813,
+        "pos": 0.187,
+        "compound": 0.368
+      }
+    ],
+    [
+      "npymv6k",
+      {
+        "neg": 0.0,
+        "neu": 0.392,
+        "pos": 0.608,
+        "compound": 0.8519
+      }
+    ],
+    [
+      "npymwjo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npymx24",
+      {
+        "neg": 0.0,
+        "neu": 0.862,
+        "pos": 0.138,
+        "compound": 0.7506
+      }
     ]
   ],
   "btc": [
@@ -74133,6 +74205,15 @@
         "neu": 0.916,
         "pos": 0.084,
         "compound": 0.1655
+      }
+    ],
+    [
+      "npymo3y",
+      {
+        "neg": 0.075,
+        "neu": 0.879,
+        "pos": 0.046,
+        "compound": -0.2893
       }
     ]
   ],
@@ -100324,6 +100405,15 @@
     ],
     [
       "npxrz2a",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npymxth",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -148212,6 +148302,69 @@
         "pos": 0.158,
         "compound": 0.5975
       }
+    ],
+    [
+      "npymp7m",
+      {
+        "neg": 0.0,
+        "neu": 0.707,
+        "pos": 0.293,
+        "compound": 0.631
+      }
+    ],
+    [
+      "npyms1a",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npymtry",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npymuxj",
+      {
+        "neg": 0.105,
+        "neu": 0.727,
+        "pos": 0.168,
+        "compound": 0.34
+      }
+    ],
+    [
+      "npymxvm",
+      {
+        "neg": 0.249,
+        "neu": 0.633,
+        "pos": 0.118,
+        "compound": -0.8011
+      }
+    ],
+    [
+      "npymy81",
+      {
+        "neg": 0.115,
+        "neu": 0.681,
+        "pos": 0.204,
+        "compound": 0.2732
+      }
+    ],
+    [
+      "npymycx",
+      {
+        "neg": 0.254,
+        "neu": 0.645,
+        "pos": 0.101,
+        "compound": -0.5859
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -175897,6 +176050,15 @@
         "pos": 0.331,
         "compound": 0.7533
       }
+    ],
+    [
+      "npymsg1",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -202506,6 +202668,24 @@
         "neu": 0.944,
         "pos": 0.056,
         "compound": 0.0772
+      }
+    ],
+    [
+      "npymok0",
+      {
+        "neg": 0.0,
+        "neu": 0.843,
+        "pos": 0.157,
+        "compound": 0.4201
+      }
+    ],
+    [
+      "npymty9",
+      {
+        "neg": 0.0,
+        "neu": 0.76,
+        "pos": 0.24,
+        "compound": 0.9353
       }
     ]
   ],
