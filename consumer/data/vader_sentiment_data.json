@@ -65231,6 +65231,87 @@
         "pos": 0.138,
         "compound": 0.7506
       }
+    ],
+    [
+      "npytet1",
+      {
+        "neg": 0.205,
+        "neu": 0.754,
+        "pos": 0.041,
+        "compound": -0.989
+      }
+    ],
+    [
+      "npytf33",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npytg1t",
+      {
+        "neg": 0.0,
+        "neu": 0.823,
+        "pos": 0.177,
+        "compound": 0.8804
+      }
+    ],
+    [
+      "npytiq4",
+      {
+        "neg": 0.0,
+        "neu": 0.808,
+        "pos": 0.192,
+        "compound": 0.5789
+      }
+    ],
+    [
+      "npytjce",
+      {
+        "neg": 0.524,
+        "neu": 0.476,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "npytjhe",
+      {
+        "neg": 0.0,
+        "neu": 0.954,
+        "pos": 0.046,
+        "compound": 0.2492
+      }
+    ],
+    [
+      "npytkhm",
+      {
+        "neg": 0.067,
+        "neu": 0.933,
+        "pos": 0.0,
+        "compound": -0.5678
+      }
+    ],
+    [
+      "npytlhf",
+      {
+        "neg": 0.0,
+        "neu": 0.782,
+        "pos": 0.218,
+        "compound": 0.4696
+      }
+    ],
+    [
+      "npytlj6",
+      {
+        "neg": 0.0,
+        "neu": 0.765,
+        "pos": 0.235,
+        "compound": 0.5106
+      }
     ]
   ],
   "btc": [
@@ -74215,6 +74296,15 @@
         "pos": 0.046,
         "compound": -0.2893
       }
+    ],
+    [
+      "npyte2h",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4215
+      }
     ]
   ],
   "solana": [
@@ -83081,6 +83171,15 @@
         "neu": 0.938,
         "pos": 0.062,
         "compound": 0.264
+      }
+    ],
+    [
+      "npythyi",
+      {
+        "neg": 0.121,
+        "neu": 0.83,
+        "pos": 0.049,
+        "compound": -0.6124
       }
     ]
   ],
@@ -148365,6 +148464,96 @@
         "pos": 0.101,
         "compound": -0.5859
       }
+    ],
+    [
+      "npytccl",
+      {
+        "neg": 0.277,
+        "neu": 0.723,
+        "pos": 0.0,
+        "compound": -0.3182
+      }
+    ],
+    [
+      "npytd03",
+      {
+        "neg": 0.0,
+        "neu": 0.773,
+        "pos": 0.227,
+        "compound": 0.4767
+      }
+    ],
+    [
+      "npytgh1",
+      {
+        "neg": 0.0,
+        "neu": 0.83,
+        "pos": 0.17,
+        "compound": 0.5423
+      }
+    ],
+    [
+      "npythnq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npyti2b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npytjnw",
+      {
+        "neg": 0.206,
+        "neu": 0.794,
+        "pos": 0.0,
+        "compound": -0.8074
+      }
+    ],
+    [
+      "npytjwp",
+      {
+        "neg": 0.0,
+        "neu": 0.764,
+        "pos": 0.236,
+        "compound": 0.2869
+      }
+    ],
+    [
+      "npytk3w",
+      {
+        "neg": 0.0,
+        "neu": 0.914,
+        "pos": 0.086,
+        "compound": 0.4767
+      }
+    ],
+    [
+      "npytl0k",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "npytloj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -159610,6 +159799,15 @@
         "pos": 0.13,
         "compound": 0.5106
       }
+    ],
+    [
+      "npytcmj",
+      {
+        "neg": 0.0,
+        "neu": 0.704,
+        "pos": 0.296,
+        "compound": 0.6369
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -164651,6 +164849,15 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.7177
+      }
+    ],
+    [
+      "npyte47",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -202686,6 +202893,24 @@
         "neu": 0.76,
         "pos": 0.24,
         "compound": 0.9353
+      }
+    ],
+    [
+      "npytcgk",
+      {
+        "neg": 0.111,
+        "neu": 0.606,
+        "pos": 0.283,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "npytdy7",
+      {
+        "neg": 0.041,
+        "neu": 0.794,
+        "pos": 0.165,
+        "compound": 0.6588
       }
     ]
   ],
