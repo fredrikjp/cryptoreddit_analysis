@@ -68066,6 +68066,105 @@
         "pos": 0.087,
         "compound": 0.6705
       }
+    ],
+    [
+      "nqconiy",
+      {
+        "neg": 0.388,
+        "neu": 0.612,
+        "pos": 0.0,
+        "compound": -0.2263
+      }
+    ],
+    [
+      "nqconsx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqcoo6r",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqcopdu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqcopyg",
+      {
+        "neg": 0.0,
+        "neu": 0.556,
+        "pos": 0.444,
+        "compound": 0.7506
+      }
+    ],
+    [
+      "nqcoqjh",
+      {
+        "neg": 0.0,
+        "neu": 0.945,
+        "pos": 0.055,
+        "compound": 0.2023
+      }
+    ],
+    [
+      "nqcospf",
+      {
+        "neg": 0.0,
+        "neu": 0.897,
+        "pos": 0.103,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "nqcotes",
+      {
+        "neg": 0.0,
+        "neu": 0.854,
+        "pos": 0.146,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "nqcotgf",
+      {
+        "neg": 0.087,
+        "neu": 0.785,
+        "pos": 0.128,
+        "compound": 0.235
+      }
+    ],
+    [
+      "nqcouj0",
+      {
+        "neg": 0.0,
+        "neu": 0.492,
+        "pos": 0.508,
+        "compound": 0.4753
+      }
+    ],
+    [
+      "nqcow40",
+      {
+        "neg": 0.198,
+        "neu": 0.652,
+        "pos": 0.15,
+        "compound": -0.1779
+      }
     ]
   ],
   "btc": [
@@ -86664,6 +86763,15 @@
         "pos": 0.136,
         "compound": 0.8225
       }
+    ],
+    [
+      "nqcot70",
+      {
+        "neg": 0.0,
+        "neu": 0.798,
+        "pos": 0.202,
+        "compound": 0.5106
+      }
     ]
   ],
   "ethereum": [
@@ -104541,6 +104649,51 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nqcon36",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqcon62",
+      {
+        "neg": 0.0,
+        "neu": 0.612,
+        "pos": 0.388,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "nqcoqat",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqcosvq",
+      {
+        "neg": 0.0,
+        "neu": 0.465,
+        "pos": 0.535,
+        "compound": 0.3182
+      }
+    ],
+    [
+      "nqcouug",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.7269
       }
     ]
   ],
@@ -154602,6 +154755,15 @@
         "pos": 1.0,
         "compound": 0.4019
       }
+    ],
+    [
+      "nqcoms0",
+      {
+        "neg": 0.0,
+        "neu": 0.732,
+        "pos": 0.268,
+        "compound": 0.296
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -184800,6 +184962,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nqcoqtm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "XRP": [
@@ -210309,6 +210480,15 @@
         "neu": 0.927,
         "pos": 0.073,
         "compound": 0.4728
+      }
+    ],
+    [
+      "nqcosgp",
+      {
+        "neg": 0.231,
+        "neu": 0.769,
+        "pos": 0.0,
+        "compound": -0.34
       }
     ]
   ],
