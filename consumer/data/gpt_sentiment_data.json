@@ -68237,6 +68237,42 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nqd73xx",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nqd784r",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nqd7a57",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqd7d3b",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -77877,6 +77913,24 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.3
+      }
+    ],
+    [
+      "nqd780f",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nqd78bx",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": 0.2
       }
     ]
   ],
@@ -94612,6 +94666,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.5
+      }
+    ],
+    [
+      "nqd76jv",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
@@ -154854,6 +154917,24 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "nqd75ki",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.5,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nqd7cq5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -210624,6 +210705,60 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.3
+      }
+    ],
+    [
+      "nqd73rc",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nqd76wo",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nqd78v3",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nqd799b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqd79rz",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nqd7am4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
