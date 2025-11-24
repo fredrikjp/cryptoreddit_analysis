@@ -69218,6 +69218,78 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nqm2851",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqm2akj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqm2d26",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqm2daz",
+      {
+        "neg": 0.6,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nqm2fh3",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nqm2hez",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.9
+      }
+    ],
+    [
+      "nqm2j40",
+      {
+        "neg": 0.5,
+        "neu": 0.3,
+        "pos": 0.2,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nqm2j6l",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -106080,6 +106152,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nqm2g4b",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
@@ -156707,6 +156788,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nqm2gv6",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
