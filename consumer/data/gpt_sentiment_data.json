@@ -68957,6 +68957,87 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nqkf5f7",
+      {
+        "neg": 0.8,
+        "neu": 0.15,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nqkfb47",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nqkfc7c",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nqkfdgp",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nqkfdh6",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqkfe7f",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nqkffpr",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqkfgb4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqkfimh",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -105774,6 +105855,15 @@
         "neu": 0.4,
         "pos": 0.0,
         "compound": -0.5
+      }
+    ],
+    [
+      "nqkfa7l",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -156330,6 +156420,33 @@
         "pos": 0.1,
         "compound": -0.1
       }
+    ],
+    [
+      "nqkf972",
+      {
+        "neg": 0.08000000000000002,
+        "neu": 0.6400000000000001,
+        "pos": 0.08000000000000002,
+        "compound": -0.16000000000000003
+      }
+    ],
+    [
+      "nqkfe7w",
+      {
+        "neg": 0.3,
+        "neu": 0.2,
+        "pos": 0.5,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nqkfhr6",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -167692,6 +167809,24 @@
         "pos": 0.3,
         "compound": 0.4
       }
+    ],
+    [
+      "nqkfeqg",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nqkff50",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -173183,6 +173318,15 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.5
+      }
+    ],
+    [
+      "nqkf88k",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -195152,6 +195296,42 @@
         "pos": 0.1,
         "compound": -0.3
       }
+    ],
+    [
+      "nqkf5qv",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nqkf92k",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqkfa7f",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.85
+      }
+    ],
+    [
+      "nqkffgv",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.7
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -212740,6 +212920,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nqkfghv",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nqkfhi7",
+      {
+        "neg": 0.2,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.15
+      }
+    ],
+    [
+      "nqkfi1p",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "cardano": [
@@ -214496,6 +214703,24 @@
         "neu": 0.7,
         "pos": 0.05,
         "compound": -0.2
+      }
+    ],
+    [
+      "nqkfdog",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nqkff93",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
       }
     ]
   ],
