@@ -160184,6 +160184,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nqi3mn8",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.95
+      }
     ]
   ],
   "memecoins": [
@@ -186231,6 +186240,15 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "nqi3js9",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "XRP": [
@@ -211974,6 +211992,33 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nqi3mi3",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nqi3mkn",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.9
+      }
+    ],
+    [
+      "nqi3n8d",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
       }
     ]
   ],
