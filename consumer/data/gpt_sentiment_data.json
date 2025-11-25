@@ -79246,6 +79246,15 @@
         "pos": 0.0,
         "compound": -0.2
       }
+    ],
+    [
+      "nqnv7k4",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.2
+      }
     ]
   ],
   "solana": [
@@ -88275,6 +88284,15 @@
         "pos": 1.0,
         "compound": 0.9
       }
+    ],
+    [
+      "nqnv4mp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -96133,6 +96151,15 @@
         "neu": 0.85,
         "pos": 0.1,
         "compound": 0.05
+      }
+    ],
+    [
+      "nqnv5iv",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.5
       }
     ]
   ],
@@ -161498,6 +161525,15 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nqnv3m6",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "memecoins": [
@@ -213747,6 +213783,15 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.1
+      }
+    ],
+    [
+      "nqnv4f0",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.4
       }
     ]
   ],
