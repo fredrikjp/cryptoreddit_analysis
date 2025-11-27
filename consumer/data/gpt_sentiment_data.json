@@ -70712,6 +70712,24 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "nr2lm7p",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nr2lqoq",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -80893,6 +80911,15 @@
         "pos": 0.15,
         "compound": 0.1
       }
+    ],
+    [
+      "nr2lqxt",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
     ]
   ],
   "solana": [
@@ -90137,6 +90164,24 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.25
+      }
+    ],
+    [
+      "nr2lp4t",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nr2lp56",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
       }
     ]
   ],
