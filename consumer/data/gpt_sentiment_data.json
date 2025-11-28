@@ -71072,6 +71072,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nr7neuk",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.15
+      }
+    ],
+    [
+      "nr7nk7k",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nr7nkdp",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nr7nnjt",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -81351,6 +81387,24 @@
         "neu": 0.3,
         "pos": 0.45,
         "compound": 0.35
+      }
+    ],
+    [
+      "nr7nfem",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nr7nhdl",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.55
       }
     ]
   ],
@@ -172300,6 +172354,15 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "nr7nith",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -180250,6 +180313,15 @@
         "neu": 0.8,
         "pos": 0.1,
         "compound": -0.1
+      }
+    ],
+    [
+      "nr7nmk3",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
@@ -218427,6 +218499,24 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.2
+      }
+    ],
+    [
+      "nr7nfw3",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.3,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nr7nluw",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.8
       }
     ]
   ],
