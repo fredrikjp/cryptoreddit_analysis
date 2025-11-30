@@ -71963,6 +71963,42 @@
         "pos": 0.0,
         "compound": -0.5
       }
+    ],
+    [
+      "nrknri5",
+      {
+        "neg": 0.8,
+        "neu": 0.15,
+        "pos": 0.05,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nrknujr",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrknvju",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nrknwvr",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -82530,6 +82566,15 @@
         "neu": 0.1,
         "pos": 0.0,
         "compound": -0.8
+      }
+    ],
+    [
+      "nrknr11",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
