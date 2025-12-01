@@ -73088,6 +73088,87 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nrs814a",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.6,
+        "compound": 0.55
+      }
+    ],
+    [
+      "nrs846c",
+      {
+        "neg": 0.1,
+        "neu": 0.2,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nrs88ie",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nrs8ahe",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrs8aqm",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nrs8av8",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nrs8c1a",
+      {
+        "neg": 0.2,
+        "neu": 0.5,
+        "pos": 0.3,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrs8c7d",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.85
+      }
+    ],
+    [
+      "nrs8cog",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.5
+      }
     ]
   ],
   "btc": [
@@ -84058,6 +84139,24 @@
       {
         "neg": 0.0,
         "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrs82si",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nrs89fz",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -111966,6 +112065,15 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.4
+      }
+    ],
+    [
+      "nrs8104",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -164826,6 +164934,24 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nrs82p2",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": 0.15
+      }
+    ],
+    [
+      "nrs85q4",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": 0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -182471,6 +182597,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nrs8a0a",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.4
       }
     ]
   ],
