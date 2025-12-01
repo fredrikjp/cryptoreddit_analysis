@@ -72485,6 +72485,51 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "nroxmgn",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nroxo98",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nroxowg",
+      {
+        "neg": 0.0,
+        "neu": 0.18000000000000002,
+        "pos": 0.0,
+        "compound": 0.020000000000000004
+      }
+    ],
+    [
+      "nroxpce",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nroxq03",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
     ]
   ],
   "btc": [
@@ -83322,6 +83367,33 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "nroxmgj",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nroxnhm",
+      {
+        "neg": 0.2,
+        "neu": 0.6,
+        "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nroxocm",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -181320,6 +181392,15 @@
         "pos": 0.0,
         "compound": -0.0
       }
+    ],
+    [
+      "nroxp3c",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -222333,6 +222414,15 @@
         "neu": 0.1,
         "pos": 0.1,
         "compound": -0.75
+      }
+    ],
+    [
+      "nroxmvp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
