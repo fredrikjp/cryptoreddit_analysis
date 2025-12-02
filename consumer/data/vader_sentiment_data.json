@@ -73673,6 +73673,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nrxyr4g",
+      {
+        "neg": 0.0,
+        "neu": 0.824,
+        "pos": 0.176,
+        "compound": 0.4585
+      }
+    ],
+    [
+      "nrxysz8",
+      {
+        "neg": 0.112,
+        "neu": 0.677,
+        "pos": 0.211,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "nrxywcu",
+      {
+        "neg": 0.043,
+        "neu": 0.727,
+        "pos": 0.23,
+        "compound": 0.843
+      }
+    ],
+    [
+      "nrxywiz",
+      {
+        "neg": 0.0,
+        "neu": 0.888,
+        "pos": 0.112,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "nrxz0ng",
+      {
+        "neg": 0.032,
+        "neu": 0.846,
+        "pos": 0.122,
+        "compound": 0.6745
+      }
     ]
   ],
   "btc": [
@@ -170750,6 +170795,15 @@
         "pos": 0.0,
         "compound": -0.3182
       }
+    ],
+    [
+      "nrxyqe5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "memecoins": [
@@ -184001,6 +184055,15 @@
         "neu": 0.556,
         "pos": 0.0,
         "compound": -0.4927
+      }
+    ],
+    [
+      "nrxyypw",
+      {
+        "neg": 0.0,
+        "neu": 0.967,
+        "pos": 0.033,
+        "compound": 0.128
       }
     ]
   ],
@@ -206798,6 +206861,24 @@
         "pos": 0.367,
         "compound": 0.6996
       }
+    ],
+    [
+      "nrxyp94",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrxyzal",
+      {
+        "neg": 0.0,
+        "neu": 0.94,
+        "pos": 0.06,
+        "compound": 0.3182
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -225384,6 +225465,15 @@
         "neu": 0.595,
         "pos": 0.0,
         "compound": -0.8977
+      }
+    ],
+    [
+      "nrxyok9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
