@@ -112345,6 +112345,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nruwho6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -165365,6 +165374,24 @@
         "neu": 0.737,
         "pos": 0.263,
         "compound": 0.431
+      }
+    ],
+    [
+      "nruwiff",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nruwixx",
+      {
+        "neg": 0.0,
+        "neu": 0.734,
+        "pos": 0.266,
+        "compound": 0.5859
       }
     ]
   ],
@@ -224259,6 +224286,24 @@
         "neu": 0.726,
         "pos": 0.274,
         "compound": 0.8074
+      }
+    ],
+    [
+      "nruwhcu",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nruwj3x",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
