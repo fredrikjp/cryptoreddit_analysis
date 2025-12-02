@@ -73358,6 +73358,69 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nrvpj84",
+      {
+        "neg": 0.677,
+        "neu": 0.323,
+        "pos": 0.0,
+        "compound": -0.2732
+      }
+    ],
+    [
+      "nrvpku0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrvpncy",
+      {
+        "neg": 0.0,
+        "neu": 0.781,
+        "pos": 0.219,
+        "compound": 0.9512
+      }
+    ],
+    [
+      "nrvpnqt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrvppzn",
+      {
+        "neg": 0.255,
+        "neu": 0.653,
+        "pos": 0.092,
+        "compound": -0.8807
+      }
+    ],
+    [
+      "nrvpq6p",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.2732
+      }
+    ],
+    [
+      "nrvpr8p",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -84403,6 +84466,24 @@
         "pos": 0.0,
         "compound": -0.6597
       }
+    ],
+    [
+      "nrvph68",
+      {
+        "neg": 0.0,
+        "neu": 0.777,
+        "pos": 0.223,
+        "compound": 0.8225
+      }
+    ],
+    [
+      "nrvpqwe",
+      {
+        "neg": 0.206,
+        "neu": 0.588,
+        "pos": 0.206,
+        "compound": 0.25
+      }
     ]
   ],
   "solana": [
@@ -93864,6 +93945,60 @@
         "pos": 0.173,
         "compound": 0.5859
       }
+    ],
+    [
+      "nrvpi3z",
+      {
+        "neg": 0.0,
+        "neu": 0.852,
+        "pos": 0.148,
+        "compound": 0.8777
+      }
+    ],
+    [
+      "nrvpilk",
+      {
+        "neg": 0.054,
+        "neu": 0.928,
+        "pos": 0.018,
+        "compound": -0.5588
+      }
+    ],
+    [
+      "nrvpnij",
+      {
+        "neg": 0.0,
+        "neu": 0.889,
+        "pos": 0.111,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "nrvpomd",
+      {
+        "neg": 0.054,
+        "neu": 0.928,
+        "pos": 0.018,
+        "compound": -0.5588
+      }
+    ],
+    [
+      "nrvppbr",
+      {
+        "neg": 0.054,
+        "neu": 0.928,
+        "pos": 0.018,
+        "compound": -0.5588
+      }
+    ],
+    [
+      "nrvpqro",
+      {
+        "neg": 0.054,
+        "neu": 0.928,
+        "pos": 0.018,
+        "compound": -0.5588
+      }
     ]
   ],
   "ethereum": [
@@ -101920,6 +102055,15 @@
         "neu": 0.641,
         "pos": 0.359,
         "compound": 0.4215
+      }
+    ],
+    [
+      "nrvpq8b",
+      {
+        "neg": 0.101,
+        "neu": 0.789,
+        "pos": 0.11,
+        "compound": 0.0516
       }
     ]
   ],
@@ -112371,6 +112515,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nrvpopj",
+      {
+        "neg": 0.08,
+        "neu": 0.681,
+        "pos": 0.238,
+        "compound": 0.6249
       }
     ]
   ],
@@ -165420,6 +165573,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nrvpk6q",
+      {
+        "neg": 0.217,
+        "neu": 0.669,
+        "pos": 0.114,
+        "compound": -0.3875
+      }
+    ],
+    [
+      "nrvpmrj",
+      {
+        "neg": 0.0,
+        "neu": 0.76,
+        "pos": 0.24,
+        "compound": 0.6249
+      }
+    ],
+    [
+      "nrvposw",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrvpprn",
+      {
+        "neg": 0.0,
+        "neu": 0.747,
+        "pos": 0.253,
+        "compound": 0.5267
+      }
+    ],
+    [
+      "nrvppz5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -205826,6 +206024,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nrvpiut",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrvpojm",
+      {
+        "neg": 0.056,
+        "neu": 0.879,
+        "pos": 0.065,
+        "compound": 0.1779
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -224349,6 +224565,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nrvpgrp",
+      {
+        "neg": 0.0,
+        "neu": 0.707,
+        "pos": 0.293,
+        "compound": 0.4404
       }
     ]
   ],
