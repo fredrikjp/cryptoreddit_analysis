@@ -73808,6 +73808,33 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nrzbzdw",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nrzc1d3",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nrzc58x",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -84915,6 +84942,24 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "nrzc5c8",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrzc772",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ],
@@ -113118,6 +113163,33 @@
         "neu": 0.4,
         "pos": 0.1,
         "compound": -0.4
+      }
+    ],
+    [
+      "nrzc4v4",
+      {
+        "neg": 0.1,
+        "neu": 0.2,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nrzc94j",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nrzcak6",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.2
       }
     ]
   ],
@@ -171029,6 +171101,15 @@
         "pos": 1.0,
         "compound": 0.8
       }
+    ],
+    [
+      "nrzcabj",
+      {
+        "neg": 0.0,
+        "neu": 0.27,
+        "pos": 0.03,
+        "compound": 0.03
+      }
     ]
   ],
   "memecoins": [
@@ -196426,6 +196507,42 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nrzc3t9",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nrzc4ry",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nrzc659",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nrzc6v5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -207138,6 +207255,15 @@
         "neg": 0.2,
         "neu": 0.5,
         "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nrzcb24",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
         "compound": 0.1
       }
     ]
@@ -225744,6 +225870,15 @@
         "neu": 0.5,
         "pos": 0.1,
         "compound": -0.4
+      }
+    ],
+    [
+      "nrzc4y1",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
