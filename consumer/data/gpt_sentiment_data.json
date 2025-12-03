@@ -85321,6 +85321,24 @@
         "pos": 0.1,
         "compound": -0.5
       }
+    ],
+    [
+      "ns2g2qk",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
+    ],
+    [
+      "ns2g4ne",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.7
+      }
     ]
   ],
   "solana": [
@@ -103028,6 +103046,15 @@
         "pos": 0.6,
         "compound": 0.6
       }
+    ],
+    [
+      "ns2fzoy",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.5
+      }
     ]
   ],
   "dogecoin": [
@@ -113622,6 +113649,24 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.65
+      }
+    ],
+    [
+      "ns2g2zo",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "ns2g6g9",
+      {
+        "neg": 0.3,
+        "neu": 0.0,
+        "pos": 0.7,
+        "compound": 0.4
       }
     ]
   ],
@@ -167067,6 +167112,60 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ns2fwwu",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
+    ],
+    [
+      "ns2fx6l",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "ns2fzks",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.4
+      }
+    ],
+    [
+      "ns2g23e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ns2g2qm",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "ns2g70k",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -197146,6 +197245,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ns2fxfi",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ns2fxlg",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "ns2g89u",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -207886,6 +208012,15 @@
         "neu": 0.1,
         "pos": 0.6,
         "compound": 0.4
+      }
+    ],
+    [
+      "ns2g3me",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
