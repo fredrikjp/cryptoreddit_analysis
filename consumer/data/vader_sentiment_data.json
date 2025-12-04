@@ -74906,6 +74906,42 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nsblsyz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nsbltcx",
+      {
+        "neg": 0.0,
+        "neu": 0.622,
+        "pos": 0.378,
+        "compound": 0.8442
+      }
+    ],
+    [
+      "nsbltxw",
+      {
+        "neg": 0.392,
+        "neu": 0.608,
+        "pos": 0.0,
+        "compound": -0.7261
+      }
+    ],
+    [
+      "nsblvie",
+      {
+        "neg": 0.0,
+        "neu": 0.67,
+        "pos": 0.33,
+        "compound": 0.6597
+      }
     ]
   ],
   "btc": [
@@ -86238,6 +86274,15 @@
         "neu": 0.0,
         "pos": 1.0,
         "compound": 0.7297
+      }
+    ],
+    [
+      "nsblqxc",
+      {
+        "neg": 0.091,
+        "neu": 0.909,
+        "pos": 0.0,
+        "compound": -0.296
       }
     ]
   ],
