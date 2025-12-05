@@ -75176,6 +75176,33 @@
         "pos": 0.0,
         "compound": -0.32000000000000006
       }
+    ],
+    [
+      "nsfz64r",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nsfz83r",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nsfzapf",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.4
+      }
     ]
   ],
   "btc": [
@@ -96231,6 +96258,24 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nsfz2lh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nsfz76a",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -104530,6 +104575,15 @@
         "neu": 0.6,
         "pos": 0.1,
         "compound": -0.2
+      }
+    ],
+    [
+      "nsfz567",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -115269,6 +115323,15 @@
         "neu": 0.5,
         "pos": 0.5,
         "compound": 0.2
+      }
+    ],
+    [
+      "nsfz7lt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -169245,6 +169308,15 @@
         "pos": 0.0,
         "compound": -0.5
       }
+    ],
+    [
+      "nsfz12y",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.2
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -181291,6 +181363,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nsfzbpv",
+      {
+        "neg": 0.9,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -187313,6 +187394,15 @@
         "neu": 0.5,
         "pos": 0.2,
         "compound": 0.1
+      }
+    ],
+    [
+      "nsfze0u",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
