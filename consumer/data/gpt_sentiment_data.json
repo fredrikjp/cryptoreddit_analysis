@@ -75149,6 +75149,33 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "nsfn6cw",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nsfn7ff",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nsfnb8u",
+      {
+        "neg": 0.32000000000000006,
+        "neu": 0.48,
+        "pos": 0.0,
+        "compound": -0.32000000000000006
+      }
     ]
   ],
   "btc": [
@@ -86535,6 +86562,24 @@
         "neu": 0.8,
         "pos": 0.0,
         "compound": -0.1
+      }
+    ],
+    [
+      "nsfn35k",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nsfn508",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -169191,6 +169236,15 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nsfn7yu",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -187251,6 +187305,15 @@
         "pos": 0.0,
         "compound": -0.5
       }
+    ],
+    [
+      "nsfn9os",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -201612,6 +201675,15 @@
         "pos": 0.8,
         "compound": 0.8
       }
+    ],
+    [
+      "nsfn71e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "XRP": [
@@ -210370,6 +210442,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.4
+      }
+    ],
+    [
+      "nsfnbc6",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
@@ -229164,6 +229245,15 @@
         "neu": 0.3,
         "pos": 0.5,
         "compound": 0.3
+      }
+    ],
+    [
+      "nsfn7wm",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ],
