@@ -75455,6 +75455,51 @@
         "pos": 0.108,
         "compound": 0.3182
       }
+    ],
+    [
+      "nskgum5",
+      {
+        "neg": 0.067,
+        "neu": 0.763,
+        "pos": 0.17,
+        "compound": 0.6597
+      }
+    ],
+    [
+      "nskgvbt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nskgw2m",
+      {
+        "neg": 0.042,
+        "neu": 0.91,
+        "pos": 0.049,
+        "compound": 0.0869
+      }
+    ],
+    [
+      "nskgw74",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nskgwh2",
+      {
+        "neg": 0.0,
+        "neu": 0.758,
+        "pos": 0.242,
+        "compound": 0.1531
+      }
     ]
   ],
   "btc": [
