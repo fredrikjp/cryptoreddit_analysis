@@ -75500,6 +75500,51 @@
         "pos": 0.242,
         "compound": 0.1531
       }
+    ],
+    [
+      "nskmq82",
+      {
+        "neg": 0.071,
+        "neu": 0.772,
+        "pos": 0.157,
+        "compound": 0.8251
+      }
+    ],
+    [
+      "nskmqda",
+      {
+        "neg": 0.086,
+        "neu": 0.781,
+        "pos": 0.133,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nskmqks",
+      {
+        "neg": 0.035,
+        "neu": 0.965,
+        "pos": 0.0,
+        "compound": -0.296
+      }
+    ],
+    [
+      "nskmrc2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nskmrpl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
