@@ -75545,6 +75545,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nskshr5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nskske9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nsksmd8",
+      {
+        "neg": 0.0,
+        "neu": 0.857,
+        "pos": 0.143,
+        "compound": 0.3612
+      }
+    ],
+    [
+      "nsksmvj",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.6249
+      }
+    ],
+    [
+      "nsksmz7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
