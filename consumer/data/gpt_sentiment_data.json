@@ -76454,6 +76454,33 @@
         "pos": 0.1,
         "compound": -0.1
       }
+    ],
+    [
+      "nsurrr7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nsursgo",
+      {
+        "neg": 0.05,
+        "neu": 0.8,
+        "pos": 0.15,
+        "compound": 0.05
+      }
+    ],
+    [
+      "nsurspb",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "btc": [
@@ -97760,6 +97787,24 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "nsurmd2",
+      {
+        "neg": 0.85,
+        "neu": 0.05,
+        "pos": 0.1,
+        "compound": -0.8
+      }
+    ],
+    [
+      "nsurngx",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.1
       }
     ]
   ],
