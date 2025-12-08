@@ -202861,6 +202861,24 @@
         "pos": 0.0,
         "compound": -0.25
       }
+    ],
+    [
+      "nsx9tox",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nsx9utb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -232745,6 +232763,33 @@
         "neg": 0.05,
         "neu": 0.4,
         "pos": 0.05,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nsx9t2b",
+      {
+        "neg": 0.05,
+        "neu": 0.75,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nsx9vaz",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nsx9wn3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
         "compound": 0.0
       }
     ]
