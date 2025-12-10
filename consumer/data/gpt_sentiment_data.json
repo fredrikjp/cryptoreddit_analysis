@@ -77759,6 +77759,24 @@
         "pos": 0.0,
         "compound": -0.03
       }
+    ],
+    [
+      "ntahkqk",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": -0.1
+      }
+    ],
+    [
+      "ntahmd6",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "btc": [
@@ -89478,6 +89496,24 @@
         "neu": 0.9,
         "pos": 0.0,
         "compound": -0.09000000000000001
+      }
+    ],
+    [
+      "ntahlev",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "ntahoc3",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -118878,6 +118914,15 @@
         "neu": 0.5,
         "pos": 0.5,
         "compound": 0.4
+      }
+    ],
+    [
+      "ntahqsn",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.9
       }
     ]
   ],
@@ -174294,6 +174339,33 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "ntahi30",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "ntahjwx",
+      {
+        "neg": 1.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "ntahpjr",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -205534,6 +205606,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ntahgn4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "sui": [
@@ -235612,6 +235693,15 @@
     ],
     [
       "nt8i28m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ntahqe6",
       {
         "neg": 0.0,
         "neu": 1.0,
