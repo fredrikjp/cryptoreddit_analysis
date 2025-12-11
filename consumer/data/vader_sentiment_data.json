@@ -77966,6 +77966,60 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ntepcby",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ntepd22",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ntepg54",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ntepgba",
+      {
+        "neg": 0.215,
+        "neu": 0.708,
+        "pos": 0.077,
+        "compound": -0.5413
+      }
+    ],
+    [
+      "ntepiap",
+      {
+        "neg": 0.412,
+        "neu": 0.588,
+        "pos": 0.0,
+        "compound": -0.4215
+      }
+    ],
+    [
+      "nteplyg",
+      {
+        "neg": 0.0,
+        "neu": 0.394,
+        "pos": 0.606,
+        "compound": 0.4728
+      }
     ]
   ],
   "btc": [
@@ -89775,6 +89829,15 @@
         "neu": 0.714,
         "pos": 0.0,
         "compound": -0.3412
+      }
+    ],
+    [
+      "nteph1e",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -108175,6 +108238,15 @@
         "neu": 0.897,
         "pos": 0.064,
         "compound": 0.5413
+      }
+    ],
+    [
+      "ntepdyx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -174879,6 +174951,15 @@
         "pos": 0.063,
         "compound": 0.3094
       }
+    ],
+    [
+      "ntepcb7",
+      {
+        "neg": 0.0,
+        "neu": 0.93,
+        "pos": 0.07,
+        "compound": 0.34
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -236382,6 +236463,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ntephca",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4215
       }
     ]
   ],
