@@ -78776,6 +78776,42 @@
         "pos": 0.8,
         "compound": 0.6
       }
+    ],
+    [
+      "ntoa4e8",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ntoa7vh",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "ntoacgy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ntoacwc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -90711,6 +90747,15 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.7
+      }
+    ],
+    [
+      "ntoaf54",
+      {
+        "neg": 0.2,
+        "neu": 0.0,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
@@ -176472,6 +176517,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "ntoa5vh",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.3
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -195216,6 +195270,15 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "ntoa8k6",
+      {
+        "neg": 0.2,
+        "neu": 0.4,
+        "pos": 0.4,
+        "compound": 0.2
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -210180,6 +210243,15 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "ntoadt9",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "XRP": [
@@ -219118,6 +219190,15 @@
         "neu": 0.3,
         "pos": 0.65,
         "compound": 0.7
+      }
+    ],
+    [
+      "ntoa7sb",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -238470,6 +238551,15 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.7
+      }
+    ],
+    [
+      "ntoaeb9",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
