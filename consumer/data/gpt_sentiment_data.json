@@ -78938,6 +78938,33 @@
         "pos": 0.2,
         "compound": 0.0
       }
+    ],
+    [
+      "ntsenag",
+      {
+        "neg": 0.05,
+        "neu": 0.9,
+        "pos": 0.05,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ntsenys",
+      {
+        "neg": 0.6,
+        "neu": 0.35,
+        "pos": 0.05,
+        "compound": -0.5
+      }
+    ],
+    [
+      "ntseoa6",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -100856,6 +100883,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.7
+      }
+    ],
+    [
+      "ntselh7",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
       }
     ]
   ],
@@ -176849,6 +176885,15 @@
         "neu": 0.5,
         "pos": 0.5,
         "compound": 0.6
+      }
+    ],
+    [
+      "ntsenga",
+      {
+        "neg": 0.1,
+        "neu": 0.85,
+        "pos": 0.05,
+        "compound": -0.2
       }
     ]
   ],
