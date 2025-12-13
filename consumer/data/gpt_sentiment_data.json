@@ -78902,6 +78902,42 @@
         "pos": 0.8,
         "compound": 0.6
       }
+    ],
+    [
+      "ntroxh7",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "ntroygt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ntroyrk",
+      {
+        "neg": 0.0,
+        "neu": 0.95,
+        "pos": 0.05,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ntrp1zf",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -176804,6 +176840,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.9
+      }
+    ],
+    [
+      "ntroyie",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.6
       }
     ]
   ],
