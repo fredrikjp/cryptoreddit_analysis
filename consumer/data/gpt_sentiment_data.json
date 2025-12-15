@@ -79847,6 +79847,42 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nu3pkbi",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nu3pkmf",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nu3plvn",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nu3po2c",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -178334,6 +178370,15 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.7
+      }
+    ],
+    [
+      "nu3pmw7",
+      {
+        "neg": 0.0,
+        "neu": 0.42,
+        "pos": 0.18,
+        "compound": 0.12
       }
     ]
   ],
