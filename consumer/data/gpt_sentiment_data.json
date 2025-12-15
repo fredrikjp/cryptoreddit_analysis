@@ -80072,6 +80072,78 @@
         "pos": 0.8,
         "compound": 0.85
       }
+    ],
+    [
+      "nu6bgjk",
+      {
+        "neg": 0.7,
+        "neu": 0.0,
+        "pos": 0.3,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nu6bivz",
+      {
+        "neg": 0.8,
+        "neu": 0.0,
+        "pos": 0.2,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nu6bjf0",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nu6bkkx",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nu6bl29",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nu6bm8p",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nu6bmk2",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nu6bpjb",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
     ]
   ],
   "btc": [
@@ -92151,6 +92223,15 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": 0.0
+      }
+    ],
+    [
+      "nu6bpje",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
@@ -178695,6 +178776,33 @@
         "pos": 0.2,
         "compound": 0.3
       }
+    ],
+    [
+      "nu6bm29",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nu6bmho",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nu6brdm",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -241260,6 +241368,33 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.3
+      }
+    ],
+    [
+      "nu6bgic",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nu6bkqh",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nu6bpxi",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": -0.1
       }
     ]
   ],
