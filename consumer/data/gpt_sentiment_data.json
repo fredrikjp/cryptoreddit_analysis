@@ -80990,6 +80990,24 @@
         "pos": 0.9,
         "compound": 0.8
       }
+    ],
+    [
+      "nuhrr5n",
+      {
+        "neg": 0.05,
+        "neu": 0.85,
+        "pos": 0.1,
+        "compound": -0.05
+      }
+    ],
+    [
+      "nuhrs2u",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.4
+      }
     ]
   ],
   "btc": [
@@ -103332,6 +103350,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nuhrq6l",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
     ]
   ],
   "ethereum": [
@@ -123423,6 +123450,24 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.4
+      }
+    ],
+    [
+      "nuhrp4v",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.75
+      }
+    ],
+    [
+      "nuhrq7q",
+      {
+        "neg": 0.1,
+        "neu": 0.75,
+        "pos": 0.15,
+        "compound": 0.1
       }
     ]
   ],
