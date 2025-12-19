@@ -82322,6 +82322,42 @@
         "pos": 0.2,
         "compound": 0.4
       }
+    ],
+    [
+      "nuvrka7",
+      {
+        "neg": 0.48,
+        "neu": 0.45,
+        "pos": 0.07,
+        "compound": -0.44
+      }
+    ],
+    [
+      "nuvrmda",
+      {
+        "neg": 0.0,
+        "neu": 0.82,
+        "pos": 0.18,
+        "compound": 0.25
+      }
+    ],
+    [
+      "nuvrn63",
+      {
+        "neg": 0.6,
+        "neu": 0.1,
+        "pos": 0.3,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nuvrqua",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -125520,6 +125556,33 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.7
+      }
+    ],
+    [
+      "nuvrhf2",
+      {
+        "neg": 0.75,
+        "neu": 0.22,
+        "pos": 0.03,
+        "compound": -0.65
+      }
+    ],
+    [
+      "nuvrn28",
+      {
+        "neg": 0.6,
+        "neu": 0.35,
+        "pos": 0.05,
+        "compound": -0.53
+      }
+    ],
+    [
+      "nuvrq9u",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -183347,6 +183410,24 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nuvrkub",
+      {
+        "neg": 0.0,
+        "neu": 0.15,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nuvrqex",
+      {
+        "neg": 0.1,
+        "neu": 0.2,
+        "pos": 0.7,
+        "compound": 0.5
       }
     ]
   ],
@@ -247029,6 +247110,15 @@
         "neu": 0.4,
         "pos": 0.6,
         "compound": 0.7
+      }
+    ],
+    [
+      "nuvrs7x",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.4
       }
     ]
   ],
