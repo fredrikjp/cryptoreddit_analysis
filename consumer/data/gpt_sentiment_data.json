@@ -82520,6 +82520,24 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nuzazix",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nuzb3t6",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -183833,6 +183851,33 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nuzazmb",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nuzb06t",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nuzb21j",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": 0.1
       }
     ]
   ],
