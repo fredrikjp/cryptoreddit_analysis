@@ -82907,6 +82907,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nv7gnkp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nv7gp0g",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.3
+      }
     ]
   ],
   "btc": [
@@ -95670,6 +95688,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nv7gkb8",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
@@ -184734,6 +184761,24 @@
         "pos": 0.9,
         "compound": 0.9
       }
+    ],
+    [
+      "nv7gll0",
+      {
+        "neg": 0.6,
+        "neu": 0.2,
+        "pos": 0.2,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nv7gmsq",
+      {
+        "neg": 0.7,
+        "neu": 0.0,
+        "pos": 0.3,
+        "compound": -0.6
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -197530,6 +197575,33 @@
     ],
     [
       "nv76r6z",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nv7gjzh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nv7gnj2",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nv7gnqw",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -248965,6 +249037,15 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nv7gjli",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.4
+      }
     ]
   ],
   "cardano": [
@@ -250991,6 +251072,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nv7gmau",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
       }
     ]
   ],
