@@ -83105,6 +83105,51 @@
         "pos": 0.65,
         "compound": 0.7
       }
+    ],
+    [
+      "nv9pmq5",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nv9pnrq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nv9posr",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nv9psf1",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nv9pz57",
+      {
+        "neg": 0.0,
+        "neu": 0.4,
+        "pos": 0.6,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -95904,6 +95949,15 @@
         "neu": 0.15,
         "pos": 0.05,
         "compound": -0.75
+      }
+    ],
+    [
+      "nv9pqsn",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
@@ -185066,6 +185120,42 @@
         "neu": 0.85,
         "pos": 0.05,
         "compound": -0.05
+      }
+    ],
+    [
+      "nv9psj8",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nv9pwf7",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
+    ],
+    [
+      "nv9pyko",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.05
+      }
+    ],
+    [
+      "nv9pzl1",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
