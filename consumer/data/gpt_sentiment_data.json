@@ -83366,6 +83366,78 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nvdo2as",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nvdo2j4",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nvdo50j",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nvdo57w",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nvdo5nn",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nvdo6kl",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nvdo7cp",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nvdo86o",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
     ]
   ],
   "btc": [
@@ -96246,6 +96318,15 @@
         "neu": 0.2,
         "pos": 0.05,
         "compound": -0.7
+      }
+    ],
+    [
+      "nvdo25s",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.5
       }
     ]
   ],
@@ -185598,6 +185679,51 @@
         "pos": 0.1,
         "compound": -0.2
       }
+    ],
+    [
+      "nvdo1nd",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.6,
+        "compound": 0.5
+      }
+    ],
+    [
+      "nvdo2ak",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nvdo4c0",
+      {
+        "neg": 0.32000000000000006,
+        "neu": 0.4,
+        "pos": 0.08000000000000002,
+        "compound": -0.16000000000000003
+      }
+    ],
+    [
+      "nvdo7gz",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.15
+      }
+    ],
+    [
+      "nvdo8qy",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.4
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -218259,6 +218385,15 @@
         "neu": 0.7,
         "pos": 0.1,
         "compound": 0.0
+      }
+    ],
+    [
+      "nvdo3k9",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
