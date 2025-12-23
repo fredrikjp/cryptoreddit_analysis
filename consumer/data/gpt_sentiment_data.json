@@ -83996,6 +83996,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nvly9ff",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nvlyapr",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.75
+      }
     ]
   ],
   "btc": [
@@ -107372,6 +107390,15 @@
         "neu": 0.8,
         "pos": 0.2,
         "compound": 0.3
+      }
+    ],
+    [
+      "nvly8tx",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -231233,6 +231260,15 @@
         "pos": 0.0,
         "compound": -0.9
       }
+    ],
+    [
+      "nvlyezl",
+      {
+        "neg": 0.3,
+        "neu": 0.3,
+        "pos": 0.4,
+        "compound": 0.1
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -251762,6 +251798,15 @@
         "neg": 0.4,
         "neu": 0.4,
         "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nvlybdd",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
         "compound": 0.0
       }
     ]
