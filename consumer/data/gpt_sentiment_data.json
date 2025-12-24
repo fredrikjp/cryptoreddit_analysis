@@ -84311,6 +84311,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nvqsbzc",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -116906,6 +116915,15 @@
         "pos": 1.0,
         "compound": 0.8
       }
+    ],
+    [
+      "nvqsehs",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "dogecoin": [
@@ -128526,6 +128544,15 @@
         "neu": 0.1,
         "pos": 0.0,
         "compound": -0.75
+      }
+    ],
+    [
+      "nvqsf3c",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -232151,6 +232178,15 @@
         "pos": 0.6,
         "compound": 0.5
       }
+    ],
+    [
+      "nvqseas",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.5
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -252753,6 +252789,15 @@
         "neu": 0.15,
         "pos": 0.05,
         "compound": -0.7
+      }
+    ],
+    [
+      "nvqs8mz",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
       }
     ]
   ],
