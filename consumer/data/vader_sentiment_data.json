@@ -85247,6 +85247,51 @@
         "pos": 0.0,
         "compound": -0.296
       }
+    ],
+    [
+      "nwbm99b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nwbm9r4",
+      {
+        "neg": 0.313,
+        "neu": 0.687,
+        "pos": 0.0,
+        "compound": -0.4927
+      }
+    ],
+    [
+      "nwbm9z3",
+      {
+        "neg": 0.218,
+        "neu": 0.782,
+        "pos": 0.0,
+        "compound": -0.6486
+      }
+    ],
+    [
+      "nwbmbkt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nwbmbxp",
+      {
+        "neg": 0.092,
+        "neu": 0.789,
+        "pos": 0.119,
+        "compound": 0.3464
+      }
     ]
   ],
   "btc": [
