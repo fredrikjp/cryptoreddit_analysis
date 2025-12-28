@@ -98533,6 +98533,15 @@
         "pos": 0.1,
         "compound": -0.5
       }
+    ],
+    [
+      "nwagd99",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "solana": [
@@ -118193,6 +118202,15 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nwagc28",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -129930,6 +129948,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.7
+      }
+    ],
+    [
+      "nwagj8p",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -189466,6 +189493,24 @@
         "neg": 0.1,
         "neu": 0.8,
         "pos": 0.1,
+        "compound": -0.1
+      }
+    ],
+    [
+      "nwagemc",
+      {
+        "neg": 0.3,
+        "neu": 0.2,
+        "pos": 0.5,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nwagh2f",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.2,
         "compound": -0.1
       }
     ]
