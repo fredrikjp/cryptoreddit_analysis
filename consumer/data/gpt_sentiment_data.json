@@ -85472,6 +85472,24 @@
         "pos": 0.7,
         "compound": 0.8
       }
+    ],
+    [
+      "nwerao2",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nwergpd",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -98847,6 +98865,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nwerdks",
+      {
+        "neg": 0.3,
+        "neu": 0.4,
+        "pos": 0.3,
+        "compound": 0.1
       }
     ]
   ],
@@ -235040,6 +235067,15 @@
         "pos": 0.1,
         "compound": -0.3
       }
+    ],
+    [
+      "nwerce8",
+      {
+        "neg": 0.1,
+        "neu": 0.1,
+        "pos": 0.8,
+        "compound": 0.7
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -258661,6 +258697,15 @@
         "neu": 0.4,
         "pos": 0.1,
         "compound": -0.3
+      }
+    ],
+    [
+      "nwerfv4",
+      {
+        "neg": 0.4,
+        "neu": 0.3,
+        "pos": 0.3,
+        "compound": 0.0
       }
     ]
   ]
