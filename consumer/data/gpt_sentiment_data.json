@@ -189783,6 +189783,33 @@
         "pos": 0.9,
         "compound": 0.7
       }
+    ],
+    [
+      "nwdevvo",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nwdexd2",
+      {
+        "neg": 0.05,
+        "neu": 0.7,
+        "pos": 0.25,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nwdexjx",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -255777,6 +255804,24 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.75
+      }
+    ],
+    [
+      "nwdes1v",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nwdeyjl",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.0
       }
     ]
   ],
