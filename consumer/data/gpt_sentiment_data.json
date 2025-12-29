@@ -85841,6 +85841,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nwko8g5",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nwkocoz",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -190565,6 +190583,78 @@
         "neu": 0.5,
         "pos": 0.0,
         "compound": -0.4
+      }
+    ],
+    [
+      "nwko7qb",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nwko7qx",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nwko8fv",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nwko8p2",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nwkodlk",
+      {
+        "neg": 0.7,
+        "neu": 0.0,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nwkoduq",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nwkoe6u",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nwkof8h",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
