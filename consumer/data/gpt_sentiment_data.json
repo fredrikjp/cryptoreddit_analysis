@@ -86345,6 +86345,60 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nwrd59i",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.45
+      }
+    ],
+    [
+      "nwrd6t5",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.15
+      }
+    ],
+    [
+      "nwrd78b",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nwrd8jv",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nwrd9hb",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.65
+      }
+    ],
+    [
+      "nwrdhhn",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -131423,6 +131477,15 @@
         "neg": 0.7,
         "neu": 0.3,
         "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nwrdcbo",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
         "compound": -0.6
       }
     ]
@@ -191547,6 +191610,15 @@
         "pos": 0.1,
         "compound": 0.1
       }
+    ],
+    [
+      "nwrdgjq",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.2,
+        "compound": -0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -211685,6 +211757,15 @@
         "neu": 0.2,
         "pos": 0.0,
         "compound": -0.5
+      }
+    ],
+    [
+      "nwrd50n",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
       }
     ]
   ],
@@ -258027,6 +258108,15 @@
         "neu": 0.27,
         "pos": 0.0,
         "compound": 0.03
+      }
+    ],
+    [
+      "nwrdhgo",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": 0.1
       }
     ]
   ],
