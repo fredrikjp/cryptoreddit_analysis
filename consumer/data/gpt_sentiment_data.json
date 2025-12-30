@@ -86138,6 +86138,33 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nwpauec",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nwpawuz",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nwpax3o",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.2
+      }
     ]
   ],
   "btc": [
@@ -99622,6 +99649,15 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nwparuj",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.2
+      }
     ]
   ],
   "solana": [
@@ -110252,6 +110288,24 @@
         "neu": 0.5,
         "pos": 0.4,
         "compound": 0.3
+      }
+    ],
+    [
+      "nwpascv",
+      {
+        "neg": 0.0,
+        "neu": 0.36000000000000004,
+        "pos": 0.04000000000000001,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nwpawjx",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.8
       }
     ]
   ],
@@ -131095,6 +131149,15 @@
     ],
     [
       "nwn4n7m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nwpavqe",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -191151,6 +191214,15 @@
         "pos": 0.1,
         "compound": -0.1
       }
+    ],
+    [
+      "nwpaxa2",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -224845,6 +224917,24 @@
       {
         "neg": 0.0,
         "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nwpaum8",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nwpavvq",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
       }
