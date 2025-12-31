@@ -86588,6 +86588,42 @@
         "pos": 0.2,
         "compound": 0.0
       }
+    ],
+    [
+      "nwurk51",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nwurkhb",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.2
+      }
+    ],
+    [
+      "nwurql5",
+      {
+        "neg": 0.15,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nwurrhm",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.3
+      }
     ]
   ],
   "btc": [
@@ -100198,6 +100234,15 @@
         "pos": 0.0,
         "compound": -0.3
       }
+    ],
+    [
+      "nwuro8h",
+      {
+        "neg": 0.7,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.65
+      }
     ]
   ],
   "solana": [
@@ -110891,6 +110936,15 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": -0.3
+      }
+    ],
+    [
+      "nwurla9",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.3
       }
     ]
   ],
@@ -131820,6 +131874,15 @@
         "neu": 0.0,
         "pos": 1.0,
         "compound": 0.8
+      }
+    ],
+    [
+      "nwurl0x",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
       }
     ]
   ],
@@ -192087,6 +192150,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nwurjmf",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -197371,6 +197443,15 @@
         "neu": 0.5,
         "pos": 0.5,
         "compound": 0.5
+      }
+    ],
+    [
+      "nwurrxt",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -237604,6 +237685,15 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "nwursv4",
+      {
+        "neg": 0.05,
+        "neu": 0.3,
+        "pos": 0.5,
+        "compound": 0.45
       }
     ]
   ],
