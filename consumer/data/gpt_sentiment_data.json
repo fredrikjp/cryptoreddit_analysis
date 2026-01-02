@@ -121253,6 +121253,15 @@
         "pos": 0.0,
         "compound": 0.5
       }
+    ],
+    [
+      "nxb96mo",
+      {
+        "neg": 0.2,
+        "neu": 0.8,
+        "pos": 0.0,
+        "compound": -0.4
+      }
     ]
   ],
   "dogecoin": [
@@ -207436,6 +207445,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nxb90mj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxb956f",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -261249,6 +261276,24 @@
         "neu": 0.7,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nxb8zg9",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "nxb971x",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.3
       }
     ]
   ],
