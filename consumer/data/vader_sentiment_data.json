@@ -87650,6 +87650,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nxbxene",
+      {
+        "neg": 0.0,
+        "neu": 0.834,
+        "pos": 0.166,
+        "compound": 0.1511
+      }
+    ],
+    [
+      "nxbxhjt",
+      {
+        "neg": 0.045,
+        "neu": 0.801,
+        "pos": 0.154,
+        "compound": 0.6486
+      }
     ]
   ],
   "btc": [
@@ -101340,6 +101358,15 @@
         "neu": 0.829,
         "pos": 0.0,
         "compound": -0.5423
+      }
+    ],
+    [
+      "nxbxp7w",
+      {
+        "neg": 0.295,
+        "neu": 0.705,
+        "pos": 0.0,
+        "compound": -0.5574
       }
     ]
   ],
@@ -194067,6 +194094,15 @@
         "pos": 0.16,
         "compound": 0.1027
       }
+    ],
+    [
+      "nxbxhz0",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -207544,6 +207580,24 @@
         "pos": 0.222,
         "compound": 0.3151
       }
+    ],
+    [
+      "nxbxf4k",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxbxi9g",
+      {
+        "neg": 0.025,
+        "neu": 0.78,
+        "pos": 0.195,
+        "compound": 0.9897
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -214467,6 +214521,15 @@
         "pos": 0.0,
         "compound": -0.6322
       }
+    ],
+    [
+      "nxbxn0l",
+      {
+        "neg": 0.0,
+        "neu": 0.873,
+        "pos": 0.127,
+        "compound": 0.4404
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -217010,6 +217073,15 @@
     ],
     [
       "nx76k76",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxbxipa",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -230546,6 +230618,15 @@
         "neu": 0.294,
         "pos": 0.706,
         "compound": 0.5859
+      }
+    ],
+    [
+      "nxbxjbc",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4019
       }
     ]
   ],
@@ -261384,6 +261465,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nxbxpcy",
+      {
+        "neg": 0.018,
+        "neu": 0.903,
+        "pos": 0.079,
+        "compound": 0.8151
       }
     ]
   ],
