@@ -87830,6 +87830,33 @@
         "pos": 0.3,
         "compound": 0.1
       }
+    ],
+    [
+      "nxgu64i",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nxgu8ji",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nxgufnz",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.3
+      }
     ]
   ],
   "btc": [
@@ -101600,6 +101627,15 @@
         "neg": 0.0,
         "neu": 0.6,
         "pos": 0.4,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nxgu6pd",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.3,
         "compound": 0.1
       }
     ]
@@ -121559,6 +121595,15 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "nxgu6w8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "dogecoin": [
@@ -133737,6 +133782,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.5
+      }
+    ],
+    [
+      "nxgu4m5",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.3
       }
     ]
   ],
@@ -217502,6 +217556,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nxgu40n",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethtrader": [
@@ -231084,6 +231147,15 @@
       {
         "neg": 0.0,
         "neu": 0.3,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxgu64p",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
       }
@@ -261979,6 +262051,15 @@
         "pos": 0.4,
         "compound": 0.35
       }
+    ],
+    [
+      "nxgu4hm",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
+      }
     ]
   ],
   "cardano": [
@@ -264122,6 +264203,15 @@
         "neu": 0.8,
         "pos": 0.15,
         "compound": 0.1
+      }
+    ],
+    [
+      "nxgue1h",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
