@@ -133540,6 +133540,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nxdanqc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -230781,6 +230790,15 @@
         "pos": 1.0,
         "compound": 0.4019
       }
+    ],
+    [
+      "nxdapq0",
+      {
+        "neg": 0.1,
+        "neu": 0.826,
+        "pos": 0.075,
+        "compound": 0.0094
+      }
     ]
   ],
   "XRP": [
@@ -261646,6 +261664,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nxdajde",
+      {
+        "neg": 0.409,
+        "neu": 0.463,
+        "pos": 0.129,
+        "compound": -0.7543
+      }
     ]
   ],
   "cardano": [
@@ -263762,6 +263789,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nxdamjp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxdarr9",
+      {
+        "neg": 0.146,
+        "neu": 0.854,
+        "pos": 0.0,
+        "compound": -0.2624
       }
     ]
   ],
