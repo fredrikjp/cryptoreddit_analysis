@@ -88388,6 +88388,42 @@
         "pos": 0.2,
         "compound": 0.1
       }
+    ],
+    [
+      "nxoofnj",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxooim3",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nxooj33",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxoom8j",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.7
+      }
     ]
   ],
   "btc": [
@@ -102249,6 +102285,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nxook4e",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
