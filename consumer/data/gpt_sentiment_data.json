@@ -88793,6 +88793,60 @@
         "pos": 1.0,
         "compound": 0.9
       }
+    ],
+    [
+      "nxv8pb0",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nxv8poc",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nxv8puk",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxv8rvz",
+      {
+        "neg": 0.4,
+        "neu": 0.5,
+        "pos": 0.1,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nxv8xsz",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nxv8y4w",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
@@ -122828,6 +122882,15 @@
         "pos": 0.1,
         "compound": -0.3
       }
+    ],
+    [
+      "nxv8qy7",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
+      }
     ]
   ],
   "dogecoin": [
@@ -135177,6 +135240,24 @@
         "neu": 0.2,
         "pos": 0.1,
         "compound": -0.6
+      }
+    ],
+    [
+      "nxv8ri4",
+      {
+        "neg": 0.65,
+        "neu": 0.3,
+        "pos": 0.05,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nxv91d0",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.3
       }
     ]
   ],
@@ -219680,6 +219761,24 @@
         "pos": 0.1,
         "compound": -0.6
       }
+    ],
+    [
+      "nxv8xlk",
+      {
+        "neg": 0.05,
+        "neu": 0.2,
+        "pos": 0.75,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nxv91tf",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethtrader": [
@@ -242879,6 +242978,33 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "nxv8sop",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nxv8zqi",
+      {
+        "neg": 0.5,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.4
+      }
+    ],
+    [
+      "nxv90gc",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.1
+      }
     ]
   ],
   "CryptoMarkets": [
@@ -264471,6 +264597,15 @@
         "neu": 0.35,
         "pos": 0.35,
         "compound": 0.13999999999999999
+      }
+    ],
+    [
+      "nxv8q17",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.25
       }
     ]
   ],
