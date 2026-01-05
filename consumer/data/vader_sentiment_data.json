@@ -88847,6 +88847,60 @@
         "pos": 0.692,
         "compound": 0.6696
       }
+    ],
+    [
+      "nxvlqwo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxvlr1q",
+      {
+        "neg": 0.0,
+        "neu": 0.619,
+        "pos": 0.381,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "nxvlw34",
+      {
+        "neg": 0.053,
+        "neu": 0.947,
+        "pos": 0.0,
+        "compound": -0.2411
+      }
+    ],
+    [
+      "nxvlwr7",
+      {
+        "neg": 0.0,
+        "neu": 0.619,
+        "pos": 0.381,
+        "compound": 0.5719
+      }
+    ],
+    [
+      "nxvlx8w",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4215
+      }
+    ],
+    [
+      "nxvlyxp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -102726,6 +102780,15 @@
         "neu": 0.65,
         "pos": 0.179,
         "compound": 0.0258
+      }
+    ],
+    [
+      "nxvlkvp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -196479,6 +196542,15 @@
         "pos": 0.412,
         "compound": 0.6369
       }
+    ],
+    [
+      "nxvlo8q",
+      {
+        "neg": 0.073,
+        "neu": 0.902,
+        "pos": 0.025,
+        "compound": -0.5267
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -210181,6 +210253,33 @@
         "pos": 0.13,
         "compound": 0.5106
       }
+    ],
+    [
+      "nxvlldy",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxvlmt6",
+      {
+        "neg": 0.0,
+        "neu": 0.588,
+        "pos": 0.412,
+        "compound": 0.743
+      }
+    ],
+    [
+      "nxvlq6m",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -217130,6 +217229,33 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nxvlpot",
+      {
+        "neg": 0.0,
+        "neu": 0.652,
+        "pos": 0.348,
+        "compound": 0.5859
+      }
+    ],
+    [
+      "nxvlta3",
+      {
+        "neg": 0.182,
+        "neu": 0.511,
+        "pos": 0.307,
+        "compound": 0.4019
+      }
+    ],
+    [
+      "nxvlupa",
+      {
+        "neg": 0.0,
+        "neu": 0.625,
+        "pos": 0.375,
+        "compound": 0.8126
       }
     ]
   ],
@@ -242999,6 +243125,15 @@
     ],
     [
       "nxv90gc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxvll2m",
       {
         "neg": 0.0,
         "neu": 1.0,
