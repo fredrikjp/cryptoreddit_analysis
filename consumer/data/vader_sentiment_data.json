@@ -88703,6 +88703,51 @@
         "pos": 0.0,
         "compound": -0.2411
       }
+    ],
+    [
+      "nxuiegi",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxuiely",
+      {
+        "neg": 0.0,
+        "neu": 0.345,
+        "pos": 0.655,
+        "compound": 0.765
+      }
+    ],
+    [
+      "nxuif8i",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nxuigb6",
+      {
+        "neg": 0.053,
+        "neu": 0.947,
+        "pos": 0.0,
+        "compound": -0.2411
+      }
+    ],
+    [
+      "nxuioju",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -113502,6 +113547,24 @@
         "pos": 0.077,
         "compound": -0.7703
       }
+    ],
+    [
+      "nxuig8s",
+      {
+        "neg": 0.0,
+        "neu": 0.94,
+        "pos": 0.06,
+        "compound": 0.5574
+      }
+    ],
+    [
+      "nxuigbl",
+      {
+        "neg": 0.073,
+        "neu": 0.807,
+        "pos": 0.12,
+        "compound": 0.7333
+      }
     ]
   ],
   "ethereum": [
@@ -135042,6 +135105,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nxuicrq",
+      {
+        "neg": 0.394,
+        "neu": 0.606,
+        "pos": 0.0,
+        "compound": -0.0772
       }
     ]
   ],
@@ -196218,6 +196290,15 @@
         "pos": 0.08,
         "compound": 0.539
       }
+    ],
+    [
+      "nxuidn7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -242671,6 +242752,15 @@
         "neu": 0.318,
         "pos": 0.481,
         "compound": 0.9628
+      }
+    ],
+    [
+      "nxuilgc",
+      {
+        "neg": 0.0,
+        "neu": 0.48,
+        "pos": 0.52,
+        "compound": 0.826
       }
     ]
   ],
