@@ -89558,6 +89558,33 @@
         "pos": 0.6,
         "compound": 0.5
       }
+    ],
+    [
+      "ny7y9zk",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "ny7yi06",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.85
+      }
+    ],
+    [
+      "ny7ykdo",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -203483,6 +203510,15 @@
         "pos": 0.8,
         "compound": 0.7
       }
+    ],
+    [
+      "ny7yh90",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.9
+      }
     ]
   ],
   "memecoins": [
@@ -232938,6 +232974,15 @@
         "neu": 0.9,
         "pos": 0.05,
         "compound": 0.0
+      }
+    ],
+    [
+      "ny7ybqx",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.7
       }
     ]
   ],
