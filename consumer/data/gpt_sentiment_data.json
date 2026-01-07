@@ -89594,6 +89594,42 @@
         "pos": 0.75,
         "compound": 0.7
       }
+    ],
+    [
+      "ny8p1d8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "ny8p6to",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "ny8p73b",
+      {
+        "neg": 0.65,
+        "neu": 0.3,
+        "pos": 0.05,
+        "compound": -0.55
+      }
+    ],
+    [
+      "ny8pdyh",
+      {
+        "neg": 0.1,
+        "neu": 0.8,
+        "pos": 0.1,
+        "compound": -0.2
+      }
     ]
   ],
   "btc": [
@@ -123908,6 +123944,15 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "ny8pdxl",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.6,
+        "compound": 0.6
+      }
     ]
   ],
   "dogecoin": [
@@ -136365,6 +136410,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "ny8pd79",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.7
       }
     ]
   ],
@@ -198081,6 +198135,24 @@
         "pos": 0.0,
         "compound": -0.6
       }
+    ],
+    [
+      "ny8p7rz",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.4
+      }
+    ],
+    [
+      "ny8pdr8",
+      {
+        "neg": 0.36000000000000004,
+        "neu": 0.45,
+        "pos": 0.09000000000000001,
+        "compound": -0.27
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -218958,6 +219030,15 @@
         "pos": 0.2,
         "compound": -0.2
       }
+    ],
+    [
+      "ny8pdtg",
+      {
+        "neg": 0.3,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.1
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -235415,6 +235496,15 @@
         "neu": 0.3,
         "pos": 0.6,
         "compound": 0.5
+      }
+    ],
+    [
+      "ny8p6ei",
+      {
+        "neg": 0.2,
+        "neu": 0.7,
+        "pos": 0.1,
+        "compound": -0.1
       }
     ]
   ],
