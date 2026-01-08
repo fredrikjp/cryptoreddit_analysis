@@ -90017,6 +90017,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nyfvp7e",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nyfvrwm",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.71
+      }
     ]
   ],
   "btc": [
@@ -104022,6 +104040,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.9
+      }
+    ],
+    [
+      "nyfvkoq",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.34
       }
     ]
   ],
@@ -212836,6 +212863,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nyfvrix",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -267873,6 +267909,15 @@
         "neu": 0.3,
         "pos": 0.0,
         "compound": -0.6
+      }
+    ],
+    [
+      "nyfvlre",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
