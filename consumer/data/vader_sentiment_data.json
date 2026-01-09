@@ -199512,6 +199512,33 @@
         "pos": 0.091,
         "compound": -0.3094
       }
+    ],
+    [
+      "nyncrux",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nyncxtp",
+      {
+        "neg": 0.097,
+        "neu": 0.586,
+        "pos": 0.318,
+        "compound": 0.8377
+      }
+    ],
+    [
+      "nyncyid",
+      {
+        "neg": 0.0,
+        "neu": 0.339,
+        "pos": 0.661,
+        "compound": 0.5994
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -223244,6 +223271,15 @@
         "pos": 0.706,
         "compound": 0.9325
       }
+    ],
+    [
+      "nyncuwj",
+      {
+        "neg": 0.06,
+        "neu": 0.848,
+        "pos": 0.092,
+        "compound": 0.431
+      }
     ]
   ],
   "ethtrader": [
@@ -246802,6 +246838,15 @@
         "neu": 0.798,
         "pos": 0.053,
         "compound": -0.5574
+      }
+    ],
+    [
+      "nyncspn",
+      {
+        "neg": 0.085,
+        "neu": 0.915,
+        "pos": 0.0,
+        "compound": -0.5499
       }
     ]
   ],
