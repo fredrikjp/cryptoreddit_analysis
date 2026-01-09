@@ -90233,6 +90233,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nymzn8c",
+      {
+        "neg": 0.0,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.25
+      }
     ]
   ],
   "btc": [
@@ -115374,6 +115383,15 @@
         "pos": 0.3,
         "compound": 0.3
       }
+    ],
+    [
+      "nymzr03",
+      {
+        "neg": 0.9,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "ethereum": [
@@ -137355,6 +137373,15 @@
         "neu": 0.4,
         "pos": 0.3,
         "compound": 0.0
+      }
+    ],
+    [
+      "nymzqi0",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
@@ -213439,6 +213466,15 @@
         "pos": 0.5,
         "compound": 0.3
       }
+    ],
+    [
+      "nymztft",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.1
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -220496,6 +220532,15 @@
         "neu": 0.8,
         "pos": 0.0,
         "compound": -0.1
+      }
+    ],
+    [
+      "nymzomp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
