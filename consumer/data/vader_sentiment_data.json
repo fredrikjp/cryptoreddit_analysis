@@ -137239,6 +137239,15 @@
         "pos": 0.355,
         "compound": 0.296
       }
+    ],
+    [
+      "nykkn6h",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4588
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -199323,6 +199332,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nykkmya",
+      {
+        "neg": 0.421,
+        "neu": 0.579,
+        "pos": 0.0,
+        "compound": -0.2924
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -234468,6 +234486,33 @@
         "neu": 0.67,
         "pos": 0.211,
         "compound": 0.4199
+      }
+    ],
+    [
+      "nykkn8z",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nykkno6",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nykkojc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
