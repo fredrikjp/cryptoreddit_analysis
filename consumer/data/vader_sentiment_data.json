@@ -90368,6 +90368,42 @@
         "pos": 0.191,
         "compound": 0.4703
       }
+    ],
+    [
+      "nyrbf94",
+      {
+        "neg": 0.0,
+        "neu": 0.751,
+        "pos": 0.249,
+        "compound": 0.6858
+      }
+    ],
+    [
+      "nyrbfjv",
+      {
+        "neg": 0.0,
+        "neu": 0.735,
+        "pos": 0.265,
+        "compound": 0.6597
+      }
+    ],
+    [
+      "nyrbima",
+      {
+        "neg": 0.0,
+        "neu": 0.769,
+        "pos": 0.231,
+        "compound": 0.4588
+      }
+    ],
+    [
+      "nyrbkpm",
+      {
+        "neg": 0.0,
+        "neu": 0.901,
+        "pos": 0.099,
+        "compound": 0.4336
+      }
     ]
   ],
   "btc": [
@@ -199836,6 +199872,15 @@
         "pos": 0.084,
         "compound": 0.1901
       }
+    ],
+    [
+      "nyrbgy8",
+      {
+        "neg": 0.056,
+        "neu": 0.795,
+        "pos": 0.149,
+        "compound": 0.7088
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -213826,6 +213871,15 @@
         "pos": 0.13,
         "compound": 0.5106
       }
+    ],
+    [
+      "nyrbho3",
+      {
+        "neg": 0.0,
+        "neu": 0.703,
+        "pos": 0.297,
+        "compound": 0.4215
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -220901,6 +220955,42 @@
         "neu": 0.866,
         "pos": 0.0,
         "compound": -0.4767
+      }
+    ],
+    [
+      "nyrbez3",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nyrbf5t",
+      {
+        "neg": 0.099,
+        "neu": 0.733,
+        "pos": 0.168,
+        "compound": 0.2263
+      }
+    ],
+    [
+      "nyrbfze",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nyrbg73",
+      {
+        "neg": 0.026,
+        "neu": 0.86,
+        "pos": 0.113,
+        "compound": 0.9309
       }
     ]
   ],
