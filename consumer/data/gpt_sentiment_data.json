@@ -137797,6 +137797,15 @@
         "pos": 0.3,
         "compound": 0.1
       }
+    ],
+    [
+      "nyvswua",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "CryptoCurrency": [
@@ -200214,6 +200223,24 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nyvswjd",
+      {
+        "neg": 0.8,
+        "neu": 0.1,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "nyvt10j",
+      {
+        "neg": 0.85,
+        "neu": 0.1,
+        "pos": 0.05,
+        "compound": -0.8
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -205741,6 +205768,15 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.9
+      }
+    ],
+    [
+      "nyvt43w",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.0
       }
     ]
   ],
@@ -221369,6 +221405,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.4
+      }
+    ],
+    [
+      "nyvsx4z",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
