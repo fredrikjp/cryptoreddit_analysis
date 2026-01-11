@@ -115788,6 +115788,33 @@
         "pos": 0.2,
         "compound": 0.3
       }
+    ],
+    [
+      "nyx0jye",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nyx0kbz",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "nyx0m1j",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "ethereum": [
@@ -200293,6 +200320,24 @@
         "neg": 0.1,
         "neu": 0.8,
         "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nyx0i1z",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nyx0pld",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
         "compound": 0.0
       }
     ]
