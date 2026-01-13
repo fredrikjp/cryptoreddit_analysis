@@ -91106,6 +91106,24 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nzcrguc",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzcrjhm",
+      {
+        "neg": 0.0,
+        "neu": 0.82,
+        "pos": 0.18,
+        "compound": 0.6586
+      }
     ]
   ],
   "btc": [
@@ -201824,6 +201842,33 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nzcrf73",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzcrmtm",
+      {
+        "neg": 0.139,
+        "neu": 0.722,
+        "pos": 0.139,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzcrn36",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.4019
       }
     ]
   ],
