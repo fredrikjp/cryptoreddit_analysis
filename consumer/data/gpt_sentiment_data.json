@@ -91691,6 +91691,15 @@
         "pos": 0.0,
         "compound": -0.7
       }
+    ],
+    [
+      "nzkjmr9",
+      {
+        "neg": 0.6,
+        "neu": 0.1,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "btc": [
@@ -139569,6 +139578,15 @@
         "neu": 0.3,
         "pos": 0.7,
         "compound": 0.5
+      }
+    ],
+    [
+      "nzkjgcx",
+      {
+        "neg": 0.6,
+        "neu": 0.3,
+        "pos": 0.1,
+        "compound": -0.4
       }
     ]
   ],
@@ -202950,6 +202968,78 @@
         "pos": 0.4,
         "compound": 0.3
       }
+    ],
+    [
+      "nzkjffm",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzkjiee",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nzkjlps",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nzkjlue",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.7
+      }
+    ],
+    [
+      "nzkjp3a",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
+    ],
+    [
+      "nzkjsi8",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.3,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nzkjt39",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.4,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nzkjteb",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -217183,6 +217273,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nzkjpsp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -224375,6 +224474,24 @@
         "neu": 0.2,
         "pos": 0.2,
         "compound": -0.5
+      }
+    ],
+    [
+      "nzkjopb",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzkjsfl",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
@@ -241058,6 +241175,24 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "nzkjg9s",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nzkjkns",
+      {
+        "neg": 0.5,
+        "neu": 0.4,
+        "pos": 0.1,
+        "compound": -0.3
       }
     ]
   ],

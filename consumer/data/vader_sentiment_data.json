@@ -91691,6 +91691,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nzkjmr9",
+      {
+        "neg": 0.235,
+        "neu": 0.765,
+        "pos": 0.0,
+        "compound": -0.3356
+      }
     ]
   ],
   "btc": [
@@ -139569,6 +139578,15 @@
         "neu": 0.777,
         "pos": 0.223,
         "compound": 0.3182
+      }
+    ],
+    [
+      "nzkjgcx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -202950,6 +202968,78 @@
         "pos": 0.208,
         "compound": 0.743
       }
+    ],
+    [
+      "nzkjffm",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzkjiee",
+      {
+        "neg": 0.241,
+        "neu": 0.536,
+        "pos": 0.223,
+        "compound": -0.0516
+      }
+    ],
+    [
+      "nzkjlps",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzkjlue",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzkjp3a",
+      {
+        "neg": 0.0,
+        "neu": 0.708,
+        "pos": 0.292,
+        "compound": 0.886
+      }
+    ],
+    [
+      "nzkjsi8",
+      {
+        "neg": 0.103,
+        "neu": 0.897,
+        "pos": 0.0,
+        "compound": -0.9231
+      }
+    ],
+    [
+      "nzkjt39",
+      {
+        "neg": 0.0,
+        "neu": 0.828,
+        "pos": 0.172,
+        "compound": 0.4404
+      }
+    ],
+    [
+      "nzkjteb",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -217183,6 +217273,15 @@
         "pos": 0.06,
         "compound": 0.3182
       }
+    ],
+    [
+      "nzkjpsp",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -224375,6 +224474,24 @@
         "neu": 0.448,
         "pos": 0.0,
         "compound": -0.5719
+      }
+    ],
+    [
+      "nzkjopb",
+      {
+        "neg": 0.0,
+        "neu": 0.793,
+        "pos": 0.207,
+        "compound": 0.565
+      }
+    ],
+    [
+      "nzkjsfl",
+      {
+        "neg": 0.043,
+        "neu": 0.915,
+        "pos": 0.043,
+        "compound": 0.0
       }
     ]
   ],
@@ -241058,6 +241175,24 @@
         "neu": 0.786,
         "pos": 0.109,
         "compound": 0.0258
+      }
+    ],
+    [
+      "nzkjg9s",
+      {
+        "neg": 0.262,
+        "neu": 0.738,
+        "pos": 0.0,
+        "compound": -0.4939
+      }
+    ],
+    [
+      "nzkjkns",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
