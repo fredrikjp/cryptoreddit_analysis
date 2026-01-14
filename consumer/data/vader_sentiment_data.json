@@ -91808,6 +91808,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nzlmrps",
+      {
+        "neg": 0.162,
+        "neu": 0.752,
+        "pos": 0.086,
+        "compound": -0.7118
+      }
+    ],
+    [
+      "nzlmtcu",
+      {
+        "neg": 0.0,
+        "neu": 0.942,
+        "pos": 0.058,
+        "compound": 0.34
+      }
+    ],
+    [
+      "nzlmumw",
+      {
+        "neg": 0.125,
+        "neu": 0.875,
+        "pos": 0.0,
+        "compound": -0.6124
+      }
+    ],
+    [
+      "nzlmxfw",
+      {
+        "neg": 0.063,
+        "neu": 0.872,
+        "pos": 0.065,
+        "compound": -0.2091
+      }
+    ],
+    [
+      "nzlmxp6",
+      {
+        "neg": 0.333,
+        "neu": 0.667,
+        "pos": 0.0,
+        "compound": -0.3612
+      }
     ]
   ],
   "btc": [
@@ -126986,6 +127031,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nzlmr0z",
+      {
+        "neg": 0.323,
+        "neu": 0.609,
+        "pos": 0.069,
+        "compound": -0.8622
+      }
     ]
   ],
   "dogecoin": [
@@ -139744,6 +139798,15 @@
     ],
     [
       "nzkjgcx",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzlmxba",
       {
         "neg": 0.0,
         "neu": 1.0,
@@ -203211,6 +203274,15 @@
         "pos": 0.114,
         "compound": 0.4019
       }
+    ],
+    [
+      "nzlmut7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -238968,6 +239040,24 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nzlmt5p",
+      {
+        "neg": 0.0,
+        "neu": 0.956,
+        "pos": 0.044,
+        "compound": 0.296
+      }
+    ],
+    [
+      "nzlmth4",
+      {
+        "neg": 0.087,
+        "neu": 0.913,
+        "pos": 0.0,
+        "compound": -0.3595
       }
     ]
   ],
