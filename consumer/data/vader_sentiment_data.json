@@ -92420,6 +92420,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nzrqz1d",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzrr0dt",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzrr1fh",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "btc": [
@@ -118050,6 +118077,15 @@
     ],
     [
       "nzr02e5",
+      {
+        "neg": 0.073,
+        "neu": 0.807,
+        "pos": 0.12,
+        "compound": 0.7333
+      }
+    ],
+    [
+      "nzrqvvv",
       {
         "neg": 0.073,
         "neu": 0.807,
@@ -204237,6 +204273,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nzrr6z4",
+      {
+        "neg": 0.0,
+        "neu": 0.873,
+        "pos": 0.127,
+        "compound": 0.2924
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -218542,6 +218587,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nzrqsrq",
+      {
+        "neg": 0.05,
+        "neu": 0.819,
+        "pos": 0.13,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "nzrqsrw",
+      {
+        "neg": 0.05,
+        "neu": 0.819,
+        "pos": 0.13,
+        "compound": 0.5106
+      }
+    ],
+    [
+      "nzrqwk8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "BitcoinMarkets": [
@@ -225779,6 +225851,15 @@
         "neu": 0.926,
         "pos": 0.043,
         "compound": 0.2724
+      }
+    ],
+    [
+      "nzrr5kq",
+      {
+        "neg": 0.0,
+        "neu": 0.799,
+        "pos": 0.201,
+        "compound": 0.8075
       }
     ]
   ],
@@ -252386,6 +252467,15 @@
     ],
     [
       "nzrdzo8",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzrqtj5",
       {
         "neg": 0.0,
         "neu": 1.0,
