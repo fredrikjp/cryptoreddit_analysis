@@ -92303,6 +92303,51 @@
         "pos": 0.0,
         "compound": -0.5
       }
+    ],
+    [
+      "nzqafnq",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.2
+      }
+    ],
+    [
+      "nzqagd9",
+      {
+        "neg": 0.1,
+        "neu": 0.6,
+        "pos": 0.3,
+        "compound": 0.1
+      }
+    ],
+    [
+      "nzqah4i",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
+      }
+    ],
+    [
+      "nzqajew",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzqalmx",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
     ]
   ],
   "btc": [
@@ -127571,6 +127616,15 @@
         "pos": 0.1,
         "compound": 0.0
       }
+    ],
+    [
+      "nzqah6w",
+      {
+        "neg": 0.0,
+        "neu": 0.7,
+        "pos": 0.3,
+        "compound": 0.2
+      }
     ]
   ],
   "dogecoin": [
@@ -140352,6 +140406,15 @@
         "neu": 0.2,
         "pos": 0.8,
         "compound": 0.6
+      }
+    ],
+    [
+      "nzqacsd",
+      {
+        "neg": 0.6,
+        "neu": 0.4,
+        "pos": 0.0,
+        "compound": -0.4
       }
     ]
   ],
@@ -204012,6 +204075,15 @@
         "pos": 0.7,
         "compound": 0.6
       }
+    ],
+    [
+      "nzqam8e",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -228266,6 +228338,15 @@
         "pos": 0.4,
         "compound": 0.6
       }
+    ],
+    [
+      "nzqai8q",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethtrader": [
@@ -239859,6 +239940,15 @@
         "neu": 0.6,
         "pos": 0.4,
         "compound": 0.2
+      }
+    ],
+    [
+      "nzqah6i",
+      {
+        "neg": 0.7,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
