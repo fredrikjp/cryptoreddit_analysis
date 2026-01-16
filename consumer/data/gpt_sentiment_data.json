@@ -92789,6 +92789,42 @@
         "pos": 0.3,
         "compound": -0.2
       }
+    ],
+    [
+      "nzz1ort",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "nzz1ugy",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.6
+      }
+    ],
+    [
+      "nzz1ulc",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.0,
+        "compound": -0.5
+      }
+    ],
+    [
+      "nzz1vlv",
+      {
+        "neg": 0.6,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.8
+      }
     ]
   ],
   "btc": [
@@ -107135,6 +107171,15 @@
         "neg": 0.2,
         "neu": 0.4,
         "pos": 0.4,
+        "compound": 0.3
+      }
+    ],
+    [
+      "nzz1x1m",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
         "compound": 0.3
       }
     ]
@@ -204957,6 +205002,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "nzz1m5c",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.1
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -226671,6 +226725,15 @@
         "pos": 0.1,
         "compound": -0.1
       }
+    ],
+    [
+      "nzz1pn1",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.2
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -229408,6 +229471,15 @@
         "neu": 1.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "nzz1obq",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.95
       }
     ]
   ],
@@ -241110,6 +241182,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.4
+      }
+    ],
+    [
+      "nzz1rx7",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
@@ -275712,6 +275793,15 @@
         "neu": 0.3,
         "pos": 0.1,
         "compound": -0.5
+      }
+    ],
+    [
+      "nzz1r7s",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
       }
     ]
   ],
