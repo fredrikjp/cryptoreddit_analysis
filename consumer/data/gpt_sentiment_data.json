@@ -119550,6 +119550,15 @@
         "pos": 0.9,
         "compound": 0.75
       }
+    ],
+    [
+      "o0fyo7r",
+      {
+        "neg": 0.3,
+        "neu": 0.7,
+        "pos": 0.0,
+        "compound": -0.3
+      }
     ]
   ],
   "ethereum": [
@@ -129307,6 +129316,15 @@
         "neu": 0.9,
         "pos": 0.1,
         "compound": 0.05
+      }
+    ],
+    [
+      "o0fykep",
+      {
+        "neg": 0.0,
+        "neu": 0.8,
+        "pos": 0.2,
+        "compound": 0.3
       }
     ]
   ],
@@ -206765,6 +206783,33 @@
         "neu": 0.1,
         "pos": 0.1,
         "compound": -0.7
+      }
+    ],
+    [
+      "o0fyl0q",
+      {
+        "neg": 0.0,
+        "neu": 0.5,
+        "pos": 0.5,
+        "compound": 0.4
+      }
+    ],
+    [
+      "o0fymex",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "o0fyoln",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
       }
     ]
   ],
