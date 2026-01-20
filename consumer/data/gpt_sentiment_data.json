@@ -93797,6 +93797,51 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "o0lrat4",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "o0lrdnc",
+      {
+        "neg": 0.0,
+        "neu": 0.2,
+        "pos": 0.8,
+        "compound": 0.6
+      }
+    ],
+    [
+      "o0lrfmx",
+      {
+        "neg": 0.8,
+        "neu": 0.0,
+        "pos": 0.0,
+        "compound": -0.6
+      }
+    ],
+    [
+      "o0lrge5",
+      {
+        "neg": 0.0,
+        "neu": 0.9,
+        "pos": 0.1,
+        "compound": 0.1
+      }
+    ],
+    [
+      "o0lrhkm",
+      {
+        "neg": 0.0,
+        "neu": 0.1,
+        "pos": 0.9,
+        "compound": 0.8
+      }
     ]
   ],
   "btc": [
