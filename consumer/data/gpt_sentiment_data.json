@@ -94481,6 +94481,42 @@
         "pos": 0.2,
         "compound": 0.0
       }
+    ],
+    [
+      "o0vkc7w",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.7
+      }
+    ],
+    [
+      "o0vkhd2",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "o0vkip7",
+      {
+        "neg": 0.4,
+        "neu": 0.6,
+        "pos": 0.0,
+        "compound": -0.3
+      }
+    ],
+    [
+      "o0vkliz",
+      {
+        "neg": 0.8,
+        "neu": 0.2,
+        "pos": 0.0,
+        "compound": -0.5
+      }
     ]
   ],
   "btc": [
@@ -109170,6 +109206,15 @@
         "neu": 0.0,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "o0vkhzh",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.4
       }
     ]
   ],
@@ -208971,6 +209016,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "o0vkhkz",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.8
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -231108,6 +231162,15 @@
         "pos": 0.1,
         "compound": -0.4
       }
+    ],
+    [
+      "o0vkikl",
+      {
+        "neg": 0.24,
+        "neu": 0.5599999999999999,
+        "pos": 0.0,
+        "compound": -0.16000000000000003
+      }
     ]
   ],
   "Pepecryptocurrency": [
@@ -233917,6 +233980,15 @@
         "neu": 0.8,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "o0vknas",
+      {
+        "neg": 0.0,
+        "neu": 0.0,
+        "pos": 1.0,
+        "compound": 0.6
       }
     ]
   ],
@@ -245826,6 +245898,15 @@
         "neu": 0.9,
         "pos": 0.0,
         "compound": -0.2
+      }
+    ],
+    [
+      "o0vkg4x",
+      {
+        "neg": 0.1,
+        "neu": 0.7,
+        "pos": 0.2,
+        "compound": 0.2
       }
     ]
   ],
@@ -258259,6 +258340,15 @@
         "neu": 0.8,
         "pos": 0.0,
         "compound": 0.0
+      }
+    ],
+    [
+      "o0vkdtu",
+      {
+        "neg": 0.7,
+        "neu": 0.3,
+        "pos": 0.0,
+        "compound": -0.6
       }
     ]
   ],
