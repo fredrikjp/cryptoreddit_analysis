@@ -94427,6 +94427,24 @@
         "pos": 0.05,
         "compound": -0.7
       }
+    ],
+    [
+      "o0ubdpa",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.7
+      }
+    ],
+    [
+      "o0ubi83",
+      {
+        "neg": 0.0,
+        "neu": 0.3,
+        "pos": 0.7,
+        "compound": 0.6
+      }
     ]
   ],
   "btc": [
@@ -109081,6 +109099,15 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "o0ubecc",
+      {
+        "neg": 0.9,
+        "neu": 0.05,
+        "pos": 0.05,
+        "compound": -0.8
+      }
     ]
   ],
   "solana": [
@@ -120666,6 +120693,15 @@
         "pos": 0.3,
         "compound": 0.2
       }
+    ],
+    [
+      "o0ubcyo",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
     ]
   ],
   "ethereum": [
@@ -130522,6 +130558,15 @@
         "neu": 0.1,
         "pos": 0.9,
         "compound": 0.7
+      }
+    ],
+    [
+      "o0ubeci",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
@@ -208719,6 +208764,33 @@
         "pos": 0.0,
         "compound": 0.0
       }
+    ],
+    [
+      "o0ubfdx",
+      {
+        "neg": 0.7,
+        "neu": 0.2,
+        "pos": 0.1,
+        "compound": -0.6
+      }
+    ],
+    [
+      "o0ubi9h",
+      {
+        "neg": 0.0,
+        "neu": 1.0,
+        "pos": 0.0,
+        "compound": 0.0
+      }
+    ],
+    [
+      "o0ubj6h",
+      {
+        "neg": 0.1,
+        "neu": 0.3,
+        "pos": 0.6,
+        "compound": 0.7
+      }
     ]
   ],
   "SolanaMemeCoins": [
@@ -223464,6 +223536,15 @@
         "neu": 0.05,
         "pos": 0.05,
         "compound": -0.8
+      }
+    ],
+    [
+      "o0ubg2x",
+      {
+        "neg": 0.3,
+        "neu": 0.5,
+        "pos": 0.2,
+        "compound": -0.1
       }
     ]
   ],
@@ -245547,6 +245628,15 @@
         "neu": 0.7,
         "pos": 0.3,
         "compound": 0.4
+      }
+    ],
+    [
+      "o0ubdv5",
+      {
+        "neg": 0.1,
+        "neu": 0.9,
+        "pos": 0.0,
+        "compound": -0.2
       }
     ]
   ],
